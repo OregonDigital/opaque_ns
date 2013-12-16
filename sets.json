@@ -1,34 +1,34 @@
-[
-  {
-    "@id": "http://oregondigital.org/sets",
-    "http://purl.org/dc/terms/title": [
-      {
+{
+  "@context": {
+    "odsets": "http://oregondigital.org/sets",
+    "title": "http://purl.org/dc/terms/title",
+    "label": "http://www.w3.org/2000/01/rdf-schema#label",
+    "description": "http://purl.org/dc/terms/description",
+    "definedBy": "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+    "Collection": "http://purl.org/dc/terms/Collection"
+  },
+  "@graph": [
+    {
+      "@id": "http://oregondigital.org/sets",
+      "title": {
         "@value": "Oregon Digital Sets",
         "@language": "en"
       }
-    ]
-  },
-  {
-    "@id": "http://oregondigital.org/sets/blah",
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
+    },
+    {
+      "@id": "odsets:/blah",
+      "@type": "Collection",
+      "definedBy": {
+        "@id": "http://oregondigital.org/sets"
+      },
+      "description": {
+        "@value": "A collection of blah.",
+        "@language": "en"
+      },
+      "label": {
         "@value": "Blah",
         "@language": "en"
       }
-    ],
-    "@type": [
-      "http://purl.org/dc/terms/Collection"
-    ],
-    "http://purl.org/dc/terms/description": [
-      {
-        "@value": "A collection of blah.",
-        "@language": "en"
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
-      {
-        "@id": "http://oregondigital.org/sets"
-      }
-    ]
-  }
-]
+    }
+  ]
+}
