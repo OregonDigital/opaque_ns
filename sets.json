@@ -1,0 +1,34 @@
+[
+  {
+    "@id": "http://oregondigital.org/sets",
+    "http://purl.org/dc/terms/title": [
+      {
+        "@value": "Oregon Digital Sets",
+        "@language": "en"
+      }
+    ]
+  },
+  {
+    "@id": "http://oregondigital.org/sets/blah",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Blah",
+        "@language": "en"
+      }
+    ],
+    "@type": [
+      "http://purl.org/dc/terms/Collection"
+    ],
+    "http://purl.org/dc/terms/description": [
+      {
+        "@value": "A collection of blah.",
+        "@language": "en"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "@id": "http://oregondigital.org/sets"
+      }
+    ]
+  }
+]

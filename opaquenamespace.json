@@ -1,0 +1,54 @@
+[
+  {
+    "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt",
+    "http://purl.org/dc/terms/title": [
+      {
+        "@value": "VOCAB_PLACEHOLDER",
+        "@language": "en"
+      }
+    ],
+    "http://purl.org/dc/terms/publisher": [
+      {
+        "@value": "Opaque Namespace",
+        "@language": "en"
+      }
+    ],
+    "http://purl.org/dc/terms/modified": [
+      {
+        "@value": "2013-12-16",
+        "@type": "http://www.w3.org/2001/XMLSchema#date"
+      }
+    ]
+  },
+  {
+    "@id": "http://opaquenamespace.org/ns/set",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Set",
+        "@language": "en"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#range": [
+      {
+        "@id": "http://purl.org/dc/terms/Collection"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      }
+    ],
+    "http://purl.org/dc/terms/issued": [
+      {
+        "@value": "2013-12-16",
+        "@type": "http://www.w3.org/2001/XMLSchema#date"
+      }
+    ],
+    "http://purl.org/dc/terms/modified": [
+      {
+        "@value": "2013-12-16",
+        "@type": "http://www.w3.org/2001/XMLSchema#date"
+      }
+    ]
+  }
+]
