@@ -1,8 +1,0 @@
-<http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> <http://purl.org/dc/terms/title> "VOCAB_PLACEHOLDER"@en .
-<http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> <http://purl.org/dc/terms/publisher> "Opaque Namespace"@en .
-<http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> <http://purl.org/dc/terms/modified> "2013-12-16"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://opaquenamespace.org/ns/set> <http://www.w3.org/2000/01/rdf-schema#label> "Set"@en .
-<http://opaquenamespace.org/ns/set> <http://www.w3.org/2000/01/rdf-schema#range> <http://purl.org/dc/terms/Collection> .
-<http://opaquenamespace.org/ns/set> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
-<http://opaquenamespace.org/ns/set> <http://purl.org/dc/terms/issued> "2013-12-16"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://opaquenamespace.org/ns/set> <http://purl.org/dc/terms/modified> "2013-12-16"^^<http://www.w3.org/2001/XMLSchema#date> .

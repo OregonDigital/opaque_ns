@@ -1,54 +1,53 @@
-[
-  {
-    "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt",
-    "http://purl.org/dc/terms/title": [
-      {
+{
+  "@context": {
+    "od": "http://opaquenamespace.org/",
+    "title": "http://purl.org/dc/terms/title",
+    "label": "http://www.w3.org/2000/01/rdf-schema#label",
+    "description": "http://purl.org/dc/terms/description",
+    "publisher": "http://purl.org/dc/terms/publisher",
+    "modified": "http://purl.org/dc/terms/modified",
+    "issued": "http://purl.org/dc/terms/issued",
+    "Collection": "http://purl.org/dc/terms/Collection",
+    "definedBy": "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+    "range": "http://www.w3.org/2000/01/rdf-schema#range",
+    "date": "http://www.w3.org/2001/XMLSchema#date"
+  },
+  "@graph": [
+    {
+      "@id": "od:VOCAB_PLACEHOLDER.nt",
+      "modified": {
+        "@value": "2013-12-16",
+        "@type": "date"
+      },
+      "publisher": {
+        "@value": "Opaque Namespace",
+        "@language": "en"
+      },
+      "title": {
         "@value": "VOCAB_PLACEHOLDER",
         "@language": "en"
       }
-    ],
-    "http://purl.org/dc/terms/publisher": [
-      {
-        "@value": "Opaque Namespace",
-        "@language": "en"
-      }
-    ],
-    "http://purl.org/dc/terms/modified": [
-      {
+    },
+    {
+      "@id": "od:ns/set",
+      "definedBy": {
+        "@id": "od:VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
         "@value": "2013-12-16",
-        "@type": "http://www.w3.org/2001/XMLSchema#date"
-      }
-    ]
-  },
-  {
-    "@id": "http://opaquenamespace.org/ns/set",
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
+        "@type": "date"
+      },
+      "label": {
         "@value": "Set",
         "@language": "en"
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#range": [
-      {
+      },
+      "modified": {
+        "@value": "2013-12-16",
+        "@type": "date"
+      },
+      "range": {
         "@id": "http://purl.org/dc/terms/Collection"
       }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
-      {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      }
-    ],
-    "http://purl.org/dc/terms/issued": [
-      {
-        "@value": "2013-12-16",
-        "@type": "http://www.w3.org/2001/XMLSchema#date"
-      }
-    ],
-    "http://purl.org/dc/terms/modified": [
-      {
-        "@value": "2013-12-16",
-        "@type": "http://www.w3.org/2001/XMLSchema#date"
-      }
-    ]
-  }
-]
+    }
+  ]
+}

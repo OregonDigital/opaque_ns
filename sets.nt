@@ -1,5 +1,0 @@
-<http://oregondigital.org/sets> <http://purl.org/dc/terms/title> "Oregon Digital Sets"@en .
-<http://oregondigital.org/sets/blah> <http://www.w3.org/2000/01/rdf-schema#label> "Blah"@en .
-<http://oregondigital.org/sets/blah> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/Collection> .
-<http://oregondigital.org/sets/blah> <http://purl.org/dc/terms/description> "A collection of blah."@en .
-<http://oregondigital.org/sets/blah> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://oregondigital.org/sets> .
