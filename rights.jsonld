@@ -45,7 +45,6 @@
 	    "@id": "http://opaquenamespace.org/rights/publicDomainAcknowledgement",
 	    "@type": ["RightsStatement", "Concept"],
 	    "label": "Public Domain; Acknowledgement Requested."
-	},
-
+	}
     ]
 }
