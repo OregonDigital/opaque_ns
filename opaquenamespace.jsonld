@@ -11,6 +11,7 @@
     "definedBy": "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
     "range": "http://www.w3.org/2000/01/rdf-schema#range",
     "date": "http://www.w3.org/2001/XMLSchema#date",
+    "Property": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
     "@language": "en"
   },
   "@graph": [
@@ -25,6 +26,7 @@
     },
     {
       "@id": "http://opaquenamespace.org/ns/set",
+      "@type": "Property",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
