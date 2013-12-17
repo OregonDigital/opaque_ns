@@ -1,8 +1,8 @@
 {
   "@context": {
-    "od": "http://opaquenamespace.org/",
     "title": "http://purl.org/dc/terms/title",
     "label": "http://www.w3.org/2000/01/rdf-schema#label",
+    "comment": "http://www.w3.org/2000/01/rdf-schema#comment",
     "description": "http://purl.org/dc/terms/description",
     "publisher": "http://purl.org/dc/terms/publisher",
     "modified": "http://purl.org/dc/terms/modified",
@@ -10,37 +10,30 @@
     "Collection": "http://purl.org/dc/terms/Collection",
     "definedBy": "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
     "range": "http://www.w3.org/2000/01/rdf-schema#range",
-    "date": "http://www.w3.org/2001/XMLSchema#date"
+    "date": "http://www.w3.org/2001/XMLSchema#date",
+    "@language": "en"
   },
   "@graph": [
     {
-      "@id": "od:VOCAB_PLACEHOLDER.nt",
+      "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt",
       "modified": {
         "@value": "2013-12-16",
         "@type": "date"
       },
-      "publisher": {
-        "@value": "Opaque Namespace",
-        "@language": "en"
-      },
-      "title": {
-        "@value": "VOCAB_PLACEHOLDER",
-        "@language": "en"
-      }
+      "publisher": "Opaque Namespace",
+      "title": "VOCAB_PLACEHOLDER"
     },
     {
-      "@id": "od:ns/set",
+      "@id": "http://opaquenamespace.org/ns/set",
       "definedBy": {
-        "@id": "od:VOCAB_PLACEHOLDER.nt"
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
       "issued": {
         "@value": "2013-12-16",
         "@type": "date"
       },
-      "label": {
-        "@value": "Set",
-        "@language": "en"
-      },
+      "label": "Set",
+      "comment": "A group of objects.",
       "modified": {
         "@value": "2013-12-16",
         "@type": "date"

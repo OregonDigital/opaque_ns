@@ -1,9 +1,8 @@
 {
     "@context": {
-	"Rights": "http://opaquenamespace.org/rights/",
-	"ons": "http://opaquenamespace.org/",
 	"title": "http://purl.org/dc/terms/title",
 	"label": "http://www.w3.org/2000/01/rdf-schema#label",
+	"comment": "http://www.w3.org/2000/01/rdf-schema#comment",
 	"description": "http://purl.org/dc/terms/description",
 	"publisher": "http://purl.org/dc/terms/publisher",
 	"modified": "http://purl.org/dc/terms/modified",
@@ -39,7 +38,8 @@
 	{
 	    "@id": "http://opaquenamespace.org/rights/educationalUse",
 	    "@type": ["RightsStatement", "Concept"],
-	    "label": "Educational use is permitted without permission. Permission may be required for additional uses."
+	    "label": "Educational Use Permitted",
+	    "description": "Educational use is permitted without permission. Permission may be required for additional uses."
 	},
 	{
 	    "@id": "http://opaquenamespace.org/rights/publicDomainAcknowledgement",

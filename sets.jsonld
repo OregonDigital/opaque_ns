@@ -1,8 +1,8 @@
 {
   "@context": {
-    "odsets": "http://oregondigital.org/sets",
     "title": "http://purl.org/dc/terms/title",
     "label": "http://www.w3.org/2000/01/rdf-schema#label",
+    "comment": "http://www.w3.org/2000/01/rdf-schema#comment",
     "description": "http://purl.org/dc/terms/description",
     "definedBy": "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
     "Collection": "http://purl.org/dc/terms/Collection",
@@ -15,7 +15,7 @@
       "title": "Oregon Digital Sets"
     },
     {
-      "@id": "odsets:/blah",
+      "@id": "http://oregondigital.org/sets/blah",
       "@type": "Collection",
       "definedBy": {
         "@id": "http://oregondigital.org/sets"
