@@ -12,6 +12,8 @@
 	"definedBy": "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
 	"range": "http://www.w3.org/2000/01/rdf-schema#range",
 	"date": "http://www.w3.org/2001/XMLSchema#date",
+	"RightsStatement": "http://purl.org/dc/terms/RightsStatement",
+	"Concept": "http://www.w3.org/2004/02/skos/core#Concept",
 	"@language": "en"
     },
     "@graph": [
@@ -29,7 +31,8 @@
 	    }
 	},
 	{
-	    "@id": "Rights/allRightsReserved",
+	    "@id": "http://opaquenamespace.org/rights/allRightsReserved",
+	    "@type": ["RightsStatement", "Concept"],
 	    "label": "All Rights Reserved"
 	}
     ]
