@@ -5,15 +5,14 @@
     "label": "http://www.w3.org/2000/01/rdf-schema#label",
     "description": "http://purl.org/dc/terms/description",
     "definedBy": "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
-    "Collection": "http://purl.org/dc/terms/Collection"
+    "Collection": "http://purl.org/dc/terms/Collection",
+    "date": "http://www.w3.org/2001/XMLSchema#date",
+    "@language": "en"
   },
   "@graph": [
     {
       "@id": "http://oregondigital.org/sets",
-      "title": {
-        "@value": "Oregon Digital Sets",
-        "@language": "en"
-      }
+      "title": "Oregon Digital Sets"
     },
     {
       "@id": "odsets:/blah",
@@ -21,14 +20,8 @@
       "definedBy": {
         "@id": "http://oregondigital.org/sets"
       },
-      "description": {
-        "@value": "A collection of blah.",
-        "@language": "en"
-      },
-      "label": {
-        "@value": "Blah",
-        "@language": "en"
-      }
+      "description": "A collection of blah.",
+      "label": "Blah"
     }
   ]
 }
