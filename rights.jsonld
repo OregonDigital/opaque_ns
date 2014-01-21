@@ -31,20 +31,26 @@
 	},
 	{
 	    "@id": "http://opaquenamespace.org/rights/allRightsReserved",
-	    "@type": ["RightsStatement", "Concept"],
+	    "@type": ["RightsStatement"],
 	    "label": "All Rights Reserved"
 
 	},
 	{
 	    "@id": "http://opaquenamespace.org/rights/educationalUse",
-	    "@type": ["RightsStatement", "Concept"],
+	    "@type": ["RightsStatement"],
 	    "label": "Educational Use Permitted",
 	    "description": "Educational use is permitted without permission. Permission may be required for additional uses."
 	},
 	{
 	    "@id": "http://opaquenamespace.org/rights/publicDomainAcknowledgement",
-	    "@type": ["RightsStatement", "Concept"],
+	    "@type": ["RightsStatement"],
 	    "label": "Public Domain; Acknowledgement Requested."
+	},
+	{
+	    "@id": "http://opaquenamespace.org/rights/unknown",
+	    "@type": ["RightsStatement"],
+	    "label": "Copyright Status Unknown",
+	    "description": "Educational use is permitted without permission. Permission may be required for additional uses."
 	}
     ]
 }

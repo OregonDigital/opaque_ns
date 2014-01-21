@@ -4,6 +4,7 @@
     "label": "http://www.w3.org/2000/01/rdf-schema#label",
     "comment": "http://www.w3.org/2000/01/rdf-schema#comment",
     "description": "http://purl.org/dc/terms/description",
+    "isPartOf": "http://purl.org/dc/terms/isPartOf",
     "publisher": "http://purl.org/dc/terms/publisher",
     "modified": "http://purl.org/dc/terms/modified",
     "issued": "http://purl.org/dc/terms/issued",
@@ -12,6 +13,7 @@
     "range": "http://www.w3.org/2000/01/rdf-schema#range",
     "date": "http://www.w3.org/2001/XMLSchema#date",
     "Property": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
+    "subPropertyOf": "http://www.w3.org/2000/01/rdf-schema#subPropertyOf",
     "@language": "en"
   },
   "@graph": [
@@ -27,6 +29,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/set",
       "@type": "Property",
+      "subPropertyOf": "isPartOf",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -34,14 +37,14 @@
         "@value": "2013-12-16",
         "@type": "date"
       },
-      "label": "Set",
-      "comment": "A group of objects.",
+      "label": "set",
+      "comment": "Defines a relationship between an object and a group or collection of objects to which it belongs.",
       "modified": {
         "@value": "2013-12-16",
         "@type": "date"
       },
       "range": {
-        "@id": "http://purl.org/dc/terms/Collection"
+        "@id": "http://www.w3.org/2002/07/owl#Thing"
       }
     }
   ]
