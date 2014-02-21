@@ -11,9 +11,11 @@
     "Collection": "http://purl.org/dc/terms/Collection",
     "definedBy": "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
     "range": "http://www.w3.org/2000/01/rdf-schema#range",
+    "domain": "http://www.w3.org/2000/01/rdf-schema#domain",
     "date": "http://www.w3.org/2001/XMLSchema#date",
     "Property": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
     "subPropertyOf": "http://www.w3.org/2000/01/rdf-schema#subPropertyOf",
+    "Organization": "http://xmlns.com/foaf/0.1/Organization",
     "@language": "en"
   },
   "@graph": [
@@ -45,6 +47,29 @@
       },
       "range": {
         "@id": "http://www.w3.org/2002/07/owl#Thing"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/contributingInstitution",
+      "@type": "Property",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@value": "2014-02-20",
+        "@type": "date"
+      },
+      "label": "Contributing Institution",
+      "comment": "A reference to the institutions or administrative units that contributed to the creation, management, description, and/or dissemination of the digital resource.  For example, one institution may physically hold the original resource, another may perform the digital imaging, and another may create metadata.",
+      "modified": {
+        "@value": "2014-02-20",
+        "@type": "date"
+      },
+      "domain": {
+        "@id": "http://www.w3.org/2002/07/owl#Thing"
+      },
+      "range": {
+        "@id": "Organization"
       }
     }
   ]
