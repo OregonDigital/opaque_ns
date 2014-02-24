@@ -4,10 +4,12 @@
     },
     "@graph": [
 	{
-	    "@id": "http://dbpedia.org/resource/Oregon_State_University"
+	    "@id": "http://dbpedia.org/resource/Oregon_State_University",
+	    "label": "Oregon State University"
 	},
 	{
-	    "@id": "http://dbpedia.org/resource/University_of_Oregon"
+	    "@id": "http://dbpedia.org/resource/University_of_Oregon",
+	    "label": "University of Oregon"
 	}
     ]
 }
