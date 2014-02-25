@@ -71,6 +71,58 @@
       "range": {
         "@id": "Organization"
       }
+    },
+     {
+      "@id": "http://opaquenamespace.org/ns/cco/viewDescription",
+      "@type": "Property",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@value": "2014-02-25",
+        "@type": "date"
+      },
+      "label": "View Description",
+      "comment": "Describes the spatial, chronological or contextual aspect of teh work as captures in the image view.",
+      "modified": {
+        "@value": "2014-02-25",
+        "@type": "date"
+      },
+    },
+        {
+      "@id": "http://opaquenamespace.org/ns/conversionSpecifications",
+      "@type": "Property",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@value": "2014-02-25",
+        "@type": "date"
+      },
+      "label": "Conversion Specifications",
+      "comment": "Describes the process, equipment and specifications used to convert the resource into its present format.",
+      "modified": {
+        "@value": "2014-02-25",
+        "@type": "date"
+      },
+    },
+        {
+      "@id": "http://opaquenamespace.org/ns/exhibit",
+      "@type": "Property",
+      "subPropertyOf": "set",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@value": "2014-02-25",
+        "@type": "date"
+      },
+      "label": "Exhibit",
+      "comment": "Curated set or grouping created for a special display or exhibit not related to a formal collection.",
+      "modified": {
+        "@value": "2014-02-25",
+        "@type": "date"
+      },
     }
   ]
 }
