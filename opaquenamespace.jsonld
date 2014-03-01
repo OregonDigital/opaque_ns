@@ -14,6 +14,7 @@
     "domain": "http://www.w3.org/2000/01/rdf-schema#domain",
     "date": "http://www.w3.org/2001/XMLSchema#date",
     "Property": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
+    "Property": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Class",
     "subPropertyOf": "http://www.w3.org/2000/01/rdf-schema#subPropertyOf",
     "Organization": "http://xmlns.com/foaf/0.1/Organization",
     "@language": "en"
@@ -71,6 +72,44 @@
       "range": {
         "@id": "Organization"
       }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/hasCover",
+      "@type": "Property",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@value": "2014-02-28",
+        "@type": "date"
+      },
+      "subPropertyOf": "hasPart",
+      "label": "Has Cover",
+      "comment": "Specifies a cover physically attached to the resource.",
+      "modified": {
+        "@value": "2014-02-28",
+        "@type": "date"
+      },
+      "range": {
+        "@id": "http://opaquenamespace.org/ns/Cover"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/Cover",
+      "@type": "Property",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@value": "2014-02-28",
+        "@type": "date"
+      },
+      "label": "Cover",
+      "comment": "An external cover.",
+      "modified": {
+        "@value": "2014-02-28",
+        "@type": "date"
+      },
     },
      {
       "@id": "http://opaquenamespace.org/ns/cco/viewDescription",
