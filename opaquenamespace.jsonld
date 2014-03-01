@@ -105,7 +105,7 @@
         "@type": "date"
       },
       "label": "Cover",
-      "comment": "An external cover.",
+      "comment": "An external cover, as on a book, document, or case.",
       "modified": {
         "@value": "2014-02-28",
         "@type": "date"
