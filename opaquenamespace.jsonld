@@ -17,6 +17,7 @@
     "Property": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Class",
     "subPropertyOf": "http://www.w3.org/2000/01/rdf-schema#subPropertyOf",
     "Organization": "http://xmlns.com/foaf/0.1/Organization",
+    "Concept": "http://www.w3.org/2004/02/skos/core#Concept",
     "@language": "en"
   },
   "@graph": [
@@ -109,6 +110,27 @@
       "modified": {
         "@value": "2014-02-28",
         "@type": "date"
+      },
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/ethnot",
+      "@type": "Property",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      	},
+      "subPropertyOf": "subject",
+      "issued": {
+        "@value": "2014-05-08",
+	"@type": "date"
+      },
+      "label": "Ethnographic Topic",
+      "comment": "An ethnographic topic.",
+      "modified": {
+        "@value": "2014-05-08",
+	"@type": 'date"
+      },
+       "range": {
+        "@id": "Concept"
       },
     },
      {
