@@ -7,13 +7,6 @@ _:g69892174564520 <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1
 <http://www.europeana.eu/rights/rr-f/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#License> .
 <http://www.europeana.eu/rights/rr-f/> <http://purl.org/dc/elements/1.1/creator> <http://europeana.eu> .
 <http://www.europeana.eu/rights/rr-f/> <http://purl.org/dc/elements/1.1/title> "Rights Reserved - Free Access"@en .
-_:g69892179617640 <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#contentinfo> .
-<http://www.europeana.eu/rights/rr-p/#header> <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#banner> .
-<http://www.europeana.eu/rights/rr-p/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#License> .
-<http://www.europeana.eu/rights/rr-p/> <http://purl.org/dc/elements/1.1/creator> <http://europeana.eu> .
-<http://www.europeana.eu/rights/rr-p/> <http://purl.org/dc/elements/1.1/title> "Rights Reserved - Paid Access"@en .
-_:g69892180359220 <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#contentinfo> .
-<http://www.europeana.eu/rights/rr-r/#header> <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#banner> .
 <http://www.europeana.eu/rights/rr-r/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#License> .
 <http://www.europeana.eu/rights/rr-r/> <http://purl.org/dc/elements/1.1/creator> <http://europeana.eu> .
 <http://www.europeana.eu/rights/rr-r/> <http://purl.org/dc/elements/1.1/title> "Rights Reserved - Restricted Access"@en .
