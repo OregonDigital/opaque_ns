@@ -30,13 +30,13 @@
 	    }
 	},
 	{
-	    "@id": "http://opaquenamespace.org/rights/educationalUse",
+	    "@id": "http://opaquenamespace.org/rights/educational",
 	    "@type": ["RightsStatement"],
 	    "label": "Educational Use Permitted",
 	    "description": "Educational use is permitted without permission. Permission may be required for additional uses."
 	},
 	{
-	    "@id": "http://opaquenamespace.org/rights/orphanWork",
+	    "@id": "http://opaquenamespace.org/rights/orphan-work-us",
 	    "@type": ["RightsStatement"],
             "label": "Orphan Work",
 	    "description": "The Orphan works statement can be applied to objects that have been identified as orphan works in the country of first publication and in line with the requirements of the country. This rights statement applies to orphan works as defined in the United States of America. When an object has an orphan work statement, a good faith effort has been applied to try to identify the copyright holder and seek permission."
