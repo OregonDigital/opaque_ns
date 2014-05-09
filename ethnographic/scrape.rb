@@ -60,7 +60,7 @@ term_list.each do |term|
   graph << relationships(EthnographicThesaurus[slug(pref)], pref)
   nonpref = term.css('span[class="et-non-preferred"]')
   unless nonpref.empty?
-    graph << RDF::Statement(EthnographicThesaurus[slug(pref)], RDF::SKOS.altLabel, nonpref)
+    graph << RDF::Statement(EthnographicThesaurus[slug(pref)], RDF::SKOS.altLabel, nonpref.css('a')[0].text)
   end
   count += 1
   sleep 5 if (count % 100) == 0
