@@ -4,6 +4,7 @@
     "label": "http://www.w3.org/2000/01/rdf-schema#label",
     "comment": "http://www.w3.org/2000/01/rdf-schema#comment",
     "description": "http://purl.org/dc/terms/description",
+    "identifier": "http://purl.org/dc/terms/identifier",
     "isPartOf": "http://purl.org/dc/terms/isPartOf",
     "publisher": "http://purl.org/dc/terms/publisher",
     "modified": "http://purl.org/dc/terms/modified",
@@ -48,6 +49,27 @@
       },
       "range": {
         "@id": "http://www.w3.org/2002/07/owl#Thing"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/contents",
+      "@type": "Property",
+      "subPropertyOf": "hasPart",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@value": "2014-07-01",
+        "@type": "date"
+      },
+      "label": "contents",
+      "comment": "Defines a relationship between an object and a list of objects which make up its parts.",
+      "modified": {
+        "@value": "2013-12-16",
+        "@type": "date"
+      },
+      "range": {
+        "@id": "http://www.w3.org/1999/02/22-rdf-syntax-ns#List"
       }
     },
     {
@@ -125,6 +147,24 @@
       "comment": "Describes the spatial, chronological or contextual aspect of teh work as captures in the image view.",
       "modified": {
         "@value": "2014-02-25",
+        "@type": "date"
+      },
+    },
+     {
+      "@id": "http://opaquenamespace.org/ns/cco/accessionNumber",
+      "@type": "Property",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@value": "2014-05-30",
+        "@type": "date"
+      },
+      "subPropertyOf": "identifier",
+      "label": "Accession Number",
+      "comment": "Identification number assigned to a particular donation or acquisition",
+      "modified": {
+        "@value": "2014-05-30",
         "@type": "date"
       },
     },
