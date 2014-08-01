@@ -18,10 +18,9 @@
     "subPropertyOf": "http://www.w3.org/2000/01/rdf-schema#subPropertyOf",
     "Organization": "http://xmlns.com/foaf/0.1/Organization",
     "Concept": "http://www.w3.org/2004/02/skos/core#Concept",
-      "@language": "en",
-      "additionalName": "http://schema.org/additionalName",
-      "date": "http://purl.org/dc/elements/1.1/date",
-
+    "@language": "en",
+    "additionalName": "http://schema.org/additionalName",
+    "date": "http://purl.org/dc/elements/1.1/date"
   },
     "@graph": [
 	{
@@ -10022,6 +10021,6 @@
 		"@value": "2014-06-13",
 		"@type": "date"
 	    }
-	},
+	}
     ]
 }
