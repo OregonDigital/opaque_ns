@@ -1,207 +1,267 @@
 {
-  "@context": {
-    "title": "http://purl.org/dc/terms/title",
-    "label": "http://www.w3.org/2000/01/rdf-schema#label",
-    "comment": "http://www.w3.org/2000/01/rdf-schema#comment",
-    "description": "http://purl.org/dc/terms/description",
-    "identifier": "http://purl.org/dc/terms/identifier",
-    "isPartOf": "http://purl.org/dc/terms/isPartOf",
-    "publisher": "http://purl.org/dc/terms/publisher",
-    "modified": "http://purl.org/dc/terms/modified",
-    "issued": "http://purl.org/dc/terms/issued",
-    "Collection": "http://purl.org/dc/terms/Collection",
-    "definedBy": "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
-    "range": "http://www.w3.org/2000/01/rdf-schema#range",
-    "domain": "http://www.w3.org/2000/01/rdf-schema#domain",
-    "date": "http://www.w3.org/2001/XMLSchema#date",
-    "Property": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
-    "Property": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Class",
-    "subPropertyOf": "http://www.w3.org/2000/01/rdf-schema#subPropertyOf",
-    "Organization": "http://xmlns.com/foaf/0.1/Organization",
-    "@language": "en"
-  },
-  "@graph": [
-    {
-      "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt",
-      "modified": {
-        "@value": "2013-12-16",
-        "@type": "date"
-      },
-      "publisher": "Opaque Namespace",
-      "title": "VOCAB_PLACEHOLDER"
+    "@context": {
+	"title": "http://purl.org/dc/terms/title",
+	"label": "http://www.w3.org/2000/01/rdf-schema#label",
+	"comment": "http://www.w3.org/2000/01/rdf-schema#comment",
+	"description": "http://purl.org/dc/terms/description",
+	"identifier": "http://purl.org/dc/terms/identifier",
+	"isPartOf": "http://purl.org/dc/terms/isPartOf",
+	"publisher": "http://purl.org/dc/terms/publisher",
+	"modified": "http://purl.org/dc/terms/modified",
+	"issued": "http://purl.org/dc/terms/issued",
+	"Collection": "http://purl.org/dc/terms/Collection",
+	"definedBy": "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+	"range": "http://www.w3.org/2000/01/rdf-schema#range",
+	"domain": "http://www.w3.org/2000/01/rdf-schema#domain",
+	"date": "http://www.w3.org/2001/XMLSchema#date",
+	"Property": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
+	"Property": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Class",
+	"subPropertyOf": "http://www.w3.org/2000/01/rdf-schema#subPropertyOf",
+	"Organization": "http://xmlns.com/foaf/0.1/Organization",
+	"@language": "en"
     },
-    {
-      "@id": "http://opaquenamespace.org/ns/set",
-      "@type": "Property",
-      "subPropertyOf": "isPartOf",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@value": "2013-12-16",
-        "@type": "date"
-      },
-      "label": "set",
-      "comment": "Defines a relationship between an object and a group or collection of objects to which it belongs.",
-      "modified": {
-        "@value": "2013-12-16",
-        "@type": "date"
-      },
-      "range": {
-        "@id": "http://www.w3.org/2002/07/owl#Thing"
-      }
-    },
-    {
-      "@id": "http://opaquenamespace.org/ns/contents",
-      "@type": "Property",
-      "subPropertyOf": "hasPart",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@value": "2014-07-01",
-        "@type": "date"
-      },
-      "label": "contents",
-      "comment": "Defines a relationship between an object and a list of objects which make up its parts.",
-      "modified": {
-        "@value": "2013-12-16",
-        "@type": "date"
-      },
-      "range": {
-        "@id": "http://www.w3.org/1999/02/22-rdf-syntax-ns#List"
-      }
-    },
-    {
-      "@id": "http://opaquenamespace.org/ns/contributingInstitution",
-      "@type": "Property",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@value": "2014-02-20",
-        "@type": "date"
-      },
-      "label": "Contributing Institution",
-      "comment": "A reference to the institutions or administrative units that contributed to the creation, management, description, and/or dissemination of the digital resource.  For example, one institution may physically hold the original resource, another may perform the digital imaging, and another may create metadata.",
-      "modified": {
-        "@value": "2014-02-20",
-        "@type": "date"
-      },
-      "domain": {
-        "@id": "http://www.w3.org/2002/07/owl#Thing"
-      },
-      "range": {
-        "@id": "Organization"
-      }
-    },
-    {
-      "@id": "http://opaquenamespace.org/ns/hasCover",
-      "@type": "Property",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@value": "2014-02-28",
-        "@type": "date"
-      },
-      "subPropertyOf": "hasPart",
-      "label": "Has Cover",
-      "comment": "Specifies a cover physically attached to the resource.",
-      "modified": {
-        "@value": "2014-02-28",
-        "@type": "date"
-      },
-      "range": {
-        "@id": "http://opaquenamespace.org/ns/Cover"
-      }
-    },
-    {
-      "@id": "http://opaquenamespace.org/ns/Cover",
-      "@type": "Property",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@value": "2014-02-28",
-        "@type": "date"
-      },
-      "label": "Cover",
-      "comment": "An external cover, as on a book, document, or case.",
-      "modified": {
-        "@value": "2014-02-28",
-        "@type": "date"
-      },
-    },
-     {
-      "@id": "http://opaquenamespace.org/ns/cco/viewDescription",
-      "@type": "Property",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@value": "2014-02-25",
-        "@type": "date"
-      },
-      "label": "View Description",
-      "comment": "Describes the spatial, chronological or contextual aspect of teh work as captures in the image view.",
-      "modified": {
-        "@value": "2014-02-25",
-        "@type": "date"
-      },
-    },
-     {
-      "@id": "http://opaquenamespace.org/ns/cco/accessionNumber",
-      "@type": "Property",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@value": "2014-05-30",
-        "@type": "date"
-      },
-      "subPropertyOf": "identifier",
-      "label": "Accession Number",
-      "comment": "Identification number assigned to a particular donation or acquisition",
-      "modified": {
-        "@value": "2014-05-30",
-        "@type": "date"
-      },
-    },
+    "@graph": [
+	{
+	    "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt",
+	    "modified": {
+		"@value": "2013-12-16",
+		"@type": "date"
+	    },
+	    "publisher": "Opaque Namespace",
+	    "title": "VOCAB_PLACEHOLDER"
+	},
+	{
+	    "@id": "http://opaquenamespace.org/ns/set",
+	    "@type": "Property",
+	    "subPropertyOf": "isPartOf",
+	    "definedBy": {
+		"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	    },
+	    "issued": {
+		"@value": "2013-12-16",
+		"@type": "date"
+	    },
+	    "label": "set",
+	    "comment": "Defines a relationship between an object and a group or collection of objects to which it belongs.",
+	    "modified": {
+		"@value": "2013-12-16",
+		"@type": "date"
+	    },
+	    "range": {
+		"@id": "http://www.w3.org/2002/07/owl#Thing"
+	    }
+	},
+	{
+	    "@id": "http://opaquenamespace.org/ns/contents",
+	    "@type": "Property",
+	    "subPropertyOf": "hasPart",
+	    "definedBy": {
+		"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	    },
+	    "issued": {
+		"@value": "2014-07-01",
+		"@type": "date"
+	    },
+	    "label": "contents",
+	    "comment": "Defines a relationship between an object and a list of objects which make up its parts.",
+	    "modified": {
+		"@value": "2013-12-16",
+		"@type": "date"
+	    },
+	    "range": {
+		"@id": "http://www.w3.org/1999/02/22-rdf-syntax-ns#List"
+	    }
+	},
+	{
+	    "@id": "http://opaquenamespace.org/ns/contributingInstitution",
+	    "@type": "Property",
+	    "definedBy": {
+		"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	    },
+	    "issued": {
+		"@value": "2014-02-20",
+		"@type": "date"
+	    },
+	    "label": "Contributing Institution",
+	    "comment": "A reference to the institutions or administrative units that contributed to the creation, management, description, and/or dissemination of the digital resource.  For example, one institution may physically hold the original resource, another may perform the digital imaging, and another may create metadata.",
+	    "modified": {
+		"@value": "2014-02-20",
+		"@type": "date"
+	    },
+	    "domain": {
+		"@id": "http://www.w3.org/2002/07/owl#Thing"
+	    },
+	    "range": {
+		"@id": "Organization"
+	    }
+	},
+	{
+	    "@id": "http://opaquenamespace.org/ns/hasCover",
+	    "@type": "Property",
+	    "definedBy": {
+		"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	    },
+	    "issued": {
+		"@value": "2014-02-28",
+		"@type": "date"
+	    },
+	    "subPropertyOf": "hasPart",
+	    "label": "Has Cover",
+	    "comment": "Specifies a cover physically attached to the resource.",
+	    "modified": {
+		"@value": "2014-02-28",
+		"@type": "date"
+	    },
+	    "range": {
+		"@id": "http://opaquenamespace.org/ns/Cover"
+	    }
+	},
+	{
+	    "@id": "http://opaquenamespace.org/ns/Cover",
+	    "@type": "Property",
+	    "definedBy": {
+		"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	    },
+	    "issued": {
+		"@value": "2014-02-28",
+		"@type": "date"
+	    },
+	    "label": "Cover",
+	    "comment": "An external cover, as on a book, document, or case.",
+	    "modified": {
+		"@value": "2014-02-28",
+		"@type": "date"
+	    }
+	},
+	{
+	    "@id": "http://opaquenamespace.org/ns/cco/viewDescription",
+	    "@type": "Property",
+	    "definedBy": {
+		"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	    },
+	    "issued": {
+		"@value": "2014-02-25",
+		"@type": "date"
+	    },
+	    "label": "View Description",
+	    "comment": "Describes the spatial, chronological or contextual aspect of teh work as captures in the image view.",
+	    "modified": {
+		"@value": "2014-02-25",
+		"@type": "date"
+	    }
+	},
+	{
+	    "@id": "http://opaquenamespace.org/ns/cco/accessionNumber",
+	    "@type": "Property",
+	    "definedBy": {
+		"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	    },
+	    "issued": {
+		"@value": "2014-05-30",
+		"@type": "date"
+	    },
+	    "subPropertyOf": "identifier",
+	    "label": "Accession Number",
+	    "comment": "Identification number assigned to a particular donation or acquisition",
+	    "modified": {
+		"@value": "2014-05-30",
+		"@type": "date"
+	    }
+	},
+
+	{
+	    "@id": "http://opaquenamespace.org/ns/cco/viewDate",
+	    "@type": "Property",
+	    "definedBy": {
+		"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	    },
+	    "subPropertyOf": "Date",
+	    "issued": {
+		"@value": "2014-08-01",
+		"@type": "date"
+	    },
+	    "label": "View Date",
+	    "comment": "Includes any date or range of dates associated with the creation or production of the image.",
+	    "modified": {
+		"@value": "2014-08-01",
+		"@type": "date"
+	    }
+	    
+	},
+
+	{
+	    "@id": "http://opaquenamespace.org/ns/cco/creatorDisplay",
+	    "@type": "Property",
+	    "definedBy": {
+		"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	    },
+	    "subPropertyOf": "Creator",
+	    "issued": {
+		"@value": "2014-08-01",
+		"@type": "date"
+	    },
+	    "label": "Creator Display",
+	    "comment": "A label identifying the person or corporate body in the work or image records by combining the preferred name and biographical information.",
+	    "modified": {
+		"@value": "2014-08-01",
+		"@type": "date"
+	    }
+	    
+	},
+
+	{
+	    "@id": "http://opaquenamespace.org/ns/sourceCondition",
+	    "@type": "Property",
+	    "definedBy": {
+		"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	    },
+	    "subPropertyOf": "Description",
+	    "issued": {
+		"@value": "2014-08-01",
+		"@type": "date"
+	    },
+	    "label": "Source Condition",
+	    "comment": "The physical condition of the source object.",
+	    "modified": {
+		"@value": "2014-08-01",
+		"@type": "date"
+	    }
+	},
+
+	{
+	    "@id": "http://opaquenamespace.org/ns/conversionSpecifications",
+	    "@type": "Property",
+	    "definedBy": {
+		"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	    },
+	    "issued": {
+		"@value": "2014-02-25",
+		"@type": "date"
+	    },
+	    "label": "Conversion Specifications",
+	    "comment": "Describes the process, equipment and specifications used to convert the resource into its present format.",
+	    "modified": {
+		"@value": "2014-02-25",
+		"@type": "date"
+	    }
+	},
         {
-      "@id": "http://opaquenamespace.org/ns/conversionSpecifications",
-      "@type": "Property",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@value": "2014-02-25",
-        "@type": "date"
-      },
-      "label": "Conversion Specifications",
-      "comment": "Describes the process, equipment and specifications used to convert the resource into its present format.",
-      "modified": {
-        "@value": "2014-02-25",
-        "@type": "date"
-      },
-    },
-        {
-      "@id": "http://opaquenamespace.org/ns/exhibit",
-      "@type": "Property",
-      "subPropertyOf": "set",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@value": "2014-02-25",
-        "@type": "date"
-      },
-      "label": "Exhibit",
-      "comment": "Curated set or grouping created for a special display or exhibit not related to a formal collection.",
-      "modified": {
-        "@value": "2014-02-25",
-        "@type": "date"
-      },
-    }
-  ]
+	    "@id": "http://opaquenamespace.org/ns/exhibit",
+	    "@type": "Property",
+	    "subPropertyOf": "http://opaquenamespace.org/ns/set",
+	    "definedBy": {
+		"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	    },
+	    "issued": {
+		"@value": "2014-02-25",
+		"@type": "date"
+	    },
+	    "label": "Exhibit",
+	    "comment": "Curated set or grouping created for a special display or exhibit not related to a formal collection.",
+	    "modified": {
+		"@value": "2014-02-25",
+		"@type": "date"
+	    }
+	}
+    ]
 }
