@@ -262,6 +262,99 @@
 		"@value": "2014-02-25",
 		"@type": "date"
 	    }
+	},
+	        {
+	    "@id": "http://opaquenamespace.org/ns/archives/boxNumber",
+	    "@type": "Property",
+	    "subPropertyOf": "isPartOf",
+	    "definedBy": {
+		"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	    },
+	    "issued": {
+		"@value": "2014-08-05",
+		"@type": "date"
+	    },
+	    "label": "Box Number",
+	    "comment": "Identifier on the box holding the physical archival item.",
+	    "modified": {
+		"@value": "2014-08-05",
+		"@type": "date"
+	    }
+		
+	},
+	        {
+	    "@id": "http://opaquenamespace.org/ns/archives/folderNumber",
+	    "@type": "Property",
+	    "subPropertyOf": "isPartOf",
+	    "definedBy": {
+		"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	    },
+	    "issued": {
+		"@value": "2014-08-05",
+		"@type": "date"
+	    },
+	    "label": "Folder Number",
+	    "comment": "Identifier on the folder within the box holding the physical archival item.",
+	    "modified": {
+		"@value": "2014-08-05",
+		"@type": "date"
+	    }
+	},
+	
+		        {
+	    "@id": "http://opaquenamespace.org/ns/archives/collectionTitle",
+	    "@type": "Property",
+		"subPropertyOf": "isPartOf",
+	    "definedBy": {
+		"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	    },
+	    "issued": {
+		"@value": "2014-08-05",
+		"@type": "date"
+	    },
+	    "label": "Collection Title",
+	    "comment": "Title given to a collection of archival material by the holding institution.",
+	    "modified": {
+		"@value": "2014-08-05",
+		"@type": "date"
+	    }
+	},
+	
+		        {
+	    "@id": "http://opaquenamespace.org/ns/archives/collectionIdentifier",
+	    "@type": "Property",
+	    "subPropertyOf": "isPartOf",
+	    "definedBy": {
+		"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	    },
+	    "issued": {
+		"@value": "2014-08-05",
+		"@type": "date"
+	    },
+	    "label": "Collection Identifier",
+	    "comment": "Identifier given to a collection of archival material by the holding institution.",
+	    "modified": {
+		"@value": "2014-08-05",
+		"@type": "date"
+	    }
+	},
+	
+		{
+	    "@id": "http://opaquenamespace.org/ns/compassDirection",
+	    "@type": "Property",
+	    "definedBy": {
+		"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	    },
+	    "issued": {
+		"@value": "2014-08-05",
+		"@type": "date"
+	    },
+	    "label": "Compass Direction",
+	    "comment": "The horizontal direction expressed as an angular distance measured clockwise from compass north.",
+	    "modified": {
+		"@value": "2014-08-05",
+		"@type": "date"
+	    }
 	}
     ]
 }
