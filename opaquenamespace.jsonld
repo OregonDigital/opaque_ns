@@ -184,6 +184,23 @@
         "@value": "2014-02-25",
         "@type": "date"
       },
+      
+      {
+      "@id": "http://opaquenamespace.org/ns/canzonierePoems",
+      "@type": "Property",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@value": "2014-08-05",
+        "@type": "date"
+      },
+      "label": "Canzoniere Poems",
+      "comment": "Poem numbers from the critical edition of the Canzoniere: Petrarca, Francesco. Rerum vulgarium fragmenta. Edizione critica di Giuseppe Savoca, Olschki, Firenze, 2008.",
+      "modified": {
+        "@value": "2014-08-05",
+        "@type": "date"
+      },
     }
   ]
 }
