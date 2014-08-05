@@ -263,6 +263,23 @@
 		"@type": "date"
 	    }
 	},
+        {
+	    "@id": "http://opaquenamespace.org/ns/fullText",
+	    "@type": "Property",
+	    "definedBy": {
+		"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	    },
+	    "issued": {
+		"@value": "2014-08-05",
+		"@type": "date"
+	    },
+	    "label": "Full Text",
+	    "comment": "A complete textual representation or transcription of the item content.",
+	    "modified": {
+		"@value": "2014-08-05",
+		"@type": "date"
+	    }
+	},
 	        {
 	    "@id": "http://opaquenamespace.org/ns/archives/boxNumber",
 	    "@type": "Property",
