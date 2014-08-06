@@ -227,7 +227,6 @@
 		"@type": "date"
 	    }
 	},
-
 	{
 	    "@id": "http://opaquenamespace.org/ns/conversionSpecifications",
 	    "@type": "Property",
@@ -275,6 +274,23 @@
 	    },
 	    "label": "Full Text",
 	    "comment": "A complete textual representation or transcription of the item content.",
+	    "modified": {
+		"@value": "2014-08-05",
+		"@type": "date"
+	    }
+	},
+        {
+	    "@id": "http://opaquenamespace.org/ns/dateDigitized",
+	    "@type": "Property",
+	    "definedBy": {
+		"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	    },
+	    "issued": {
+		"@value": "2014-08-05",
+		"@type": "date"
+	    },
+	    "label": "Date Digitized",
+	    "comment": "The date the object was initially converted into a digital format.",
 	    "modified": {
 		"@value": "2014-08-05",
 		"@type": "date"
@@ -372,6 +388,23 @@
 		"@type": "date"
 	    }
 	},
+	{
+	    "@id": "http://opaquenamespace.org/ns/captionTitle",
+	    "@type": "Property",
+	    "definedBy": {
+		"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	    },
+	    "issued": {
+		"@value": "2014-08-05",
+		"@type": "date"
+	    },
+	    "label": "Caption Title",
+	    "comment": "",
+	    "modified": {
+		"@value": "2014-08-05",
+		"@type": "date"
+	    }
+	}
 	{
 	    "@id": "http://opaquenamespace.org/ns/compassDirection",
 	    "@type": "Property",
