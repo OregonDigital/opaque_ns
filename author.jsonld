@@ -1,0 +1,343 @@
+{
+    "@context": {
+	"title": "http://purl.org/dc/terms/title",
+	"label": "http://www.w3.org/2000/01/rdf-schema#label",
+	"comment": "http://www.w3.org/2000/01/rdf-schema#comment",
+	"description": "http://purl.org/dc/terms/description",
+	"publisher": "http://purl.org/dc/terms/publisher",
+	"modified": "http://purl.org/dc/terms/modified",
+	"issued": "http://purl.org/dc/terms/issued",
+	"Collection": "http://purl.org/dc/terms/Collection",
+	"definedBy": "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+	"range": "http://www.w3.org/2000/01/rdf-schema#range",
+	"date": "http://www.w3.org/2001/XMLSchema#date",
+	"RightsStatement": "http://purl.org/dc/terms/RightsStatement",
+	"Concept": "http://www.w3.org/2004/02/skos/core#Concept",
+	"@language": "en",
+	"additionalName": "http://schema.org/additionalName",
+	"alternateName": "https://schema.org/alternateName"
+	"PersonalName": "http://www.w3.org/2004/02/skos/core#PersonalName",
+	"CorporateName": "http://www.w3.org/2004/02/skos/core#CorporateName",
+	"Topic": "http://www.w3.org/2004/02/skos/core#Topic",
+	"Geographic": "http://www.w3.org/2004/02/skos/core#Geographic",
+	"Title": "http://www.w3.org/2004/02/skos/core#Title",
+    },
+	  "@graph": [
+	{
+	    "@id": "http://opaquenamespace.org/author",
+	    "title": "Author controlled vocabulary",
+	    "publisher": "Opaque Namespace",
+	    "modified": {
+		"@value": "2013-12-16",
+		"@type": "http://www.w3.org/2001/XMLSchema#date"
+	    },
+	    "issued": {
+		"@value": "2013-12-16",
+		"@type": "http://www.w3.org/2001/XMLSchema#date"
+	    }
+	},
+	
+# Begin WWDL
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/author/BishopEdwinH",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	},
+	"label": "Bishop, Edwin H.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/author/BowlbyHenryL",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	},
+	"label": "Bowlby, Henry L.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/author/HowardRandallR",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	},
+	"label": "Howard, Randall R.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/author/JonesWA",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	},
+	"label": "Jones, W. A.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/author/LorraineMadisonJohnson",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	},
+	"label": "Lorraine, Madison Johnson",
+	"date": "1853-",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/author/RathomJohnR",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	},
+	"label": "Rathom, John R.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/author/RogersWA",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	},
+	"label": "Rogers, W. A.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/author/RosenthalAA",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	},
+	"label": "Rosenthal, A. A.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/author/ShankHH",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	},
+	"label": "Shank, H. H.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/author/WakefieldGreg",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	},
+	"label": "Wakefield, Greg",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/author/WarrenGeorgeC",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	},
+	"label": "Warren, George C.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/author/WinslowFlorenceE",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	},
+	"label": "Winslow, Florence E.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+# END WWDL
+
+
+#begin Sarah's additions
+
+
+#begin uoathletics
+
+
+{
+”@id”: "http://opaquenamespace.org/ns/author/HarrisLeo",
+"@type": "PersonalName",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-08-01",
+"@type": "date"
+},
+"label": "Harris, Leo",
+"modified": {
+"@value": "2014-08-01",
+"@type": "date"
+}
+},
+
+{
+”@id”: "http://opaquenamespace.org/ns/author/LichtmanArt",
+"@type": "PersonalName",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-08-01",
+"@type": "date"
+},
+"label": "Lichtman, Art ",
+"modified": {
+"@value": "2014-08-01",
+"@type": "date"
+}
+},
+
+{
+”@id”: "http://opaquenamespace.org/ns/author/ThompsonRobertM",
+"@type": "PersonalName",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-08-01",
+"@type": "date"
+},
+"label": "Thompson, Robert M.",
+"modified": {
+"@value": "2014-08-01",
+"@type": "date"
+}
+},
+
+{
+”@id”: "http://opaquenamespace.org/ns/author/WilsonKL",
+"@type": "PersonalName",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-08-01",
+"@type": "date"
+},
+"label": "Wilson, K.L.",
+"modified": {
+"@value": "2014-08-01",
+"@type": "date"
+}
+},
+
+{
+”@id”: "http://opaquenamespace.org/ns/author/WojahnBrent",
+"@type": "PersonalName",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-08-01",
+"@type": "date"
+},
+"label": "Wojahn, Brent",
+"modified": {
+"@value": "2014-08-01",
+"@type": "date"
+}
+},
+
+
+#end uoathletics
