@@ -1,0 +1,2849 @@
+{
+    "@context": {
+	"title": "http://purl.org/dc/terms/title",
+	"label": "http://www.w3.org/2000/01/rdf-schema#label",
+	"comment": "http://www.w3.org/2000/01/rdf-schema#comment",
+	"description": "http://purl.org/dc/terms/description",
+	"publisher": "http://purl.org/dc/terms/publisher",
+	"modified": "http://purl.org/dc/terms/modified",
+	"issued": "http://purl.org/dc/terms/issued",
+	"Collection": "http://purl.org/dc/terms/Collection",
+	"definedBy": "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+	"range": "http://www.w3.org/2000/01/rdf-schema#range",
+	"date": "http://www.w3.org/2001/XMLSchema#date",
+	"RightsStatement": "http://purl.org/dc/terms/RightsStatement",
+	"Concept": "http://www.w3.org/2004/02/skos/core#Concept",
+	"@language": "en",
+	"additionalName": "http://schema.org/additionalName",
+	"alternateName": "https://schema.org/alternateName"
+	"PersonalName": "http://www.w3.org/2004/02/skos/core#PersonalName",
+	"CorporateName": "http://www.w3.org/2004/02/skos/core#CorporateName",
+	"Topic": "http://www.w3.org/2004/02/skos/core#Topic",
+	"Geographic": "http://www.w3.org/2004/02/skos/core#Geographic",
+	"Title": "http://www.w3.org/2004/02/skos/core#Title",
+    },
+	  "@graph": [
+	{
+	    "@id": "http://opaquenamespace.org/sourceCollection",
+	    "title": "sourceCollection controlled vocabulary",
+	    "publisher": "Opaque Namespace",
+	    "modified": {
+		"@value": "2013-12-16",
+		"@type": "http://www.w3.org/2001/XMLSchema#date"
+	    },
+	    "issued": {
+		"@value": "2013-12-16",
+		"@type": "http://www.w3.org/2001/XMLSchema#date"
+	    }
+	},
+# BEGIN AAI ETC
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/ADeanMcKenzieCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "A. Dean McKenzie Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/AlbertOliverBiggerstaffCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Albert Oliver Biggerstaff Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/AmericanPublicSculpture16781951",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "American Public Sculpture: 1678-1951",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/AndrewMorroghCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Andrew Morrogh Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/ArchivisionAdditionalModuleEIGHT",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Archivision Additional Module EIGHT",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/ArchivisionAdditionalModuleFIVE",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Archivision Additional Module FIVE",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/ArchivisionAdditionalModuleFOUR",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Archivision Additional Module FOUR",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/ArchivisionAdditionalModuleONE",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Archivision Additional Module ONE",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/ArchivisionAdditionalmoduleSEVEN",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Archivision Additional module SEVEN",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/ArchivisionAdditionalModuleSIX",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Archivision Additional Module SIX",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/ArchivisionAdditionalModuleTHREE",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Archivision Additional Module THREE",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/ArchivisionAdditionalModuleTWO",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Archivision Additional Module TWO",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/ArchivisionBASECollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Archivision BASE Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/ArtHistoryDepartmentCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Art History Department Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/ArtInPublicTransitSeattleUSA",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Art In Public Transit: Seattle, USA",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/ArthurRayGilmoreCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Arthur 'Ray' Gilmore Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/BakerLightingSet",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Baker Lighting Set",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/BarbaraHoughtonCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Barbara Houghton Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/BarcelonaArtinPublicPlaces",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Barcelona: Art in Public Places",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/BarcelonaContemporaryArchitecture",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Barcelona: Contemporary Architecture",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/BarcelonaModernismeandGaudí",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Barcelona: Modernisme and Gaudí",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/BarcelonaPlazasParksandPromenades",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Barcelona: Plazas, Parks and Promenades",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/BarnhartRichardM",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Barnhart, Richard M.",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/BernardFreemesserCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Bernard Freemesser Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/BernardMcTigueCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Bernard McTigue Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/CarolynSenftCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Carolyn Senft Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/CharlesGilmanDavisCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Charles Gilman Davis Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/CharlesTandCharleneLeFebreCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Charles T. and Charlene LeFebre Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/ChicagoSurveyofContemporaryPublicSculpture",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Chicago: Survey of Contemporary Public Sculpture",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/ChristineSundtCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Christine Sundt Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/ChristineTheodoropoulosCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Christine Theodoropoulos Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/CollaborationsArtistsArchitectsandDesigners",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Collaborations: Artists, Architects and Designers",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/ContemporaryMuralsinAmerica",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Contemporary Murals in America",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/ContemporaryNativeAmericanArt",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Contemporary Native American Art",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/CynthiaLewisBerryCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Cynthia Lewis-Berry Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/DaivdABainbridgeCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Daivd A. Bainbridge Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/DanielMHerbertCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Daniel M. Herbert Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/DavidABainbridgeCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "David A. Bainbridge Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/DavidWilsonCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "David Wilson Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/DonaldRenfroCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Donald Renfro Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/DouglasBlandyCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Douglas Blandy Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/ElizabethWaltonPotterCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Elizabeth Walton Potter Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/EllenJLaingCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Ellen J. Laing Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/EstherChandlerCollectionCharlotteLemongift",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Esther Chandler Collection, Charlotte Lemon gift",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/FelixRoschCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Felix Rosch Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/FineandAppliedArtsDepartmentCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Fine and Applied Arts Department Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/FinkenstaedtCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Finkenstaedt Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/FocusonMuseumsPublicArchitecturePartVI",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Focus on Museums: Public Architecture, Part VI",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/FocusonSixtiesModermismPublicArchitecturePartVIII",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Focus on Sixties Modermism: Public Architecture, Part VIII",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/FrancesSternCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Frances Stern Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/FrankACuthbertCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Frank A. Cuthbert Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/FrankRHorlbeckCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Frank R. Horlbeck Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/FunctionalPublicArtPartIV",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Functional Public Art, Part IV",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/FunctionalPublicArtPartV",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Functional Public Art: Part V",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/FunctionalPublicArtTheArtistandtheCityPartIII",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Functional Public Art: The Artist and the City, Part III",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/GaryTepferCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Gary Tepfer Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/GeraldMoorheadCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Gerald Moorhead Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/GermanyArtinPublicPlaces",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Germany: Art in Public Places",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/HansHWaechterCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Hans H. Waechter Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/HattieMaeNixonCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Hattie Mae Nixon Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/HeleneCarolBrownCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Helene-Carol Brown Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/HistoricPreservationintheUSA",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Historic Preservation in the USA",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/inSITE94SanDiegoandTijuana",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "inSITE94: San Diego and Tijuana",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/InternationalMasonryInstituteCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "International Masonry Institute Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/JSobreCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "J. Sobre Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/JamesHarperCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "James Harper Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/JamesHicksCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "James Hicks Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/JamesShirleyCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "James Shirley Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/JeffreyMHurwitCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Jeffrey M. Hurwit Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/JennaRASmithCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Jenna (R. A.) Smith Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/JenniferRowanCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Jennifer Rowan Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/JerryFinrowCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Jerry Finrow Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/JohnSReynoldsCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "John S. Reynolds Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/JohnYeonCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "John Yeon Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/JordanSchnitzerMuseumofArt",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Jordan Schnitzer Museum of Art",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/JosephGriggsCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Joseph Griggs Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/JuliaSimicCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Julia Simic Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/KarenGuzakCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Karen Guzak Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/KenOconnellCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Ken O'connell Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/KennethHelphandCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Kenneth Helphand Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/KingstonHeathCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Kingston Heath Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/LandscapeasArtParksandGardens",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Landscape as Art: Parks and Gardens",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/LandscapeasArtPlazasandPassageways",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Landscape as Art: Plazas and Passageways",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/LaneCountyHistoricalMuseum",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Lane County Historical Museum",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/LasVegasStyleFantasyArchitectureandSigns",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Las Vegas Style: Fantasy Architecture and Signs",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/LealanSwansonCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Lealan Swanson Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/LeeNelsonCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Lee Nelson Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/LelandMRothCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Leland M. Roth Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/LeongCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Leong Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/LewCrutcherCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Lew Crutcher Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/LinnCountyHistoricalMuseum",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Linn County Historical Museum",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/LisaClaypoolCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Lisa Claypool Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/MarianCDonnellyCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Marian C. Donnelly Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/MarionDeanRossCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Marion Dean Ross Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/MarionDeanRossCollectionWallaceHuntingtongift",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Marion Dean Ross Collection, Wallace Huntington gift",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/MaryLyonDolezalCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Mary-Lyon Dolezal Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/MeggsGraphicDesignSet",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Meggs Graphic Design Set",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/MichaelShellenbargerCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Michael Shellenbarger Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/MissionArchitecture",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Mission Architecture",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/MrsFredBerniceMeamberCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Mrs. Fred (Bernice) Meamber Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/NewDirectionsinArchitecturePartIII",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "New Directions in Architecture: Part III",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/NewDirectionsinLandscapeArchitecturePartIII",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "New Directions in Landscape Architecture, Part III",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/NewDirectionsinPublicArchitecturePartIX",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "New Directions in Public Architecture, Part IX",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/NewDirectionsinPublicArchitecturePartVII",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "New Directions in Public Architecture, Part VII",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/NewDirectionsinPublicArchitecturePartI",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "New Directions in Public Architecture: Part I",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/NewDirectionsinPublicArchitecturePartII",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "New Directions in Public Architecture: Part II",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/NewDirectionsinPublicArtPartIV",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "New Directions in Public Art, Part IV",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/NewDirectionsinPublicArtPartIX",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "New Directions in Public Art, Part IX",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/NewDirectionsinPublicArtPartVII",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "New Directions in Public Art, Part VII",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/NewDirectionsinPublicArtPartVI",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "New Directions in Public Art: Part VI",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/OregonStateHistoricPreservationOffice",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Oregon State Historic Preservation Office",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/PLawrenceCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "P. Lawrence Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/ParisArtinPublicPlaces",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Paris: Art in Public Places",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/ParisContemporaryArchitecture",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Paris: Contemporary Architecture",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/ParisLandmarks",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Paris: Landmarks",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/ParisParksandGardens16151992",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Paris: Parks and Gardens, 1615-1992",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/PatriciaFureyCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Patricia Furey Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/PeterWilcoxCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Peter Wilcox Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/PhilipDoleCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Philip Dole Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/PlaceasArtPocketParksandGardensPartI",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Place as Art: Pocket Parks and Gardens, Part I",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/PlaceasArtPocketParksandGardensPartII",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Place as Art: Pocket Parks and Gardens, Part II",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/PublicandPrivateInitiativesPublicArtPartV",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Public and Private Initiatives: Public Art, Part V",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/PublicArchitecturePartV",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Public Architecture, Part V",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/R&amp;ELinkCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "R. &amp; E. Link Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/ROusterhoutCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "R. Ousterhout Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/RichardSundtCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Richard Sundt Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/RomanceLanguagesDepartmentCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Romance Languages Department Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/RonLovingerCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Ron Lovinger Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/SandyBondsCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Sandy Bonds Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/SchoolofArchitectureandAlliedArtsCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "School of Architecture and Allied Arts Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/SculptureParksArtintheLandscapePartIII",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Sculpture Parks: Art in the Landscape, Part III",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/SeasideFlorida",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Seaside, Florida",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/SeattlePublicArtinContext",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Seattle: Public Art in Context",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/SherwinSimmonsCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Sherwin Simmons Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/SpecialProjectsPublicArchitecturePartIV",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Special Projects: Public Architecture, Part IV",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/StanleyWBryanCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Stanley W. Bryan Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/StephenFBochkorCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Stephen F. Bochkor Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/StricevicCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Stricevic Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/TOBallingerCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "T.O. Ballinger Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/TemporaryExhibitionsofPublicArtUSA",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Temporary Exhibitions of Public Art, USA",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/TerrenceGoodeCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Terrence Goode Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/TheArchitectureofLouisSullivan",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "The Architecture of Louis Sullivan",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/TheArchitectureofSanFrancisco",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "The Architecture of San Francisco",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/ThomasHackerArchitectsIncGift",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Thomas Hacker Architects, Inc. Gift",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/ThomasPeneCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Thomas Pene Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/Towers",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Towers",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/UniversityofOregonLibrarySpecialCollectionsandUniversityArchives",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "University of Oregon Library Special Collections and University Archives",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/UrbanDesignTowardaSustainableFuture",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Urban Design: Toward a Sustainable Future",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/UrbanEcologytheUrbanWildernessBoundaryPartI",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Urban Ecology: the Urban/Wilderness Boundary, Part I",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/UrbanGardensofthePacificNorthwest",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Urban Gardens of the Pacific Northwest",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/VictorHFlachCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Victor H. Flach Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/WBJohnstonCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "W. B. Johnston Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/WKHuntingtonCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "W.K. Huntington Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/WallaceSBaldingerCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Wallace S. Baldinger Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/WesleyJBarnumCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Wesley J. Barnum Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/sourceCollection/WinstonWeismanCollection",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Winston Weisman Collection",
+	"comment": "Local division that reflects gift collections, donations and/or major purchased additions to the Visual Resources Collections or Oregon Digital.",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+# END AAI ETC
