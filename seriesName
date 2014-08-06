@@ -1,0 +1,355 @@
+
+
+{
+    "@context": {
+	"title": "http://purl.org/dc/terms/title",
+	"label": "http://www.w3.org/2000/01/rdf-schema#label",
+	"comment": "http://www.w3.org/2000/01/rdf-schema#comment",
+	"description": "http://purl.org/dc/terms/description",
+	"publisher": "http://purl.org/dc/terms/publisher",
+	"modified": "http://purl.org/dc/terms/modified",
+	"issued": "http://purl.org/dc/terms/issued",
+	"Collection": "http://purl.org/dc/terms/Collection",
+	"definedBy": "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+	"range": "http://www.w3.org/2000/01/rdf-schema#range",
+	"date": "http://www.w3.org/2001/XMLSchema#date",
+	"RightsStatement": "http://purl.org/dc/terms/RightsStatement",
+	"Concept": "http://www.w3.org/2004/02/skos/core#Concept",
+	"@language": "en",
+	"additionalName": "http://schema.org/additionalName",
+	"alternateName": "https://schema.org/alternateName"
+	"PersonalName": "http://www.w3.org/2004/02/skos/core#PersonalName",
+	"CorporateName": "http://www.w3.org/2004/02/skos/core#CorporateName",
+	"Topic": "http://www.w3.org/2004/02/skos/core#Topic",
+	"Geographic": "http://www.w3.org/2004/02/skos/core#Geographic",
+	"Title": "http://www.w3.org/2004/02/skos/core#Title",
+    },
+	  "@graph": [
+	{
+	     "@id": "http://opaquenamespace.org/seriesName,
+	    "title": "seriesName controlled vocabulary",
+	    "publisher": "Opaque Namespace",
+	    "modified": {
+		"@value": "2014-12-16",
+		"@type": "http://www.w3.org/2001/XMLSchema#date"
+	    },
+	    "issued": {
+		"@value": "2013-12-16",
+		"@type": "http://www.w3.org/2001/XMLSchema#date"
+	    }
+	},
+	
+	
+	#begin latinoherit
+
+{
+"@id": "http://opaquenamespace.org/ns/seriesName/BecerraAliciatestimony",
+"@type": "Topic",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-08",
+"@type": "date"
+},
+"label": "Becerra, Alicia, testimony",
+"modified": {
+"@value": "2014-07-08",
+"@type": "date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/seriesName/BelloObedtestimony",
+"@type": "Topic",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-08",
+"@type": "date"
+},
+"label": "Bello, Obed, testimony",
+"modified": {
+"@value": "2014-07-08",
+"@type": "date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/seriesName/BoschEvantestimony",
+"@type": "Topic",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-08",
+"@type": "date"
+},
+"label": "Bosch, Evan, testimony",
+"modified": {
+"@value": "2014-07-08",
+"@type": "date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/seriesName/CartagenaMarcelatestimony",
+"@type": "Topic",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-08",
+"@type": "date"
+},
+"label": "Cartagena, Marcela, testimony",
+"modified": {
+"@value": "2014-07-08",
+"@type": "date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/seriesName/DuranArellanoLizsandratestimony",
+"@type": "Topic",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-08",
+"@type": "date"
+},
+"label": "Durán-Arellano, Lizsandra, testimony",
+"modified": {
+"@value": "2014-07-08",
+"@type": 
+"date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/seriesName/GambettaJimenaKheavtestimony",
+"@type": "Topic",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-08",
+"@type": "date"
+},
+"label": "Gambetta, Jimena Kheav, testimony",
+"modified": {
+"@value": "2014-07-08",
+"@type": 
+"date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/seriesName/GonzalesSoniatestimony",
+"@type": "Topic",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-08",
+"@type": "date"
+},
+"label": "Gonzales, Sonia, testimony",
+"modified": {
+"@value": "2014-07-08",
+"@type": "date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/seriesName/GuerraFideltestimony",
+"@type": "Topic",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-08",
+"@type": "date"
+},
+"label": "Guerra, Fidel, testimony",
+"modified": {
+"@value": "2014-07-08",
+"@type": "date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/seriesName/HerndandezEmiliotestimony",
+"@type": "Topic",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-08",
+"@type": "date"
+},
+"label": "Herndandez, Emilio, testimony",
+"modified": {
+"@value": "2014-07-08",
+"@type": "date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/seriesName/LopezAuroratestimony",
+"@type": "Topic",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-08",
+"@type": "date"
+},
+"label": "López, Aurora, testimony",
+"modified": {
+"@value": "2014-07-08",
+"@type": "date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/seriesName/MiskellGracielaMechetestimony",
+"@type": "Topic",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-08",
+"@type": "date"
+},
+"label": "Miskell, Graciela (Meche), testimony",
+"modified": {
+"@value": "2014-07-08",
+"@type": 
+"date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/seriesName/MoralesArmandotestimony",
+"@type": "Topic",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-08",
+"@type": "date"
+},
+"label": "Morales, Armando, testimony.",
+"modified": {
+"@value": "2014-07-08",
+"@type": "date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/seriesName/MoralesMarthatestimony",
+"@type": "Topic",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-08",
+"@type": "date"
+},
+"label": "Morales, Martha, testimony",
+"modified": {
+"@value": "2014-07-08",
+"@type": "date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/seriesName/MoralesRosalindatestimony",
+"@type": "Topic",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-08",
+"@type": "date"
+},
+"label": "Morales, Rosalinda, testimony",
+"modified": {
+"@value": "2014-07-08",
+"@type": "date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/seriesName/OrtegaJosefinatestimony",
+"@type": "Topic",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-08",
+"@type": "date"
+},
+"label": "Ortega, Josefina, testimony",
+"modified": {
+"@value": "2014-07-08",
+"@type": "date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/seriesName/SunByronfamilytestimony",
+"@type": "Topic",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-08",
+"@type": "date"
+},
+"label": "Sun, Byron, family testimony",
+"modified": {
+"@value": "2014-07-08",
+"@type": "date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/seriesName/LatinoRoots",
+"@type": "Topic",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-08",
+"@type": "date"
+},
+"label": "Latino Roots",
+"modified": {
+"@value": "2014-07-08",
+"@type": "date"
+}
+},
+
+
+
+#end latinoherit
