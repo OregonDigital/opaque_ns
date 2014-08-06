@@ -1,0 +1,414 @@
+{
+    "@context": {
+	"title": "http://purl.org/dc/terms/title",
+	"label": "http://www.w3.org/2000/01/rdf-schema#label",
+	"comment": "http://www.w3.org/2000/01/rdf-schema#comment",
+	"description": "http://purl.org/dc/terms/description",
+	"publisher": "http://purl.org/dc/terms/publisher",
+	"modified": "http://purl.org/dc/terms/modified",
+	"issued": "http://purl.org/dc/terms/issued",
+	"Collection": "http://purl.org/dc/terms/Collection",
+	"definedBy": "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+	"range": "http://www.w3.org/2000/01/rdf-schema#range",
+	"date": "http://www.w3.org/2001/XMLSchema#date",
+	"RightsStatement": "http://purl.org/dc/terms/RightsStatement",
+	"Concept": "http://www.w3.org/2004/02/skos/core#Concept",
+	"@language": "en",
+	"additionalName": "http://schema.org/additionalName",
+	"alternateName": "https://schema.org/alternateName"
+	"PersonalName": "http://www.w3.org/2004/02/skos/core#PersonalName",
+	"CorporateName": "http://www.w3.org/2004/02/skos/core#CorporateName",
+	"Topic": "http://www.w3.org/2004/02/skos/core#Topic",
+	"Geographic": "http://www.w3.org/2004/02/skos/core#Geographic",
+	"Title": "http://www.w3.org/2004/02/skos/core#Title",
+    },
+	  "@graph": [
+	{
+	    "@id": "http://opaquenamespace.org/donor",
+	    "title": "donor controlled vocabulary",
+	    "publisher": "Opaque Namespace",
+	    "modified": {
+		"@value": "2013-12-16",
+		"@type": "http://www.w3.org/2001/XMLSchema#date"
+	    },
+	    "issued": {
+		"@value": "2013-12-16",
+		"@type": "http://www.w3.org/2001/XMLSchema#date"
+	    }
+	},
+
+
+
+#begin latinoherit
+
+{
+"@id": "http://opaquenamespace.org/ns/donor/AldanRogersLicia",
+"@type": "PersonalName",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-08",
+"@type": "date"
+},
+"label": "Aldana Rogers, Licia",
+"modified": {
+"@value": "2014-07-08",
+"@type": "date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/donor/AlvarezNora",
+"@type": "PersonalName",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-08",
+"@type": "date"
+},
+"label": "Alvarez, Nora",
+"modified": {
+"@value": "2014-07-08",
+"@type": "date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/donor/BartruffCharlotte",
+"@type": "PersonalName",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-08",
+"@type": "date"
+},
+"label": "Bartruff, Charlotte",
+"modified": {
+"@value": "2014-07-08",
+"@type": "date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/donor/BullIris",
+"@type": "PersonalName",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-08",
+"@type": "date"
+},
+"label": "Bull, Iris",
+"modified": {
+"@value": "2014-07-08",
+"@type": "date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/donor/DaltonElizabeth",
+"@type": "PersonalName",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-08",
+"@type": "date"
+},
+"label": "Dalton, Elizabeth",
+"modified": {
+"@value": "2014-07-08",
+"@type": "date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/donor/DriverJoel",
+"@type": "PersonalName",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-08",
+"@type": "date"
+},
+"label": "Driver, Joel",
+"modified": {
+"@value": "2014-07-08",
+"@type": "date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/donor/ErdmanScott",
+"@type": "PersonalName",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-08",
+"@type": "date"
+},
+"label": "Erdman, Scott",
+"modified": {
+"@value": "2014-07-08",
+"@type": "date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/donor/EvanAlex",
+"@type": "PersonalName",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-08",
+"@type": "date"
+},
+"label": "Evan, Alex",
+"modified": {
+"@value": "2014-07-08",
+"@type": "date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/donor/EvansAlex",
+"@type": "PersonalName",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-08",
+"@type": "date"
+},
+"label": "Evans, Alex",
+"modified": {
+"@value": "2014-07-08",
+"@type": "date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/donor/HynesPettyHannah",
+"@type": "PersonalName",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-08",
+"@type": "date"
+},
+"label": "Hynes-Petty, Hannah",
+"modified": {
+"@value": "2014-07-08",
+"@type": "date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/donor/MiskellElizabeth",
+"@type": "PersonalName",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-08",
+"@type": "date"
+},
+"label": "Miskell, Elizabeth",
+"modified": {
+"@value": "2014-07-08",
+"@type": "date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/donor/RummlerLisa",
+"@type": "PersonalName",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-08",
+"@type": "date"
+},
+"label": "Rummler, Lisa",
+"modified": {
+"@value": "2014-07-08",
+"@type": "date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/donor/SandovalCervantesIvan",
+"@type": "PersonalName",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-08",
+"@type": "date"
+},
+"label": "Sandoval Cervantes, Ivan",
+"modified": {
+"@value": "2014-07-08",
+"@type": 
+"date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/donor/SantinoMichael",
+"@type": "PersonalName",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-08",
+"@type": "date"
+},
+"label": "Santino, Michael",
+"modified": {
+"@value": "2014-07-08",
+"@type": "date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/donor/SerronSalome",
+"@type": "PersonalName",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-08",
+"@type": "date"
+},
+"label": "Serron, Salome",
+"modified": {
+"@value": "2014-07-08",
+"@type": "date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/donor/SotoLidiana",
+"@type": "PersonalName",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-08",
+"@type": "date"
+},
+"label": "Soto, Lidiana",
+"modified": {
+"@value": "2014-07-08",
+"@type": "date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/donor/SunByron",
+"@type": "PersonalName",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-08",
+"@type": "date"
+},
+"label": "Sun, Byron",
+"modified": {
+"@value": "2014-07-08",
+"@type": "date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/donor/ThorntonJulia",
+"@type": "PersonalName",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-08",
+"@type": "date"
+},
+"label": "Thornton, Julia",
+"modified": {
+"@value": "2014-07-08",
+"@type": "date"
+}
+},
+
+
+#end latinoherit
+
+
+
+#begin uoatletics
+
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/WarrenJohn",
+"@type": "PersonalName",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-08-01",
+"@type": "date"
+},
+"label": "Warren, John",
+"modified": {
+"@value": "2014-08-01",
+"@type": "date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/donor/NorrisThelmaLehman",
+"@type": "PersonalName",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-08-01",
+"@type": "date"
+},
+"label": "Norris, Thelma Lehman",
+"modified": {
+"@value": "2014-08-01",
+"@type": "date"
+}
+},
+
+
+
+#end uoatletics
