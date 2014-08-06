@@ -1,0 +1,2952 @@
+{
+    "@context": {
+	"title": "http://purl.org/dc/terms/title",
+	"label": "http://www.w3.org/2000/01/rdf-schema#label",
+	"comment": "http://www.w3.org/2000/01/rdf-schema#comment",
+	"description": "http://purl.org/dc/terms/description",
+	"publisher": "http://purl.org/dc/terms/publisher",
+	"modified": "http://purl.org/dc/terms/modified",
+	"issued": "http://purl.org/dc/terms/issued",
+	"Collection": "http://purl.org/dc/terms/Collection",
+	"definedBy": "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+	"range": "http://www.w3.org/2000/01/rdf-schema#range",
+	"date": "http://www.w3.org/2001/XMLSchema#date",
+	"RightsStatement": "http://purl.org/dc/terms/RightsStatement",
+	"Concept": "http://www.w3.org/2004/02/skos/core#Concept",
+	"@language": "en",
+	"additionalName": "http://schema.org/additionalName",
+	"alternateName": "https://schema.org/alternateName"
+	"PersonalName": "http://www.w3.org/2004/02/skos/core#PersonalName",
+	"CorporateName": "http://www.w3.org/2004/02/skos/core#CorporateName",
+	"Topic": "http://www.w3.org/2004/02/skos/core#Topic",
+	"Geographic": "http://www.w3.org/2004/02/skos/core#Geographic",
+	"Title": "http://www.w3.org/2004/02/skos/core#Title",
+    },
+	  "@graph": [
+	{
+	    "@id": "http://opaquenamespace.org/photographer",
+	    "title": "Photographer controlled vocabulary",
+	    "publisher": "Opaque Namespace",
+	    "modified": {
+		"@value": "2013-12-16",
+		"@type": "http://www.w3.org/2001/XMLSchema#date"
+	    },
+	    "issued": {
+		"@value": "2013-12-16",
+		"@type": "http://www.w3.org/2001/XMLSchema#date"
+	    }
+	},
+
+# BEGIN PNA
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/PasschierAGregoor",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Passchier, A. Gregoor",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/DonovanBoydAdrienne",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Donovan-Boyd, Adrienne",
+	"comment": "Consultant to Oregon State Historic Preservation Office.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/PlamondonAlbertJ",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Plamondon, Albert J",
+	"date": "1890-1981",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/BiggerstaffAlbertO",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Biggerstaff, Albert O.",
+	"additionalName": "Biggerstaff, A. O.",
+	"date": "1940-",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/FisherAndrew",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Fisher, Andrew",
+	"comment": "Member of the Eugene Historic Review Board.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/VincentAndrewM",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Vincent, Andrew M.",
+	"additionalName": "Vincent, A. M.",
+	"additionalName": "Vincent, A.",
+	"date": "1898-1993",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/AngelusBuildings",
+	"@type": "CorporateName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Angelus Buildings",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/AngelusStudio",
+	"@type": "CorporateName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Angelus Studio",
+	"additionalName": "Angelus Photo Company",
+	"additionalName": "Angelus Studios",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/EstromAnina",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Estrom, Anina",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/WinnArlene",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Winn, Arlene",
+	"comment": "Historic property owner.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/KobayashiB",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Kobayashi, B.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/OlsonBjorn",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Olson, Bjorn",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/McCabeBrian",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "McCabe, Brian",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/KaserCara",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Kaser, Cara",
+	"comment": "Architectural historian, Oregon State Historic Preservation Office.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/CarlsonCarin",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Carlson, Carin",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/CarolChin",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Carol Chin",
+	"comment": "National Center for Preservation Technology and Training.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/KrafftChapinZ",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Krafft, Chapin Z.",
+	"comment": "Seattle architect.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/LipscombChristineK",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Lipscomb, Christine K.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/ThompsonChristine",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Thompson, Christine",
+	"comment": "University Planning Office.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/CoolidgeDonaldJ",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Coolidge, Donald J.",
+	"comment": "Archives and Special Collections, Consortium Library, University of Alaska Anchorage.",
+	"additionalName": "Coolidge, Don",
+	"additionalName": "Coolidge, D.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/PiperDSmith",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Piper, D. Smith",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/HornDallas",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Horn, Dallas",
+	"comment": "Roseburg architect.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/TegliaDanL",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Teglia, Dan L.",
+	"comment": "Historic property owner.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/HicksDave",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Hicks, Dave",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/SellDavid",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Sell, David",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/WalshDavid",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Walsh, David",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/Davidson",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Davidson",
+	"comment": "Photographer, Oregon Historical Society.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/BerryDiane",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Berry, Diane",
+	"comment": "Echo City Manager.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/EatonDoug",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Eaton, Doug",
+	"comment": "Student Washington State University, senior project dated 1987.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/EricsonDuane",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Ericson, Duane",
+	"comment": "Graduate student University of Oregon Historic Preservation program ca. 2010.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/TsivitziEleni",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Tsivitzi, Eleni",
+	"comment": "University of Oregon student ca. 2010.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/BradfieldEric",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Bradfield, Eric",
+	"comment": "Historic property owner.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/JamesEric",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "James, Eric",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/FuenmayorErnestina",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Fuenmayor, Ernestina",
+	"comment": "Graduate student University of Oregon Historic Preservation program ca. 2010.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/NewsomFrancis",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Newsom, Francis",
+	"comment": "University of Oregon Architecture and Allied Arts Librarian.",
+	"additionalName": "Newsom, F. S.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/DixonFrank",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Dixon, Frank",
+	"comment": "Mellbourne, Canada architect.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/CuthbertFrederickA",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Cuthbert, Frederick A.",
+	"comment": "University of Oregon Professor of Landscape Architecture.",
+	"additionalName": "Cuthbert, Fred",
+	"date": "1902-1978",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/HammerichGail",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Hammerich, Gail",
+	"additionalName": "Klein, Gail Hammerich",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/BennettGene",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Bennett, Gene",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/MartinGeneE",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Martin, Gene E.",
+	"comment": "High school geography teacher.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/SahaidaGeorganne",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Sahaida, Georganne",
+	"comment": "Architect, The Design Studio and former student at Oregon School of Design.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/McMathGeorge",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "McMath, George",
+	"comment": "Architect.",
+	"date": "-2007",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/RogersGeorge",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Rogers, George",
+	"comment": "Historic property owner.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/YostGeorge",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Yost, George",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/GiffordTheDalles",
+	"@type": "CorporateName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Gifford, The Dalles",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/HarveyCaitlin",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Harvey, Caitlin",
+	"comment": "University of Oregon student.",
+	"additionalName": "Harvey, Caitlin Page",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/HeritagePhoto",
+	"@type": "CorporateName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Heritage Photo",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/JohnsonIanP",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Johnson, Ian P.",
+	"comment": "Oregon State Historic Preservation Office historian.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/PeolletIan",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Peollet, Ian",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/EschenIris",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Eschen, Iris",
+	"comment": "Architectural historian.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/RoderickJD",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Roderick, J. D.",
+	"comment": "Historic property owner.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/WebsterJD",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Webster, J. D.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/LiuJack",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Liu, Jack",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/TomlinsonJanM",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Tomlinson, Jan M.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/MorrisonJane",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Morrison, Jane",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/AllenJasonM",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Allen, Jason M.",
+	"comment": "SWCA Environmental Consultants, historic preservation specialist.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/RogersJedS",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Rogers, Jed S.",
+	"comment": "Bureau of Reclamation.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/ShuteJeff",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Shute, Jeff",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/ToresonJeffreyA",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Toreson, Jeffrey A.",
+	"comment": "University of Oregon students ca. 2005.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/CarsonJessica",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Carson, Jessica",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/EngemanJessica",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Engeman, Jessica",
+	"comment": "Graduate student University of Oregon Historic Preservation program.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/BacherJohnG",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Bacher, John G.",
+	"comment": "Portland, Oregon horticulturalist.",
+	"date": "1882/1883-1961",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/TosoJohn",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Toso, John",
+	"comment": "Oregon-based photographer specializing in historic photograph documentation.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/PotkinJonathan",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Potkin, Jonathan",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/ChapmanJudithA",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Chapman, Judith A.",
+	"comment": "AINW, Inc., Portland, Oregon.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/GarrisonJudith",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Garrison, Judith",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/OsbornJulie",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Osborn, Julie",
+	"comment": "National Register Coordinator, SHPO.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/NewsomK",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Newsom, K.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/KrafftKatherynH",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Krafft, Katheryn H.",
+	"comment": "Seattle architectural historian.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/DoncasterKelsey",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Doncaster, Kelsey",
+	"comment": "Washington Trust for Historic Preservation .",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/MinorKristen",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Minor, Kristen",
+	"comment": "City Planner, Portland and Peter Meijer Architect PC.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/NowlinLaura",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Nowlin, Laura",
+	"comment": "Architect.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/CarterLiz",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Carter, Liz",
+	"comment": "Preservation consultant, Eugene and adjunct professor, University of Oregon.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/GilsonLloyd",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Gilson, Lloyd",
+	"comment": "Portland architect.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/EagletonLois",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Eagleton, Lois",
+	"comment": "Oregon architectural preservationist.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/KiyunaM",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Kiyuna, M.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/MarcusenMargaret",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Marcusen, Margaret",
+	"comment": "Portland, Oregon architectural preservationist.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/MarkandValerieSmith",
+	"@type": "CorporateName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Mark and Valerie Smith",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/McConnellMark",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "McConnell, Mark",
+	"comment": "Mayor of Newport, Oregon.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/WittMarvin",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Witt, Marvin",
+	"comment": "Architect and former University of Oregon student.",
+	"date": "1927-",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/BezirdjianMelina",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Bezirdjian, Melina",
+	"comment": "University of Oregon student ca. 2010.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/RysavyMike",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Rysavy, Mike",
+	"comment": "Executive Director of the Northwest Forest Conservancy .",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/PerrinNatalieK",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Perrin, Natalie K.",
+	"comment": "Architectural historian and University of Oregon student ca. 2008.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/OBECConsultingEngineers",
+	"@type": "CorporateName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "OBEC Consulting Engineers",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/KliewerPat",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Kliewer, Pat",
+	"comment": "Deschutes County Historic and Cultural Resources Planner.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/VanDuynPatriciaC",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Van Duyn, Patricia C.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/FureyPatricia",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Furey, Patricia",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/DolePhilipC",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Dole, Philip C.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/McLellandPhillisCarson",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "McLelland, Phillis Carson",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/PlazaDevelopmentInc",
+	"@type": "CorporateName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Plaza Development, Inc.",
+	"comment": "Owner of the Odd Fellows Building, Portland, Oregon.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/InternationalMuseumofCarouselArt",
+	"@type": "CorporateName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "International Museum of Carousel Art",
+	"additionalName": "Portland Carousel Museum (former)",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/FaheyQuinn",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Fahey, Quinn",
+	"comment": "Land use planner, Parametrix, Inc., Portland, Oregon.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/JonesRM",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Jones, R. M.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/DornignacqRay",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Dornignacq, Ray",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/CollinsRobertsonE",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Collins, Robertson E.",
+	"comment": "Vice chairman of National Trust for Historic Preservation, Southern Oregon Historical Society and the Preservation League of Oregon.",
+	"additionalName": "Collins, Robbie",
+	"date": "1921-2003",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/PainterSally",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Painter, Sally",
+	"comment": "Architectural photographer, Portland, Oregon.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/BryanStanleyW",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Bryan, Stanley W.",
+	"comment": "University of Oregon Professor of Architecutre.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/AskinTimothy",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Askin, Timothy",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/GreenTom",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Green, Tom",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/PierceTom",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Pierce, Tom",
+	"comment": "Architect, Thomas Pierce Architecture and Interior Design. University of Oregon student of architecutr, 1982-1987.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/SmithTom",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Smith, Tom",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/Towne",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Towne",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/HaydenWallaceS",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Hayden, Wallace S.",
+	"additionalName": "W. S. H.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/JohnstonWilliamB",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Johnston, William B.",
+	"additionalName": "Johnston, Bill",
+	"date": "1933-1993",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+# END PNA
+# BEGIN MAIC
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/TepferGary",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Tepfer, Gary",
+	"comment": "Name and dates derived from a website.",
+	"date": "active, 1970",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	},
+
+#END MAIC
+# BEGIN WWDL
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/GibsonRobert",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	},
+	"label": "Gibson, Robert",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/KinneyMJ",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	},
+	"label": "Kinney, M. J.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/LorraineMadisonJohnson",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	},
+	"label": "Lorraine, Madison Johnson",
+	"date": "1853-",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/photgrapher/ShankHH",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	},
+	"label": "Shank, H. H.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+#END WWDL
+
+
+
+#begin Sarah's additions
+
+
+#begin uoathletics
+
+
+{
+”@id”:"http://opaquenamespace.org/ns/photographer/ABFrench"
+"@type":"PersonalName"
+"definedBy":{
+"@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
+}
+"issued":{
+"@value":"20140801"
+"@type":"date"
+}
+"label":"A.B. French"
+"modified":{
+"@value":"20140801"
+"@type":"date"
+}
+}
+
+
+{
+”@id”:"http://opaquenamespace.org/ns/photographer/AaronRubinoPhotography"
+"@type":"CorporateName"
+"definedBy":{
+"@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
+}
+"issued":{
+"@value":"20140801"
+"@type":"date"
+}
+"label":"Aaron Rubino Photography"
+"modified":{
+"@value":"20140801"
+"@type":"date"
+}
+}
+
+
+{
+”@id”:"http://opaquenamespace.org/ns/photographer/BoylesBarry"
+"@type":"PersonalName"
+"definedBy":{
+"@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
+}
+"issued":{
+"@value":"20140801"
+"@type":"date"
+}
+"label":"Boyles, Barry"
+"modified":{
+"@value":"20140801"
+"@type":"date"
+}
+}
+
+
+{
+”@id”:"http://opaquenamespace.org/ns/photographer/BreedloveGary"
+"@type":"PersonalName"
+"definedBy":{
+"@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
+}
+"issued":{
+"@value":"20140801"
+"@type":"date"
+}
+"label":"Breedlove, Gary"
+"modified":{
+"@value":"20140801"
+"@type":"date"
+}
+}
+
+
+{
+”@id”:"http://opaquenamespace.org/ns/photographer/ButtonBaker"
+"@type":"PersonalName"
+"definedBy":{
+"@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
+}
+"issued":{
+"@value":"20140801"
+"@type":"date"
+}
+"label":"Button, Baker"
+"modified":{
+"@value":"20140801"
+"@type":"date"
+}
+}
+
+
+{
+”@id”:"http://opaquenamespace.org/ns/photographer/ConwayMichaelP"
+"@type":"PersonalName"
+"definedBy":{
+"@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
+}
+"issued":{
+"@value":"20140801"
+"@type":"date"
+}
+"label":"Conway, Michael P."
+"modified":{
+"@value":"20140801"
+"@type":"date"
+}
+}
+
+
+{
+”@id”:"http://opaquenamespace.org/ns/photographer/CroniseRalphR"
+"@type":"PersonalName"
+"definedBy":{
+"@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
+}
+"issued":{
+"@value":"20140801"
+"@type":"date"
+}
+"label":"Cronise, Ralph R."
+"modified":{
+"@value":"20140801"
+"@type":"date"
+}
+}
+
+
+{
+”@id”:"http://opaquenamespace.org/ns/photographer/EastburnWayne"
+"@type":"PersonalName"
+"definedBy":{
+"@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
+}
+"issued":{
+"@value":"20140801"
+"@type":"date"
+}
+"label":"Eastburn, Wayne"
+"modified":{
+"@value":"20140801"
+"@type":"date"
+}
+}
+
+
+{
+”@id”:"http://opaquenamespace.org/ns/photographer/EggeJoe"
+"@type":"PersonalName"
+"definedBy":{
+"@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
+}
+"issued":{
+"@value":"20140801"
+"@type":"date"
+}
+"label":"Egge, Joe"
+"modified":{
+"@value":"20140801"
+"@type":"date"
+}
+}
+
+
+{
+”@id”:"http://opaquenamespace.org/ns/photographer/FarquharGeorge"
+"@type":"PersonalName"
+"definedBy":{
+"@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
+}
+"issued":{
+"@value":"20140801"
+"@type":"date"
+}
+"label":"Farquhar, George"
+"modified":{
+"@value":"20140801"
+"@type":"date"
+}
+}
+
+
+{
+”@id”:"http://opaquenamespace.org/ns/photographer/GillRobert"
+"@type":"PersonalName"
+"definedBy":{
+"@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
+}
+"issued":{
+"@value":"20140801"
+"@type":"date"
+}
+"label":"Gill, Robert"
+"modified":{
+"@value":"20140801"
+"@type":"date"
+}
+}
+
+
+{
+”@id”:"http://opaquenamespace.org/ns/photographer/GiustinaJohn"
+"@type":"PersonalName"
+"definedBy":{
+"@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
+}
+"issued":{
+"@value":"20140801"
+"@type":"date"
+}
+"label":"Giustina, John"
+"modified":{
+"@value":"20140801"
+"@type":"date"
+}
+}
+
+
+{
+”@id”:"http://opaquenamespace.org/ns/photographer/Graves"
+"@type":"PersonalName"
+"definedBy":{
+"@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
+}
+"issued":{
+"@value":"20140801"
+"@type":"date"
+}
+"label":"Graves"
+"modified":{
+"@value":"20140801"
+"@type":"date"
+}
+}
+
+
+{
+”@id”:"http://opaquenamespace.org/ns/photographer/GreenStanleyO"
+"@type":"PersonalName"
+"definedBy":{
+"@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
+}
+"issued":{
+"@value":"20140801"
+"@type":"date"
+}
+"label":"Green, Stanley O."
+"modified":{
+"@value":"20140801"
+"@type":"date"
+}
+}
+
+
+{
+”@id”:"http://opaquenamespace.org/ns/photographer/GruenfelderNeilS"
+"@type":"PersonalName"
+"definedBy":{
+"@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
+}
+"issued":{
+"@value":"20140801"
+"@type":"date"
+}
+"label":"Gruenfelder, Neil S."
+"modified":{
+"@value":"20140801"
+"@type":"date"
+}
+}
+
+
+{
+”@id”:"http://opaquenamespace.org/ns/photographer/HartMike"
+"@type":"PersonalName"
+"definedBy":{
+"@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
+}
+"issued":{
+"@value":"20140801"
+"@type":"date"
+}
+"label":"Hart, Mike"
+"modified":{
+"@value":"20140801"
+"@type":"date"
+}
+}
+
+
+{
+”@id”:"http://opaquenamespace.org/ns/photographer/HarveyPaulWIV"
+"@type":"PersonalName"
+"definedBy":{
+"@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
+}
+"issued":{
+"@value":"20140801"
+"@type":"date"
+}
+"label":"Harvey, Paul W., IV"
+"modified":{
+"@value":"20140801"
+"@type":"date"
+}
+}
+
+
+{
+”@id”:"http://opaquenamespace.org/ns/photographer/HeinonenJanet"
+"@type":"PersonalName"
+"definedBy":{
+"@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
+}
+"issued":{
+"@value":"20140801"
+"@type":"date"
+}
+"label":"Heinonen, Janet"
+"modified":{
+"@value":"20140801"
+"@type":"date"
+}
+}
+
+
+{
+”@id”:"http://opaquenamespace.org/ns/photographer/HopeHermanA"
+"@type":"PersonalName"
+"definedBy":{
+"@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
+}
+"issued":{
+"@value":"20140801"
+"@type":"date"
+}
+"label":"Hope, Herman A."
+"modified":{
+"@value":"20140801"
+"@type":"date"
+}
+}
+
+
+{
+”@id”:"http://opaquenamespace.org/ns/photographer/JohnsonDana"
+"@type":"PersonalName"
+"definedBy":{
+"@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
+}
+"issued":{
+"@value":"20140801"
+"@type":"date"
+}
+"label":"Johnson, Dana"
+"modified":{
+"@value":"20140801"
+"@type":"date"
+}
+}
+
+
+{
+”@id”:"http://opaquenamespace.org/ns/photographer/JonesOttoM"
+"@type":"PersonalName"
+"definedBy":{
+"@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
+}
+"issued":{
+"@value":"20140801"
+"@type":"date"
+}
+"label":"Jones, Otto M."
+"modified":{
+"@value":"20140801"
+"@type":"date"
+}
+}
+
+
+{
+”@id”:"http://opaquenamespace.org/ns/photographer/KennellEllis"
+"@type":"PersonalName"
+"definedBy":{
+"@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
+}
+"issued":{
+"@value":"20140801"
+"@type":"date"
+}
+"label":"Kennell-Ellis"
+"modified":{
+"@value":"20140801"
+"@type":"date"
+}
+}
+
+
+{
+”@id”:"http://opaquenamespace.org/ns/photographer/LinkJames"
+"@type":"PersonalName"
+"definedBy":{
+"@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
+}
+"issued":{
+"@value":"20140801"
+"@type":"date"
+}
+"label":"Link, James"
+"modified":{
+"@value":"20140801"
+"@type":"date"
+}
+}
+
+
+{
+”@id”:"http://opaquenamespace.org/ns/photographer/LyonsMike"
+"@type":"PersonalName"
+"definedBy":{
+"@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
+}
+"issued":{
+"@value":"20140801"
+"@type":"date"
+}
+"label":"Lyons, Mike"
+"modified":{
+"@value":"20140801"
+"@type":"date"
+}
+}
+
+
+{
+”@id”:"http://opaquenamespace.org/ns/photographer/MathesonJack"
+"@type":"PersonalName"
+"definedBy":{
+"@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
+}
+"issued":{
+"@value":"20140801"
+"@type":"date"
+}
+"label":"Matheson, Jack"
+"modified":{
+"@value":"20140801"
+"@type":"date"
+}
+}
+
+
+{
+”@id”:"http://opaquenamespace.org/ns/photographer/MathesonJoe"
+"@type":"PersonalName"
+"definedBy":{
+"@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
+}
+"issued":{
+"@value":"20140801"
+"@type":"date"
+}
+"label":"Matheson, Joe"
+"modified":{
+"@value":"20140801"
+"@type":"date"
+}
+}
+
+
+{
+”@id”:"http://opaquenamespace.org/ns/photographer/McDonaldDuncan"
+"@type":"PersonalName"
+"definedBy":{
+"@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
+}
+"issued":{
+"@value":"20140801"
+"@type":"date"
+}
+"label":"McDonald, Duncan"
+"modified":{
+"@value":"20140801"
+"@type":"date"
+}
+}
+
+
+{
+”@id”:"http://opaquenamespace.org/ns/photographer/Mentzer"
+"@type":"PersonalName"
+"definedBy":{
+"@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
+}
+"issued":{
+"@value":"20140801"
+"@type":"date"
+}
+"label":"Mentzer"
+"modified":{
+"@value":"20140801"
+"@type":"date"
+}
+}
+
+
+{
+”@id”:"http://opaquenamespace.org/ns/photographer/MertzRobert"
+"@type":"PersonalName"
+"definedBy":{
+"@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
+}
+"issued":{
+"@value":"20140801"
+"@type":"date"
+}
+"label":"Mertz, Robert"
+"modified":{
+"@value":"20140801"
+"@type":"date"
+}
+}
+
+
+{
+”@id”:"http://opaquenamespace.org/ns/photographer/MorganWarren"
+"@type":"PersonalName"
+"definedBy":{
+"@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
+}
+"issued":{
+"@value":"20140801"
+"@type":"date"
+}
+"label":"Morgan, Warren"
+"modified":{
+"@value":"20140801"
+"@type":"date"
+}
+}
+
+
+{
+”@id”:"http://opaquenamespace.org/ns/photographer/MurdockSteve"
+"@type":"PersonalName"
+"definedBy":{
+"@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
+}
+"issued":{
+"@value":"20140801"
+"@type":"date"
+}
+"label":"Murdock, Steve"
+"modified":{
+"@value":"20140801"
+"@type":"date"
+}
+}
+
+
+{
+”@id”:"http://opaquenamespace.org/ns/photographer/PalmquistOscar"
+"@type":"PersonalName"
+"definedBy":{
+"@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
+}
+"issued":{
+"@value":"20140801"
+"@type":"date"
+}
+"label":"Palmquist, Oscar"
+"modified":{
+"@value":"20140801"
+"@type":"date"
+}
+}
+
+
+{
+”@id”:"http://opaquenamespace.org/ns/photographer/PitnerMirkoJ"
+"@type":"PersonalName"
+"definedBy":{
+"@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
+}
+"issued":{
+"@value":"20140801"
+"@type":"date"
+}
+"label":"Pitner, Mirko J."
+"modified":{
+"@value":"20140801"
+"@type":"date"
+}
+}
+
+
+{
+”@id”:"http://opaquenamespace.org/ns/photographer/PostonSean"
+"@type":"PersonalName"
+"definedBy":{
+"@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
+}
+"issued":{
+"@value":"20140801"
+"@type":"date"
+}
+"label":"Poston, Sean"
+"modified":{
+"@value":"20140801"
+"@type":"date"
+}
+}
+
+
+{
+”@id”:"http://opaquenamespace.org/ns/photographer/PowellJohnT"
+"@type":"PersonalName"
+"definedBy":{
+"@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
+}
+"issued":{
+"@value":"20140801"
+"@type":"date"
+}
+"label":"Powell, John T."
+"modified":{
+"@value":"20140801"
+"@type":"date"
+}
+}
+
+
+{
+”@id”:"http://opaquenamespace.org/ns/photographer/RalphVincentPhotography"
+"@type":"CorporateName"
+"definedBy":{
+"@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
+}
+"issued":{
+"@value":"20140801"
+"@type":"date"
+}
+"label":"Ralph Vincent Photography"
+"modified":{
+"@value":"20140801"
+"@type":"date"
+}
+}
+
+
+{
+”@id”:"http://opaquenamespace.org/ns/photographer/ReadAC"
+"@type":"PersonalName"
+"definedBy":{
+"@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
+}
+"issued":{
+"@value":"20140801"
+"@type":"date"
+}
+"label":"Read, A.C."
+"modified":{
+"@value":"20140801"
+"@type":"date"
+}
+}
+
+
+{
+”@id”:"http://opaquenamespace.org/ns/photographer/RegisterGuardEugeneOr"
+"@type":"CorporateName"
+"definedBy":{
+"@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
+}
+"issued":{
+"@value":"20140801"
+"@type":"date"
+}
+"label":"Register-Guard (Eugene, Or.)"
+"modified":{
+"@value":"20140801"
+"@type":"date"
+}
+}
+
+
+{
+”@id”:"http://opaquenamespace.org/ns/photographer/SmithRobertL"
+"@type":"PersonalName"
+"definedBy":{
+"@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
+}
+"issued":{
+"@value":"20140801"
+"@type":"date"
+}
+"label":"Smith, Robert L."
+"modified":{
+"@value":"20140801"
+"@type":"date"
+}
+}
+
+
+{
+”@id”:"http://opaquenamespace.org/ns/photographer/SoggeStudio"
+"@type":"PersonalName"
+"definedBy":{
+"@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
+}
+"issued":{
+"@value":"20140801"
+"@type":"date"
+}
+"label":"Smith, Robert L."
+"modified":{
+"@value":"20140801"
+"@type":"date"
+}
+}
+
+
+{
+”@id”:"http://opaquenamespace.org/ns/photographer/StovepipeStudio"
+"@type":"CorporateName"
+"definedBy":{
+"@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
+}
+"issued":{
+"@value":"20140801"
+"@type":"date"
+}
+"label":"Sogge Studio"
+"modified":{
+"@value":"20140801"
+"@type":"date"
+}
+}
+
+
+{
+”@id”:"http://opaquenamespace.org/ns/photographer/ThompsonMary"
+"@type":"PersonalName"
+"definedBy":{
+"@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
+}
+"issued":{
+"@value":"20140801"
+"@type":"date"
+}
+"label":"Stovepipe Studio"
+"modified":{
+"@value":"20140801"
+"@type":"date"
+}
+}
+
+
+{
+”@id”:"http://opaquenamespace.org/ns/photographer/TollmanofEugene"
+"@type":"PersonalName"
+"definedBy":{
+"@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
+}
+"issued":{
+"@value":"20140801"
+"@type":"date"
+}
+"label":"Thompson, Mary"
+"modified":{
+"@value":"20140801"
+"@type":"date"
+}
+}
+
+
+{
+”@id”:"http://opaquenamespace.org/ns/photographer/Tuttle"
+"@type":"PersonalName"
+"definedBy":{
+"@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
+}
+"issued":{
+"@value":"20140801"
+"@type":"date"
+}
+"label":"Tollman of Eugene"
+"modified":{
+"@value":"20140801"
+"@type":"date"
+}
+}
+
+
+{
+”@id”:"http://opaquenamespace.org/ns/photographer/VonRummelhoffJames"
+"@type":"PersonalName"
+"definedBy":{
+"@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
+}
+"issued":{
+"@value":"20140801"
+"@type":"date"
+}
+"label":"Tuttle"
+"modified":{
+"@value":"20140801"
+"@type":"date"
+}
+}
+
+
+{
+”@id”:"http://opaquenamespace.org/ns/photographer/WideWorldPhoto"
+"@type":"CorporateName"
+"definedBy":{
+"@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
+}
+"issued":{
+"@value":"20140801"
+"@type":"date"
+}
+"label":"Von Rummelhoff, James"
+"modified":{
+"@value":"20140801"
+"@type":"date"
+}
+}
+
+
+{
+”@id”:"http://opaquenamespace.org/ns/photographer/WiltshiresEugeneOr"
+"@type":"CorporateName"
+"definedBy":{
+"@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
+}
+"issued":{
+"@value":"20140801"
+"@type":"date"
+}
+"label":"Wide World Photo"
+"modified":{
+"@value":"20140801"
+"@type":"date"
+}
+}
+
+
+{
+”@id”:"http://opaquenamespace.org/ns/photographer/WojahnBrent"
+"@type":"PersonalName"
+"definedBy":{
+"@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
+}
+"issued":{
+"@value":"20140801"
+"@type":"date"
+}
+"label":"Wiltshire's (Eugene, Or.)"
+"modified":{
+"@value":"20140801"
+"@type":"date"
+}
+}
+
+
+{
+”@id”:"http://opaquenamespace.org/ns/photographer/WolcottPhil"
+"@type":"PersonalName"
+"definedBy":{
+"@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
+}
+"issued":{
+"@value":"20140801"
+"@type":"date"
+}
+"label":"Wojahn, Brent"
+"modified":{
+"@value":"20140801"
+"@type":"date"
+}
+}
+
+
+{
+”@id”:"http://opaquenamespace.org/ns/photographer/YimmKen"
+"@type":"PersonalName"
+"definedBy":{
+"@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
+}
+"issued":{
+"@value":"20140801"
+"@type":"date"
+}
+"label":"Wolcott, Phil"
+"modified":{
+"@value":"20140801"
+"@type":"date"
+}
+}
+
+
+{
+”@id”:"http://opaquenamespace.org/ns/photographer/ZahnDavid"
+"@type":"PersonalName"
+"definedBy":{
+"@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
+}
+"issued":{
+"@value":"20140801"
+"@type":"date"
+}
+"label":"Yimm, Ken"
+"modified":{
+"@value":"20140801"
+"@type":"date"
+}
+}
+
+
+{
+”@id”:"http://opaquenamespace.org/ns/photographer/ZiaMichaelH"
+"@type":"PersonalName"
+"definedBy":{
+"@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
+}
+"issued":{
+"@value":"20140801"
+"@type":"date"
+}
+"label":"Zahn, David"
+"modified":{
+"@value":"20140801"
+"@type":"date"
+}
+}
+
+
+{
+”@id”:"http://opaquenamespace.org/ns/photographer/ZiaMichaelH"
+"@type":"PersonalName"
+"definedBy":{
+"@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
+}
+"issued":{
+"@value":"20140801"
+"@type":"date"
+}
+"label":"Zia, Michael H."
+"modified":{
+"@value":"20140801"
+"@type":"date"
+}
+}
+
+#end uoathletics
+
