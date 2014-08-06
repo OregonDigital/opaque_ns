@@ -1,0 +1,3330 @@
+{
+    "@context": {
+	"title": "http://purl.org/dc/terms/title",
+	"label": "http://www.w3.org/2000/01/rdf-schema#label",
+	"comment": "http://www.w3.org/2000/01/rdf-schema#comment",
+	"description": "http://purl.org/dc/terms/description",
+	"publisher": "http://purl.org/dc/terms/publisher",
+	"modified": "http://purl.org/dc/terms/modified",
+	"issued": "http://purl.org/dc/terms/issued",
+	"Collection": "http://purl.org/dc/terms/Collection",
+	"definedBy": "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+	"range": "http://www.w3.org/2000/01/rdf-schema#range",
+	"date": "http://www.w3.org/2001/XMLSchema#date",
+	"RightsStatement": "http://purl.org/dc/terms/RightsStatement",
+	"Concept": "http://www.w3.org/2004/02/skos/core#Concept",
+	"@language": "en",
+	"additionalName": "http://schema.org/additionalName",
+	"alternateName": "https://schema.org/alternateName"
+	"PersonalName": "http://www.w3.org/2004/02/skos/core#PersonalName",
+	"CorporateName": "http://www.w3.org/2004/02/skos/core#CorporateName",
+	"Topic": "http://www.w3.org/2004/02/skos/core#Topic",
+	"Geographic": "http://www.w3.org/2004/02/skos/core#Geographic",
+	"Title": "http://www.w3.org/2004/02/skos/core#Title",
+    },
+	  "@graph": [
+	{
+	    "@id": "http://opaquenamespace.org/stylePeriod",
+	    "title": "stylePeriod controlled vocabulary",
+	    "publisher": "Opaque Namespace",
+	    "modified": {
+		"@value": "2013-12-16",
+		"@type": "http://www.w3.org/2001/XMLSchema#date"
+	    },
+	    "issued": {
+		"@value": "2013-12-16",
+		"@type": "http://www.w3.org/2001/XMLSchema#date"
+	    }
+	},
+	
+ # BEGIN AAI ETC
+  
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/AbdalWadid", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Abd al-Wadid", 
+	"comment": "Encyclopædia Britannica, Inc.; Encyclopaedia Britannica Online, Chicago: Encyclopædia Britannica, Inc., 2007. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/AbstractKineticist", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Abstract Kineticist", 
+	"comment": "Term originated with Art on File. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/Afsharid", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Afsharid", 
+	"comment": "Hattstein, Markus and Peter Delius; Islam: Art and Architecture, Cologne: Könemann, 2000. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/Akbari", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Akbari", 
+	"comment": "Dehejia, Vidya. Indian art. London : Phaidon Press, 1997. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/Alawid", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Alawid", 
+	"comment": "http://collection.britishmuseum.org/resource/thes/x113908. The Filali Sharifs claimed descent from the Prophet Muhammad. They originated from south-eastern Morocco and restored central authority throughout Morocco in the late 17th-18th centuries.", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/AltunHa", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Altun-Ha", 
+	"comment": "Reents-Budet, Dorie; Painting the Maya Universe: Royal Ceramics form the Classic Period, Durham; London: Duke University Press, 1994. Named after the site in central Belize where the majority of vessels have been discovered. The style is distinctive not only for the black backgrounds but also for the unusually colorful head variant hieroglyphs of the pss texts painted on these vessels. These vases may provide us with the first evidence of Yucatec Mayan being spoken so far south of its traditional area, the Yucatan Peninsula of Mexico.", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/Ansei", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Ansei", 
+	"comment": "Clark, Timothy; Ukiyo-e Paintings in the British Museum, Washington, D.C.: Smithsonian Institution Press, 1992. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/AodeKokutanistyle", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Aode Kokutani style", 
+	"comment": "Singer, Robert T.; Edo, Art in Japan 1615-1968, Washington: National Gallery of Art, 1998. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/Arabshahids", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Arabshahids", 
+	"comment": "Hattstein, Markus and Peter Delius; Islam: Art and Architecture, Cologne: Könemann, 2000. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/ArtBrut", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Art Brut", 
+	"comment": "Gealt, Adelheid, et al.; Masterworks from the Indiana University Art Museum, Bloomington, IN: Indiana University Press, 2007. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/ArtEvolució", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Art-Evolució", 
+	"comment": "Robinson, William H, Jordi Falgàs, and Carmen Belen Lord; Barcelona and Modernity: Picasso, Gaudí, Miró, Dalí, Cleveland, New Haven: Cleveland Museum of Art, Yale University Press, 2006. A Spanish avant-garde movement associated with Joaquín Torres-García.  His focus on the subject of the city offered a clean break from the classicism of Noucentisme and was well suited for his experiments in cubist form.  Art-Evolució was one of the first movements in Spain to integrate the formal innovations and theories prevalent in the broader European avant-garde.    ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/Artuqid", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Artuqid", 
+	"comment": "Hoag, John D.; Islamic Architecture, New York: Harry N. Abrams, Inc., 1977. The Artuqid dynasty (Artuklu in Turkish, sometimes also spelled as Artukid or Ortokid; Turkish plural: Artukoğulları) was an Oghuz Turkish dynasty that ruled in Eastern Anatolia and Northern Iraq in the eleventh and twelfth centuries. Two main branches of the dynasty ruled from Hasankeyf (Hısn-ı Keyf, Hısnkeyfa) between 1102–1231 and Mardin between 1106–1186 (and until 1409 as vassals). There was also a third branch that acquired Harput in 1112 and was independent between 1185–1233.  The dynasty was founded by Artuq, son of Eksük, a general originally under Malik Shah I and then under the Seljuk emir of Damascus, Tutush I. Tutush appointed Artuq governor of Jerusalem in 1086. Artuq died in 1091, and his sons Sokman and Ilghazi were expelled from Jerusalem by the Fatimid vizier al-Afdal Shahanshah in 1098; the Fatimids lost the city to the crusaders the following year.. (Wikipedia)", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/AshtarkhanidJanid", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Ashtarkhanid (Janid)", 
+	"comment": "Term originated in the University of Oregon Visual Resources Collection slide collections. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/Aurelian", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Aurelian", 
+	"comment": "Rossi, Guido Alberto and Franco Lefèvre; Rome From the Air, New York: Rizzoli International Publications, Inc., 1989. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/Ayutthaya", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Ayutthaya", 
+	"comment": "Mannikka, Eleanor; Selected Topics in Cataloging Asian Art: VRA, VRA Special Bulletin No. 4, Visual Resources Association, 1989. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/BatakSumatranstyle", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Batak (Sumatran style)", 
+	"comment": "Gealt, Adelheid, et al.; Masterworks from the Indiana University Art Museum, Bloomington, IN: Indiana University Press, 2007. Toba subgroup, Sumatra, Indonesia", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/BayAreaFigurativeSchool", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Bay-Area Figurative School", 
+	"comment": "http://www.oxfordreference.com/view/10.1093/acref/9780195335798.001.0001/acref-9780195335798-e-153. Term applied to a group of American artists active in San Francisco from 1950 to the mid-1960s who forged a vibrant brand of figurative expressionism. Originating in the studios and art schools of postwar San Francisco, the movement transcended its regional identity to attain national recognition as a major trend in mid-20th-century American art.", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/BeringStraitInuit", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Bering Strait Inuit", 
+	"comment": "Lee, Molly and Gregory A. Reinhardt; Eskimo Architecture: Dwelling and Structure in the Early Historic Period, Fairbanks: University of Alaska Press and University of Alaska Museum, 2003. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/BlancdeChineware", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Blanc de Chine ware", 
+	"comment": "Holden, Wendy; 'A Guide to Cataloguing Chinese Art', Visual Resources Association Special Bulletin No. 13,  (1050138x). Ivory-white porcelain with transparent glaze produced from Dehua kilns in Fujian province.  Shapes such as tripods, footed censers and zun, as well as figures and devotional objects (most common is Guanyin), are typical.  Exported in the 17th and 18th centuries.", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/BlaueReiter", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Blaue Reiter", 
+	"comment": "Gealt, Adelheid, et al.; Masterworks from the Indiana University Art Museum, Bloomington, IN: Indiana University Press, 2007. Expressionist group", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/Blueandwhiteware", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Blue and white ware", 
+	"comment": "Holden, Wendy; 'A Guide to Cataloguing Chinese Art', Visual Resources Association Special Bulletin No. 13,  (1050138x). Most important development of Yuan dynasty ceramic production was underglaze blue painting.  The blue is derived from cobalt oxide, fired in a reducing atmosphere.  Designs were painted on an unfired white porcelain body.  Earliest dated blue and white is 1319, excavated from a tomb in Jiangxi. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/BrandywineSchool", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Brandywine School", 
+	"comment": "Term originated with the Bridgeman Art Library. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/Bunka", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Bunka", 
+	"comment": "Clark, Timothy; Ukiyo-e Paintings in the British Museum, Washington, D.C.: Smithsonian Institution Press, 1992. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/Bunkyū", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Bunkyū", 
+	"comment": "Clark, Timothy; Ukiyo-e Paintings in the British Museum, Washington, D.C.: Smithsonian Institution Press, 1992. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/Bunsei", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Bunsei", 
+	"comment": "Clark, Timothy; Ukiyo-e Paintings in the British Museum, Washington, D.C.: Smithsonian Institution Press, 1992. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/CapeCodColonial", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Cape Cod Colonial", 
+	"comment": "Term used by Dr. Kingston Heath, University of Oregon. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/Chaco", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Chaco", 
+	"comment": "Nabokov, Peter and Robert Easton; Native American Architecture, Oxford: Oxford University Press, 1989. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/Chaghatayid", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Chaghatayid", 
+	"comment": "Hattstein, Markus and Peter Delius; Islam: Art and Architecture, Cologne: Könemann, 2000. Use with Mongol", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/ClassicCottage", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Classic Cottage", 
+	"comment": "Hawkins, William J., III and Willaim F. Willingham; Classic Houses of Portland, Oregon, 1850-1950, Portland, OR: Timber Press, 2005. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/Domitian", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Domitian", 
+	"comment": "Term used by Dr. Steven Lowenstam, University of Oregon. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/Downingcottage", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Downing cottage", 
+	"comment": "Term used by Dr. Kingston Heath, University of Oregon. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/EarlyApulian", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Early Apulian", 
+	"comment": "Term used by Dr. Steven Lowenstam, University of Oregon. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/EarlyBoetian", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Early Boetian", 
+	"comment": "Term used by Dr. Steven Lowenstam, University of Oregon. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/EarlyHelladicII", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Early Helladic II", 
+	"comment": "Matz, Friedrich; Art of Crete and Early Greece: the Prelude to Greek Art, New York: Greystone Press, 1962. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/EarlyHelladicIII", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Early Helladic III", 
+	"comment": "Term used by Dr. Steven Lowenstam, University of Oregon. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/EarlyHistoric", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Early Historic", 
+	"comment": "Mannikka, Eleanor; Selected Topics in Cataloging Asian Art: VRA, VRA Special Bulletin No. 4, Visual Resources Association, 1989. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/EarlyLucanian", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Early Lucanian", 
+	"comment": "Term used by Dr. Steven Lowenstam, University of Oregon. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/EarlyMannerist", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Early Mannerist", 
+	"comment": "Term used by Dr. Steven Lowenstam, University of Oregon. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/EarlyMinoanII", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Early Minoan II", 
+	"comment": "Matz, Friedrich; Art of Crete and Early Greece: the Prelude to Greek Art, New York: Greystone Press, 1962. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/EarlyPrepalatial", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Early Prepalatial", 
+	"comment": "Term used by Dr. Steven Lowenstam, University of Oregon. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/EarlyTang", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Early Tang", 
+	"comment": "Fong, Wen C. and James C.Y. Watt; Possessing the Past, New York: Metropolitan Museum of Art, 1996. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/EastAegean", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "East Aegean", 
+	"comment": "Term used by Dr. Steven Lowenstam, University of Oregon. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/EastIonian", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "East Ionian", 
+	"comment": "Term used by Dr. Steven Lowenstam, University of Oregon. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/EdoMiddlePeriod", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Edo Middle Period", 
+	"comment": "Gealt, Adelheid, et al.; Masterworks from the Indiana University Art Museum, Bloomington, IN: Indiana University Press, 2007. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/ErubIsland", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Erub Island", 
+	"comment": "Gealt, Adelheid, et al.; Masterworks from the Indiana University Art Museum, Bloomington, IN: Indiana University Press, 2007. Australian; aka Darnley Island", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/Exotic", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Exotic", 
+	"comment": "Term used by Dr. Michael Shellenbarger, University of Oregon. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/FederalVernacular", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Federal Vernacular", 
+	"comment": "Term used by Dr. Leland Roth, University of Oregon. An early Oregon building style created by non-professional builders remembering buildings and styles from the East Coast. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/Hammudid", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Hammudid", 
+	"comment": "Barrucand, Marianne and Achim Bednorz; Moorish Architecture in Andalucia, Los Angeles: Taschen GmbH, 2007. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/HarmonistChristiansect", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Harmonist (Christian sect)", 
+	"comment": "Zimmerman, Philip; Harmony in Wood, Ambridge, PA: Friends of Old Economy Village, 2010. Members of the Harmony Society, a pietist, communal German religious group of separatist Lutherans, founded in 1814  by German immigrant George Rapp (actually Johann Georg Rapp) and then settled in Pennsylvania and Indiana.", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/Hattian", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Hattian", 
+	"comment": "Term originated in the University of Oregon Visual Resources Collection slide collections. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/HudsonRiverSchool", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Hudson River School", 
+	"comment": "Gealt, Adelheid, et al.; Masterworks from the Indiana University Art Museum, Bloomington, IN: Indiana University Press, 2007. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/Inaqid", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Inaqid", 
+	"comment": "Hattstein, Markus and Peter Delius; Islam: Art and Architecture, Cologne: Könemann, 2000. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/IncaHorizonPeriod", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Inca Horizon Period", 
+	"comment": "Damian, Carol; Virgin of the Andes; Art and Ritual in Colonial Cuzco, Miami Beach: Grassfield Press, 1995. This period is also known as the Imperial Era, a period of great expansion for the Incan empire.", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/Jalayir", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Jalayir", 
+	"comment": "Term originated with the Freer Gallery of Art. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/Jalayirid", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Jalayirid", 
+	"comment": "Hattstein, Markus and Peter Delius; Islam: Art and Architecture, Cologne: Könemann, 2000. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/Justiniac", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Justiniac", 
+	"comment": "Kleiner, Fred S. and Christin J. Mamiya; Gardner's Art Through the Ages, Twelfth Edition, Belmont, California: Thomson/Wadsworth, 2005. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/Kaei", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Kaei", 
+	"comment": "Clark, Timothy; Ukiyo-e Paintings in the British Museum, Washington, D.C.: Smithsonian Institution Press, 1992. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/Kambot", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Kambot", 
+	"comment": "Gealt, Adelheid, et al.; Masterworks from the Indiana University Art Museum, Bloomington, IN: Indiana University Press, 2007. Lower Sepik River, Papua New Guinea people, aka Tindama, Tin Dama", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/Keicho", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Keicho", 
+	"comment": "Kuroda, Taizo, Melinda Takeuchi and Yuzo Yamane; Worlds Seen and Imagined: Japanese Screens from The Idemitsu Museum of Arts, New York: Abbeville Press Publishers, 1995  (0789200813). ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/Keiō", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Keiō", 
+	"comment": "Clark, Timothy; Ukiyo-e Paintings in the British Museum, Washington, D.C.: Smithsonian Institution Press, 1992. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/Kemaresware", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Kemares ware", 
+	"comment": "Encyclopædia Britannica, Inc.; Encyclopaedia Britannica Online, Chicago: Encyclopædia Britannica, Inc., 2007. Middle Minoan pottery style", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/Kerschstyle", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Kersch style", 
+	"comment": "Term used by Dr. Steven Lowenstam, University of Oregon. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/KhwarazmShahs", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Khwarazm-Shahs", 
+	"comment": "Hattstein, Markus and Peter Delius; Islam: Art and Architecture, Cologne: Könemann, 2000. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/Koetsustyle", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Koetsu style", 
+	"comment": "Fischer, Felice, et al.; Arts of Hon'Ami Koetsu, Japanese Renaissance Master, Philadelphia: Philadephi Museum of Art, 2000. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/Koimaristyle", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Koimari style", 
+	"comment": "Singer, Robert T. et al.; Edo: Art in Japan 1615-1868, Washington, DC: National Gallery of Art, 1998. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/Konbaungdynasty", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Konbaung dynasty", 
+	"comment": "Term originated in the University of Oregon Visual Resources Collection slide collections. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/KotzebueSoundInuit", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Kotzebue Sound Inuit", 
+	"comment": "Lee, Molly and Gregory A. Reinhardt; Eskimo Architecture: Dwelling and Structure in the Early Historic Period, Fairbanks: University of Alaska Press and University of Alaska Museum, 2003. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/Laeconian", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Laeconian", 
+	"comment": "Term used by Dr. Steven Lowenstam, University of Oregon. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/lateFaliscan", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "late Faliscan", 
+	"comment": "Term used by Dr. Steven Lowenstam, University of Oregon. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/LateFlavian", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Late Flavian", 
+	"comment": "Term used by Dr. Steven Lowenstam, University of Oregon. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/LateHelladicIIIAB", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Late Helladic IIIA-B", 
+	"comment": "Term originated in the University of Oregon Visual Resources Collection slide collections. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/LateKofun", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Late Kofun", 
+	"comment": "Ford, Barbara Brennan; Arts of Japan, New York: Metropolitan Museum of Art, 1987. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/LateMycenaeanIIICperiod", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Late Mycenaean IIIC period", 
+	"comment": "Term originated in the University of Oregon Visual Resources Collection slide collections. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/LatePeténarchitecture", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Late Petén architecture", 
+	"comment": "Schmidt, Peter and Mercedes da la Garza and Enrique Nalda; Maya, New York: Rizzoli, 1998. Distinguished by compact mounds made from rough cut blocks, groups of complexes or monumental architectonic masses, connected by  networks of walkways called, sacbeoob. A variant / sub - style is identified as the Megalithic style where fine stone cutting is utilized in designing building materials.  ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/LateProtoAtticMainlandGreekpotterystyles", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Late Proto-Attic (Mainland Greek pottery styles)", 
+	"comment": "Term used by Dr. Steven Lowenstam, University of Oregon. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/LateSang", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Late Sang", 
+	"comment": "Fong, Wen C. and James C.Y. Watt; Possessing the Past, New York: Metropolitan Museum of Art, 1996. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/LevantoHelladic", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Levanto-Helladic", 
+	"comment": "Term originated in the University of Oregon Visual Resources Collection slide collections. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/Littlenestor", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Little nestor", 
+	"comment": "Term used by Dr. Steven Lowenstam, University of Oregon. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/Maghrib", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Maghrib", 
+	"comment": "Falk, Toby, ed.; Treatures of Islam, London: Philip Wilson Publishers, Ltd., 1985  . Use with African, North African", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/MallaDynasty", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Malla Dynasty", 
+	"comment": "Term originated with Saskia, Ltd. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/Manghitid", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Manghitid", 
+	"comment": "http://www.papersearch.net/view/detail.asp?detail_key=1b400150. The Manghitid dynasty was founded by Muhammad Rahim, a chief of Manghit tribe, who was enthroned in 1756 through the execution of a Chingisid Bukharan khan. However, as one of the Bukharan 92 tribes, the Manghit tribe could not successfully claim their suzerainty over other tribes, who attained their own areas of influence. The Manghitids devised various measures to secure loyalty of other tribes, yet intractable nomadic tribes, including Khitai-Qipchaqs, refused to acknowledge Manghitids` legitimacy", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/Marinid", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Marinid", 
+	"comment": "http://collection.britishmuseum.org/resource/thes/x116948. aka Merinid North African", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/MayaLateClassical", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Maya Late Classical", 
+	"comment": "Gealt, Adelheid, et al.; Masterworks from the Indiana University Art Museum, Bloomington, IN: Indiana University Press, 2007. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/MiddleApulian", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Middle Apulian", 
+	"comment": "Term used by Dr. Steven Lowenstam, University of Oregon. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/MiddlePleistocene", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Middle Pleistocene", 
+	"comment": "Encyclopædia Universalis. World Atlas of Archaeology, English edition, Boston: G.K. Hall & Company, 1985. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/Middleprotogeometric", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Middle protogeometric", 
+	"comment": "Term originated in the University of Oregon Visual Resources Collection slide collections. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/Miletus", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Miletus", 
+	"comment": "Charleston, Robert J.; Masterpieces of Western and Near Eastern Ceramics: Islamic Pottery, New York: Kodansha International/USA, Ltd., 1979. Ottoman pottery style. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/MixtecaPueblaLatePostClassical", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Mixteca-Puebla Late Post-Classical", 
+	"comment": "Gealt, Adelheid, et al.; Masterworks from the Indiana University Art Museum, Bloomington, IN: Indiana University Press, 2007. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/MizutaniSchool", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Mizutani School", 
+	"comment": "Singer, Robert T. et al.; Edo: Art in Japan 1615-1868, Washington, DC: National Gallery of Art, 1998. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/Modern", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Modern", 
+	"comment": "Sullivan, Michael; Arts of China, Fourth Edition, Berkeley: University of California Press, 1999. Appropriate for Chinese art contemporary with but outside of the context of the People's Republic of China.", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/NagadahI", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Nagadah I", 
+	"comment": "Term originated in the University of Oregon Visual Resources Collection slide collections. subset of Amratian", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/Nomadic", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Nomadic", 
+	"comment": "Hattstein, Markus and Peter Delius; Islam: Art and Architecture, Cologne: Könemann, 2000. Use only when no other term can be applied", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/NorthernBaroque", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Northern Baroque", 
+	"comment": "Term originated with Saskia, Ltd. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/NorthwestRegional", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Northwest Regional", 
+	"comment": "Clark, Rosalind; Architecture Oregon Style, Portland, OR: Professional Book Center, 1983. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/NovgorodSchool", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Novgorod School", 
+	"comment": "Kelly, Rosanna; Russia, London: Flint River, 1994. Refers to a tradition of Russian icon painting of the 12th-16th centuries. Use in conjunction with Byzantine.", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/OlmecEarlyFormative", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Olmec Early Formative", 
+	"comment": "Gealt, Adelheid, et al.; Masterworks from the Indiana University Art Museum, Bloomington, IN: Indiana University Press, 2007. Gulf Coast Mesoamerican style", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/Palatine", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Palatine", 
+	"comment": "Term used by Dr. Steven Lowenstam, University of Oregon. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/People'sRepublicofChina", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "People's Republic of China", 
+	"comment": "Laing, Ellen Johnston; Winking Owl: Art from the People's Republic of China, Berkeley: University of California Press, 1988 . ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/PergamonSchool", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Pergamon School", 
+	"comment": "Term used by Dr. Steven Lowenstam, University of Oregon. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/PergamonStyle", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Pergamon Style", 
+	"comment": "Term used by Dr. Steven Lowenstam, University of Oregon. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/Petodian", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Petodian", 
+	"comment": "Term used by Dr. Steven Lowenstam, University of Oregon. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/PhraRuangDynasty", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Phra Ruang Dynasty", 
+	"comment": "Term originated with Saskia, Ltd. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/PictorialStyle", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Pictorial Style", 
+	"comment": "Term used by Dr. Steven Lowenstam, University of Oregon. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/PlantationStyle", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Plantation Style", 
+	"comment": "Term originated in the University of Oregon Visual Resources Collection slide collections. Antebellum vernacular architecture of the American South.", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/PlumBayou", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Plum Bayou", 
+	"comment": "http://www.encyclopediaofarkansas.net/encyclopedia/entry-detail.aspx?entryID=547. Plum Bayou developed out of the earlier (300 BC to AD 650) Baytown culture", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/PraKonChai", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Pra Kon Chai", 
+	"comment": "Metropolitan Museum of Art; Asia, New York: Metropolitan Museum of Art, 1989. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/Precanonical", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Precanonical", 
+	"comment": "Getz-Preziosi, Pat; Sculptors of the Cyclades: Individual and Tradition in the Third Millennium B.C., Ann Arbor: University of Michigan Press, 1987. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/Prehistoric", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Prehistoric", 
+	"comment": "Mannikka, Eleanor; Selected Topics in Cataloging Asian Art: VRA, VRA Special Bulletin No. 4, Visual Resources Association, 1989. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/PrimitiveRedfigure", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Primitive Red-figure", 
+	"comment": "Term used by Dr. Steven Lowenstam, University of Oregon. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/ProtoApulian", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Proto-Apulian", 
+	"comment": "Term used by Dr. Steven Lowenstam, University of Oregon. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/ProtoItaliate", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Proto-Italiate", 
+	"comment": "Term used by Dr. Steven Lowenstam, University of Oregon. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/pseudochalkidian", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "pseudo-chalkidian", 
+	"comment": "Term used by Dr. Steven Lowenstam, University of Oregon. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/Rationalist", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Rationalist", 
+	"comment": "Robinson, William H, Jordi Falgàs, and Carmen Belen Lord; Barcelona and Modernity: Picasso, Gaudí, Miró, Dalí, Cleveland, New Haven: Cleveland Museum of Art, Yale University Press, 2006. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/RepublicofChina", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Republic of China", 
+	"comment": "Laing, Ellen Johnston; Winking Owl: Art from the People's Republic of China, Berkeley: University of California Press, 1988 . ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/RestorationFrench", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Restoration (French)", 
+	"comment": "Term used by Dr. Art Hawn, University of Oregon. Reign of Louis XVIII, Charles X, Louis-Philippe and Napoleon III. Revivals of late 18th century furniture and industrial forms, cheapened by machine manufacturing.--Art Hawn ARH475/575 study guide", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/Romanticorientalism", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Romantic orientalism", 
+	"comment": "Ackerman, Gerald M.; Life and Work of Jean-Leon Gerome, with a Catalogue Raisonne, New York: Sotheby's Publications, 1986. Use both Romantic and Romantic orientalism as this term is not authoritative.", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/Ryukyu", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Ryukyu", 
+	"comment": "http://collection.britishmuseum.org/resource?uri=http%3A%2F%2Fcollection.britishmuseum.org%2Fid%2Fplace%2Fx18442. Ryukyuan lacquerware is one of the chief artistic products of the Ryukyu Islands (today Okinawa Prefecture of Japan), and represents a form and style of lacquerware which is distinct from that of the surrounding cultures. Though distinct in its own ways, it is strongly influenced by Chinese, Japanese, and Southeast Asian modes.", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/Saltukid", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Saltukid", 
+	"comment": "http://archnet.org/. Turkey", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/Saruhan", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Saruhan", 
+	"comment": "http://www.britannica.com/eb/article-9065814/Saruhan-Dynasty.  Turkmen dynasty (c. 1300–1410) that ruled in the Manisa region of western Anatolia.  The dynasty was founded by Saruhan, a tribal chief and frontier prince in the service of the Seljuqs of Anatolia who traced his descent to the Khwarezm-Shahs of Central Asia; after its conquest of Manisa (1313), the dynasty's principality extended its territories to the Aegean Sea. Surrounded by the Turkmen principalities of Aydin, Germiyan, and Karasi, Saruhan became a seafaring state with a large fleet. It was active in the Mediterranean trade and supplied leadership, together with Aydin, to the gazis (warriors for the Islamic faith) in their incursions into Byzantine coastal territories. The loss of Izmir (1344) to Western crusaders by the Aydin principality and the rise of the Ottomans as the dominant power on the Byzantine frontier closed the channels of trade and coastal raids for Saruhan. In 1390 it was annexed by the Ottoman sultan Bayezid I; but its independence was restored by the Central Asian ruler Timur (Tamerlane) in 1402. Finally, c. 1410, the last Saruhan ruler, Hizir, was killed by the Ottoman prince Mehmed Çelebi (later Sultan Mehmed I), and Saruhan was reincorporated into the Ottoman Empire.  (http://www.britannica.com/eb/article-9065814/Saruhan-Dynasty)", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/Shahi", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Shahi", 
+	"comment": "Barnhart, Richard M.; Metropolitan Museum of Art: Asia, New York: Metropolitan Museum of Art, 1987. Shahi school of Eastern Afghanistan, which worked almost exclusively in white marble and produced some extraordinary Hindu sculptures during the 7th through the 9th centuries. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/ShangStyleII", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Shang Style II", 
+	"comment": "Holden, Wendy; 'A Guide to Cataloguing Chinese Art', Visual Resources Association Special Bulletin No. 13,  (1050138x). Advent of new vessel types, not necessarily dependent on Neolithic pottery forms.  Decorative motifs include taotie and gui dragon (one-eyed animal in profile).", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/ShangStyleIII", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Shang Style III", 
+	"comment": "Holden, Wendy; 'A Guide to Cataloguing Chinese Art', Visual Resources Association Special Bulletin No. 13,  (1050138x). Fully developed in the transitional period from Zhengzhou to Anyang.  Patterns cover greater amount of vessel surface.  Decoration executed on the model, rather than in the mold.  Vessels of this type are found at Zhengzhou, Erligang, Panlongcheng, and Anyang.", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/Sharqi", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Sharqi", 
+	"comment": "Hattstein, Markus and Peter Delius; Islam: Art and Architecture, Cologne: Könemann, 2000. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/Shaybanid", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Shaybanid", 
+	"comment": "Hattstein, Markus and Peter Delius; Islam: Art and Architecture, Cologne: Könemann, 2000. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/SicánLateMiddleperiod", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Sicán Late Middle period", 
+	"comment": "Gealt, Adelheid, et al.; Masterworks from the Indiana University Art Museum, Bloomington, IN: Indiana University Press, 2007. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/Sikh", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Sikh", 
+	"comment": "Goswamy, B. N. and Caron Smith; Domains of Wonder: Selected Masterworks of Indian Painting, San Diego: San Diego Museum of Art, 2005. Punjabi region", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/SouthGallic", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "South Gallic", 
+	"comment": "Term used by Dr. Steven Lowenstam, University of Oregon. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/SouthernDynasties", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Southern Dynasties", 
+	"comment": "Holden, Wendy; 'A Guide to Cataloguing Chinese Art', Visual Resources Association Special Bulletin No. 13,  (1050138x). Encompasses Eastern Jin, Liu Song, Southern Qi, Liang, and Chen dynasties.", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/Soviet", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Soviet", 
+	"comment": "Emmanuil Evzerikhin, St. Petersburg: Palace Editions for the State Russian Museum, 2007. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/SpanishBaroque", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Spanish Baroque", 
+	"comment": "Term originated with Archivision, Inc. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/St.Johns", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "St. Johns", 
+	"comment": "http://wapedia.mobi/en/St._Johns_culture. Pre-Columbian Lower Mississippi Valley styles  The St. Johns culture was an archaeological culture in northeastern Florida, USA that lasted from about 500 BCE (the end of the Archaic period) until shortly after European contact in the 17th century. The St. Johns culture was present along the St. Johns River and its tributaries (including the Oklawaha River, and along the Atlantic coast of Florida from the mouth of the St. Johns River south to a point east of the head of the St. Johns River, near present-day Cocoa Beach, Florida. At the time of first European contact, the St. Johns culture area was inhabited by speakers of the Mocama (or Agua Salada), Agua Fresca and Acuera dialects of the Timucua language and by the Mayacas.  --http://wapedia.mobi/en/St._Johns_culture", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/SubgeometricII", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Sub-geometric II", 
+	"comment": "Term used by Dr. Steven Lowenstam, University of Oregon. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/SusaKuzajaran", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Susa-Kuzajaran", 
+	"comment": "Strommenger, Eva; 5000 Years of the Art of Mesopotamia, New York: Harry N. Abrams, Inc., Publishers, 1964. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/TarimBasin", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Tarim Basin", 
+	"comment": "Exhibition of Ancient Art Treasures of the People's Republic of China: Archaeological Finds of the Han to Tang dynasty unearthed at sites along the Silk Road, Tokyo: Yomiuri Shinbunsha, 1979. Buddhistic kingdoms in the oasis settlements of the Taklamakan desert", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/TerminalClassicMesoamericanperiod", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Terminal Classic (Mesoamerican period)", 
+	"comment": "Miller, Mary Ellen; The Art of Mesoamerica, London: Thames and Hudson, 2001. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/Tiwanaku", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Tiwanaku", 
+	"comment": "Gealt, Adelheid, et al.; Masterworks from the Indiana University Art Museum, Bloomington, IN: Indiana University Press, 2007. Probably Pre-Columbian Andean period, Early Intermediate period", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/UltimateLaTène", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Ultimate La Tène", 
+	"comment": "Ryan, Michael; Treasures of Ireland: Irish Art 3000 B.C. - 1500 A.D., Dublin: Royal Irish Academy, 1983. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/Unalirmiut", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Unalirmiut", 
+	"comment": "Lee, Molly and Gregory A. Reinhardt; Eskimo Architecture: Dwelling and Structure in the Early Historic Period, Fairbanks: University of Alaska Press and University of Alaska Museum, 2003. Use with Yup'ik culture  see also http://en.wikipedia.org/wiki/Yup%27ik", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/Uqaylid", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Uqaylid", 
+	"comment": "http://www.britannica.com/eb/article-9074408/Uqaylid-Dynasty.  Muslim Arab dynasty whose various branches ruled Mosul (c. 992–1096) and Takrit (1036–c. 1057), in what is now Iraq.  The 'Uqaylids, descendants of the famous Bedouin tribe of 'Amir ibn Sa'sa'ah, established themselves in Jazirat ibn 'Umar, Nisibin (modern Nusaybin, Tur.), and Balad (northern Iraq) at the end of the 10th century. Abu adh-Dhawwud Muhammad (reigned c. 990–996), the first 'Uqaylid, was drawn into the struggle between the Hamdanids and Marwanids for possession of Mosul and eventually succeeded the Hamdanids as emir of Mosul, though remaining nominally subject to the Buyids of Baghdad.   (http://www.britannica.com/eb/article-9074408/Uqaylid-Dynasty)", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/WesternZhouStyleI", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Western Zhou Style I", 
+	"comment": "Holden, Wendy; 'A Guide to Cataloguing Chinese Art', Visual Resources Association Special Bulletin No. 13,  (1050138x). Middle Western Zhou characteristics: decline in variety, standardization in vessel shape, and reduction in size.  Smooth, rounded forms without flanges and angularity.  Decorated with birds and dragons; large panels or narrow bands of ornament.  Main shapes the same.  Changes in burial patterns (jades buried, some designed to cover facial features).  Bells appear in tombs.  Vessels in shapes of animals appear (in Shang, this type found in the south).  Bronze copies of pottery vessels.", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/Yan", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Yan", 
+	"comment": "Suzhou Institute of Landscape Architectural Design; Suzhou gardens, Beijing: Zhongguo jian zhu gong ye chu ban she, 1999. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/ZagueDynasty", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Zague Dynasty", 
+	"comment": "Mazrui, Ali A.; Africans: A Triple Heritage, First Paperback edition, Boston; Toronto: Little, Brown and Company, 1986. Ethiopian Salomonian dynasty of Abyssinia  See. Lalibela, King of Ethiopia", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/ZaydiDynasty", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Zaydi (Dynasty)", 
+	"comment": "http://archnet.org/. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/Bichromatic", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Bichromatic", 
+	"comment": "Term used by Steven Lowenstam, University of Oregon, referring to two-toned sub-geometric pottery. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/Cabiron", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Cabiron", 
+	"comment": "Term used by Steven Lowenstam, University of Oregon, referring to the Cabeirion Sanctuary in ancient Thebes. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/EarlyApulianpotterystyle", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Early Apulian (pottery style)", 
+	"comment": "Term used by Steven Lowenstam, University of Oregon, referring to Apulian pottery of ca. 400-380 BCE. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/LateProtoAtticMainlandGreekpotterystyles", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Late Proto-Attic (Mainland Greek pottery styles)", 
+	"comment": "Term used by Steven Lowenstam, University of Oregon, referring to Pro-Attic pottery of the late 7th century BCE. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+	{ 
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/Geometricphase2", 
+	"@type": "Concept", 
+	"definedBy": { 
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" 
+	}, 
+	"issued": { 
+	"@value": "2014-07-10", 
+	"@type": "date" 
+	}, 
+	"label": "Geometric phase 2", 
+	"comment": "Term used by Steven Lowenstam, University of Oregon, referring to Late Geometric Italian pottery. ", 
+	"modified": { 
+	"@value": "2014_07-10", 
+	"@type": "date" 
+	} 
+	}, 
+
+# END AAI ETC
+# BEGIN MAIC
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/BronzeAgeandlaterAltai",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Bronze Age and later",
+	"comment": "Referring to the period and cultures present in the Mongolian Altai Mountains from about 3500 BCE and later.",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/EarlyNomadicAltai",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Early Nomadic",
+	"comment": "Referring to the period and nomadic herding cultures present in the Mongolian Altai Mountains from the Late Bronze Age to the Early Iron Age, about 2800-2300 BCE.",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/EthnographicPeriodAltai",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Ethnographic Period",
+	"comment": "A subdivision of the Iron Age in the cultures of the Mongolian Altai Mountains.",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/MongolPeriodAltai",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Mongol Period",
+	"comment": "Referring to the period and cultures originating in the steppes of Central Asia and extending across Asia in the in the 13th and 14th century.",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/PostTurkicAltai",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Post-Turkic",
+	"comment": "Referring to the period and cultures present in the Mongolian Altai Mountains from the end of the Turkic period, about 1000 BCE.",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/PreBronzeAgeAltai",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Pre-Bronze Age",
+	"comment": "Referring to the period and cultures present in the Mongolian Altai Mountains from the end of the Neolithic era, about 4300 BCE, to the beginning of the Bronze Age, about 4000 BCE.",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/PreModernAltai",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Pre-Modern",
+	"comment": "Referring to the period and cultures present in the Mongolian Altai Mountains in modern times",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/TurkicPeriodAltai",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Turkic Period",
+	"comment": "Referring to the period and cultures present in the Mongolian Altai Mountains between the 6th and 9th centuries.",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/UighurperiodAltai",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Uighur period",
+	"comment": "Referring to the period and Uighur culture present in the Mongolian Altai Mountains from the the end of the Turkic Period, around the 8th-9th centuries.",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/UncertainAltai",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Uncertain",
+	"comment": "Referring to uncertain period and cultures present in the Mongolian Altai Mountains.",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	
+	{
+	”@id”: “http://opaquenamespace.org/ns/BronzeAgeandlaterAltai",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Bronze Age and later",
+	"comment": "Referring to the period and cultures present in the Mongolian Altai Mountains from about 3500 BCE and later.",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/EarlyNomadicAltai",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Early Nomadic",
+	"comment": "Referring to the period and nomadic herding cultures present in the Mongolian Altai Mountains from the Late Bronze Age to the Early Iron Age, about 2800-2300 BCE.",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/EthnographicPeriodAltai",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Ethnographic Period",
+	"comment": "A subdivision of the Iron Age in the cultures of the Mongolian Altai Mountains.",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/MongolPeriodAltai",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Mongol Period",
+	"comment": "Referring to the period and cultures originating in the steppes of Central Asia and extending across Asia in the in the 13th and 14th century.",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/PostTurkicAltai",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Post-Turkic",
+	"comment": "Referring to the period and cultures present in the Mongolian Altai Mountains from the end of the Turkic period, about 1000 BCE.",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/PreBronzeAgeAltai",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Pre-Bronze Age",
+	"comment": "Referring to the period and cultures present in the Mongolian Altai Mountains from the end of the Neolithic era, about 4300 BCE, to the beginning of the Bronze Age, about 4000 BCE.",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/PreModernAltai",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Pre-Modern",
+	"comment": "Referring to the period and cultures present in the Mongolian Altai Mountains in modern times",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/TurkicPeriodAltai",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Turkic Period",
+	"comment": "Referring to the period and cultures present in the Mongolian Altai Mountains between the 6th and 9th centuries.",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/UighurperiodAltai",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Uighur period",
+	"comment": "Referring to the period and Uighur culture present in the Mongolian Altai Mountains from the the end of the Turkic Period, around the 8th-9th centuries.",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/UncertainAltai",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Uncertain",
+	"comment": "Referring to uncertain period and cultures present in the Mongolian Altai Mountains.",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/Arzhan",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Arzhan",
+	"comment": "Term originated in the Mongolian Altai Inventory",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/ArzhanPeriod",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Arzhan Period",
+	"comment": "Term originated in the Mongolian Altai Inventory",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/BronzeAgetoModern",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Bronze Age to Modern",
+	"comment": "Referring to the period and cultures present in the Mongolian Altai Mountains from about 3500 BCE to modern times.",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/EarlyIronAgeorlater",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Early Iron Age or later?",
+	"comment": "Referring to the period and cultures present in the Mongolian Altai Mountains from about 2500 BCE.",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/Kyrgyz",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Kyrgyz",
+	"comment": "Term originated in the Mongolian Altai Inventory",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/late",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "late",
+	"comment": "Indicating the latter end of the period or era",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/LatePazyryk",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Late Pazyryk",
+	"comment": "Referring to the latter end of the period of the Pazyryk culture present in the Mongolian Altai Mountains, around the 3rd century BCE.",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/morerecent",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "more recent",
+	"comment": "Term originated in the Mongolian Altai Inventory",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/possiblylater",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "possibly later",
+	"comment": "Term originated in the Mongolian Altai Inventory",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/recent",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "recent",
+	"comment": "Term originated in the Mongolian Altai Inventory",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/Tamga",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Tamga",
+	"comment": "Term originated in the Mongolian Altai Inventory",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/uncertain",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "uncertain",
+	"comment": "Term originated in the Mongolian Altai Inventory",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/varied",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "varied",
+	"comment": "Term originated in the Mongolian Altai Inventory",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+	
+# END MAIC
+# BEGIN JSMA
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/stylePeriod/PacificNorthwest",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Pacific Northwest",
+	"comment": "Post-modernist style, especially in architecture, of the Pacific Northwest of the United States. For modernist art and architecture in the Pacific Northwest, use Northwest Regional.",
+	"date": "ca. 1910-ca. 1970",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+# END JSMA
+
+
