@@ -404,7 +404,7 @@
 		"@value": "2014-08-05",
 		"@type": "date"
 	    }
-	}
+	},
 	{
 	    "@id": "http://opaquenamespace.org/ns/compassDirection",
 	    "@type": "Property",
