@@ -201,6 +201,91 @@
         "@value": "2014-08-05",
         "@type": "date"
       },
+      {
+      "@id": "http://opaquenamespace.org/ns/localCollectionName",
+      "@type": "Property",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@value": "2014-08-06",
+        "@type": "date"
+      },
+      "label": "Local Collection Name",
+      "comment": "Names of local collection based on physical arrangement.",
+      "modified": {
+        "@value": "2014-08-06",
+        "@type": "date"
+      },
+	  
+
+{
+      "@id": "http://opaquenamespace.org/ns/localCollectionID",
+      "@type": "Property",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@value": "2014-08-06",
+        "@type": "date"
+      },
+      "label": "Local Collection Identifier",
+      "comment": "Identifiers of local collection based on physical arrangement.",
+      "modified": {
+        "@value": "2014-08-06",
+        "@type": "date"
+      },
+
+
+
+{
+      "@id": "http://opaquenamespace.org/ns/seriesName",
+      "@type": "Property",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@value": "2014-08-06",
+        "@type": "date"
+      },
+      "label": "Series Name",
+      "comment": "Series names based on local collection series arrangement.",
+      "modified": {
+        "@value": "2014-08-06",
+        "@type": "date"
+      },
+	  
+	   "@id": "http://opaquenamespace.org/ns/seriesID",
+      "@type": "Property",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@value": "2014-08-06",
+        "@type": "date"
+      },
+      "label": "Series identifier",
+      "comment": "Series identifier based on local collection series arrangement.",
+      "modified": {
+        "@value": "2014-08-06",
+        "@type": "date"
+      },
+	  
+	   "@id": "http://opaquenamespace.org/ns/folderName",
+      "@type": "Property",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@value": "2014-08-06",
+        "@type": "date"
+      },
+      "label": "Folder Name",
+      "comment": "Names of folder based on local collection arrangement.",
+      "modified": {
+        "@value": "2014-08-06",
+        "@type": "date"
+      },
     }
   ]
 }
