@@ -1,0 +1,925 @@
+
+
+{
+    "@context": {
+	"title": "http://purl.org/dc/terms/title",
+	"label": "http://www.w3.org/2000/01/rdf-schema#label",
+	"comment": "http://www.w3.org/2000/01/rdf-schema#comment",
+	"description": "http://purl.org/dc/terms/description",
+	"publisher": "http://purl.org/dc/terms/publisher",
+	"modified": "http://purl.org/dc/terms/modified",
+	"issued": "http://purl.org/dc/terms/issued",
+	"Collection": "http://purl.org/dc/terms/Collection",
+	"definedBy": "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+	"range": "http://www.w3.org/2000/01/rdf-schema#range",
+	"date": "http://www.w3.org/2001/XMLSchema#date",
+	"RightsStatement": "http://purl.org/dc/terms/RightsStatement",
+	"Concept": "http://www.w3.org/2004/02/skos/core#Concept",
+	"@language": "en",
+	"additionalName": "http://schema.org/additionalName",
+	"alternateName": "https://schema.org/alternateName"
+	"PersonalName": "http://www.w3.org/2004/02/skos/core#PersonalName",
+	"CorporateName": "http://www.w3.org/2004/02/skos/core#CorporateName",
+	"Topic": "http://www.w3.org/2004/02/skos/core#Topic",
+	"Geographic": "http://www.w3.org/2004/02/skos/core#Geographic",
+	"Title": "http://www.w3.org/2004/02/skos/core#Title",
+    }
+	  "@graph": [
+	{
+	     "@id": "http://opaquenamespace.org/seriesName,
+	    "title": "seriesName controlled vocabulary",
+	    "publisher": "Opaque Namespace",
+	    "modified": {
+		"@value": "2014-12-16",
+		"@type": "http://www.w3.org/2001/XMLSchema#date"
+	    },
+	    "issued": {
+		"@value": "2013-12-16",
+		"@type": "http://www.w3.org/2001/XMLSchema#date"
+	    }
+	},
+	
+	
+	#begin latinoherit
+
+{
+"@id": "http://opaquenamespace.org/ns/seriesName/BecerraAliciatestimony",
+"@type": "Topic",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-08",
+"@type": "date"
+},
+"label": "Becerra, Alicia, testimony",
+"modified": {
+"@value": "2014-07-08",
+"@type": "date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/seriesName/BelloObedtestimony",
+"@type": "Topic",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-08",
+"@type": "date"
+},
+"label": "Bello, Obed, testimony",
+"modified": {
+"@value": "2014-07-08",
+"@type": "date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/seriesName/BoschEvantestimony",
+"@type": "Topic",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-08",
+"@type": "date"
+},
+"label": "Bosch, Evan, testimony",
+"modified": {
+"@value": "2014-07-08",
+"@type": "date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/seriesName/CartagenaMarcelatestimony",
+"@type": "Topic",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-08",
+"@type": "date"
+},
+"label": "Cartagena, Marcela, testimony",
+"modified": {
+"@value": "2014-07-08",
+"@type": "date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/seriesName/DuranArellanoLizsandratestimony",
+"@type": "Topic",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-08",
+"@type": "date"
+},
+"label": "Durán-Arellano, Lizsandra, testimony",
+"modified": {
+"@value": "2014-07-08",
+"@type": 
+"date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/seriesName/GambettaJimenaKheavtestimony",
+"@type": "Topic",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-08",
+"@type": "date"
+},
+"label": "Gambetta, Jimena Kheav, testimony",
+"modified": {
+"@value": "2014-07-08",
+"@type": 
+"date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/seriesName/GonzalesSoniatestimony",
+"@type": "Topic",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-08",
+"@type": "date"
+},
+"label": "Gonzales, Sonia, testimony",
+"modified": {
+"@value": "2014-07-08",
+"@type": "date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/seriesName/GuerraFideltestimony",
+"@type": "Topic",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-08",
+"@type": "date"
+},
+"label": "Guerra, Fidel, testimony",
+"modified": {
+"@value": "2014-07-08",
+"@type": "date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/seriesName/HerndandezEmiliotestimony",
+"@type": "Topic",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-08",
+"@type": "date"
+},
+"label": "Herndandez, Emilio, testimony",
+"modified": {
+"@value": "2014-07-08",
+"@type": "date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/seriesName/LopezAuroratestimony",
+"@type": "Topic",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-08",
+"@type": "date"
+},
+"label": "López, Aurora, testimony",
+"modified": {
+"@value": "2014-07-08",
+"@type": "date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/seriesName/MiskellGracielaMechetestimony",
+"@type": "Topic",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-08",
+"@type": "date"
+},
+"label": "Miskell, Graciela (Meche), testimony",
+"modified": {
+"@value": "2014-07-08",
+"@type": 
+"date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/seriesName/MoralesArmandotestimony",
+"@type": "Topic",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-08",
+"@type": "date"
+},
+"label": "Morales, Armando, testimony.",
+"modified": {
+"@value": "2014-07-08",
+"@type": "date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/seriesName/MoralesMarthatestimony",
+"@type": "Topic",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-08",
+"@type": "date"
+},
+"label": "Morales, Martha, testimony",
+"modified": {
+"@value": "2014-07-08",
+"@type": "date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/seriesName/MoralesRosalindatestimony",
+"@type": "Topic",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-08",
+"@type": "date"
+},
+"label": "Morales, Rosalinda, testimony",
+"modified": {
+"@value": "2014-07-08",
+"@type": "date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/seriesName/OrtegaJosefinatestimony",
+"@type": "Topic",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-08",
+"@type": "date"
+},
+"label": "Ortega, Josefina, testimony",
+"modified": {
+"@value": "2014-07-08",
+"@type": "date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/seriesName/SunByronfamilytestimony",
+"@type": "Topic",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-08",
+"@type": "date"
+},
+"label": "Sun, Byron, family testimony",
+"modified": {
+"@value": "2014-07-08",
+"@type": "date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/seriesName/LatinoRoots",
+"@type": "Topic",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-08",
+"@type": "date"
+},
+"label": "Latino Roots",
+"modified": {
+"@value": "2014-07-08",
+"@type": "date"
+}
+},
+
+
+
+#end latinoherit
+
+#begin percent
+
+{
+"@id": "http://opaquenamespace.org/ns/seriesName/4Jan",
+"@type": "Topic",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-08-07",
+"@type": "date"
+},
+"label": "41643",
+"modified": {
+"@value": "2014-08-07",
+"@type": "date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/seriesName/AHouseforPhineasGage",
+"@type": "Topic",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-08-07",
+"@type": "date"
+},
+"label": "A House for Phineas Gage",
+"modified": {
+"@value": "2014-08-07",
+"@type": "date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/seriesName/Cascadeseries",
+"@type": "Topic",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-08-07",
+"@type": "date"
+},
+"label": "Cascade series",
+"modified": {
+"@value": "2014-08-07",
+"@type": "date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/seriesName/CentralOregonMoment",
+"@type": "Topic",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-08-07",
+"@type": "date"
+},
+"label": "Central Oregon Moment",
+"modified": {
+"@value": "2014-08-07",
+"@type": "date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/seriesName/Changessuiteofprints",
+"@type": "Topic",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-08-07",
+"@type": "date"
+},
+"label": "Changes (suite of prints)",
+"modified": {
+"@value": "2014-08-07",
+"@type": "date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/seriesName/CloudChambers",
+"@type": "Topic",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-08-07",
+"@type": "date"
+},
+"label": "Cloud Chambers",
+"modified": {
+"@value": "2014-08-07",
+"@type": "date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/seriesName/Connecting",
+"@type": "Topic",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-08-07",
+"@type": "date"
+},
+"label": "Connecting",
+"modified": {
+"@value": "2014-08-07",
+"@type": "date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/seriesName/FlowerStudies",
+"@type": "Topic",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-08-07",
+"@type": "date"
+},
+"label": "Flower Studies",
+"modified": {
+"@value": "2014-08-07",
+"@type": "date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/seriesName/FoulwatherBluffSeries1",
+"@type": "Topic",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-08-07",
+"@type": "date"
+},
+"label": "Foulwather Bluff Series 
+1",
+"modified": {
+"@value": "2014-08-07",
+"@type": "date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/seriesName/FoulwatherBluffSeries2",
+"@type": "Topic",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-08-07",
+"@type": "date"
+},
+"label": "Foulwather Bluff Series 
+2",
+"modified": {
+"@value": "2014-08-07",
+"@type": "date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/seriesName/FourSeasons",
+"@type": "Topic",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-08-07",
+"@type": "date"
+},
+"label": "Four Seasons",
+"modified": {
+"@value": "2014-08-07",
+"@type": "date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/seriesName/FourSeasons4seasonalprints",
+"@type": "Topic",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-08-07",
+"@type": "date"
+},
+"label": "Four Seasons (4 seasonal prints)",
+"modified": {
+"@value": "2014-08-07",
+"@type": "date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/seriesName/HomelessStreetYouthSeries",
+"@type": "Topic",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-08-07",
+"@type": "date"
+},
+"label": "Homeless Street Youth Series",
+"modified": {
+"@value": "2014-08-07",
+"@type": "date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/seriesName/HonoredWoman",
+"@type": "Topic",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-08-07",
+"@type": "date"
+},
+"label": "Honored Woman",
+"modified": {
+"@value": "2014-08-07",
+"@type": "date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/seriesName/ImaginaryBirdsofNorthAmerica",
+"@type": "Topic",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-08-07",
+"@type": "date"
+},
+"label": "Imaginary Birds of North America",
+"modified": {
+"@value": "2014-08-07",
+"@type": "date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/seriesName/IntotheFoxglovedNight",
+"@type": "Topic",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-08-07",
+"@type": "date"
+},
+"label": "Into the Foxgloved Night",
+"modified": {
+"@value": "2014-08-07",
+"@type": "date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/seriesName/KlamathBasinSeries",
+"@type": "Topic",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-08-07",
+"@type": "date"
+},
+"label": "Klamath Basin Series",
+"modified": {
+"@value": "2014-08-07",
+"@type": "date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/seriesName/Lace",
+"@type": "Topic",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-08-07",
+"@type": "date"
+},
+"label": "Lace",
+"modified": {
+"@value": "2014-08-07",
+"@type": "date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/seriesName/LuminatedManuscriptsseriesof15",
+"@type": "Topic",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-08-07",
+"@type": "date"
+},
+"label": "Luminated Manuscripts (series of 15)",
+"modified": {
+"@value": "2014-08-07",
+"@type": 
+"date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/seriesName/MagruderSeries",
+"@type": "Topic",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-08-07",
+"@type": "date"
+},
+"label": "Magruder Series",
+"modified": {
+"@value": "2014-08-07",
+"@type": "date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/seriesName/MemorialUnionMurals",
+"@type": "Topic",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-08-07",
+"@type": "date"
+},
+"label": "Memorial Union Murals",
+"modified": {
+"@value": "2014-08-07",
+"@type": "date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/seriesName/MilkweedSeedingSeriesof5",
+"@type": "Topic",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-08-07",
+"@type": "date"
+},
+"label": "Milkweed Seeding (Series of 5)",
+"modified": {
+"@value": "2014-08-07",
+"@type": "date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/seriesName/Muses",
+"@type": "Topic",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-08-07",
+"@type": "date"
+},
+"label": "Muses",
+"modified": {
+"@value": "2014-08-07",
+"@type": "date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/seriesName/NepaliTempleSeries",
+"@type": "Topic",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-08-07",
+"@type": "date"
+},
+"label": "Nepali Temple Series",
+"modified": {
+"@value": "2014-08-07",
+"@type": "date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/seriesName/NorthwestIcons",
+"@type": "Topic",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-08-07",
+"@type": "date"
+},
+"label": "Northwest Icons",
+"modified": {
+"@value": "2014-08-07",
+"@type": "date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/seriesName/OEMSuiteDrawings8",
+"@type": "Topic",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-08-07",
+"@type": "date"
+},
+"label": "OEM Suite Drawings (8)",
+"modified": {
+"@value": "2014-08-07",
+"@type": "date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/seriesName/ParkBench",
+"@type": "Topic",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-08-07",
+"@type": "date"
+},
+"label": "Park Bench",
+"modified": {
+"@value": "2014-08-07",
+"@type": "date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/seriesName/PrinceHillSeries",
+"@type": "Topic",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-08-07",
+"@type": "date"
+},
+"label": "Prince Hill Series",
+"modified": {
+"@value": "2014-08-07",
+"@type": "date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/seriesName/QuiltCorner2ineditionof10",
+"@type": "Topic",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-08-07",
+"@type": "date"
+},
+"label": "Quilt Corner (
+2 in edition of 10)",
+"modified": {
+"@value": "2014-08-07",
+"@type": "date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/seriesName/TokaidoSeries",
+"@type": "Topic",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-08-07",
+"@type": "date"
+},
+"label": "Tokaido Series",
+"modified": {
+"@value": "2014-08-07",
+"@type": "date"
+}
+},
+
+
+{
+"@id": "http://opaquenamespace.org/ns/seriesName/WomeninColor",
+"@type": "Topic",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-08-07",
+"@type": "date"
+},
+"label": "Women in Color",
+"modified": {
+"@value": "2014-08-07",
+"@type": "date"
+}
+},
+
+
+
+
+
+
+#end percent
