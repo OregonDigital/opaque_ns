@@ -1,529 +1,528 @@
 {
     "@context": {
-	"title": "http://purl.org/dc/terms/title",
-	"label": "http://www.w3.org/2000/01/rdf-schema#label",
-	"comment": "http://www.w3.org/2000/01/rdf-schema#comment",
-	"description": "http://purl.org/dc/terms/description",
-	"publisher": "http://purl.org/dc/terms/publisher",
-	"modified": "http://purl.org/dc/terms/modified",
-	"issued": "http://purl.org/dc/terms/issued",
-	"Collection": "http://purl.org/dc/terms/Collection",
-	"definedBy": "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
-	"range": "http://www.w3.org/2000/01/rdf-schema#range",
-	"date": "http://www.w3.org/2001/XMLSchema#date",
-	"RightsStatement": "http://purl.org/dc/terms/RightsStatement",
-	"Concept": "http://www.w3.org/2004/02/skos/core#Concept",
-	"@language": "en",
-	"additionalName": "http://schema.org/additionalName",
-	"alternateName": "https://schema.org/alternateName"
+        "title": "http://purl.org/dc/terms/title",
+        "label": "http://www.w3.org/2000/01/rdf-schema#label",
+        "comment": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "description": "http://purl.org/dc/terms/description",
+        "publisher": "http://purl.org/dc/terms/publisher",
+        "modified": "http://purl.org/dc/terms/modified",
+        "issued": "http://purl.org/dc/terms/issued",
+        "Collection": "http://purl.org/dc/terms/Collection",
+        "definedBy": "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+        "range": "http://www.w3.org/2000/01/rdf-schema#range",
+        "date": "http://www.w3.org/2001/XMLSchema#date",
+        "RightsStatement": "http://purl.org/dc/terms/RightsStatement",
+        "Concept": "http://www.w3.org/2004/02/skos/core#Concept",
+        "@language": "en",
+        "additionalName": "http://schema.org/additionalName",
+        "alternateName": "https://schema.org/alternateName"
     },
-	  "@graph": [
-	{
-	    "@id": "http://opaquenamespace.org/digitalCollection",
-	    "title": "digitalCollection controlled vocabulary",
-	    "publisher": "Opaque Namespace",
-	    "modified": {
-		"@value": "2013-12-16",
-		"@type": "http://www.w3.org/2001/XMLSchema#date"
-	    },
-	    "issued": {
-		"@value": "2013-12-16",
-		"@type": "http://www.w3.org/2001/XMLSchema#date"
-	    }
-	},
-
-
-	    {
-      "@id": "http://opaquenamespace.org/ns/digitalCollection/ArtandArchitectureImages",
-      "@type": "Concept",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@value": "2014-05-13",
-        "@type": "date"
-      },
-      "label": "University of Oregon. Libraries. Art and Architecture Images.",
-      "comment": "UO Digital Collection",
-      "modified": {
-        "@value": "2014-05-15",
-        "@type": "date"
-      },
-
-
-		    {
-      "@id": "http://opaquenamespace.org/ns/digitalCollection/ArtandArchitectureImagesLicensed",
-      "@type": "Concept",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@value": "2014-05-13",
-        "@type": "date"
-      },
-      "label": "University of Oregon. Libraries. Art and Architecture Images, Licensed.",
-      "comment": "UO Digital Collection",
-      "modified": {
-        "@value": "2014-05-15",
-        "@type": "date"
-      },
-
-
-		    {
-      "@id": "http://opaquenamespace.org/ns/digitalCollection/Archivision",
-      "@type": "Concept",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@value": "2014-05-13",
-        "@type": "date"
-      },
-      "label": "University of Oregon. Libraries. Archivision.",
-      "comment": "UO Digital Collection",
-      "modified": {
-        "@value": "2014-05-15",
-        "@type": "date"
-      },
-
-		    {
-      "@id": "http://opaquenamespace.org/ns/digitalCollection/LowenstamCollectionofAncientWesternArtandArchaeology",
-      "@type": "Concept",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@value": "2014-05-13",
-        "@type": "date"
-      },
-      "label": "University of Oregon. Department of Classics. Steven Lowenstam Collection.",
-      "comment": "UO Digital Collection",
-      "modified": {
-        "@value": "2014-05-15",
-        "@type": "date"
-      },
-
-
-		    {
-      "@id": "http://opaquenamespace.org/ns/digitalCollection/WesternWatersDigitalLibrary",
-      "@type": "Concept",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@value": "2014-05-13",
-        "@type": "date"
-      },
-      "label": "University of Oregon. Libraries. Western Waters Digital Library.",
-      "comment": "UO Digital Collection",
-      "modified": {
-        "@value": "2014-05-15",
-        "@type": "date"
-      },
-
-
-		    {
-      "@id": "http://opaquenamespace.org/ns/digitalCollection/TribalLegacies",
-      "@type": "Concept",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@value": "2014-05-13",
-        "@type": "date"
-      },
-      "label": "University of Oregon. Libraries. Tribal Legacies.",
-      "comment": "UO Digital Collection",
-      "modified": {
-        "@value": "2014-05-15",
-        "@type": "date"
-      },
-
-		    {
-      "@id": "http://opaquenamespace.org/ns/digitalCollection/OregonDailyEmeraldArchives",
-      "@type": "Concept",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@value": "2014-05-13",
-        "@type": "date"
-      },
-      "label": "University of Oregon. Libraries. Oregon Daily Emerald Archives.",
-      "comment": "UO Digital Collection",
-      "modified": {
-        "@value": "2014-05-15",
-        "@type": "date"
-      },
-
-
-		    {
-      "@id": "http://opaquenamespace.org/ns/digitalCollection/PicturingtheCayuse",
-      "@type": "Concept",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@value": "2014-05-13",
-        "@type": "date"
-      },
-      "label": "University of Oregon. Libraries. Picturing the Cayuse, Walla Walla, and Umatilla Tribes.",
-      "comment": "UO Digital Collection",
-      "modified": {
-        "@value": "2014-05-15",
-        "@type": "date"
-      },
-
-
-		    {
-      "@id": "http://opaquenamespace.org/ns/digitalCollection/MongolianAltaiInventoryCollection",
-      "@type": "Concept",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@value": "2014-05-13",
-        "@type": "date"
-      },
-      "label": "University of Oregon Libraries. Mongolian Altai Inventory Image Collection.",
-      "comment": "UO Digital Collection",
-      "modified": {
-        "@value": "2014-05-15",
-        "@type": "date"
-      },
-
-
-		    {
-      "@id": "http://opaquenamespace.org/ns/digitalCollection/JordanSchnitzerMuseumofArt",
-      "@type": "Concept",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@value": "2014-05-13",
-        "@type": "date"
-      },
-      "label": "University of Oregon. Libraries. Jordan Schnitzer Museum of Art.",
-      "comment": "UO Digital Collection",
-      "modified": {
-        "@value": "2014-05-15",
-        "@type": "date"
-      },
-
-
-		    {
-      "@id": "http://opaquenamespace.org/ns/digitalCollection/JapaneseAmericanStudentRelocation",
-      "@type": "Concept",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@value": "2014-05-13",
-        "@type": "date"
-      },
-      "label": "Japanese American Student Relocation",
-      "comment": "UO Digital Collection",
-      "modified": {
-        "@value": "2014-05-15",
-        "@type": "date"
-      },
-
-
-		    {
-      "@id": "http://opaquenamespace.org/ns/digitalCollection/HistoricalPhotographs",
-      "@type": "Concept",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@value": "2014-05-13",
-        "@type": "date"
-      },
-      "label": "University of Oregon. Libraries. Historical Photographs.",
-      "comment": "UO Digital Collection",
-      "modified": {
-        "@value": "2014-05-15",
-        "@type": "date"
-      },
-
-		    {
-      "@id": "http://opaquenamespace.org/ns/digitalCollection/DorisUlmannPhotographs",
-      "@type": "Concept",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@value": "2014-05-13",
-        "@type": "date"
-      },
-      "label": "University of Oregon. Libraries. Doris Ulmann Photographs.",
-      "comment": "UO Digital Collection",
-      "modified": {
-        "@value": "2014-05-15",
-        "@type": "date"
-      },
-
-
-
-		    {
-      "@id": "http://opaquenamespace.org/ns/digitalCollection/DissociationandTraumaArchives",
-      "@type": "Concept",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@value": "2014-05-13",
-        "@type": "date"
-      },
-      "label": "University of Oregon. Libraries. Dissociation and Trauma Archives.",
-      "comment": "UO Digital Collection",
-      "modified": {
-        "@value": "2014-05-15",
-        "@type": "date"
-      },
-
-
-		    {
-      "@id": "http://opaquenamespace.org/ns/digitalCollection/BuildingOregon",
-      "@type": "Concept",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@value": "2014-05-13",
-        "@type": "date"
-      },
-      "label": "Building Oregon: Architecture of Oregon & the Pacific Northwest.",
-      "comment": "UO Digital Collection",
-      "modified": {
-        "@value": "2014-05-15",
-        "@type": "date"
-      },
-
-		    {
-      "@id": "http://opaquenamespace.org/ns/digitalCollection/Petrarch",
-      "@type": "Concept",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@value": "2014-05-13",
-        "@type": "date"
-      },
-      "label": "University of Oregon Libraries. Petrarch.",
-      "comment": "UO Digital Collection",
-      "modified": {
-        "@value": "2014-05-15",
-        "@type": "date"
-      },
-
-    {
-      "@id": "http://opaquenamespace.org/ns/digitalCollection/JapaneseAmericanStudentRelocation",
-      "@type": "Concept",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@value": "2014-05-13",
-        "@type": "date"
-      },
-      "label": "University of Oregon Libraries. Japanese American Student Relocation.",
-      "comment": "UO Digital Collection",
-      "modified": {
-        "@value": "2014-05-15",
-        "@type": "date"
-      },
-	  
-	  {
-      "@id": "http://opaquenamespace.org/ns/digitalCollection/OregonInstituteofMarineBiologySlidesPhotographs",
-      "@type": "Concept",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@value": "2014-05-13",
-        "@type": "date"
-      },
-      "label": "University of Oregon Libraries. Oregon Institute of Marine Biology Slides & Photographs.",
-      "comment": "UO Digital Collection",
-      "modified": {
-        "@value": "2014-05-15",
-        "@type": "date"
-      },
-	  
-	    {
-      "@id": "http://opaquenamespace.org/ns/digitalCollection/LesbianIntentionalCommunitiesRuthMountaingrovePhotographs",
-      "@type": "Concept",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@value": "2014-05-13",
-        "@type": "date"
-      },
-      "label": "University of Oregon Libraries. Lesbian Intentional Communities- Ruth Mountaingrove Photographs.",
-      "comment": "UO Digital Collection",
-      "modified": {
-        "@value": "2014-05-15",
-        "@type": "date"
-      },
-      {
-      "@id": "http://opaquenamespace.org/ns/digitalCollection/OregonLatinoHeritage",
-      "@type": "Concept",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@value": "2014-05-13",
-        "@type": "date"
-      },
-      "label": "University of Oregon Libraries. Oregon Latino Heritage.",
-      "comment": "UO Digital Collection",
-      "modified": {
-        "@value": "2014-05-15",
-        "@type": "date"
-      },
-	  {
-      "@id": "http://opaquenamespace.org/ns/digitalCollection/TextsData",
-      "@type": "Concept",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@value": "2014-05-13",
-        "@type": "date"
-      },
-      "label": "University of Oregon Libraries. Texts & Data.",
-      "comment": "UO Digital Collection",
-      "modified": {
-        "@value": "2014-05-15",
-        "@type": "date"
-      },
-	 {
-      "@id": "http://opaquenamespace.org/ns/digitalCollection/OregonPercentforArt",
-      "@type": "Concept",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@value": "2014-05-13",
-        "@type": "date"
-      },
-      "label": "University of Oregon Libraries. Oregon Percent for Art.",
-      "comment": "UO Digital Collection",
-      "modified": {
-        "@value": "2014-05-15",
-        "@type": "date"
-      },
-	  {
-      "@id": "http://opaquenamespace.org/ns/digitalCollection/UniversityofOregonAthletics",
-      "@type": "Concept",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@value": "2014-05-13",
-        "@type": "date"
-      },
-      "label": "University of Oregon Libraries. University of Oregon Athletics.",
-      "comment": "UO Digital Collection",
-      "modified": {
-        "@value": "2014-05-15",
-        "@type": "date"
-      },
-	  {
-      "@id": "http://opaquenamespace.org/ns/digitalCollection/UniversityofOregonOfficeofthePresident",
-      "@type": "Concept",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@value": "2014-05-13",
-        "@type": "date"
-      },
-      "label": "University of Oregon Libraries. University of Oregon Office of the President.",
-      "comment": "UO Digital Collection",
-      "modified": {
-        "@value": "2014-05-15",
-        "@type": "date"
-      },
-	  {
-      "@id": "http://opaquenamespace.org/ns/digitalCollection/UniversityofOregonStockPhotographs",
-      "@type": "Concept",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@value": "2014-05-13",
-        "@type": "date"
-      },
-      "label": "University of Oregon Libraries. University of Oregon Stock Photographs.",
-      "comment": "UO Digital Collection",
-      "modified": {
-        "@value": "2014-05-15",
-        "@type": "date"
-      },
-	  {
-      "@id": "http://opaquenamespace.org/ns/digitalCollection/UniversityofOregonVeteransOralHistories",
-      "@type": "Concept",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@value": "2014-05-13",
-        "@type": "date"
-      },
-      "label": "University of Oregon Libraries. University of Oregon Veterans Oral Histories.",
-      "comment": "UO Digital Collection",
-      "modified": {
-        "@value": "2014-05-15",
-        "@type": "date"
-      },
-	  {
-      "@id": "http://opaquenamespace.org/ns/digitalCollection/UniversityofOregonArchivesPhotographs",
-      "@type": "Concept",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@value": "2014-05-13",
-        "@type": "date"
-      },
-      "label": "University of Oregon Libraries. University of Oregon Archives Photographs.",
-      "comment": "UO Digital Collection",
-      "modified": {
-        "@value": "2014-05-15",
-        "@type": "date"
-      },
-	  {
-      "@id": "http://opaquenamespace.org/ns/digitalCollection/UniversityofOregonArchivesPhotographs",
-      "@type": "Concept",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@value": "2014-05-13",
-        "@type": "date"
-      },
-      "label": "University of Oregon Libraries. University of Oregon Archives Photographs.",
-      "comment": "UO Digital Collection",
-      "modified": {
-        "@value": "2014-05-15",
-        "@type": "date"
-      },
-	  {
-      "@id": "http://opaquenamespace.org/ns/digitalCollection/ArtistsBooks",
-      "@type": "Concept",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@value": "2014-05-13",
-        "@type": "date"
-      },
-      "label": "University of Oregon Libraries. Artists' Books.",
-      "comment": "UO Digital Collection",
-      "modified": {
-        "@value": "2014-05-15",
-        "@type": "date"
-      },
+    "@graph": [
+        {
+            "@id": "http://opaquenamespace.org/digitalCollection",
+            "title": "digitalCollection controlled vocabulary",
+            "publisher": "Opaque Namespace",
+            "modified": {
+                "@value": "2013-12-16",
+                "@type": "http://www.w3.org/2001/XMLSchema#date"
+            },
+            "issued": {
+                "@value": "2013-12-16",
+                "@type": "http://www.w3.org/2001/XMLSchema#date"
+            }
+        },
+        {
+            "@id": "http://opaquenamespace.org/ns/digitalCollection/ArtandArchitectureImages",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-05-13",
+                "@type": "date"
+            },
+            "label": "University of Oregon. Libraries. Art and Architecture Images.",
+            "comment": "UO Digital Collection",
+            "modified": {
+                "@value": "2014-05-15",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http://opaquenamespace.org/ns/digitalCollection/ArtandArchitectureImagesLicensed",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-05-13",
+                "@type": "date"
+            },
+            "label": "University of Oregon. Libraries. Art and Architecture Images, Licensed.",
+            "comment": "UO Digital Collection",
+            "modified": {
+                "@value": "2014-05-15",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http://opaquenamespace.org/ns/digitalCollection/Archivision",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-05-13",
+                "@type": "date"
+            },
+            "label": "University of Oregon. Libraries. Archivision.",
+            "comment": "UO Digital Collection",
+            "modified": {
+                "@value": "2014-05-15",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http://opaquenamespace.org/ns/digitalCollection/LowenstamCollectionofAncientWesternArtandArchaeology",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-05-13",
+                "@type": "date"
+            },
+            "label": "University of Oregon. Department of Classics. Steven Lowenstam Collection.",
+            "comment": "UO Digital Collection",
+            "modified": {
+                "@value": "2014-05-15",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http://opaquenamespace.org/ns/digitalCollection/WesternWatersDigitalLibrary",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-05-13",
+                "@type": "date"
+            },
+            "label": "University of Oregon. Libraries. Western Waters Digital Library.",
+            "comment": "UO Digital Collection",
+            "modified": {
+                "@value": "2014-05-15",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http://opaquenamespace.org/ns/digitalCollection/TribalLegacies",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-05-13",
+                "@type": "date"
+            },
+            "label": "University of Oregon. Libraries. Tribal Legacies.",
+            "comment": "UO Digital Collection",
+            "modified": {
+                "@value": "2014-05-15",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http://opaquenamespace.org/ns/digitalCollection/OregonDailyEmeraldArchives",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-05-13",
+                "@type": "date"
+            },
+            "label": "University of Oregon. Libraries. Oregon Daily Emerald Archives.",
+            "comment": "UO Digital Collection",
+            "modified": {
+                "@value": "2014-05-15",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http://opaquenamespace.org/ns/digitalCollection/PicturingtheCayuse",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-05-13",
+                "@type": "date"
+            },
+            "label": "University of Oregon. Libraries. Picturing the Cayuse, Walla Walla, and Umatilla Tribes.",
+            "comment": "UO Digital Collection",
+            "modified": {
+                "@value": "2014-05-15",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http://opaquenamespace.org/ns/digitalCollection/MongolianAltaiInventoryCollection",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-05-13",
+                "@type": "date"
+            },
+            "label": "University of Oregon Libraries. Mongolian Altai Inventory Image Collection.",
+            "comment": "UO Digital Collection",
+            "modified": {
+                "@value": "2014-05-15",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http://opaquenamespace.org/ns/digitalCollection/JordanSchnitzerMuseumofArt",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-05-13",
+                "@type": "date"
+            },
+            "label": "University of Oregon. Libraries. Jordan Schnitzer Museum of Art.",
+            "comment": "UO Digital Collection",
+            "modified": {
+                "@value": "2014-05-15",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http://opaquenamespace.org/ns/digitalCollection/JapaneseAmericanStudentRelocation",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-05-13",
+                "@type": "date"
+            },
+            "label": "Japanese American Student Relocation",
+            "comment": "UO Digital Collection",
+            "modified": {
+                "@value": "2014-05-15",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http://opaquenamespace.org/ns/digitalCollection/HistoricalPhotographs",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-05-13",
+                "@type": "date"
+            },
+            "label": "University of Oregon. Libraries. Historical Photographs.",
+            "comment": "UO Digital Collection",
+            "modified": {
+                "@value": "2014-05-15",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http://opaquenamespace.org/ns/digitalCollection/DorisUlmannPhotographs",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-05-13",
+                "@type": "date"
+            },
+            "label": "University of Oregon. Libraries. Doris Ulmann Photographs.",
+            "comment": "UO Digital Collection",
+            "modified": {
+                "@value": "2014-05-15",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http://opaquenamespace.org/ns/digitalCollection/DissociationandTraumaArchives",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-05-13",
+                "@type": "date"
+            },
+            "label": "University of Oregon. Libraries. Dissociation and Trauma Archives.",
+            "comment": "UO Digital Collection",
+            "modified": {
+                "@value": "2014-05-15",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http://opaquenamespace.org/ns/digitalCollection/BuildingOregon",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-05-13",
+                "@type": "date"
+            },
+            "label": "Building Oregon: Architecture of Oregon & the Pacific Northwest.",
+            "comment": "UO Digital Collection",
+            "modified": {
+                "@value": "2014-05-15",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http://opaquenamespace.org/ns/digitalCollection/Petrarch",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-05-13",
+                "@type": "date"
+            },
+            "label": "University of Oregon Libraries. Petrarch.",
+            "comment": "UO Digital Collection",
+            "modified": {
+                "@value": "2014-05-15",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http://opaquenamespace.org/ns/digitalCollection/JapaneseAmericanStudentRelocation",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-05-13",
+                "@type": "date"
+            },
+            "label": "University of Oregon Libraries. Japanese American Student Relocation.",
+            "comment": "UO Digital Collection",
+            "modified": {
+                "@value": "2014-05-15",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http://opaquenamespace.org/ns/digitalCollection/OregonInstituteofMarineBiologySlidesPhotographs",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-05-13",
+                "@type": "date"
+            },
+            "label": "University of Oregon Libraries. Oregon Institute of Marine Biology Slides & Photographs.",
+            "comment": "UO Digital Collection",
+            "modified": {
+                "@value": "2014-05-15",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http://opaquenamespace.org/ns/digitalCollection/LesbianIntentionalCommunitiesRuthMountaingrovePhotographs",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-05-13",
+                "@type": "date"
+            },
+            "label": "University of Oregon Libraries. Lesbian Intentional Communities- Ruth Mountaingrove Photographs.",
+            "comment": "UO Digital Collection",
+            "modified": {
+                "@value": "2014-05-15",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http://opaquenamespace.org/ns/digitalCollection/OregonLatinoHeritage",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-05-13",
+                "@type": "date"
+            },
+            "label": "University of Oregon Libraries. Oregon Latino Heritage.",
+            "comment": "UO Digital Collection",
+            "modified": {
+                "@value": "2014-05-15",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http://opaquenamespace.org/ns/digitalCollection/TextsData",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-05-13",
+                "@type": "date"
+            },
+            "label": "University of Oregon Libraries. Texts & Data.",
+            "comment": "UO Digital Collection",
+            "modified": {
+                "@value": "2014-05-15",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http://opaquenamespace.org/ns/digitalCollection/OregonPercentforArt",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-05-13",
+                "@type": "date"
+            },
+            "label": "University of Oregon Libraries. Oregon Percent for Art.",
+            "comment": "UO Digital Collection",
+            "modified": {
+                "@value": "2014-05-15",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http://opaquenamespace.org/ns/digitalCollection/UniversityofOregonAthletics",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-05-13",
+                "@type": "date"
+            },
+            "label": "University of Oregon Libraries. University of Oregon Athletics.",
+            "comment": "UO Digital Collection",
+            "modified": {
+                "@value": "2014-05-15",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http://opaquenamespace.org/ns/digitalCollection/UniversityofOregonOfficeofthePresident",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-05-13",
+                "@type": "date"
+            },
+            "label": "University of Oregon Libraries. University of Oregon Office of the President.",
+            "comment": "UO Digital Collection",
+            "modified": {
+                "@value": "2014-05-15",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http://opaquenamespace.org/ns/digitalCollection/UniversityofOregonStockPhotographs",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-05-13",
+                "@type": "date"
+            },
+            "label": "University of Oregon Libraries. University of Oregon Stock Photographs.",
+            "comment": "UO Digital Collection",
+            "modified": {
+                "@value": "2014-05-15",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http://opaquenamespace.org/ns/digitalCollection/UniversityofOregonVeteransOralHistories",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-05-13",
+                "@type": "date"
+            },
+            "label": "University of Oregon Libraries. University of Oregon Veterans Oral Histories.",
+            "comment": "UO Digital Collection",
+            "modified": {
+                "@value": "2014-05-15",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http://opaquenamespace.org/ns/digitalCollection/UniversityofOregonArchivesPhotographs",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-05-13",
+                "@type": "date"
+            },
+            "label": "University of Oregon Libraries. University of Oregon Archives Photographs.",
+            "comment": "UO Digital Collection",
+            "modified": {
+                "@value": "2014-05-15",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http://opaquenamespace.org/ns/digitalCollection/UniversityofOregonArchivesPhotographs",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-05-13",
+                "@type": "date"
+            },
+            "label": "University of Oregon Libraries. University of Oregon Archives Photographs.",
+            "comment": "UO Digital Collection",
+            "modified": {
+                "@value": "2014-05-15",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http://opaquenamespace.org/ns/digitalCollection/ArtistsBooks",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-05-13",
+                "@type": "date"
+            },
+            "label": "University of Oregon Libraries. Artists' Books.",
+            "comment": "UO Digital Collection",
+            "modified": {
+                "@value": "2014-05-15",
+                "@type": "date"
+            }
+        }
+    ]
+}
