@@ -1,29 +1,29 @@
 {
     "@context": {
-	"title": "http://purl.org/dc/terms/title",
-	"label": "http://www.w3.org/2000/01/rdf-schema#label",
-	"comment": "http://www.w3.org/2000/01/rdf-schema#comment",
-	"description": "http://purl.org/dc/terms/description",
-	"publisher": "http://purl.org/dc/terms/publisher",
-	"modified": "http://purl.org/dc/terms/modified",
-	"issued": "http://purl.org/dc/terms/issued",
-	"Collection": "http://purl.org/dc/terms/Collection",
-	"definedBy": "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
-	"range": "http://www.w3.org/2000/01/rdf-schema#range",
-	"date": "http://www.w3.org/2001/XMLSchema#date",
-	"RightsStatement": "http://purl.org/dc/terms/RightsStatement",
-	"Concept": "http://www.w3.org/2004/02/skos/core#Concept",
-	"@language": "en",
-	"additionalName": "http://schema.org/additionalName",
-	"alternateName": "https://schema.org/alternateName"
-	"PersonalName": "http://www.w3.org/2004/02/skos/core#PersonalName",
-	"CorporateName": "http://www.w3.org/2004/02/skos/core#CorporateName",
-	"Topic": "http://www.w3.org/2004/02/skos/core#Topic",
-	"Geographic": "http://www.w3.org/2004/02/skos/core#Geographic",
-	"Title": "http://www.w3.org/2004/02/skos/core#Title",
+        "title": "http://purl.org/dc/terms/title",
+        "label": "http://www.w3.org/2000/01/rdf-schema#label",
+        "comment": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "description": "http://purl.org/dc/terms/description",
+        "publisher": "http://purl.org/dc/terms/publisher",
+        "modified": "http://purl.org/dc/terms/modified",
+        "issued": "http://purl.org/dc/terms/issued",
+        "Collection": "http://purl.org/dc/terms/Collection",
+        "definedBy": "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+        "range": "http://www.w3.org/2000/01/rdf-schema#range",
+        "date": "http://www.w3.org/2001/XMLSchema#date",
+        "RightsStatement": "http://purl.org/dc/terms/RightsStatement",
+        "Concept": "http://www.w3.org/2004/02/skos/core#Concept",
+        "@language": "en",
+        "additionalName": "http://schema.org/additionalName",
+        "alternateName": "https://schema.org/alternateName",
+        "PersonalName": "http://www.w3.org/2004/02/skos/core#PersonalName",
+        "CorporateName": "http://www.w3.org/2004/02/skos/core#CorporateName",
+        "Topic": "http://www.w3.org/2004/02/skos/core#Topic",
+        "Geographic": "http://www.w3.org/2004/02/skos/core#Geographic",
+        "Title": "http://www.w3.org/2004/02/skos/core#Title"
     },
-	  "@graph": [
-	{
+    "@graph": [
+        {
 	    "@id": "http://opaquenamespace.org/repository",
 	    "title": "Repository controlled vocabulary",
 	    "publisher": "Opaque Namespace",
@@ -36,7 +36,6 @@
 		"@type": "http://www.w3.org/2001/XMLSchema#date"
 	    }
 	},
-# BEGIN AAI ETC
 
 	{
 	"@id": "http://opaquenamespace.org/ns/repository/AachenCathedralTreasury",
@@ -859,7 +858,7 @@
 	"@type": "date"
 	},
 	"label": "Capital Museum",
-	"comment": "Capital Museum, Beijing, Beijing Shi, China. Li Yiping; Jin De Zhen Ming Qing Yu Yao Chang Tu Xiang Yu Shou Du Bo Wu Guan Cang "Qing Hua Yu Yao Chang Tu Yuan Zhuo Mian" De Nian Dai, Wen Wu, vol. 2003, no. 11",
+	"comment": "Capital Museum, Beijing, Beijing Shi, China. Li Yiping; Jin De Zhen Ming Qing Yu Yao Chang Tu Xiang Yu Shou Du Bo Wu Guan Cang 'Qing Hua Yu Yao Chang Tu Yuan Zhuo Mian' De Nian Dai, Wen Wu, vol. 2003, no. 11",
 	"modified": {
 	"@value": "2014_07-10",
 	"@type": "date"
@@ -14472,6 +14471,6 @@
 	"@value": "2014_07-10",
 	"@type": "date"
 	}
-	},
-
-# END AAI ETC
+	}
+	]
+	}
