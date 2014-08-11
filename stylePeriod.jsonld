@@ -1,29 +1,29 @@
 {
     "@context": {
-	"title": "http://purl.org/dc/terms/title",
-	"label": "http://www.w3.org/2000/01/rdf-schema#label",
-	"comment": "http://www.w3.org/2000/01/rdf-schema#comment",
-	"description": "http://purl.org/dc/terms/description",
-	"publisher": "http://purl.org/dc/terms/publisher",
-	"modified": "http://purl.org/dc/terms/modified",
-	"issued": "http://purl.org/dc/terms/issued",
-	"Collection": "http://purl.org/dc/terms/Collection",
-	"definedBy": "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
-	"range": "http://www.w3.org/2000/01/rdf-schema#range",
-	"date": "http://www.w3.org/2001/XMLSchema#date",
-	"RightsStatement": "http://purl.org/dc/terms/RightsStatement",
-	"Concept": "http://www.w3.org/2004/02/skos/core#Concept",
-	"@language": "en",
-	"additionalName": "http://schema.org/additionalName",
-	"alternateName": "https://schema.org/alternateName"
-	"PersonalName": "http://www.w3.org/2004/02/skos/core#PersonalName",
-	"CorporateName": "http://www.w3.org/2004/02/skos/core#CorporateName",
-	"Topic": "http://www.w3.org/2004/02/skos/core#Topic",
-	"Geographic": "http://www.w3.org/2004/02/skos/core#Geographic",
-	"Title": "http://www.w3.org/2004/02/skos/core#Title",
+        "title": "http://purl.org/dc/terms/title",
+        "label": "http://www.w3.org/2000/01/rdf-schema#label",
+        "comment": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "description": "http://purl.org/dc/terms/description",
+        "publisher": "http://purl.org/dc/terms/publisher",
+        "modified": "http://purl.org/dc/terms/modified",
+        "issued": "http://purl.org/dc/terms/issued",
+        "Collection": "http://purl.org/dc/terms/Collection",
+        "definedBy": "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+        "range": "http://www.w3.org/2000/01/rdf-schema#range",
+        "date": "http://www.w3.org/2001/XMLSchema#date",
+        "RightsStatement": "http://purl.org/dc/terms/RightsStatement",
+        "Concept": "http://www.w3.org/2004/02/skos/core#Concept",
+        "@language": "en",
+        "additionalName": "http://schema.org/additionalName",
+        "alternateName": "https://schema.org/alternateName",
+        "PersonalName": "http://www.w3.org/2004/02/skos/core#PersonalName",
+        "CorporateName": "http://www.w3.org/2004/02/skos/core#CorporateName",
+        "Topic": "http://www.w3.org/2004/02/skos/core#Topic",
+        "Geographic": "http://www.w3.org/2004/02/skos/core#Geographic",
+        "Title": "http://www.w3.org/2004/02/skos/core#Title"
     },
-	  "@graph": [
-	{
+    "@graph": [
+        {
 	    "@id": "http://opaquenamespace.org/stylePeriod",
 	    "title": "stylePeriod controlled vocabulary",
 	    "publisher": "Opaque Namespace",
@@ -37,7 +37,6 @@
 	    }
 	},
 	
- # BEGIN AAI ETC
   
 	{ 
 	"@id": "http://opaquenamespace.org/ns/stylePeriod/AbdalWadid", 
@@ -2703,12 +2702,9 @@
 	} 
 	}, 
 
-# END AAI ETC
-# BEGIN MAIC
-
 
 	{
-	”@id”: “http://opaquenamespace.org/ns/BronzeAgeandlaterAltai",
+	"@id": "http://opaquenamespace.org/ns/BronzeAgeandlaterAltai",
 	"@type": "Concept",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -2726,7 +2722,7 @@
 	},
 
 	{
-	”@id”: “http://opaquenamespace.org/ns/EarlyNomadicAltai",
+	"@id": "http://opaquenamespace.org/ns/EarlyNomadicAltai",
 	"@type": "Concept",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -2744,7 +2740,7 @@
 	},
 
 	{
-	”@id”: “http://opaquenamespace.org/ns/EthnographicPeriodAltai",
+	"@id": "http://opaquenamespace.org/ns/EthnographicPeriodAltai",
 	"@type": "Concept",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -2762,7 +2758,7 @@
 	},
 
 	{
-	”@id”: “http://opaquenamespace.org/ns/MongolPeriodAltai",
+	"@id": "http://opaquenamespace.org/ns/MongolPeriodAltai",
 	"@type": "Concept",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -2780,7 +2776,7 @@
 	},
 
 	{
-	”@id”: “http://opaquenamespace.org/ns/PostTurkicAltai",
+	"@id": "http://opaquenamespace.org/ns/PostTurkicAltai",
 	"@type": "Concept",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -2798,7 +2794,7 @@
 	},
 
 	{
-	”@id”: “http://opaquenamespace.org/ns/PreBronzeAgeAltai",
+	"@id": "http://opaquenamespace.org/ns/PreBronzeAgeAltai",
 	"@type": "Concept",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -2816,7 +2812,7 @@
 	},
 
 	{
-	”@id”: “http://opaquenamespace.org/ns/PreModernAltai",
+	"@id": "http://opaquenamespace.org/ns/PreModernAltai",
 	"@type": "Concept",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -2834,7 +2830,7 @@
 	},
 
 	{
-	”@id”: “http://opaquenamespace.org/ns/TurkicPeriodAltai",
+	"@id": "http://opaquenamespace.org/ns/TurkicPeriodAltai",
 	"@type": "Concept",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -2852,7 +2848,7 @@
 	},
 
 	{
-	”@id”: “http://opaquenamespace.org/ns/UighurperiodAltai",
+	"@id": "http://opaquenamespace.org/ns/UighurperiodAltai",
 	"@type": "Concept",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -2870,7 +2866,7 @@
 	},
 
 	{
-	”@id”: “http://opaquenamespace.org/ns/UncertainAltai",
+	"@id": "http://opaquenamespace.org/ns/UncertainAltai",
 	"@type": "Concept",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -2889,7 +2885,7 @@
 
 	
 	{
-	”@id”: “http://opaquenamespace.org/ns/BronzeAgeandlaterAltai",
+	"@id": "http://opaquenamespace.org/ns/BronzeAgeandlaterAltai",
 	"@type": "Concept",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -2907,7 +2903,7 @@
 	},
 
 	{
-	”@id”: “http://opaquenamespace.org/ns/EarlyNomadicAltai",
+	"@id": "http://opaquenamespace.org/ns/EarlyNomadicAltai",
 	"@type": "Concept",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -2925,7 +2921,7 @@
 	},
 
 	{
-	”@id”: “http://opaquenamespace.org/ns/EthnographicPeriodAltai",
+	"@id": "http://opaquenamespace.org/ns/EthnographicPeriodAltai",
 	"@type": "Concept",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -2943,7 +2939,7 @@
 	},
 
 	{
-	”@id”: “http://opaquenamespace.org/ns/MongolPeriodAltai",
+	"@id": "http://opaquenamespace.org/ns/MongolPeriodAltai",
 	"@type": "Concept",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -2961,7 +2957,7 @@
 	},
 
 	{
-	”@id”: “http://opaquenamespace.org/ns/PostTurkicAltai",
+	"@id": "http://opaquenamespace.org/ns/PostTurkicAltai",
 	"@type": "Concept",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -2979,7 +2975,7 @@
 	},
 
 	{
-	”@id”: “http://opaquenamespace.org/ns/PreBronzeAgeAltai",
+	"@id": "http://opaquenamespace.org/ns/PreBronzeAgeAltai",
 	"@type": "Concept",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -2997,7 +2993,7 @@
 	},
 
 	{
-	”@id”: “http://opaquenamespace.org/ns/PreModernAltai",
+	"@id": "http://opaquenamespace.org/ns/PreModernAltai",
 	"@type": "Concept",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -3015,7 +3011,7 @@
 	},
 
 	{
-	”@id”: “http://opaquenamespace.org/ns/TurkicPeriodAltai",
+	"@id": "http://opaquenamespace.org/ns/TurkicPeriodAltai",
 	"@type": "Concept",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -3033,7 +3029,7 @@
 	},
 
 	{
-	”@id”: “http://opaquenamespace.org/ns/UighurperiodAltai",
+	"@id": "http://opaquenamespace.org/ns/UighurperiodAltai",
 	"@type": "Concept",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -3051,7 +3047,7 @@
 	},
 
 	{
-	”@id”: “http://opaquenamespace.org/ns/UncertainAltai",
+	"@id": "http://opaquenamespace.org/ns/UncertainAltai",
 	"@type": "Concept",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -3069,7 +3065,7 @@
 	},
 
 	{
-	”@id”: “http://opaquenamespace.org/ns/Arzhan",
+	"@id": "http://opaquenamespace.org/ns/Arzhan",
 	"@type": "Concept",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -3087,7 +3083,7 @@
 	},
 
 	{
-	”@id”: “http://opaquenamespace.org/ns/ArzhanPeriod",
+	"@id": "http://opaquenamespace.org/ns/ArzhanPeriod",
 	"@type": "Concept",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -3105,7 +3101,7 @@
 	},
 
 	{
-	”@id”: “http://opaquenamespace.org/ns/BronzeAgetoModern",
+	"@id": "http://opaquenamespace.org/ns/BronzeAgetoModern",
 	"@type": "Concept",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -3123,7 +3119,7 @@
 	},
 
 	{
-	”@id”: “http://opaquenamespace.org/ns/EarlyIronAgeorlater",
+	"@id": "http://opaquenamespace.org/ns/EarlyIronAgeorlater",
 	"@type": "Concept",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -3141,7 +3137,7 @@
 	},
 
 	{
-	”@id”: “http://opaquenamespace.org/ns/Kyrgyz",
+	"@id": "http://opaquenamespace.org/ns/Kyrgyz",
 	"@type": "Concept",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -3159,7 +3155,7 @@
 	},
 
 	{
-	”@id”: “http://opaquenamespace.org/ns/late",
+	"@id": "http://opaquenamespace.org/ns/late",
 	"@type": "Concept",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -3177,7 +3173,7 @@
 	},
 
 	{
-	”@id”: “http://opaquenamespace.org/ns/LatePazyryk",
+	"@id": "http://opaquenamespace.org/ns/LatePazyryk",
 	"@type": "Concept",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -3195,7 +3191,7 @@
 	},
 
 	{
-	”@id”: “http://opaquenamespace.org/ns/morerecent",
+	"@id": "http://opaquenamespace.org/ns/morerecent",
 	"@type": "Concept",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -3213,7 +3209,7 @@
 	},
 
 	{
-	”@id”: “http://opaquenamespace.org/ns/possiblylater",
+	"@id": "http://opaquenamespace.org/ns/possiblylater",
 	"@type": "Concept",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -3231,7 +3227,7 @@
 	},
 
 	{
-	”@id”: “http://opaquenamespace.org/ns/recent",
+	"@id": "http://opaquenamespace.org/ns/recent",
 	"@type": "Concept",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -3249,7 +3245,7 @@
 	},
 
 	{
-	”@id”: “http://opaquenamespace.org/ns/Tamga",
+	"@id": "http://opaquenamespace.org/ns/Tamga",
 	"@type": "Concept",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -3267,7 +3263,7 @@
 	},
 
 	{
-	”@id”: “http://opaquenamespace.org/ns/uncertain",
+	"@id": "http://opaquenamespace.org/ns/uncertain",
 	"@type": "Concept",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -3285,7 +3281,7 @@
 	},
 
 	{
-	”@id”: “http://opaquenamespace.org/ns/varied",
+	"@id": "http://opaquenamespace.org/ns/varied",
 	"@type": "Concept",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -3301,10 +3297,6 @@
 	"@type": "date"
 	}
 	},
-	
-# END MAIC
-# BEGIN JSMA
-
 
 	{
 	"@id": "http://opaquenamespace.org/ns/stylePeriod/PacificNorthwest",
@@ -3323,8 +3315,7 @@
 	"@value": "2014-05-16",
 	"@type": "date"
 	}
-	},
-
-# END JSMA
-
+	}
+    ]
+}
 
