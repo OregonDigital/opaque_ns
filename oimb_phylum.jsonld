@@ -1,29 +1,29 @@
 {
     "@context": {
-	"title": "http://purl.org/dc/terms/title",
-	"label": "http://www.w3.org/2000/01/rdf-schema#label",
-	"comment": "http://www.w3.org/2000/01/rdf-schema#comment",
-	"description": "http://purl.org/dc/terms/description",
-	"publisher": "http://purl.org/dc/terms/publisher",
-	"modified": "http://purl.org/dc/terms/modified",
-	"issued": "http://purl.org/dc/terms/issued",
-	"Collection": "http://purl.org/dc/terms/Collection",
-	"definedBy": "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
-	"range": "http://www.w3.org/2000/01/rdf-schema#range",
-	"date": "http://www.w3.org/2001/XMLSchema#date",
-	"RightsStatement": "http://purl.org/dc/terms/RightsStatement",
-	"Concept": "http://www.w3.org/2004/02/skos/core#Concept",
-	"@language": "en",
-	"additionalName": "http://schema.org/additionalName",
-	"alternateName": "https://schema.org/alternateName"
-	"PersonalName": "http://www.w3.org/2004/02/skos/core#PersonalName",
-	"CorporateName": "http://www.w3.org/2004/02/skos/core#CorporateName",
-	"Topic": "http://www.w3.org/2004/02/skos/core#Topic",
-	"Geographic": "http://www.w3.org/2004/02/skos/core#Geographic",
-	"Title": "http://www.w3.org/2004/02/skos/core#Title",
+        "title": "http://purl.org/dc/terms/title",
+        "label": "http://www.w3.org/2000/01/rdf-schema#label",
+        "comment": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "description": "http://purl.org/dc/terms/description",
+        "publisher": "http://purl.org/dc/terms/publisher",
+        "modified": "http://purl.org/dc/terms/modified",
+        "issued": "http://purl.org/dc/terms/issued",
+        "Collection": "http://purl.org/dc/terms/Collection",
+        "definedBy": "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+        "range": "http://www.w3.org/2000/01/rdf-schema#range",
+        "date": "http://www.w3.org/2001/XMLSchema#date",
+        "RightsStatement": "http://purl.org/dc/terms/RightsStatement",
+        "Concept": "http://www.w3.org/2004/02/skos/core#Concept",
+        "@language": "en",
+        "additionalName": "http://schema.org/additionalName",
+        "alternateName": "https://schema.org/alternateName",
+        "PersonalName": "http://www.w3.org/2004/02/skos/core#PersonalName",
+        "CorporateName": "http://www.w3.org/2004/02/skos/core#CorporateName",
+        "Topic": "http://www.w3.org/2004/02/skos/core#Topic",
+        "Geographic": "http://www.w3.org/2004/02/skos/core#Geographic",
+        "Title": "http://www.w3.org/2004/02/skos/core#Title"
     },
-	  "@graph": [
-	{
+    "@graph": [
+        {
 	    "@id": "http://opaquenamespace.org/phylum",
 	    "title": "phylum controlled vocabulary",
 	    "publisher": "Opaque Namespace",
@@ -38,7 +38,7 @@
 	},
 
 {
-”@id”: “http://opaquenamespace.org/ns/phylum/Rhodophyte",
+"@id": "http://opaquenamespace.org/ns/phylum/Rhodophyte",
 "@type": "Topic",
 "definedBy": {
 "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -52,5 +52,7 @@
 "@value": "2014-07-11",
 "@type": "date"
 }
-},
+}
+]
+}
 
