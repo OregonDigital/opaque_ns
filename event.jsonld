@@ -20,7 +20,7 @@
 	"CorporateName": "http://www.w3.org/2004/02/skos/core#CorporateName",
 	"Topic": "http://www.w3.org/2004/02/skos/core#Topic",
 	"Geographic": "http://www.w3.org/2004/02/skos/core#Geographic",
-	"Title": "http://www.w3.org/2004/02/skos/core#Title",
+	"Title": "http://www.w3.org/2004/02/skos/core#Title"
     },
 	  "@graph": [
 	{
@@ -37,7 +37,7 @@
 	    }
 	},
 
-#begin univ
+
 
 {
 "@id": "http://opaquenamespace.org/ns/event/CPSCamp56",
@@ -184,5 +184,7 @@
 },
 
 
-
-#end univ
+            }
+        }
+    ]
+}
