@@ -1,29 +1,29 @@
 {
     "@context": {
-	"title": "http://purl.org/dc/terms/title",
-	"label": "http://www.w3.org/2000/01/rdf-schema#label",
-	"comment": "http://www.w3.org/2000/01/rdf-schema#comment",
-	"description": "http://purl.org/dc/terms/description",
-	"publisher": "http://purl.org/dc/terms/publisher",
-	"modified": "http://purl.org/dc/terms/modified",
-	"issued": "http://purl.org/dc/terms/issued",
-	"Collection": "http://purl.org/dc/terms/Collection",
-	"definedBy": "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
-	"range": "http://www.w3.org/2000/01/rdf-schema#range",
-	"date": "http://www.w3.org/2001/XMLSchema#date",
-	"RightsStatement": "http://purl.org/dc/terms/RightsStatement",
-	"Concept": "http://www.w3.org/2004/02/skos/core#Concept",
-	"@language": "en",
-	"additionalName": "http://schema.org/additionalName",
-	"alternateName": "https://schema.org/alternateName"
-	"PersonalName": "http://www.w3.org/2004/02/skos/core#PersonalName",
-	"CorporateName": "http://www.w3.org/2004/02/skos/core#CorporateName",
-	"Topic": "http://www.w3.org/2004/02/skos/core#Topic",
-	"Geographic": "http://www.w3.org/2004/02/skos/core#Geographic",
-	"Title": "http://www.w3.org/2004/02/skos/core#Title",
+        "title": "http://purl.org/dc/terms/title",
+        "label": "http://www.w3.org/2000/01/rdf-schema#label",
+        "comment": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "description": "http://purl.org/dc/terms/description",
+        "publisher": "http://purl.org/dc/terms/publisher",
+        "modified": "http://purl.org/dc/terms/modified",
+        "issued": "http://purl.org/dc/terms/issued",
+        "Collection": "http://purl.org/dc/terms/Collection",
+        "definedBy": "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+        "range": "http://www.w3.org/2000/01/rdf-schema#range",
+        "date": "http://www.w3.org/2001/XMLSchema#date",
+        "RightsStatement": "http://purl.org/dc/terms/RightsStatement",
+        "Concept": "http://www.w3.org/2004/02/skos/core#Concept",
+        "@language": "en",
+        "additionalName": "http://schema.org/additionalName",
+        "alternateName": "https://schema.org/alternateName",
+        "PersonalName": "http://www.w3.org/2004/02/skos/core#PersonalName",
+        "CorporateName": "http://www.w3.org/2004/02/skos/core#CorporateName",
+        "Topic": "http://www.w3.org/2004/02/skos/core#Topic",
+        "Geographic": "http://www.w3.org/2004/02/skos/core#Geographic",
+        "Title": "http://www.w3.org/2004/02/skos/core#Title"
     },
-	  "@graph": [
-	{
+    "@graph": [
+        {
 	    "@id": "http://opaquenamespace.org/photographer",
 	    "title": "Photographer controlled vocabulary",
 	    "publisher": "Opaque Namespace",
@@ -37,7 +37,6 @@
 	    }
 	},
 
-# BEGIN PNA
 
 	{
 	"@id": "http://opaquenamespace.org/ns/photgrapher/PasschierAGregoor",
@@ -1889,8 +1888,6 @@
 	}
 	},
 
-# END PNA
-# BEGIN MAIC
 
 
 	{
@@ -1911,9 +1908,6 @@
 	"@type": "date"
 	}
 	},
-
-#END MAIC
-# BEGIN WWDL
 
 
 	{
@@ -1985,968 +1979,959 @@
 	}
 	},
 
-#END WWDL
-
-
-
-#begin Sarah's additions
-
-
-#begin uoathletics
 
 
 {
-”@id”:"http://opaquenamespace.org/ns/photographer/ABFrench"
-"@type":"PersonalName"
+"@id":"http://opaquenamespace.org/ns/photographer/ABFrench",
+"@type":"PersonalName",
 "definedBy":{
-"@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
-}
+"@id": "http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
+},
 "issued":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
-}
-"label":"A.B. French"
+},
+"label": "A.B. French",
 "modified":{
-"@value":"20140801"
-"@type":"date"
+"@value": "2014-08-01",
+"@type": "date"
 }
 }
 
 
 {
-”@id”:"http://opaquenamespace.org/ns/photographer/AaronRubinoPhotography"
-"@type":"CorporateName"
+"@id":"http://opaquenamespace.org/ns/photographer/AaronRubinoPhotography",
+"@type":"CorporateName",
 "definedBy":{
 "@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
-}
+},
 "issued":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
-}
-"label":"Aaron Rubino Photography"
+},
+"label":"Aaron Rubino Photography",
 "modified":{
-"@value":"20140801"
-"@type":"date"
+"@value": "2014-08-01",
+"@type": "date"
 }
 }
 
 
 {
-”@id”:"http://opaquenamespace.org/ns/photographer/BoylesBarry"
-"@type":"PersonalName"
+"@id":"http://opaquenamespace.org/ns/photographer/BoylesBarry",
+"@type":"PersonalName",
 "definedBy":{
 "@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
-}
+},
 "issued":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
-}
-"label":"Boyles, Barry"
+},
+"label":"Boyles, Barry",
 "modified":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
 }
 }
 
 
 {
-”@id”:"http://opaquenamespace.org/ns/photographer/BreedloveGary"
-"@type":"PersonalName"
+"@id":"http://opaquenamespace.org/ns/photographer/BreedloveGary",
+"@type":"PersonalName",
 "definedBy":{
 "@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
-}
+},
 "issued":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
-}
-"label":"Breedlove, Gary"
+},
+"label":"Breedlove, Gary",
 "modified":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
 }
 }
 
 
 {
-”@id”:"http://opaquenamespace.org/ns/photographer/ButtonBaker"
-"@type":"PersonalName"
+"@id":"http://opaquenamespace.org/ns/photographer/ButtonBaker",
+"@type":"PersonalName",
 "definedBy":{
 "@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
-}
+},
 "issued":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
-}
-"label":"Button, Baker"
+},
+"label":"Button, Baker",
 "modified":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
 }
 }
 
 
 {
-”@id”:"http://opaquenamespace.org/ns/photographer/ConwayMichaelP"
-"@type":"PersonalName"
+"@id":"http://opaquenamespace.org/ns/photographer/ConwayMichaelP",
+"@type":"PersonalName",
 "definedBy":{
 "@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
-}
+},
 "issued":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
-}
-"label":"Conway, Michael P."
+},
+"label":"Conway, Michael P.",
 "modified":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
 }
 }
 
 
 {
-”@id”:"http://opaquenamespace.org/ns/photographer/CroniseRalphR"
-"@type":"PersonalName"
+"@id":"http://opaquenamespace.org/ns/photographer/CroniseRalphR",
+"@type":"PersonalName",
 "definedBy":{
 "@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
-}
+},
 "issued":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
-}
-"label":"Cronise, Ralph R."
+},
+"label":"Cronise, Ralph R.",
 "modified":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
 }
 }
 
 
 {
-”@id”:"http://opaquenamespace.org/ns/photographer/EastburnWayne"
-"@type":"PersonalName"
+"@id":"http://opaquenamespace.org/ns/photographer/EastburnWayne",
+"@type":"PersonalName",
 "definedBy":{
 "@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
-}
+},
 "issued":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
-}
-"label":"Eastburn, Wayne"
+},
+"label":"Eastburn, Wayne",
 "modified":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
 }
 }
 
 
 {
-”@id”:"http://opaquenamespace.org/ns/photographer/EggeJoe"
-"@type":"PersonalName"
+"@id":"http://opaquenamespace.org/ns/photographer/EggeJoe",
+"@type":"PersonalName",
 "definedBy":{
 "@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
-}
+},
 "issued":{
-"@value":"20140801"
-"@type":"date"
-}
-"label":"Egge, Joe"
+"@value":"2014-08-01",
+"@type":"date",
+},
+"label":"Egge, Joe",
 "modified":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
 }
 }
 
 
 {
-”@id”:"http://opaquenamespace.org/ns/photographer/FarquharGeorge"
-"@type":"PersonalName"
+"@id":"http://opaquenamespace.org/ns/photographer/FarquharGeorge",
+"@type":"PersonalName",
 "definedBy":{
 "@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
-}
+},
 "issued":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
-}
-"label":"Farquhar, George"
+},
+"label":"Farquhar, George",
 "modified":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
 }
 }
 
 
 {
-”@id”:"http://opaquenamespace.org/ns/photographer/GillRobert"
-"@type":"PersonalName"
+"@id":"http://opaquenamespace.org/ns/photographer/GillRobert",
+"@type":"PersonalName",
 "definedBy":{
 "@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
-}
+},
 "issued":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
-}
-"label":"Gill, Robert"
+},
+"label":"Gill, Robert",
 "modified":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
 }
 }
 
 
 {
-”@id”:"http://opaquenamespace.org/ns/photographer/GiustinaJohn"
-"@type":"PersonalName"
+"@id":"http://opaquenamespace.org/ns/photographer/GiustinaJohn",
+"@type":"PersonalName",
 "definedBy":{
 "@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
-}
+},
 "issued":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
-}
-"label":"Giustina, John"
+},
+"label":"Giustina, John",
 "modified":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
 }
 }
 
 
 {
-”@id”:"http://opaquenamespace.org/ns/photographer/Graves"
-"@type":"PersonalName"
+"@id":"http://opaquenamespace.org/ns/photographer/Graves",
+"@type":"PersonalName",
 "definedBy":{
 "@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
-}
+},
 "issued":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
-}
-"label":"Graves"
+},
+"label":"Graves",
 "modified":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
 }
 }
 
 
 {
-”@id”:"http://opaquenamespace.org/ns/photographer/GreenStanleyO"
-"@type":"PersonalName"
+"@id":"http://opaquenamespace.org/ns/photographer/GreenStanleyO",
+"@type":"PersonalName",
 "definedBy":{
 "@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
-}
+},
 "issued":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
-}
-"label":"Green, Stanley O."
+},
+"label":"Green, Stanley O.",
 "modified":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
 }
 }
 
 
 {
-”@id”:"http://opaquenamespace.org/ns/photographer/GruenfelderNeilS"
-"@type":"PersonalName"
+"@id":"http://opaquenamespace.org/ns/photographer/GruenfelderNeilS",
+"@type":"PersonalName",
 "definedBy":{
 "@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
-}
+},
 "issued":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
-}
-"label":"Gruenfelder, Neil S."
+},
+"label":"Gruenfelder, Neil S.",
 "modified":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
 }
 }
 
 
 {
-”@id”:"http://opaquenamespace.org/ns/photographer/HartMike"
-"@type":"PersonalName"
+"@id":"http://opaquenamespace.org/ns/photographer/HartMike",
+"@type":"PersonalName",
 "definedBy":{
 "@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
-}
+},
 "issued":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
-}
-"label":"Hart, Mike"
+},
+"label":"Hart, Mike",
 "modified":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
 }
 }
 
 
 {
-”@id”:"http://opaquenamespace.org/ns/photographer/HarveyPaulWIV"
-"@type":"PersonalName"
+"@id":"http://opaquenamespace.org/ns/photographer/HarveyPaulWIV",
+"@type":"PersonalName",
 "definedBy":{
 "@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
-}
+},
 "issued":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
-}
-"label":"Harvey, Paul W., IV"
+},
+"label":"Harvey, Paul W., IV",
 "modified":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
 }
 }
 
 
 {
-”@id”:"http://opaquenamespace.org/ns/photographer/HeinonenJanet"
-"@type":"PersonalName"
+"@id":"http://opaquenamespace.org/ns/photographer/HeinonenJanet",
+"@type":"PersonalName",
 "definedBy":{
 "@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
-}
+},
 "issued":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
-}
-"label":"Heinonen, Janet"
+},
+"label":"Heinonen, Janet",
 "modified":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
 }
 }
 
 
 {
-”@id”:"http://opaquenamespace.org/ns/photographer/HopeHermanA"
-"@type":"PersonalName"
+"@id":"http://opaquenamespace.org/ns/photographer/HopeHermanA",
+"@type":"PersonalName",
 "definedBy":{
 "@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
-}
+},
 "issued":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
-}
-"label":"Hope, Herman A."
+},
+"label":"Hope, Herman A.",
 "modified":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
 }
 }
 
 
 {
-”@id”:"http://opaquenamespace.org/ns/photographer/JohnsonDana"
-"@type":"PersonalName"
+"@id":"http://opaquenamespace.org/ns/photographer/JohnsonDana",
+"@type":"PersonalName",
 "definedBy":{
 "@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
-}
+},
 "issued":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
-}
-"label":"Johnson, Dana"
+},
+"label":"Johnson, Dana",
 "modified":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
 }
 }
 
 
 {
-”@id”:"http://opaquenamespace.org/ns/photographer/JonesOttoM"
-"@type":"PersonalName"
+"@id":"http://opaquenamespace.org/ns/photographer/JonesOttoM",
+"@type":"PersonalName",
 "definedBy":{
 "@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
-}
+},
 "issued":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
-}
-"label":"Jones, Otto M."
+},
+"label":"Jones, Otto M.",
 "modified":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
 }
 }
 
 
 {
-”@id”:"http://opaquenamespace.org/ns/photographer/KennellEllis"
-"@type":"PersonalName"
+"@id":"http://opaquenamespace.org/ns/photographer/KennellEllis",
+"@type":"PersonalName",
 "definedBy":{
 "@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
-}
+},
 "issued":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
-}
-"label":"Kennell-Ellis"
+},
+"label":"Kennell-Ellis",
 "modified":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
 }
 }
 
 
 {
-”@id”:"http://opaquenamespace.org/ns/photographer/LinkJames"
-"@type":"PersonalName"
+"@id":"http://opaquenamespace.org/ns/photographer/LinkJames",
+"@type":"PersonalName",
 "definedBy":{
 "@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
-}
+},
 "issued":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
-}
-"label":"Link, James"
+},
+"label":"Link, James",
 "modified":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
 }
 }
 
 
 {
-”@id”:"http://opaquenamespace.org/ns/photographer/LyonsMike"
-"@type":"PersonalName"
+"@id":"http://opaquenamespace.org/ns/photographer/LyonsMike",
+"@type":"PersonalName",
 "definedBy":{
 "@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
-}
+},
 "issued":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
-}
-"label":"Lyons, Mike"
+},
+"label":"Lyons, Mike",
 "modified":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
 }
 }
 
 
 {
-”@id”:"http://opaquenamespace.org/ns/photographer/MathesonJack"
-"@type":"PersonalName"
+"@id":"http://opaquenamespace.org/ns/photographer/MathesonJack",
+"@type":"PersonalName",
 "definedBy":{
 "@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
-}
+},
 "issued":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
-}
-"label":"Matheson, Jack"
+},
+"label":"Matheson, Jack",
 "modified":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
 }
 }
 
 
 {
-”@id”:"http://opaquenamespace.org/ns/photographer/MathesonJoe"
-"@type":"PersonalName"
+"@id":"http://opaquenamespace.org/ns/photographer/MathesonJoe",
+"@type":"PersonalName",
 "definedBy":{
 "@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
-}
+},
 "issued":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
-}
-"label":"Matheson, Joe"
+},
+"label":"Matheson, Joe",
 "modified":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
 }
 }
 
 
 {
-”@id”:"http://opaquenamespace.org/ns/photographer/McDonaldDuncan"
-"@type":"PersonalName"
+"@id":"http://opaquenamespace.org/ns/photographer/McDonaldDuncan",
+"@type":"PersonalName",
 "definedBy":{
 "@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
-}
+},
 "issued":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
-}
-"label":"McDonald, Duncan"
+},
+"label":"McDonald, Duncan",
 "modified":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
 }
 }
 
 
 {
-”@id”:"http://opaquenamespace.org/ns/photographer/Mentzer"
-"@type":"PersonalName"
+"@id":"http://opaquenamespace.org/ns/photographer/Mentzer",
+"@type":"PersonalName",
 "definedBy":{
 "@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
-}
+},
 "issued":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
-}
-"label":"Mentzer"
+},
+"label":"Mentzer",
 "modified":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
 }
 }
 
 
 {
-”@id”:"http://opaquenamespace.org/ns/photographer/MertzRobert"
-"@type":"PersonalName"
+"@id":"http://opaquenamespace.org/ns/photographer/MertzRobert",
+"@type":"PersonalName",
 "definedBy":{
 "@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
-}
+},
 "issued":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
-}
-"label":"Mertz, Robert"
+},
+"label":"Mertz, Robert",
 "modified":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
 }
 }
 
 
 {
-”@id”:"http://opaquenamespace.org/ns/photographer/MorganWarren"
-"@type":"PersonalName"
+"@id":"http://opaquenamespace.org/ns/photographer/MorganWarren",
+"@type":"PersonalName",
 "definedBy":{
 "@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
-}
+},
 "issued":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
-}
-"label":"Morgan, Warren"
+},
+"label":"Morgan, Warren",
 "modified":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
 }
 }
 
 
 {
-”@id”:"http://opaquenamespace.org/ns/photographer/MurdockSteve"
-"@type":"PersonalName"
+"@id":"http://opaquenamespace.org/ns/photographer/MurdockSteve",
+"@type":"PersonalName",
 "definedBy":{
 "@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
-}
+},
 "issued":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
-}
-"label":"Murdock, Steve"
+},
+"label":"Murdock, Steve",
 "modified":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
 }
 }
 
 
 {
-”@id”:"http://opaquenamespace.org/ns/photographer/PalmquistOscar"
-"@type":"PersonalName"
+"@id":"http://opaquenamespace.org/ns/photographer/PalmquistOscar",
+"@type":"PersonalName",
 "definedBy":{
 "@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
-}
+},
 "issued":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
-}
-"label":"Palmquist, Oscar"
+},
+"label":"Palmquist, Oscar",
 "modified":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
 }
 }
 
 
 {
-”@id”:"http://opaquenamespace.org/ns/photographer/PitnerMirkoJ"
-"@type":"PersonalName"
+"@id":"http://opaquenamespace.org/ns/photographer/PitnerMirkoJ",
+"@type":"PersonalName",
 "definedBy":{
 "@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
-}
+},
 "issued":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
-}
-"label":"Pitner, Mirko J."
+},
+"label":"Pitner, Mirko J.",
 "modified":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
 }
 }
 
 
 {
-”@id”:"http://opaquenamespace.org/ns/photographer/PostonSean"
-"@type":"PersonalName"
+"@id":"http://opaquenamespace.org/ns/photographer/PostonSean",
+"@type":"PersonalName",
 "definedBy":{
 "@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
-}
+},
 "issued":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
-}
-"label":"Poston, Sean"
+},
+"label":"Poston, Sean",
 "modified":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
 }
 }
 
 
 {
-”@id”:"http://opaquenamespace.org/ns/photographer/PowellJohnT"
-"@type":"PersonalName"
+"@id":"http://opaquenamespace.org/ns/photographer/PowellJohnT",
+"@type":"PersonalName",
 "definedBy":{
 "@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
-}
+},
 "issued":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
-}
-"label":"Powell, John T."
+},
+"label":"Powell, John T.",
 "modified":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
 }
 }
 
 
 {
-”@id”:"http://opaquenamespace.org/ns/photographer/RalphVincentPhotography"
-"@type":"CorporateName"
+"@id":"http://opaquenamespace.org/ns/photographer/RalphVincentPhotography",
+"@type":"CorporateName",
 "definedBy":{
 "@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
-}
+},
 "issued":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
-}
-"label":"Ralph Vincent Photography"
+},
+"label":"Ralph Vincent Photography",
 "modified":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
 }
 }
 
 
 {
-”@id”:"http://opaquenamespace.org/ns/photographer/ReadAC"
-"@type":"PersonalName"
+"@id":"http://opaquenamespace.org/ns/photographer/ReadAC",
+"@type":"PersonalName",
 "definedBy":{
 "@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
-}
+},
 "issued":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
-}
-"label":"Read, A.C."
+},
+"label":"Read, A.C.",
 "modified":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
 }
 }
 
 
 {
-”@id”:"http://opaquenamespace.org/ns/photographer/RegisterGuardEugeneOr"
-"@type":"CorporateName"
+"@id":"http://opaquenamespace.org/ns/photographer/RegisterGuardEugeneOr",
+"@type":"CorporateName",
 "definedBy":{
 "@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
-}
+},
 "issued":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
-}
-"label":"Register-Guard (Eugene, Or.)"
+},
+"label":"Register-Guard (Eugene, Or.)",
 "modified":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
 }
 }
 
 
 {
-”@id”:"http://opaquenamespace.org/ns/photographer/SmithRobertL"
-"@type":"PersonalName"
+"@id":"http://opaquenamespace.org/ns/photographer/SmithRobertL",
+"@type":"PersonalName",
 "definedBy":{
 "@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
-}
+},
 "issued":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
-}
-"label":"Smith, Robert L."
+},
+"label":"Smith, Robert L.",
 "modified":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
 }
 }
 
 
 {
-”@id”:"http://opaquenamespace.org/ns/photographer/SoggeStudio"
-"@type":"PersonalName"
+"@id":"http://opaquenamespace.org/ns/photographer/SoggeStudio",
+"@type":"PersonalName",
 "definedBy":{
 "@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
-}
+},
 "issued":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
-}
-"label":"Smith, Robert L."
+},
+"label":"Smith, Robert L.",
 "modified":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
 }
 }
 
 
 {
-”@id”:"http://opaquenamespace.org/ns/photographer/StovepipeStudio"
-"@type":"CorporateName"
+"@id":"http://opaquenamespace.org/ns/photographer/StovepipeStudio",
+"@type":"CorporateName",
 "definedBy":{
 "@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
-}
+},
 "issued":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
-}
-"label":"Sogge Studio"
+},
+"label":"Sogge Studio",
 "modified":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
 }
 }
 
 
 {
-”@id”:"http://opaquenamespace.org/ns/photographer/ThompsonMary"
-"@type":"PersonalName"
+"@id":"http://opaquenamespace.org/ns/photographer/ThompsonMary",
+"@type":"PersonalName",
 "definedBy":{
 "@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
-}
+},
 "issued":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
-}
-"label":"Stovepipe Studio"
+},
+"label":"Stovepipe Studio",
 "modified":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
 }
 }
 
 
 {
-”@id”:"http://opaquenamespace.org/ns/photographer/TollmanofEugene"
-"@type":"PersonalName"
+"@id":"http://opaquenamespace.org/ns/photographer/TollmanofEugene",
+"@type":"PersonalName",
 "definedBy":{
 "@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
-}
+},
 "issued":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
-}
-"label":"Thompson, Mary"
+},
+"label":"Thompson, Mary",
 "modified":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
 }
 }
 
 
 {
-”@id”:"http://opaquenamespace.org/ns/photographer/Tuttle"
-"@type":"PersonalName"
+"@id":"http://opaquenamespace.org/ns/photographer/Tuttle",
+"@type":"PersonalName",
 "definedBy":{
 "@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
-}
+},
 "issued":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
-}
-"label":"Tollman of Eugene"
+},
+"label":"Tollman of Eugene",
 "modified":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
 }
 }
 
 
 {
-”@id”:"http://opaquenamespace.org/ns/photographer/VonRummelhoffJames"
-"@type":"PersonalName"
+"@id":"http://opaquenamespace.org/ns/photographer/VonRummelhoffJames",
+"@type":"PersonalName",
 "definedBy":{
 "@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
-}
+},
 "issued":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
-}
-"label":"Tuttle"
+},
+"label":"Tuttle",
 "modified":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
 }
 }
 
 
 {
-”@id”:"http://opaquenamespace.org/ns/photographer/WideWorldPhoto"
-"@type":"CorporateName"
+"@id":"http://opaquenamespace.org/ns/photographer/WideWorldPhoto",
+"@type":"CorporateName",
 "definedBy":{
 "@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
-}
+},
 "issued":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
-}
-"label":"Von Rummelhoff, James"
+},
+"label":"Von Rummelhoff, James",
 "modified":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
 }
 }
 
 
 {
-”@id”:"http://opaquenamespace.org/ns/photographer/WiltshiresEugeneOr"
-"@type":"CorporateName"
+"@id":"http://opaquenamespace.org/ns/photographer/WiltshiresEugeneOr",
+"@type":"CorporateName",
 "definedBy":{
 "@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
-}
+},
 "issued":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
-}
-"label":"Wide World Photo"
+},
+"label":"Wide World Photo",
 "modified":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
 }
 }
 
 
 {
-”@id”:"http://opaquenamespace.org/ns/photographer/WojahnBrent"
-"@type":"PersonalName"
+"@id":"http://opaquenamespace.org/ns/photographer/WojahnBrent",
+"@type":"PersonalName",
 "definedBy":{
 "@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
-}
+},
 "issued":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
-}
-"label":"Wiltshire's (Eugene, Or.)"
+},
+"label":"Wiltshire's (Eugene, Or.)",
 "modified":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
 }
 }
 
 
 {
-”@id”:"http://opaquenamespace.org/ns/photographer/WolcottPhil"
-"@type":"PersonalName"
+"@id":"http://opaquenamespace.org/ns/photographer/WolcottPhil",
+"@type":"PersonalName",
 "definedBy":{
 "@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
-}
+},
 "issued":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
-}
-"label":"Wojahn, Brent"
+},
+"label":"Wojahn, Brent",
 "modified":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
 }
 }
 
 
 {
-”@id”:"http://opaquenamespace.org/ns/photographer/YimmKen"
-"@type":"PersonalName"
+"@id":"http://opaquenamespace.org/ns/photographer/YimmKen",
+"@type":"PersonalName",
 "definedBy":{
 "@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
-}
+},
 "issued":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
-}
-"label":"Wolcott, Phil"
+},
+"label":"Wolcott, Phil",
 "modified":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
 }
 }
 
 
 {
-”@id”:"http://opaquenamespace.org/ns/photographer/ZahnDavid"
-"@type":"PersonalName"
+"@id":"http://opaquenamespace.org/ns/photographer/ZahnDavid",
+"@type": "PersonalName",
 "definedBy":{
 "@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
-}
+},
 "issued":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
-}
-"label":"Yimm, Ken"
+},
+"label":"Yimm, Ken",
 "modified":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
 }
 }
 
 
 {
-”@id”:"http://opaquenamespace.org/ns/photographer/ZiaMichaelH"
-"@type":"PersonalName"
+"@id":"http://opaquenamespace.org/ns/photographer/ZiaMichaelH",
+"@type":"PersonalName",
 "definedBy":{
 "@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
-}
+},
 "issued":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
-}
-"label":"Zahn, David"
+},
+"label":"Zahn, David",
 "modified":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
 }
 }
 
 
 {
-”@id”:"http://opaquenamespace.org/ns/photographer/ZiaMichaelH"
-"@type":"PersonalName"
+"@id":"http://opaquenamespace.org/ns/photographer/ZiaMichaelH",
+"@type":"PersonalName",
 "definedBy":{
 "@id":"http://opaquenamespaceorg/VOCAB_PLACEHOLDERnt"
-}
+},
 "issued":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
-}
-"label":"Zia, Michael H."
+},
+"label":"Zia, Michael H.",
 "modified":{
-"@value":"20140801"
+"@value":"2014-08-01",
 "@type":"date"
 }
 }
-
-#end uoathletics
-
+]
+}
