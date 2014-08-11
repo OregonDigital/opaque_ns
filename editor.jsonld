@@ -16,11 +16,6 @@
 	"@language": "en",
 	"additionalName": "http://schema.org/additionalName",
 	"alternateName": "https://schema.org/alternateName"
-	"PersonalName": "http://www.w3.org/2004/02/skos/core#PersonalName",
-	"CorporateName": "http://www.w3.org/2004/02/skos/core#CorporateName",
-	"Topic": "http://www.w3.org/2004/02/skos/core#Topic",
-	"Geographic": "http://www.w3.org/2004/02/skos/core#Geographic",
-	"Title": "http://www.w3.org/2004/02/skos/core#Title",
     },
 	  "@graph": [
 	{
@@ -36,7 +31,7 @@
 		"@type": "http://www.w3.org/2001/XMLSchema#date"
 	    }
 	},
-# BEGIN ODE
+
 
 	{
 	"@id": "http://opaquenamespace.org/ns/editor/ChaseAshley",
@@ -226,7 +221,7 @@
 	"modified": {
 	"@value": "2014-05-15",
 	"@type": "date"
-	}
-	},
-
-# END ODE
+	 }
+        }
+    ]
+}
