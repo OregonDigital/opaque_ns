@@ -1,1511 +1,1416 @@
 {
     "@context": {
-	"title": "http://purl.org/dc/terms/title",
-	"label": "http://www.w3.org/2000/01/rdf-schema#label",
-	"comment": "http://www.w3.org/2000/01/rdf-schema#comment",
-	"description": "http://purl.org/dc/terms/description",
-	"publisher": "http://purl.org/dc/terms/publisher",
-	"modified": "http://purl.org/dc/terms/modified",
-	"issued": "http://purl.org/dc/terms/issued",
-	"Collection": "http://purl.org/dc/terms/Collection",
-	"definedBy": "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
-	"range": "http://www.w3.org/2000/01/rdf-schema#range",
-	"date": "http://www.w3.org/2001/XMLSchema#date",
-	"RightsStatement": "http://purl.org/dc/terms/RightsStatement",
-	"Concept": "http://www.w3.org/2004/02/skos/core#Concept",
-	"@language": "en",
-	"additionalName": "http://schema.org/additionalName",
-	"alternateName": "https://schema.org/alternateName"
-	"PersonalName": "http://www.w3.org/2004/02/skos/core#PersonalName",
-	"CorporateName": "http://www.w3.org/2004/02/skos/core#CorporateName",
-	"Topic": "http://www.w3.org/2004/02/skos/core#Topic",
-	"Geographic": "http://www.w3.org/2004/02/skos/core#Geographic",
-	"Title": "http://www.w3.org/2004/02/skos/core#Title",
+        "title": "http://purl.org/dc/terms/title",
+        "label": "http://www.w3.org/2000/01/rdf-schema#label",
+        "comment": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "description": "http://purl.org/dc/terms/description",
+        "publisher": "http://purl.org/dc/terms/publisher",
+        "modified": "http://purl.org/dc/terms/modified",
+        "issued": "http://purl.org/dc/terms/issued",
+        "Collection": "http://purl.org/dc/terms/Collection",
+        "definedBy": "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+        "range": "http://www.w3.org/2000/01/rdf-schema#range",
+        "date": "http://www.w3.org/2001/XMLSchema#date",
+        "RightsStatement": "http://purl.org/dc/terms/RightsStatement",
+        "Concept": "http://www.w3.org/2004/02/skos/core#Concept",
+        "@language": "en",
+        "additionalName": "http://schema.org/additionalName",
+        "alternateName": "https://schema.org/alternateName"
     },
-	  "@graph": [
-	{
-	    "@id": "http://opaquenamespace.org/workType",
-	    "title": "workType controlled vocabulary",
-	    "publisher": "Opaque Namespace",
-	    "modified": {
-		"@value": "2013-12-16",
-		"@type": "http://www.w3.org/2001/XMLSchema#date"
-	    },
-	    "issued": {
-		"@value": "2013-12-16",
-		"@type": "http://www.w3.org/2001/XMLSchema#date"
-	    }
-	},
-# BEGIN AAI ETC
-
-	{
-	"@id": "http://opaquenamespace.org/ns/workType/airportterminals",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-10",
-	"@type": "date"
-	},
-	"label": "airport terminals",
-	"comment": "Local term. ",
-	"modified": {
-	"@value": "2014_07-10",
-	"@type": "date"
-	}
-	},
-
-	{
-	"@id": "http://opaquenamespace.org/ns/workType/Carpentertools",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-10",
-	"@type": "date"
-	},
-	"label": "Carpenter tools",
-	"comment": "Term used by Dr. Kingston Heath, University of Oregon. ",
-	"modified": {
-	"@value": "2014_07-10",
-	"@type": "date"
-	}
-	},
-
-	{
-	"@id": "http://opaquenamespace.org/ns/workType/Chinesebrushpaintingsvisualworks",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-10",
-	"@type": "date"
-	},
-	"label": "Chinese brush paintings (visual works)",
-	"comment": "Local term. Use for traditional style paintings using brush, watercolor and ink washes. ",
-	"modified": {
-	"@value": "2014_07-10",
-	"@type": "date"
-	}
-	},
-
-	{
-	"@id": "http://opaquenamespace.org/ns/workType/continuouscurveamphoraetype1",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-10",
-	"@type": "date"
-	},
-	"label": "continuous curve amphorae type 1",
-	"comment": "Term used by Dr. Steven Lowenstam, University of Oregon. ",
-	"modified": {
-	"@value": "2014_07-10",
-	"@type": "date"
-	}
-	},
-
-	{
-	"@id": "http://opaquenamespace.org/ns/workType/continuouscurveamphoraeTypeA",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-10",
-	"@type": "date"
-	},
-	"label": "continuous curve amphorae Type A",
-	"comment": "Term used by Dr. Steven Lowenstam, University of Oregon. ",
-	"modified": {
-	"@value": "2014_07-10",
-	"@type": "date"
-	}
-	},
-
-	{
-	"@id": "http://opaquenamespace.org/ns/workType/culturaldocumentation",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-10",
-	"@type": "date"
-	},
-	"label": "cultural documentation",
-	"comment": "General classification for hierarchal purposes. Vcat provided Classification",
-	"modified": {
-	"@value": "2014_07-10",
-	"@type": "date"
-	}
-	},
-
-	{
-	"@id": "http://opaquenamespace.org/ns/workType/cupstypeA",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-10",
-	"@type": "date"
-	},
-	"label": "cups type A",
-	"comment": "Term used by Dr. Steven Lowenstam, University of Oregon. ",
-	"modified": {
-	"@value": "2014_07-10",
-	"@type": "date"
-	}
-	},
-
-	{
-	"@id": "http://opaquenamespace.org/ns/workType/cupstypeB",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-10",
-	"@type": "date"
-	},
-	"label": "cups type B",
-	"comment": "Term used by Dr. Steven Lowenstam, University of Oregon. ",
-	"modified": {
-	"@value": "2014_07-10",
-	"@type": "date"
-	}
-	},
-
-	{
-	"@id": "http://opaquenamespace.org/ns/workType/cupstypeC",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-10",
-	"@type": "date"
-	},
-	"label": "cups type C",
-	"comment": "Term used by Dr. Steven Lowenstam, University of Oregon. ",
-	"modified": {
-	"@value": "2014_07-10",
-	"@type": "date"
-	}
-	},
-
-	{
-	"@id": "http://opaquenamespace.org/ns/workType/Dragendorffform37",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-10",
-	"@type": "date"
-	},
-	"label": "Dragendorff form 37",
-	"comment": "Term used by Dr. Steven Lowenstam, University of Oregon. ",
-	"modified": {
-	"@value": "2014_07-10",
-	"@type": "date"
-	}
-	},
-
-	{
-	"@id": "http://opaquenamespace.org/ns/workType/epicranitis",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-10",
-	"@type": "date"
-	},
-	"label": "epicranitis",
-	"comment": "Term used by Dr. Steven Lowenstam, University of Oregon. ",
-	"modified": {
-	"@value": "2014_07-10",
-	"@type": "date"
-	}
-	},
-
-	{
-	"@id": "http://opaquenamespace.org/ns/workType/garmenthooks",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-10",
-	"@type": "date"
-	},
-	"label": "garment hooks",
-	"comment": "Local term. Ornamental hooks used to fasten belts or clothing in Asia (Chinese: dai gou or daigou). ",
-	"modified": {
-	"@value": "2014_07-10",
-	"@type": "date"
-	}
-	},
-
-	{
-	"@id": "http://opaquenamespace.org/ns/workType/installationenvironmentalstagesets",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-10",
-	"@type": "date"
-	},
-	"label": "installation, environmental, stage sets",
-	"comment": "General classification for hierarchal purposes. Vcat provided Classification",
-	"modified": {
-	"@value": "2014_07-10",
-	"@type": "date"
-	}
-	},
-
-	{
-	"@id": "http://opaquenamespace.org/ns/workType/ivoryandbone",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-10",
-	"@type": "date"
-	},
-	"label": "ivory and bone",
-	"comment": "General classification for hierarchal purposes. Vcat provided Classification",
-	"modified": {
-	"@value": "2014_07-10",
-	"@type": "date"
-	}
-	},
-
-	{
-	"@id": "http://opaquenamespace.org/ns/workType/jewelrygems",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-10",
-	"@type": "date"
-	},
-	"label": "jewelry, gems",
-	"comment": "General classification for hierarchal purposes. Vcat provided Classification",
-	"modified": {
-	"@value": "2014_07-10",
-	"@type": "date"
-	}
-	},
-
-	{
-	"@id": "http://opaquenamespace.org/ns/workType/manuscriptsandbooks",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-10",
-	"@type": "date"
-	},
-	"label": "manuscripts and books",
-	"comment": "General classification for hierarchal purposes. Vcat provided Classification",
-	"modified": {
-	"@value": "2014_07-10",
-	"@type": "date"
-	}
-	},
-
-	{
-	"@id": "http://opaquenamespace.org/ns/workType/mapsandglobes",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-10",
-	"@type": "date"
-	},
-	"label": "maps and globes",
-	"comment": "General classification for hierarchal purposes. Vcat provided Classification",
-	"modified": {
-	"@value": "2014_07-10",
-	"@type": "date"
-	}
-	},
-
-	{
-	"@id": "http://opaquenamespace.org/ns/workType/musicmusicalinstruments",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-10",
-	"@type": "date"
-	},
-	"label": "music, musical instruments",
-	"comment": "General classification for hierarchal purposes. Vcat provided Classification",
-	"modified": {
-	"@value": "2014_07-10",
-	"@type": "date"
-	}
-	},
-
-	{
-	"@id": "http://opaquenamespace.org/ns/workType/pistrina",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-10",
-	"@type": "date"
-	},
-	"label": "pistrina",
-	"comment": "Term used by Dr. Steven Lowenstam, University of Oregon. ",
-	"modified": {
-	"@value": "2014_07-10",
-	"@type": "date"
-	}
-	},
-
-	{
-	"@id": "http://opaquenamespace.org/ns/workType/Pontzamphorae",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-10",
-	"@type": "date"
-	},
-	"label": "Pontz amphorae",
-	"comment": "Term used by Dr. Steven Lowenstam, University of Oregon. ",
-	"modified": {
-	"@value": "2014_07-10",
-	"@type": "date"
-	}
-	},
-
-	{
-	"@id": "http://opaquenamespace.org/ns/workType/prochus",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-10",
-	"@type": "date"
-	},
-	"label": "prochus",
-	"comment": "Term used by Dr. Steven Lowenstam, University of Oregon. ",
-	"modified": {
-	"@value": "2014_07-10",
-	"@type": "date"
-	}
-	},
-
-	{
-	"@id": "http://opaquenamespace.org/ns/workType/recreationandgames",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-10",
-	"@type": "date"
-	},
-	"label": "recreation and games",
-	"comment": "General classification for hierarchal purposes. Vcat provided Classification",
-	"modified": {
-	"@value": "2014_07-10",
-	"@type": "date"
-	}
-	},
-
-	{
-	"@id": "http://opaquenamespace.org/ns/workType/skylla",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-10",
-	"@type": "date"
-	},
-	"label": "skylla",
-	"comment": "Term used by Dr. Steven Lowenstam, University of Oregon. ",
-	"modified": {
-	"@value": "2014_07-10",
-	"@type": "date"
-	}
-	},
-
-	{
-	"@id": "http://opaquenamespace.org/ns/workType/stamnoidollas",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-10",
-	"@type": "date"
-	},
-	"label": "stamnoid ollas",
-	"comment": "Term used by Dr. Steven Lowenstam, University of Oregon. ",
-	"modified": {
-	"@value": "2014_07-10",
-	"@type": "date"
-	}
-	},
-
-	{
-	"@id": "http://opaquenamespace.org/ns/workType/textilesweavingandfiberarts",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-10",
-	"@type": "date"
-	},
-	"label": "textiles, weaving, and fiber arts",
-	"comment": "General classification for hierarchal purposes. Vcat provided Classification",
-	"modified": {
-	"@value": "2014_07-10",
-	"@type": "date"
-	}
-	},
-
-	{
-	"@id": "http://opaquenamespace.org/ns/workType/thermopolia",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-10",
-	"@type": "date"
-	},
-	"label": "thermopolia",
-	"comment": "Term used by Dr. Steven Lowenstam, University of Oregon. ",
-	"modified": {
-	"@value": "2014_07-10",
-	"@type": "date"
-	}
-	},
-
-	{
-	"@id": "http://opaquenamespace.org/ns/workType/toolsandequipment",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-10",
-	"@type": "date"
-	},
-	"label": "tools and equipment",
-	"comment": "General classification for hierarchal purposes. Vcat provided Classification",
-	"modified": {
-	"@value": "2014_07-10",
-	"@type": "date"
-	}
-	},
-
-	{
-	"@id": "http://opaquenamespace.org/ns/workType/typeA",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-10",
-	"@type": "date"
-	},
-	"label": "type A",
-	"comment": "Term used by Dr. Steven Lowenstam, University of Oregon. ",
-	"modified": {
-	"@value": "2014_07-10",
-	"@type": "date"
-	}
-	},
-
-	{
-	"@id": "http://opaquenamespace.org/ns/workType/urbanandtopographicalviews",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-10",
-	"@type": "date"
-	},
-	"label": "urban and topographical views",
-	"comment": "General classification for hierarchal purposes. Vcat provided Classification",
-	"modified": {
-	"@value": "2014_07-10",
-	"@type": "date"
-	}
-	},
-
-	{
-	"@id": "http://opaquenamespace.org/ns/workType/VotiveClayShield",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-10",
-	"@type": "date"
-	},
-	"label": "Votive Clay Shield",
-	"comment": "Term used by Dr. Steven Lowenstam, University of Oregon. ",
-	"modified": {
-	"@value": "2014_07-10",
-	"@type": "date"
-	}
-	},
-
-	{
-	"@id": "http://opaquenamespace.org/ns/workType/aibanprints",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-10",
-	"@type": "date"
-	},
-	"label": "aiban (prints)",
-	"comment": "Yamane, Yūzō; Fūzokuga to Ukiyoe shi (Genshoku Nihon no Bijutsu, v.24), 1971. Japanese prints aproximately 34.5 x 22.5 cm or (9 x 13 in). ",
-	"modified": {
-	"@value": "2014_07-10",
-	"@type": "date"
-	}
-	},
-
-	{
-	"@id": "http://opaquenamespace.org/ns/workType/almaizars",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-10",
-	"@type": "date"
-	},
-	"label": "almaizars",
-	"comment": "Dodds, Jerrilynn D.; Al-Andalus: the Art of Islamic Spain, New York: Metropolitan Museum of Art, 1992. Muslim headdress. ",
-	"modified": {
-	"@value": "2014_07-10",
-	"@type": "date"
-	}
-	},
-
-	{
-	"@id": "http://opaquenamespace.org/ns/workType/karansé",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-10",
-	"@type": "date"
-	},
-	"label": "karansé",
-	"comment": "Gealt, Adelheid, et al.; Masterworks from the Indiana University Art Museum, Bloomington, IN: Indiana University Press, 2007. Associated with the northern Mossi people. A face mask surmounted by an antelpe head and horns with a plank-like superstructure behind them. in Vcat",
-	"modified": {
-	"@value": "2014_07-10",
-	"@type": "date"
-	}
-	},
-
-	{
-	"@id": "http://opaquenamespace.org/ns/workType/panelpaintingsAsian",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-10",
-	"@type": "date"
-	},
-	"label": "panel paintings (Asian)",
-	"comment": "Nakano, Masaki; Shōsōin to jōdai kaiga : Asuka Nara no kaiga kōgei, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992  (. Paintings on large wood panels, installed inside buildings such as pagodas and temples.  Usually featuring Buddhist deities.",
-	"modified": {
-	"@value": "2014_07-10",
-	"@type": "date"
-	}
-	},
-
-	{
-	"@id": "http://opaquenamespace.org/ns/workType/pavilionsAsian",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-10",
-	"@type": "date"
-	},
-	"label": "pavilions (Asian)",
-	"comment": "Tsuji, Nobuo, Kiyoshi Hirai, and Yoshiaki Yabe; Shiro to chashitsu, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992. ",
-	"modified": {
-	"@value": "2014_07-10",
-	"@type": "date"
-	}
-	},
-
-	{
-	"@id": "http://opaquenamespace.org/ns/workType/tagres",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-10",
-	"@type": "date"
-	},
-	"label": "tagres",
-	"comment": "Peirce, Donald C.; Art & Enterprise: American Decorative Art, 1825-1917: The Virginia Carroll Crawford Collection, Atlanta: High Museum of Art, 1999. ",
-	"modified": {
-	"@value": "2014_07-10",
-	"@type": "date"
-	}
-	},
-
-	{
-	"@id": "http://opaquenamespace.org/ns/workType/vajra",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-10",
-	"@type": "date"
-	},
-	"label": "vajra",
-	"comment": "Nakano, Masaki, Yutaka Hirata, and Masayuki Sekiguchi; Mandara to raigōzu, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1991. Vajra (Devanagari: वज्र) is a Sanskrit word meaning both thunderbolt and diamond and is a ritual tool or spiritual implement which is symbolically important to both Buddhism and Hinduism, but is particularly important in Buddhism. The equivalent word in Tibetan is dorje (Wylie: rdo-rje; ZWPY: dojê), which is also a common male name in Tibet and Bhutan. Dorje can also refer to a small sceptre held in the right hand by Tibetan lamas during religious ceremonies. ",
-	"modified": {
-	"@value": "2014_07-10",
-	"@type": "date"
-	}
-	},
-
-	{
-	"@id": "http://opaquenamespace.org/ns/workType/chutanzakutanzaku",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-10",
-	"@type": "date"
-	},
-	"label": "chu-tanzaku (tanzaku)",
-	"comment": "http://www.gordonsart.com/datastore_home/datastore_help/6ppb_yo.htm. Japanese prints, also known as tanzaku, from an oban cut in half lengthwise. ",
-	"modified": {
-	"@value": "2014_07-10",
-	"@type": "date"
-	}
-	},
-
-	{
-	"@id": "http://opaquenamespace.org/ns/workType/ōhosobanotanzaku",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-10",
-	"@type": "date"
-	},
-	"label": "ō-hosoban (o-tanzaku)",
-	"comment": "http://mercury.lcs.mit.edu/~jnc/prints/glossary.html. Literally, a large hosoban. A fairly rare, narrow print size (about 38 x 17 cm) often used for kacho-ga prints by Hiroshige. ",
-	"modified": {
-	"@value": "2014_07-10",
-	"@type": "date"
-	}
-	},
-
-# END AAI ETC
-# BEGIN MAIC
-
-
-	{
-	”@id”: “http://opaquenamespace.org/ns/balbalAltai",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-23",
-	"@type": "date"
-	},
-	"label": "balbal",
-	"alternateName": "balbals",
-	"comment": "Small vertically standing stones in the Mongolian Altai of varying size set into the ground and often at considerable depth associated with burials and Turkic enclosures",
-	"modified": { 
-	"@value": "2014-07-23",
-	"@type": "date"
-	}
-	},
-
-	{
-	”@id”: “http://opaquenamespace.org/ns/boulderkhirigsuurAltai",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-23",
-	"@type": "date"
-	},
-	"label": "boulder khirigsuur",
-	"alternateName": "boulder khirigsur",
-	"alternateName": "boulder khirigsurs",
-	"alternateName": "boulder khirigsuur",
-	"alternateName": "boulder khirigsuurs",
-	"comment": "A boulder khirigsuur is an elaborate Bronze Age ritual or funerary structure in the Mongolian Altai which includes a central boulder, in place of a mound, and a round or square surrounding frame. Usually the area between boulder and frame is left open and within it may be rays (radiae) aligned with the cardinal directions or their subdivisions. Small circular altars are usually found outside the frame on the north, west, and south sides, rarely on the east side. Some khirigsuur have entrances on the east side; many are accompanied by mounds of unknown function.",
-	"modified": { 
-	"@value": "2014-07-23",
-	"@type": "date"
-	}
-	},
-
-	{
-	”@id”: “http://opaquenamespace.org/ns/circularaltarsAltai",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-23",
-	"@type": "date"
-	},
-	"label": "circular altars",
-	"alternateName": "circular altar",
-	"comment": "A round structure used for ritual offerings in the Mongolian Altai",
-	"modified": { 
-	"@value": "2014-07-23",
-	"@type": "date"
-	}
-	},
-
-	{
-	”@id”: “http://opaquenamespace.org/ns/collaredmoundsAltai",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-23",
-	"@type": "date"
-	},
-	"label": "collared mounds",
-	"alternateName": "collared mound",
-	"comment": "Piles of rough mountain stones or smooth river stones, or a combination of the two types, in the Mongolian Altai and ringed with a contrastingly colored stone or with vertical stones of a tooth-like appearance tilted toward the center of the structure. Most mounds are probably funerary in function; that is, they were raised at the time of an individual’s death and to mark that person’s burial. Whether, however, the body was actually placed under the mound or in a burial chamber sunk into the ground, varies according to period and culture",
-	"modified": { 
-	"@value": "2014-07-23",
-	"@type": "date"
-	}
-	},
-
-	{
-	”@id”: “http://opaquenamespace.org/ns/deerstonesAltai",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-23",
-	"@type": "date"
-	},
-	"label": "deer stones",
-	"alternateName": "deer stone",
-	"comment": "Vertically standing stones in the Mongolian Altai of varying size set into the ground and often at considerable depth with carved decoraton depicting, among many possible elements, stylized and elongated deer on the wide sides of the stone. The function of the stones remains unclear, but they can, on rare occassions, appear within a row of balbal associated with early nomadic burials. Their high narrow faces are almost always oriented to the east.",
-	"modified": { 
-	"@value": "2014-07-23",
-	"@type": "date"
-	}
-	},
-
-	{
-	”@id”: “http://opaquenamespace.org/ns/doublemoundsAltai",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-23",
-	"@type": "date"
-	},
-	"label": "double mounds",
-	"alternateName": "double mound",
-	"comment": "Paired square piles of rough mountain stones or smooth river stones or a combination of the two types in the Mongolian Altai . Most mounds are probably funerary in function; that is, they were raised at the time of an individual’s death and to mark that person’s burial. Whether, however, the body was actually placed under the mound or in a burial chamber sunk into the ground, varies according to period and culture",
-	"modified": { 
-	"@value": "2014-07-23",
-	"@type": "date"
-	}
-	},
-
-	{
-	”@id”: “http://opaquenamespace.org/ns/dwellingsAltai",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-23",
-	"@type": "date"
-	},
-	"label": "dwellings",
-	"alternateName": "dwelling",
-	"comment": "Ancient dwellings in the Altai Mountains of Mongolia take the form of rectangular or rounded patterns laid on the surface of the earth. Their walls are frequently doubled or expressed by lines of small vertical stones; their interiors are broken up as if with rooms and one or two hearths. There is always an entrance on the west and another on the east, the latter often marked by a large, impressive stone. Dwellings are always oriented from east to west. They may occur individually or, more frequently, in considerable numbers. They resemble most closely the pecked imagery of dwellings found in Bronze Age petroglyphs (petroglyphs: dwellings. On the basis of this resemblance, we may conclude that they were funerary in function but not burials, and that they may be assigned to the Bronze Age. Lines of stones are almost always found in association with dwellings. Single or multiple strands of these lines extend from the groups of dwellings down to nearby rivers or up to adjacent ridges. Their function is uncertain, but they must refer to some aspect of the journey of the dead after funerary ceremonies.",
-	"modified": { 
-	"@value": "2014-07-23",
-	"@type": "date"
-	}
-	},
-
-	{
-	”@id”: “http://opaquenamespace.org/ns/enclosuresAltai",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-23",
-	"@type": "date"
-	},
-	"label": "enclosures",
-	"alternateName": "enclosure",
-	"comment": "A square or rectangular stone structure on the surface of the ground in the Mongolian Altai",
-	"modified": { 
-	"@value": "2014-07-23",
-	"@type": "date"
-	}
-	},
-
-	{
-	”@id”: “http://opaquenamespace.org/ns/extendedlinearfeaturesAltai",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-23",
-	"@type": "date"
-	},
-	"label": "extended linear features",
-	"alternateName": "extended linear feature",
-	"alternateName": "line",
-	"alternateName": "lines",
-	"comment": "Straight lines of stones that extend beyond the frame of a khirigsuur in the Mongolian Altai",
-	"modified": { 
-	"@value": "2014-07-23",
-	"@type": "date"
-	}
-	},
-
-	{
-	”@id”: “http://opaquenamespace.org/ns/falsedeerstonesAltai",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-23",
-	"@type": "date"
-	},
-	"label": "false deer stones",
-	"alternateName": "false deer stone",
-	"comment": "Uncarved or barely carved vertically standing stones in the Mongolian Altai of varying size set into the ground and often at considerable depth. Their function, like true deer stones, remains unclear. Their high narrow faces are almost always oriented to the east.",
-	"modified": { 
-	"@value": "2014-07-23",
-	"@type": "date"
-	}
-	},
-
-	{
-	”@id”: “http://opaquenamespace.org/ns/falseimagestonesAltai",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-23",
-	"@type": "date"
-	},
-	"label": "false image stones",
-	"alternateName": "false image stone",
-	"comment": "Simple uncarved or barely carved vertical stones in the Mongolian Altai placed in the same way as true image stones in Turkic Memroials, referring to specific deceased individuals",
-	"modified": { 
-	"@value": "2014-07-23",
-	"@type": "date"
-	}
-	},
-
-	{
-	”@id”: “http://opaquenamespace.org/ns/fourcorneredmoundsAltai",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-23",
-	"@type": "date"
-	},
-	"label": "four-cornered mounds",
-	"alternateName": "four-cornered mound",
-	"comment": "Bronze Age square piles of rough mountain stones or smooth river stones or a combination of the two types in the Mongolian Altai. Most mounds are probably funerary in function; that is, they were raised at the time of an individual’s death and to mark that person’s burial. Whether, however, the body was actually placed under the mound or in a burial chamber sunk into the ground, varies according to period and culture",
-	"modified": { 
-	"@value": "2014-07-23",
-	"@type": "date"
-	}
-	},
-
-	{
-	”@id”: “http://opaquenamespace.org/ns/framesAltai",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-23",
-	"@type": "date"
-	},
-	"label": "frames",
-	"alternateName": "frame",
-	"comment": "Stones set in rows of varying shapes encircling a khirigsuur or other monument in the Mongolian Altai",
-	"modified": { 
-	"@value": "2014-07-23",
-	"@type": "date"
-	}
-	},
-
-	{
-	”@id”: “http://opaquenamespace.org/ns/imagestonesBronzeAgeAltai",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-23",
-	"@type": "date"
-	},
-	"label": "image stones, Bronze Age",
-	"alternateName": "image stone, Bronze Age",
-	"comment": "Bronze Age carved vertical stones placed in Turkic Memroials and referring to specific deceased individuals in the Mongolian Altai",
-	"modified": { 
-	"@value": "2014-07-23",
-	"@type": "date"
-	}
-	},
-
-	{
-	”@id”: “http://opaquenamespace.org/ns/inscriptionsAltai",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-23",
-	"@type": "date"
-	},
-	"label": "inscriptions",
-	"alternateName": "inscription",
-	"comment": "Inscriptions from Bayan Ölgiy, in the Mongolian Altai, occur on rock outcroppings, usually together with pecked or engraved imagery. Inscriptions include two primary types: those from the Turkic period and others from the Mongol period. There are a few inscriptions executed in classical Mongolian script and others written in modern Kazakh or Mongolian.",
-	"modified": { 
-	"@value": "2014-07-23",
-	"@type": "date"
-	}
-	},
-
-	{
-	”@id”: “http://opaquenamespace.org/ns/keyholemoundsAltai",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-23",
-	"@type": "date"
-	},
-	"label": "key-hole mounds",
-	"alternateName": "key-hole mound",
-	"comment": "Pile of rough mountain stones or smooth river stones, or a combination of the two types, in the shape of a keyholein the Mongolian Altai. Most mounds are probably funerary in function; that is, they were raised at the time of an individual’s death and to mark that person’s burial. Whether, however, the body was actually placed under the mound or in a burial chamber sunk into the ground, varies according to period and culture",
-	"modified": { 
-	"@value": "2014-07-23",
-	"@type": "date"
-	}
-	},
-
-	{
-	”@id”: “http://opaquenamespace.org/ns/khirigsuurAltai",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-23",
-	"@type": "date"
-	},
-	"label": "khirigsuur",
-	"alternateName": "khirigsur",
-	"alternateName": "khirigsurs",
-	"alternateName": "khirigsuur",
-	"alternateName": "khirigsuurs",
-	"comment": "Elaborate Bronze Age ritual or funerary structures in the Mongolian Altai including a central mound and a round or square surrounding frame. Usually the area between mound and frame is left open and within it may be rays (radiae) aligned with the cardinal directions or their subdivisions. Small circular altars are usually found outside the frame on the north, west, and south sides, rarely on the east side. Some khirigsuur have entrances on the east side; many are accompanied by mounds of unknown function.",
-	"modified": { 
-	"@value": "2014-07-23",
-	"@type": "date"
-	}
-	},
-
-	{
-	”@id”: “http://opaquenamespace.org/ns/largecirclesAltai",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-23",
-	"@type": "date"
-	},
-	"label": "large circles",
-	"alternateName": "large circle",
-	"comment": "Large stone circles that appear on terraces of ridges, alone or in pairsin the Mongolian Altai. Their function is uncertain",
-	"modified": { 
-	"@value": "2014-07-23",
-	"@type": "date"
-	}
-	},
-
-	{
-	”@id”: “http://opaquenamespace.org/ns/massivestandingstonesAltai",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-23",
-	"@type": "date"
-	},
-	"label": "massive standing stones",
-	"alternateName": "massive standing stone",
-	"comment": "Massive stones standing vertically of varying size set into the ground and often at considerable depth in the Mongolian Altai",
-	"modified": { 
-	"@value": "2014-07-23",
-	"@type": "date"
-	}
-	},
-
-	{
-	”@id”: “http://opaquenamespace.org/ns/moderngravesAltai",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-23",
-	"@type": "date"
-	},
-	"label": "modern graves",
-	"alternateName": "modern grave",
-	"comment": "Burials in the Mongolian Altai established in the 1000 years preceeding present day",
-	"modified": { 
-	"@value": "2014-07-23",
-	"@type": "date"
-	}
-	},
-
-	{
-	”@id”: “http://opaquenamespace.org/ns/moundsunknownuseAltai",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-23",
-	"@type": "date"
-	},
-	"label": "mounds-unknown use",
-	"alternateName": "mound-unknown use",
-	"comment": "Large piles of rough mountain stones or smooth river stones, or a combination of the two types, of unknown use in the Mongolian Altai",
-	"modified": { 
-	"@value": "2014-07-23",
-	"@type": "date"
-	}
-	},
-
-	{
-	”@id”: “http://opaquenamespace.org/ns/ovooobooAltai",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-23",
-	"@type": "date"
-	},
-	"label": "ovoo/oboo",
-	"alternateName": "ovoos/oboos",
-	"comment": "A modern-day altar in the Mongolian Altai, usually of piled stones, found ubiquitously on ridges, passes, and at difficult crossings. An ovoo is raised over a period of many years or generations in honor of the indwelling spirit of the mountain, river, or spring where it appears. In modern times tracelers charcteristcally indicate their gratitude for a safe journey by adding a stone or other object to the pile.",
-	"modified": { 
-	"@value": "2014-07-23",
-	"@type": "date"
-	}
-	},
-
-	{
-	”@id”: “http://opaquenamespace.org/ns/periodoverlaysAltai",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-23",
-	"@type": "date"
-	},
-	"label": "period overlays",
-	"alternateName": "period overlay",
-	"comment": "Accrued additions to a monument, site or complex in the Mongolian Altai",
-	"modified": { 
-	"@value": "2014-07-23",
-	"@type": "date"
-	}
-	},
-
-	{
-	”@id”: “http://opaquenamespace.org/ns/petroglyphsAltai",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-23",
-	"@type": "date"
-	},
-	"label": "petroglyphs",
-	"alternateName": "petroglyph",
-	"comment": "Within the Mongolian Altai, all open-air petroglyphic imagery surviving from the pre-Modern period is engraved, scratched, gouged or pecked into the surface of bedrock or boulders; for this reason, this imagery is referred to as petroglyphic rather than pictographic. Petroglyphs are represented by single images or by compositions of two or more images up to several hundred motifs.",
-	"modified": { 
-	"@value": "2014-07-23",
-	"@type": "date"
-	}
-	},
-
-	{
-	”@id”: “http://opaquenamespace.org/ns/platformkhirigsuurAltai",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-23",
-	"@type": "date"
-	},
-	"label": "platform khirigsuur",
-	"alternateName": "platform khirigsur",
-	"alternateName": "platform khirigsurs",
-	"alternateName": "platform khirigsuur",
-	"alternateName": "platform khirigsuurs",
-	"comment": "An elaborate Bronze Age ritual or funerary structure in the Mongolian Altai including a central mound that extends to the surrounding wall in a kind of pavement and a round or square surrounding frame. The area between mound and frame may be left open and within it may be rays (radiae) aligned with the cardinal directions or their subdivisions. Small circular altars are usually found outside the frame on the north, west, and south sides, rarely on the east side. Some khirigsuur have entrances on the east side; many are accompanied by mounds of unknown function.",
-	"modified": { 
-	"@value": "2014-07-23",
-	"@type": "date"
-	}
-	},
-
-	{
-	”@id”: “http://opaquenamespace.org/ns/raysAltai",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-23",
-	"@type": "date"
-	},
-	"label": "rays",
-	"alternateName": "ray",
-	"comment": "Straight lines of stones located within khirigsuur in the Mongolian Altai",
-	"modified": { 
-	"@value": "2014-07-23",
-	"@type": "date"
-	}
-	},
-
-	{
-	”@id”: “http://opaquenamespace.org/ns/rectangularmoundsAltai",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-23",
-	"@type": "date"
-	},
-	"label": "rectangular mounds",
-	"alternateName": "rectangular mound",
-	"comment": "Rectangular piles of rough mountain stones or smooth river stones, or a combination of the two types, in the Mongolian Altai. Most mounds are probably funerary in function; that is, they were raised at the time of an individual’s death and to mark that person’s burial. Whether, however, the body was actually placed under the mound or in a burial chamber sunk into the ground, varies according to period and culture",
-	"modified": { 
-	"@value": "2014-07-23",
-	"@type": "date"
-	}
-	},
-
-	{
-	”@id”: “http://opaquenamespace.org/ns/ritualmoundsAltai",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-23",
-	"@type": "date"
-	},
-	"label": "ritual mounds",
-	"alternateName": "ritual mound",
-	"comment": "Piles of rough mountain stones or smooth river stones, or a combination of the two types, serving a ritual function in the Mongolian Altai. Most mounds are probably funerary in function; that is, they were raised at the time of an individual’s death and to mark that person’s burial. Whether, however, the body was actually placed under the mound or in a burial chamber sunk into the ground, varies according to period and culture",
-	"modified": { 
-	"@value": "2014-07-23",
-	"@type": "date"
-	}
-	},
-
-	{
-	”@id”: “http://opaquenamespace.org/ns/ritualsitesAltai",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-23",
-	"@type": "date"
-	},
-	"label": "ritual sites",
-	"alternateName": "ritual site",
-	"comment": "A site where rituals were performed in the Mongolian Altai",
-	"modified": { 
-	"@value": "2014-07-23",
-	"@type": "date"
-	}
-	},
-
-	{
-	”@id”: “http://opaquenamespace.org/ns/roundkhirigsuurAltai",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-23",
-	"@type": "date"
-	},
-	"label": "round khirigsuur",
-	"alternateName": "round khirigsur",
-	"alternateName": "round khirigsurs",
-	"alternateName": "round khirigsuur",
-	"alternateName": "round khirigsuurs",
-	"comment": "Elaborate Bronze Age ritual or funerary structures in the Mongolian Altai including a central mound and a round surrounding frame. Usually the area between mound and frame is left open and within it may be rays (radiae) aligned with the cardinal directions or their subdivisions. Small circular altars are usually found outside the frame on the north, west, and south sides, rarely on the east side. Some khirigsuur have entrances on the east side; many are accompanied by mounds of unknown function.",
-	"modified": { 
-	"@value": "2014-07-23",
-	"@type": "date"
-	}
-	},
-
-	{
-	”@id”: “http://opaquenamespace.org/ns/semicirclesAltai",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-23",
-	"@type": "date"
-	},
-	"label": "semi-circles",
-	"alternateName": "semi-circle",
-	"comment": "Stone semi-circles occur alone or in pairs, but are unusual in the Mongolian Altai. Their function and age are uncertain.",
-	"modified": { 
-	"@value": "2014-07-23",
-	"@type": "date"
-	}
-	},
-
-	{
-	”@id”: “http://opaquenamespace.org/ns/serpentinefeaturesAltai",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-23",
-	"@type": "date"
-	},
-	"label": "serpentine features",
-	"alternateName": "serpentine feature",
-	"comment": "Features with forms consisting of a curved line that winds or meanders in multiple directions but does not cross or intersect itself",
-	"modified": { 
-	"@value": "2014-07-23",
-	"@type": "date"
-	}
-	},
-
-	{
-	”@id”: “http://opaquenamespace.org/ns/smallcircularaltarsAltai",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-23",
-	"@type": "date"
-	},
-	"label": "small circular altars",
-	"alternateName": "small circular altar",
-	"comment": "A small round structure used for ritual offerings in the Mongolian Altai",
-	"modified": { 
-	"@value": "2014-07-23",
-	"@type": "date"
-	}
-	},
-
-	{
-	”@id”: “http://opaquenamespace.org/ns/squarekhirigsuurAltai",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-23",
-	"@type": "date"
-	},
-	"label": "square khirigsuur",
-	"alternateName": "square khirigsur",
-	"alternateName": "square khirigsurs",
-	"alternateName": "square khirigsuur",
-	"alternateName": "square khirigsuurs",
-	"comment": "Elaborate Bronze Age ritual or funerary structures in the Mongolian Altai including a central mound and a square surrounding frame. Usually the area between mound and frame is left open and within it may be rays (radiae) aligned with the cardinal directions or their subdivisions. Small circular altars are usually found outside the frame on the north, west, and south sides, rarely on the east side. Some khirigsuur have entrances on the east side; many are accompanied by mounds of unknown function.",
-	"modified": { 
-	"@value": "2014-07-23",
-	"@type": "date"
-	}
-	},
-
-	{
-	”@id”: “http://opaquenamespace.org/ns/tamgaAltai",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-23",
-	"@type": "date"
-	},
-	"label": "tamga",
-	"alternateName": "tamgas",
-	"comment": "Tamga are petroglyphs believed to have been clan signs in the Mongolian Altai. They take a variety of forms including one suggestive of a stylized goat, another reminiscent of a hatchet, and another with the shape of eyeglasses held vertically. Tamga may appear on rock outcroppings, boulders, or, most frequently, on standing stones. While tamga are associated most closely with the Turkic period, many scholars believe that they go back at least to the Bronze Age.",
-	"modified": { 
-	"@value": "2014-07-23",
-	"@type": "date"
-	}
-	},
-
-	{
-	”@id”: “http://opaquenamespace.org/ns/TurkicimagestonesAltai",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-23",
-	"@type": "date"
-	},
-	"label": "Turkic image stones",
-	"alternateName": "Turkic image stone",
-	"comment": "Decorated standing stones included in Turkic memorial structures in the Mongolian Altai",
-	"modified": { 
-	"@value": "2014-07-23",
-	"@type": "date"
-	}
-	},
-
-	{
-	”@id”: “http://opaquenamespace.org/ns/UighurimagesAltai",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-23",
-	"@type": "date"
-	},
-	"label": "Uighur images",
-	"alternateName": "Uighur image",
-	"comment": "Carved images from the Uigahur culture, a Turkic speaking people who established a powerful steppe empire centered in Mongolia during the 8th and 9th centuries",
-	"modified": { 
-	"@value": "2014-07-23",
-	"@type": "date"
-	}
-	},
-
-	{
-	”@id”: “http://opaquenamespace.org/ns/viewsofcomplexesorgroupingsAltai",
-	"@type": "Concept",
-	"definedBy": {
-	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	},
-	"issued": {
-	"@value": "2014-07-23",
-	"@type": "date"
-	},
-	"label": "views of complexes or groupings",
-	"alternateName": "view of complexes or groupings",
-	"comment": "Type of photograph showing larger contextual views of monuments in the Mongolian Altai",
-	"modified": { 
-	"@value": "2014-07-23",
-	"@type": "date"
-	}
-	},
-
-# END MAIC
-# BEGIN ARCHPNW
-
-
-    {
-      "@id": "http://opaquenamespace.org/ns/workType/intentionalCommunities",
-      "@type": "Concept",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@value": "2014-05-12",
-        "@type": "date"
-      },
-      "label": "Intentional Communities",
-      "comment": "Planned residential communities designed from the start to have a high degree of social cohesion and teamwork. The members of an intentional community typically hold a common social, political, religious, or spiritual vision and often follow an alternative lifestyle.",
-      "modified": {
-        "@value": "2014-05-15",
-        "@type": "date",
-		}
-
-      }
-    },
-
-# END ARCHPNW
-
+    "@graph": [
+        {
+            "@id": "http://opaquenamespace.org/workType",
+            "title": "workType controlled vocabulary",
+            "publisher": "Opaque Namespace",
+            "modified": {
+                "@value": "2013-12-16",
+                "@type": "http://www.w3.org/2001/XMLSchema#date"
+            },
+            "issued": {
+                "@value": "2013-12-16",
+                "@type": "http://www.w3.org/2001/XMLSchema#date"
+            }
+        },
+        {
+            "@id": "http://opaquenamespace.org/ns/workType/airportterminals",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-10",
+                "@type": "date"
+            },
+            "label": "airport terminals",
+            "comment": "Local term. ",
+            "modified": {
+                "@value": "2014_07-10",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http://opaquenamespace.org/ns/workType/Carpentertools",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-10",
+                "@type": "date"
+            },
+            "label": "Carpenter tools",
+            "comment": "Term used by Dr. Kingston Heath, University of Oregon. ",
+            "modified": {
+                "@value": "2014_07-10",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http://opaquenamespace.org/ns/workType/Chinesebrushpaintingsvisualworks",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-10",
+                "@type": "date"
+            },
+            "label": "Chinese brush paintings (visual works)",
+            "comment": "Local term. Use for traditional style paintings using brush, watercolor and ink washes. ",
+            "modified": {
+                "@value": "2014_07-10",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http://opaquenamespace.org/ns/workType/continuouscurveamphoraetype1",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-10",
+                "@type": "date"
+            },
+            "label": "continuous curve amphorae type 1",
+            "comment": "Term used by Dr. Steven Lowenstam, University of Oregon. ",
+            "modified": {
+                "@value": "2014_07-10",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http://opaquenamespace.org/ns/workType/continuouscurveamphoraeTypeA",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-10",
+                "@type": "date"
+            },
+            "label": "continuous curve amphorae Type A",
+            "comment": "Term used by Dr. Steven Lowenstam, University of Oregon. ",
+            "modified": {
+                "@value": "2014_07-10",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http://opaquenamespace.org/ns/workType/culturaldocumentation",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-10",
+                "@type": "date"
+            },
+            "label": "cultural documentation",
+            "comment": "General classification for hierarchal purposes. Vcat provided Classification",
+            "modified": {
+                "@value": "2014_07-10",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http://opaquenamespace.org/ns/workType/cupstypeA",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-10",
+                "@type": "date"
+            },
+            "label": "cups type A",
+            "comment": "Term used by Dr. Steven Lowenstam, University of Oregon. ",
+            "modified": {
+                "@value": "2014_07-10",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http://opaquenamespace.org/ns/workType/cupstypeB",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-10",
+                "@type": "date"
+            },
+            "label": "cups type B",
+            "comment": "Term used by Dr. Steven Lowenstam, University of Oregon. ",
+            "modified": {
+                "@value": "2014_07-10",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http://opaquenamespace.org/ns/workType/cupstypeC",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-10",
+                "@type": "date"
+            },
+            "label": "cups type C",
+            "comment": "Term used by Dr. Steven Lowenstam, University of Oregon. ",
+            "modified": {
+                "@value": "2014_07-10",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http://opaquenamespace.org/ns/workType/Dragendorffform37",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-10",
+                "@type": "date"
+            },
+            "label": "Dragendorff form 37",
+            "comment": "Term used by Dr. Steven Lowenstam, University of Oregon. ",
+            "modified": {
+                "@value": "2014_07-10",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http://opaquenamespace.org/ns/workType/epicranitis",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-10",
+                "@type": "date"
+            },
+            "label": "epicranitis",
+            "comment": "Term used by Dr. Steven Lowenstam, University of Oregon. ",
+            "modified": {
+                "@value": "2014_07-10",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http://opaquenamespace.org/ns/workType/garmenthooks",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-10",
+                "@type": "date"
+            },
+            "label": "garment hooks",
+            "comment": "Local term. Ornamental hooks used to fasten belts or clothing in Asia (Chinese: dai gou or daigou). ",
+            "modified": {
+                "@value": "2014_07-10",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http://opaquenamespace.org/ns/workType/installationenvironmentalstagesets",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-10",
+                "@type": "date"
+            },
+            "label": "installation, environmental, stage sets",
+            "comment": "General classification for hierarchal purposes. Vcat provided Classification",
+            "modified": {
+                "@value": "2014_07-10",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http://opaquenamespace.org/ns/workType/ivoryandbone",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-10",
+                "@type": "date"
+            },
+            "label": "ivory and bone",
+            "comment": "General classification for hierarchal purposes. Vcat provided Classification",
+            "modified": {
+                "@value": "2014_07-10",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http://opaquenamespace.org/ns/workType/jewelrygems",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-10",
+                "@type": "date"
+            },
+            "label": "jewelry, gems",
+            "comment": "General classification for hierarchal purposes. Vcat provided Classification",
+            "modified": {
+                "@value": "2014_07-10",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http://opaquenamespace.org/ns/workType/manuscriptsandbooks",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-10",
+                "@type": "date"
+            },
+            "label": "manuscripts and books",
+            "comment": "General classification for hierarchal purposes. Vcat provided Classification",
+            "modified": {
+                "@value": "2014_07-10",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http://opaquenamespace.org/ns/workType/mapsandglobes",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-10",
+                "@type": "date"
+            },
+            "label": "maps and globes",
+            "comment": "General classification for hierarchal purposes. Vcat provided Classification",
+            "modified": {
+                "@value": "2014_07-10",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http://opaquenamespace.org/ns/workType/musicmusicalinstruments",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-10",
+                "@type": "date"
+            },
+            "label": "music, musical instruments",
+            "comment": "General classification for hierarchal purposes. Vcat provided Classification",
+            "modified": {
+                "@value": "2014_07-10",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http://opaquenamespace.org/ns/workType/pistrina",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-10",
+                "@type": "date"
+            },
+            "label": "pistrina",
+            "comment": "Term used by Dr. Steven Lowenstam, University of Oregon. ",
+            "modified": {
+                "@value": "2014_07-10",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http://opaquenamespace.org/ns/workType/Pontzamphorae",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-10",
+                "@type": "date"
+            },
+            "label": "Pontz amphorae",
+            "comment": "Term used by Dr. Steven Lowenstam, University of Oregon. ",
+            "modified": {
+                "@value": "2014_07-10",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http://opaquenamespace.org/ns/workType/prochus",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-10",
+                "@type": "date"
+            },
+            "label": "prochus",
+            "comment": "Term used by Dr. Steven Lowenstam, University of Oregon. ",
+            "modified": {
+                "@value": "2014_07-10",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http://opaquenamespace.org/ns/workType/recreationandgames",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-10",
+                "@type": "date"
+            },
+            "label": "recreation and games",
+            "comment": "General classification for hierarchal purposes. Vcat provided Classification",
+            "modified": {
+                "@value": "2014_07-10",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http://opaquenamespace.org/ns/workType/skylla",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-10",
+                "@type": "date"
+            },
+            "label": "skylla",
+            "comment": "Term used by Dr. Steven Lowenstam, University of Oregon. ",
+            "modified": {
+                "@value": "2014_07-10",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http://opaquenamespace.org/ns/workType/stamnoidollas",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-10",
+                "@type": "date"
+            },
+            "label": "stamnoid ollas",
+            "comment": "Term used by Dr. Steven Lowenstam, University of Oregon. ",
+            "modified": {
+                "@value": "2014_07-10",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http://opaquenamespace.org/ns/workType/textilesweavingandfiberarts",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-10",
+                "@type": "date"
+            },
+            "label": "textiles, weaving, and fiber arts",
+            "comment": "General classification for hierarchal purposes. Vcat provided Classification",
+            "modified": {
+                "@value": "2014_07-10",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http://opaquenamespace.org/ns/workType/thermopolia",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-10",
+                "@type": "date"
+            },
+            "label": "thermopolia",
+            "comment": "Term used by Dr. Steven Lowenstam, University of Oregon. ",
+            "modified": {
+                "@value": "2014_07-10",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http://opaquenamespace.org/ns/workType/toolsandequipment",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-10",
+                "@type": "date"
+            },
+            "label": "tools and equipment",
+            "comment": "General classification for hierarchal purposes. Vcat provided Classification",
+            "modified": {
+                "@value": "2014_07-10",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http://opaquenamespace.org/ns/workType/typeA",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-10",
+                "@type": "date"
+            },
+            "label": "type A",
+            "comment": "Term used by Dr. Steven Lowenstam, University of Oregon. ",
+            "modified": {
+                "@value": "2014_07-10",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http://opaquenamespace.org/ns/workType/urbanandtopographicalviews",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-10",
+                "@type": "date"
+            },
+            "label": "urban and topographical views",
+            "comment": "General classification for hierarchal purposes. Vcat provided Classification",
+            "modified": {
+                "@value": "2014_07-10",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http://opaquenamespace.org/ns/workType/VotiveClayShield",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-10",
+                "@type": "date"
+            },
+            "label": "Votive Clay Shield",
+            "comment": "Term used by Dr. Steven Lowenstam, University of Oregon. ",
+            "modified": {
+                "@value": "2014_07-10",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http://opaquenamespace.org/ns/workType/aibanprints",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-10",
+                "@type": "date"
+            },
+            "label": "aiban (prints)",
+            "comment": "Yamane, Yūzō; Fūzokuga to Ukiyoe shi (Genshoku Nihon no Bijutsu, v.24), 1971. Japanese prints aproximately 34.5 x 22.5 cm or (9 x 13 in). ",
+            "modified": {
+                "@value": "2014_07-10",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http://opaquenamespace.org/ns/workType/almaizars",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-10",
+                "@type": "date"
+            },
+            "label": "almaizars",
+            "comment": "Dodds, Jerrilynn D.; Al-Andalus: the Art of Islamic Spain, New York: Metropolitan Museum of Art, 1992. Muslim headdress. ",
+            "modified": {
+                "@value": "2014_07-10",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http://opaquenamespace.org/ns/workType/karansé",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-10",
+                "@type": "date"
+            },
+            "label": "karansé",
+            "comment": "Gealt, Adelheid, et al.; Masterworks from the Indiana University Art Museum, Bloomington, IN: Indiana University Press, 2007. Associated with the northern Mossi people. A face mask surmounted by an antelpe head and horns with a plank-like superstructure behind them. in Vcat",
+            "modified": {
+                "@value": "2014_07-10",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http://opaquenamespace.org/ns/workType/panelpaintingsAsian",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-10",
+                "@type": "date"
+            },
+            "label": "panel paintings (Asian)",
+            "comment": "Nakano, Masaki; Shōsōin to jōdai kaiga : Asuka Nara no kaiga kōgei, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992  (. Paintings on large wood panels, installed inside buildings such as pagodas and temples.  Usually featuring Buddhist deities.",
+            "modified": {
+                "@value": "2014_07-10",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http://opaquenamespace.org/ns/workType/pavilionsAsian",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-10",
+                "@type": "date"
+            },
+            "label": "pavilions (Asian)",
+            "comment": "Tsuji, Nobuo, Kiyoshi Hirai, and Yoshiaki Yabe; Shiro to chashitsu, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992. ",
+            "modified": {
+                "@value": "2014_07-10",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http://opaquenamespace.org/ns/workType/tagres",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-10",
+                "@type": "date"
+            },
+            "label": "tagres",
+            "comment": "Peirce, Donald C.; Art & Enterprise: American Decorative Art, 1825-1917: The Virginia Carroll Crawford Collection, Atlanta: High Museum of Art, 1999. ",
+            "modified": {
+                "@value": "2014_07-10",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http://opaquenamespace.org/ns/workType/vajra",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-10",
+                "@type": "date"
+            },
+            "label": "vajra",
+            "comment": "Nakano, Masaki, Yutaka Hirata, and Masayuki Sekiguchi; Mandara to raigōzu, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1991. Vajra (Devanagari: वज्र) is a Sanskrit word meaning both thunderbolt and diamond and is a ritual tool or spiritual implement which is symbolically important to both Buddhism and Hinduism, but is particularly important in Buddhism. The equivalent word in Tibetan is dorje (Wylie: rdo-rje; ZWPY: dojê), which is also a common male name in Tibet and Bhutan. Dorje can also refer to a small sceptre held in the right hand by Tibetan lamas during religious ceremonies. ",
+            "modified": {
+                "@value": "2014_07-10",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http://opaquenamespace.org/ns/workType/chutanzakutanzaku",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-10",
+                "@type": "date"
+            },
+            "label": "chu-tanzaku (tanzaku)",
+            "comment": "http://www.gordonsart.com/datastore_home/datastore_help/6ppb_yo.htm. Japanese prints, also known as tanzaku, from an oban cut in half lengthwise. ",
+            "modified": {
+                "@value": "2014_07-10",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http://opaquenamespace.org/ns/workType/ōhosobanotanzaku",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-10",
+                "@type": "date"
+            },
+            "label": "ō-hosoban (o-tanzaku)",
+            "comment": "http://mercury.lcs.mit.edu/~jnc/prints/glossary.html. Literally, a large hosoban. A fairly rare, narrow print size (about 38 x 17 cm) often used for kacho-ga prints by Hiroshige. ",
+            "modified": {
+                "@value": "2014_07-10",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http: //opaquenamespace.org/ns/balbalAltai",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http: //opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            },
+            "label": "balbal",
+            "alternateName": "balbals",
+            "comment": "SmallverticallystandingstonesintheMongolianAltaiofvaryingsizesetintothegroundandoftenatconsiderabledepthassociatedwithburialsandTurkicenclosures",
+            "modified": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http: //opaquenamespace.org/ns/boulderkhirigsuurAltai",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http: //opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            },
+            "label": "boulder khirigsuur",
+            "alternateName": "boulder khirigsur",
+            "alternateName": "boulder khirigsurs",
+            "alternateName": "boulder khirigsuur",
+            "alternateName": "boulder khirigsuurs",
+            "comment": "A boulder khirigsuur is an elaborate Bronze Ageritual or funerary structure in the Mongolian Altai which includes a centralboulder, inplace of a mound, and a round or square surrounding frame. Usually the area between boulder and frame is left open and within it may be rays (radiae) aligned with the cardinal directions or their subdivisions. Small circularal tars are usually found outside the frame on the north, west, and south sides, rarely on the east side.Some khirigsuur have entrances on the east side; many are accompanied by mounds of unknown function.",
+            "modified": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http: //opaquenamespace.org/ns/circularaltarsAltai",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http: //opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            },
+            "label": "circular altars",
+            "alternateName": "circular altar",
+            "comment": "A round structure used for ritual offerings in the Mongolian Altai",
+            "modified": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http: //opaquenamespace.org/ns/collaredmoundsAltai",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http: //opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            },
+            "label": "collared mounds",
+            "alternateName": "collared mound",
+            "comment": "Piles of rough mountain stones or smooth river stones, or a combination of the two types, in the Mongolian Altai and ringed with a contrastingly colored stone or with vertical stones of a tooth-like appearance tilted toward the center of the structure. Most mounds are probably funerary in function; that is, they were raised at the time of an individual’s death and to mark that person’s burial. Whether, however, the body was actually placed under the mound or in a burial chamber sunk into the ground, varies according to period and culture",
+            "modified": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http: //opaquenamespace.org/ns/deerstonesAltai",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http: //opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            },
+            "label": "deer stones",
+            "alternateName": "deer stone",
+            "comment": "Vertically standing stones in the Mongolian Altai of varying size set into the ground and often at considerable depth with carved decoraton depicting, among many possible elements, stylized and elongated deer on the wide sides of the stone. The function of the stones remains unclear, but they can, on rare occassions, appear within a row of balbal associated with early nomadic burials. Their high narrow faces are almost always oriented to the east.",
+            "modified": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http: //opaquenamespace.org/ns/doublemoundsAltai",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http: //opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            },
+            "label": "double mounds",
+            "alternateName": "double mound",
+            "comment": "Paired square piles of rough mountain stones or smooth river stones or a combination of the two types in the Mongolian Altai. Most mounds are probably funerary in function; thatis, they were raised at the time of an individual’s death and to mark that person’s burial. Whether, however, the body was actually placed under the mound or in a burial chamber sunk into the ground, varies according to period and culture",
+            "modified": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http: //opaquenamespace.org/ns/dwellingsAltai",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http: //opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            },
+            "label": "dwellings",
+            "alternateName": "dwelling",
+            "comment": "Ancient dwellings in the Altai Mountains of Mongolia take the form of rectangular or rounded patterns laid on the surface of the earth. Their walls are frequently doubled or expressed by lines of small vertical stones; their interiors are broken up as if with rooms and one or two hearths. There is always an entrance on the west and another on the east, the latter often marked by a large, impressive stone. Dwellings are always oriented from east to west. They may occur individually or, more frequently, in considerable numbers. They resemble most closely the pecked imagery of dwellings found in Bronze Age petroglyphs. On the basis of this resemblance, we may conclude that they were funerary in function but not burials, and that they may be assigned to the Bronze Age. Lines of stones are almost always found in association with dwellings. Single or multiple strands of these lines extend from the groups of dwellings down to nearby rivers or up to adjacent ridges. Their function is uncertain, but they must refer to some aspect of the journey of the dead after funerary ceremonies.",
+            "modified": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http: //opaquenamespace.org/ns/enclosuresAltai",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http: //opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            },
+            "label": "enclosures",
+            "alternateName": "enclosure",
+            "comment": "A square or rectangular stone structure on the surface of the ground in the Mongolian Altai",
+            "modified": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http: //opaquenamespace.org/ns/extendedlinearfeaturesAltai",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http: //opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            },
+            "label": "extended linear features",
+            "alternateName": "extended linear feature",
+            "alternateName": "line",
+            "alternateName": "lines",
+            "comment": "Straight lines of stones that extend beyond the frame of a khirigsuur in the Mongolian Altai",
+            "modified": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http: //opaquenamespace.org/ns/falsedeerstonesAltai",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http: //opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            },
+            "label": "false deer stones",
+            "alternateName": "false deer stone",
+            "comment": "Uncarved or barely carved vertically standing stones in the Mongolian Altai of varying size set in to the ground and often at considerable depth. Their function, like true deer stones, remains unclear. Their high narrow faces are almost always oriented to the east.",
+            "modified": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http: //opaquenamespace.org/ns/falseimagestonesAltai",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http: //opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            },
+            "label": "false image stones",
+            "alternateName": "false image stone",
+            "comment": "Simple uncarved or barely carved vertical stones in the Mongolian Altai placed in the same way as true image stones in Turkic Memroials, referring to specific deceased individuals",
+            "modified": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http: //opaquenamespace.org/ns/fourcorneredmoundsAltai",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http: //opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            },
+            "label": "four-cornered mounds",
+            "alternateName": "four-cornered mound",
+            "comment": "Bronze Age square piles of rough mountain stones or smooth river stones or a combination of the twot ypes in the Mongolian Altai. Most mounds are probably funerary in function; that is, they were raised at the time of an individual’s death and to mark that person’s burial. Whether, however, the body was actually placed under the mound or in a burial chamber sunk into the ground, varies according to period and culture",
+            "modified": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http: //opaquenamespace.org/ns/framesAltai",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http: //opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            },
+            "label": "frames",
+            "alternateName": "frame",
+            "comment": "Stones set in rows of varying shapes encircling a khirigsuur or other monument in the Mongolian Altai",
+            "modified": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http: //opaquenamespace.org/ns/imagestonesBronzeAgeAltai",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http: //opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            },
+            "label": "image stones, Bronze Age",
+            "alternateName": "image stone, Bronze Age",
+            "comment": "Bronze Age carved vertical stones placed in Turkic Memorials and referring to specific deceased individuals in the Mongolian Altai",
+            "modified": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http: //opaquenamespace.org/ns/inscriptionsAltai",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http: //opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            },
+            "label": "inscriptions",
+            "alternateName": "inscription",
+            "comment": "Inscriptions from Bayan Olgiy, in the Mongolian Altai, occur on rock outcroppings, usually together with pecked or engraved imagery. Inscriptions include two primary types: those from the Turkic period and others from the Mongol period. There are a few inscriptions executed in classical Mongolian script and others written in modern Kazakhor Mongolian.",
+            "modified": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http: //opaquenamespace.org/ns/keyholemoundsAltai",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http: //opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            },
+            "label": "key-hole mounds",
+            "alternateName": "key-hole mound",
+            "comment": "Pile of rough mountain stones or smooth river stones, or a combination of the two types, in the shape of a keyhole in the Mongolian Altai. Most mounds are probably funerary in function; that they were raised at the time of an individual’s death and to mark that person’s burial. Whether, however, the body was actually placed under the mound or in  a burial chamber sunk into the ground, varies according to period and culture",
+            "modified": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http: //opaquenamespace.org/ns/khirigsuurAltai",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http: //opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            },
+            "label": "khirigsuur",
+            "alternateName": "khirigsur",
+            "alternateName": "khirigsurs",
+            "alternateName": "khirigsuur",
+            "alternateName": "khirigsuurs",
+            "comment": "Elaborate Bronze Age ritual or funerary structures in the Mongolian Altai including a central mound and a round or square surrounding frame. Usually the area between mound and frame is left open and within it may be rays (radiae) aligned wit the cardinal directions or their subdivisions. Small circular altars are usually found outside the frame on the north, west, and south sides, rarely on the east side. Some khirigsuur have entrances on the east side; many are accompanied by mounds of unknown function.",
+            "modified": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http: //opaquenamespace.org/ns/largecirclesAltai",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http: //opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            },
+            "label": "large circles",
+            "alternateName": "large circle",
+            "comment": "Larg estone circles that appear on terraces of ridges, alone or in pairs in the Mongolian Altai. Their function is uncertain",
+            "modified": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http: //opaquenamespace.org/ns/massivestandingstonesAltai",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http: //opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            },
+            "label": "massive standing stones",
+            "alternateName": "massive standing stone",
+            "comment": "MassivestonesstandingverticallyofvaryingsizesetintothegroundandoftenatconsiderabledepthintheMongolianAltai",
+            "modified": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http: //opaquenamespace.org/ns/moderngravesAltai",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http: //opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            },
+            "label": "modern graves",
+            "alternateName": "modern grave",
+            "comment": "BurialsintheMongolianAltaiestablishedinthe1000yearspreceedingpresentday",
+            "modified": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http: //opaquenamespace.org/ns/moundsunknownuseAltai",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http: //opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            },
+            "label": "mounds-unknown use",
+            "alternateName": "mound-unknown use",
+            "comment": "Large piles of rough mountain stones or smooth river stones, or a combination of the two types, of unknown use in the Mongolian Altai",
+            "modified": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http: //opaquenamespace.org/ns/ovooobooAltai",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http: //opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            },
+            "label": "ovoo/oboo",
+            "alternateName": "ovoos/oboos",
+            "comment": "A modern-day altar in the Mongolian Altai, usually of piled stones, found ubiquitously on ridges, passes, and at difficult crossings. An ovoo is raised over a period of many years or generations in honor of the indwelling spirit of the mountain, river, or spring where it appears. In modern times travelers charcteristcally indicate their gratitude for a safe journey by adding a stone or other object to the pile.",
+            "modified": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http: //opaquenamespace.org/ns/periodoverlaysAltai",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http: //opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            },
+            "label": "period overlays",
+            "alternateName": "period overlay",
+            "comment": "Accrued additions to a monument, site or complex in the Mongolian Altai",
+            "modified": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http: //opaquenamespace.org/ns/petroglyphsAltai",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http: //opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            },
+            "label": "petroglyphs",
+            "alternateName": "petroglyph",
+            "comment": "Within the Mongolian Altai, all open-air petroglyphic imagery surviving from the pre-Modern period is engraved, scratched, gouged or pecked into the surface of bedrock or boulders; for this reason, this imagery is referred to as petroglyphic rather than pictographic. Petroglyphs are represented by single images or by compositions of two or more images up to several hundred motifs.",
+            "modified": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http: //opaquenamespace.org/ns/platformkhirigsuurAltai",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http: //opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            },
+            "label": "platform khirigsuur",
+            "alternateName": "platform khirigsur",
+            "alternateName": "platform khirigsurs",
+            "alternateName": "platform khirigsuur",
+            "alternateName": "platform khirigsuurs",
+            "comment": "An elaborate Bronze Age ritual or funerary structure in the Mongolian Altai including a central mound that extends to the surrounding wall in a kind of pavement and a round or square surrounding frame. The area between mound and frame may be left open and within it may be rays (radiae) aligned with the cardinal directions or their subdivisions. Small circular altars are usually found outside the frame on the north, west, and south sides, rarely on the east side. Some khirigsuur have entrances on the east side; many are accompanied by mounds of unknown function.",
+            "modified": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http: //opaquenamespace.org/ns/raysAltai",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http: //opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            },
+            "label": "rays",
+            "alternateName": "ray",
+            "comment": "Straight lines of stones located within khirigsuur in the Mongolian Altai",
+            "modified": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http: //opaquenamespace.org/ns/rectangularmoundsAltai",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http: //opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            },
+            "label": "rectangular mounds",
+            "alternateName": "rectangula rmound",
+            "comment": "Rectangular piles of rough mountain stones or smooth rivers tones, or a combination of the two types, in the Mongolian Altai. Most mounds are probably funerary in function; thatis, they were raised at the time of an individual’s death and to mark that person’s burial. Whether, however, the body was actually placed under the mound or in a burial chamber sunk into the ground, varies according to period and culture",
+            "modified": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http: //opaquenamespace.org/ns/ritualmoundsAltai",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http: //opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            },
+            "label": "ritual mounds",
+            "alternateName": "ritual mound",
+            "comment": "Piles of rough mountain stones or smooth river stones, or a combination of the two types, serving a ritual function in the Mongolian Altai. Most mounds are probably funerary in function; thatis, they were raised at the time of an individual’s death and to mark that person’s burial. Whether, however, the body was actually placed under the mound or in a burial chamber sunk into the ground, varies according to period and culture",
+            "modified": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http: //opaquenamespace.org/ns/ritualsitesAltai",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http: //opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            },
+            "label": "ritual sites",
+            "alternateName": "ritual site",
+            "comment": "A site where rituals were performed in the Mongolian Altai",
+            "modified": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http: //opaquenamespace.org/ns/roundkhirigsuurAltai",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http: //opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            },
+            "label": "round khirigsuur",
+            "alternateName": "round khirigsur",
+            "alternateName": "round khirigsurs",
+            "alternateName": "round khirigsuur",
+            "alternateName": "round khirigsuurs",
+            "comment": "Elaborate Bronze Age ritual or funerary structures in the Mongolian Altai including a central mound and a round surrounding frame. Usually the area between mound and frame is left open and within it may be rays (radiae) aligned with the cardinal directions or their subdivisions. Small circular altars are usually found outside the frame on the north, west, and south sides, rarely on the east side. Some khirigsuur have entrances on the east side; many are accompanied by mounds of unknown function.",
+            "modified": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http: //opaquenamespace.org/ns/semicirclesAltai",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http: //opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            },
+            "label": "semi-circles",
+            "alternateName": "semi-circle",
+            "comment": "Stone semi-circles occur alone or in pairs, but are unusual in the Mongolian Altai. Their function and age are uncertain.",
+            "modified": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http: //opaquenamespace.org/ns/serpentinefeaturesAltai",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http: //opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            },
+            "label": "serpentine features",
+            "alternateName": "serpentine feature",
+            "comment": "Features with forms consisting of a curved line that winds or meanders in multiple directions but does not cross or intersect itself",
+            "modified": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http: //opaquenamespace.org/ns/smallcircularaltarsAltai",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http: //opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            },
+            "label": "small circular altars",
+            "alternateName": "small circular altar",
+            "comment": "A small round structure used for ritual offerings in the Mongolian Altai",
+            "modified": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http: //opaquenamespace.org/ns/squarekhirigsuurAltai",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http: //opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            },
+            "label": "square khirigsuur",
+            "alternateName": "square khirigsur",
+            "alternateName": "square khirigsurs",
+            "alternateName": "square khirigsuur",
+            "alternateName": "square khirigsuurs",
+            "comment": "Elaborate Bronze Age ritual or funerary structures in the Mongolian Altai including a central mound and a square surrounding frame. Usually the area between mound and frame is left open and within it maybe rays (radiae) aligned with the cardinal directions or their subdivisions. Small circular altars are usually found outside the frame on the north, west, and south sides, rarely on the east side.Some khirigsuur have entrances on the east side; many are accompanied by mounds of unknown function.",
+            "modified": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http: //opaquenamespace.org/ns/tamgaAltai",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http: //opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            },
+            "label": "tamga",
+            "alternateName": "tamgas",
+            "comment": "Tamga are petroglyphs believed to have been clan signs in the Mongolian Altai. They take a variety of forms including one suggestive of a stylized goat, another reminiscent of a hatchet, and another with the shape of eye glasses held vertically.Tamga may appear on rock outcroppings, boulders, or, most frequently, on standing stones. While tamga are associated most closely with the Turkic period, many scholars believe that they go back at least to the Bronze Age.",
+            "modified": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http: //opaquenamespace.org/ns/TurkicimagestonesAltai",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http: //opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            },
+            "label": "Turkic image stones",
+            "alternateName": "Turkic image stone",
+            "comment": "Decorated standing stones included in Turkic memorial structures in the Mongolian Altai",
+            "modified": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http: //opaquenamespace.org/ns/UighurimagesAltai",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http: //opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            },
+            "label": "Uighur images",
+            "alternateName": "Uighur image",
+            "comment": "Carved images from the Uigahur culture, a Turkic speaking people who established a powerful steppe empire centered in Mongolia during the 8th and 9th centuries",
+            "modified": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http: //opaquenamespace.org/ns/viewsofcomplexesorgroupingsAltai",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http: //opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            },
+            "label": "views of complexes or groupings",
+            "alternateName": "view of complexes or groupings",
+            "comment": "Type of photograph showing larger contextual views of monuments in the Mongolian Altai",
+            "modified": {
+                "@value": "2014-07-23",
+                "@type": "date"
+            }
+        },
+        {
+            "@id": "http: //opaquenamespace.org/ns/workType/intentionalCommunities",
+            "@type": "Concept",
+            "definedBy": {
+                "@id": "http: //opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-05-12",
+                "@type": "date"
+            },
+            "label": "Intentional Communities",
+            "comment": "Planned residential communities designed from the start to have a high degree of social cohesion and teamwork. The members of an intentional community typically hold a common social, political, religious, or spiritual vision and often follow an alternative lifestyle.",
+            "modified": {
+                "@value": "2014-05-15",
+                "@type": "date"
+    }
+        }
+    ]
+}
