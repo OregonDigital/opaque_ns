@@ -1,32 +1,30 @@
-
-
 {
     "@context": {
-	"title": "http://purl.org/dc/terms/title",
-	"label": "http://www.w3.org/2000/01/rdf-schema#label",
-	"comment": "http://www.w3.org/2000/01/rdf-schema#comment",
-	"description": "http://purl.org/dc/terms/description",
-	"publisher": "http://purl.org/dc/terms/publisher",
-	"modified": "http://purl.org/dc/terms/modified",
-	"issued": "http://purl.org/dc/terms/issued",
-	"Collection": "http://purl.org/dc/terms/Collection",
-	"definedBy": "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
-	"range": "http://www.w3.org/2000/01/rdf-schema#range",
-	"date": "http://www.w3.org/2001/XMLSchema#date",
-	"RightsStatement": "http://purl.org/dc/terms/RightsStatement",
-	"Concept": "http://www.w3.org/2004/02/skos/core#Concept",
-	"@language": "en",
-	"additionalName": "http://schema.org/additionalName",
-	"alternateName": "https://schema.org/alternateName"
-	"PersonalName": "http://www.w3.org/2004/02/skos/core#PersonalName",
-	"CorporateName": "http://www.w3.org/2004/02/skos/core#CorporateName",
-	"Topic": "http://www.w3.org/2004/02/skos/core#Topic",
-	"Geographic": "http://www.w3.org/2004/02/skos/core#Geographic",
-	"Title": "http://www.w3.org/2004/02/skos/core#Title",
-    }
-	  "@graph": [
-	{
-	     "@id": "http://opaquenamespace.org/seriesName,
+        "title": "http://purl.org/dc/terms/title",
+        "label": "http://www.w3.org/2000/01/rdf-schema#label",
+        "comment": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "description": "http://purl.org/dc/terms/description",
+        "publisher": "http://purl.org/dc/terms/publisher",
+        "modified": "http://purl.org/dc/terms/modified",
+        "issued": "http://purl.org/dc/terms/issued",
+        "Collection": "http://purl.org/dc/terms/Collection",
+        "definedBy": "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+        "range": "http://www.w3.org/2000/01/rdf-schema#range",
+        "date": "http://www.w3.org/2001/XMLSchema#date",
+        "RightsStatement": "http://purl.org/dc/terms/RightsStatement",
+        "Concept": "http://www.w3.org/2004/02/skos/core#Concept",
+        "@language": "en",
+        "additionalName": "http://schema.org/additionalName",
+        "alternateName": "https://schema.org/alternateName",
+        "PersonalName": "http://www.w3.org/2004/02/skos/core#PersonalName",
+        "CorporateName": "http://www.w3.org/2004/02/skos/core#CorporateName",
+        "Topic": "http://www.w3.org/2004/02/skos/core#Topic",
+        "Geographic": "http://www.w3.org/2004/02/skos/core#Geographic",
+        "Title": "http://www.w3.org/2004/02/skos/core#Title"
+    },
+    "@graph": [
+        {
+	    "@id": "http://opaquenamespace.org/seriesName",
 	    "title": "seriesName controlled vocabulary",
 	    "publisher": "Opaque Namespace",
 	    "modified": {
@@ -38,9 +36,7 @@
 		"@type": "http://www.w3.org/2001/XMLSchema#date"
 	    }
 	},
-	
-	
-	#begin latinoherit
+
 
 {
 "@id": "http://opaquenamespace.org/ns/seriesName/BecerraAliciatestimony",
@@ -350,12 +346,6 @@
 }
 },
 
-
-
-#end latinoherit
-
-#begin percent
-
 {
 "@id": "http://opaquenamespace.org/ns/seriesName/4Jan",
 "@type": "Topic",
@@ -510,8 +500,7 @@
 "@value": "2014-08-07",
 "@type": "date"
 },
-"label": "Foulwather Bluff Series 
-1",
+"label": "Foulwather Bluff Series 1",
 "modified": {
 "@value": "2014-08-07",
 "@type": "date"
@@ -529,8 +518,7 @@
 "@value": "2014-08-07",
 "@type": "date"
 },
-"label": "Foulwather Bluff Series 
-2",
+"label": "Foulwather Bluff Series 2",
 "modified": {
 "@value": "2014-08-07",
 "@type": "date"
@@ -873,8 +861,7 @@
 "@value": "2014-08-07",
 "@type": "date"
 },
-"label": "Quilt Corner (
-2 in edition of 10)",
+"label": "Quilt Corner (2 in edition of 10)",
 "modified": {
 "@value": "2014-08-07",
 "@type": "date"
@@ -915,11 +902,6 @@
 "@value": "2014-08-07",
 "@type": "date"
 }
-},
-
-
-
-
-
-
-#end percent
+}
+]
+}
