@@ -421,6 +421,41 @@
 		"@value": "2014-08-05",
 		"@type": "date"
 	    }
+	    
+	    {
+	    "@id": "http://opaquenamespace.org/ns/rangerDistrict,
+	    "@type": "Property",
+	    "subPropertyOf": "spatial",
+	    "definedBy": {
+		"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	    },
+	    "issued": {
+		"@value": "2014-08-19",
+		"@type": "date"
+	    },
+	    "label": "",
+	    "comment": "Locations of the Oregon Ranger Districts #waiting for OSU definition",
+	    "modified": {
+		"@value": "2014-08-19",
+		"@type": "date"
+	    }
+	    
+	    {
+	    "@id": "http://opaquenamespace.org/ns/homeAway
+	    "@type": "Property",
+	    "definedBy": {
+		"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	    },
+	    "issued": {
+		"@value": "2014-08-19",
+		"@type": "date"
+	    },
+	    "label": "",
+	    "comment": "Designation of location of game for Oregon State University #waiting for better OSU definition",
+	    "modified": {
+		"@value": "2014-08-19",
+		"@type": "date"
+	    }
 	}
     ]
 }
