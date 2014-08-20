@@ -5653,5 +5653,37 @@
 	"@type": "date"
 	}
 	}
+	{
+	"@id": "http://opaquenamespace.org/ns/localCollectionName/OregonFolklifeProgramArchives",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-08-20",
+	"@type": "date"
+	},
+	"label": "Oregon Folklife Program Archives",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	}
+	{
+	"@id": "http://opaquenamespace.org/ns/localCollectionName/WebfootsandBunchgrassersFolkArtoftheOregonCountry",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-08-20",
+	"@type": "date"
+	},
+	"label": "Webfoots and Bunchgrassers: Folk Art of the Oregon Country",
+	"modified": {
+	"@value": "2014_07-10",
+	"@type": "date"
+	}
+	}
 ]
 }
