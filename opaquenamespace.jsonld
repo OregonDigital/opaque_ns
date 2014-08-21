@@ -622,6 +622,24 @@
 		"@value": "2014-08-21",
 		"@type": "date"
 	    },
+	    
+	    	{
+	    "@id": "http://opaquenamespace.org/ns/sportsTeam",
+	    "@type": "Property",
+	    "definedBy": {
+		"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	    },
+	    "issued": {
+		"@value": "2014-08-21",
+		"@type": "date"
+	    },
+	    "label": "Sports Team",
+	    "comment": "The official name of the sports or athletics team. A team sport includes any sport which involves players working together towards a shared objective.",
+	    "modified": {
+		"@value": "2014-08-21",
+		"@type": "date"
+	    },
+	    
 	
 	}
     ]
