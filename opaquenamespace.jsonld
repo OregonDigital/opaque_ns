@@ -30,6 +30,55 @@
 	    "publisher": "Opaque Namespace",
 	    "title": "VOCAB_PLACEHOLDER"
 	},
+	
+	{
+	    "@id": "http://opaquenamespace.org/ns/sheetmusic/instrumentation",
+	    "@type": "Property",
+	    "definedBy": {
+		"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	    },
+	    "issued": {
+		"@value": "2013-12-16",
+		"@type": "date"
+	    },
+	    "label": "Instrumentation",
+	    "comment": "A listing of the performing forces called for by a particular piece of sheet music, including both voices and external instruments.",
+	    "modified": {
+		"@value": "2013-12-16",
+		"@type": "date"
+	    },
+	{
+	    "@id": "http://opaquenamespace.org/ns/sheetmusic/firstLine",
+	    "@type": "Property",
+	    "definedBy": {
+		"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	    },
+	    "issued": {
+		"@value": "2013-12-16",
+		"@type": "date"
+	    },
+	    "label": "First Line",
+	    "comment": "The 'First Line' data is a direct transcription of the first line of lyrics appearing in the song.",
+	    "modified": {
+		"@value": "2013-12-16",
+		"@type": "date"
+	    },
+	{
+	    "@id": "http://opaquenamespace.org/ns/sheetmusic/firstLineChorus",
+	    "@type": "Property",
+	    "definedBy": {
+		"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	    },
+	    "issued": {
+		"@value": "2013-12-16",
+		"@type": "date"
+	    },
+	    "label": "First Line Chorus",
+	    "comment": "The 'first line of chorus' data is a direct transcription of the first line of the chorus (refrain) appearing in the song.",
+	    "modified": {
+		"@value": "2013-12-16",
+		"@type": "date"
+	    },
 	{
 	    "@id": "http://opaquenamespace.org/ns/set",
 	    "@type": "Property",
@@ -297,7 +346,7 @@
 	    }
 	},
 	        {
-	    "@id": "http://opaquenamespace.org/ns/archives/boxNumber",
+	    "@id": "http://opaquenamespace.org/ns/boxNumber",
 	    "@type": "Property",
 	    "subPropertyOf": "isPartOf",
 	    "definedBy": {
@@ -316,7 +365,7 @@
 		
 	},
 	        {
-	    "@id": "http://opaquenamespace.org/ns/archives/folderNumber",
+	    "@id": "http://opaquenamespace.org/ns/folderNumber",
 	    "@type": "Property",
 	    "subPropertyOf": "isPartOf",
 	    "definedBy": {
@@ -335,7 +384,7 @@
 	},
 	
 		        {
-	    "@id": "http://opaquenamespace.org/ns/archives/collectionTitle",
+	    "@id": "http://opaquenamespace.org/ns/localCollectionName",
 	    "@type": "Property",
 		"subPropertyOf": "isPartOf",
 	    "definedBy": {
@@ -345,8 +394,8 @@
 		"@value": "2014-08-05",
 		"@type": "date"
 	    },
-	    "label": "Collection Title",
-	    "comment": "Title given to a collection of archival material by the holding institution.",
+	    "label": "Local Collection Name",
+	    "comment": "Title given to a collection by the holding institution.",
 	    "modified": {
 		"@value": "2014-08-05",
 		"@type": "date"
@@ -354,7 +403,7 @@
 	},
 	
 		        {
-	    "@id": "http://opaquenamespace.org/ns/archives/collectionIdentifier",
+	    "@id": "http://opaquenamespace.org/ns/localCollectionID",
 	    "@type": "Property",
 	    "subPropertyOf": "isPartOf",
 	    "definedBy": {
@@ -364,8 +413,8 @@
 		"@value": "2014-08-05",
 		"@type": "date"
 	    },
-	    "label": "Collection Identifier",
-	    "comment": "Identifier given to a collection of archival material by the holding institution.",
+	    "label": "Local Collection ID",
+	    "comment": "Identifier given to a collection by the holding institution.",
 	    "modified": {
 		"@value": "2014-08-05",
 		"@type": "date"
@@ -399,7 +448,7 @@
 		"@type": "date"
 	    },
 	    "label": "Caption Title",
-	    "comment": "",
+	    "comment": "Additional title description in caption.",
 	    "modified": {
 		"@value": "2014-08-05",
 		"@type": "date"
@@ -441,8 +490,8 @@
 	    }
 	    
 	    {
-	    "@id": "http://opaquenamespace.org/ns/homeAway"
-	    "@type": "Property",
+	    "@id": "http://opaquenamespace.org/ns/homeAway",
+	     "@type": "Property",
 	    "definedBy": {
 		"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
 	    },
@@ -456,6 +505,124 @@
 		"@value": "2014-08-19",
 		"@type": "date"
 	    }
+	    
+	    {
+	    "@id": "http://opaquenamespace.org/ns/militaryOccupation",
+	    "@type": "Property",
+	    "definedBy": {
+		"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	    },
+	    "issued": {
+		"@value": "2014-08-21",
+		"@type": "date"
+	    },
+	    "label": "Military Occupation",
+	    "comment": "Description of position and role within a branch of the U.S. military.",
+	    "modified": {
+		"@value": "2014-08-19",
+		"@type": "date"
+	    }
+		
+		 {
+	    "@id": "http://opaquenamespace.org/ns/militaryHighestrank",
+	    "@type": "Property",
+	    "definedBy": {
+		"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	    },
+	    "issued": {
+		"@value": "2014-08-21",
+		"@type": "date"
+	    },
+	    "label": "Military Highest Rank",
+	    "comment": "Description of highest position held within a branch of the U.S. military.",
+	    "modified": {
+		"@value": "2014-08-19",
+		"@type": "date"
+	    }
+		
+		 {
+	    "@id": "http://opaquenamespace.org/ns/militaryServiceplaces",
+	    "@type": "Property",
+	    "definedBy": {
+		"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	    },
+	    "issued": {
+		"@value": "2014-08-21",
+		"@type": "date"
+	    },
+	    "label": "Military Service Places",
+	    "comment": "Description of the places of service within a branch of the U.S. military.",
+	    "modified": {
+		"@value": "2014-08-21",
+		"@type": "date"
+	    }
+		
+		 {
+	    "@id": "http://opaquenamespace.org/ns/militaryBranch",
+	    "@type": "Property",
+	    "definedBy": {
+		"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	    },
+	    "issued": {
+		"@value": "2014-08-21",
+		"@type": "date"
+	    },
+	    "label": "Military Branch",
+	    "comment": "Description of the branches of the U.S. military.",
+	    "modified": {
+		"@value": "2014-08-21",
+		"@type": "date"
+	    }
+		{
+	    "@id": "http://opaquenamespace.org/ns/tgm",
+	    "@type": "Property",
+	    "definedBy": {
+		"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	    },
+	    "issued": {
+		"@value": "2014-08-21",
+		"@type": "date"
+	    },
+	    "label": "TGM",
+	    "comment": "Thesaurus of Graphic Materials",
+	    "modified": {
+		"@value": "2014-08-21",
+		"@type": "date"
+	    }
+		{
+	    "@id": "http://opaquenamespace.org/ns/uoNames",
+	    "@type": "Property",
+	    "definedBy": {
+		"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	    },
+	    "issued": {
+		"@value": "2014-08-21",
+		"@type": "date"
+	    },
+	    "label": "University of Oregon Names",
+	    "comment": "For ",
+	    "modified": {
+		"@value": "2014-08-21",
+		"@type": "date"
+	    }
+		
+		{
+	    "@id": "http://opaquenamespace.org/ns/seriesName",
+	    "@type": "Property",
+	    "definedBy": {
+		"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	    },
+	    "issued": {
+		"@value": "2014-08-21",
+		"@type": "date"
+	    },
+	    "label": "Series Name",
+	    "comment": "Title of series within collection",
+	    "modified": {
+		"@value": "2014-08-21",
+		"@type": "date"
+	    },
+	
 	}
     ]
 }
