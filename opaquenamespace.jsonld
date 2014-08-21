@@ -423,7 +423,7 @@
 	    }
 	    
 	    {
-	    "@id": "http://opaquenamespace.org/ns/rangerDistrict,
+	    "@id": "http://opaquenamespace.org/ns/rangerDistrict",
 	    "@type": "Property",
 	    "subPropertyOf": "spatial",
 	    "definedBy": {
@@ -441,7 +441,7 @@
 	    }
 	    
 	    {
-	    "@id": "http://opaquenamespace.org/ns/homeAway
+	    "@id": "http://opaquenamespace.org/ns/homeAway"
 	    "@type": "Property",
 	    "definedBy": {
 		"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
