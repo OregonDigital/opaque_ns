@@ -144,8 +144,9 @@
 		"@id": "Organization"
 	    }
 	},
+	
 	{
-	    "@id": "http://opaquenamespace.org/ns/hasCover",
+	    "@id": "http://opaquenamespace.org/ns/coverDescription",
 	    "@type": "Property",
 	    "definedBy": {
 		"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -154,29 +155,8 @@
 		"@value": "2014-02-28",
 		"@type": "date"
 	    },
-	    "subPropertyOf": "hasPart",
-	    "label": "Has Cover",
-	    "comment": "Specifies a cover physically attached to the resource.",
-	    "modified": {
-		"@value": "2014-02-28",
-		"@type": "date"
-	    },
-	    "range": {
-		"@id": "http://opaquenamespace.org/ns/Cover"
-	    }
-	},
-	{
-	    "@id": "http://opaquenamespace.org/ns/Cover",
-	    "@type": "Property",
-	    "definedBy": {
-		"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	    },
-	    "issued": {
-		"@value": "2014-02-28",
-		"@type": "date"
-	    },
-	    "label": "Cover",
-	    "comment": "An external cover, as on a book, document, or case.",
+	    "label": "Cover Description",
+	    "comment": "Descriptive statement about the external cover or binding of an item.",
 	    "modified": {
 		"@value": "2014-02-28",
 		"@type": "date"
@@ -469,7 +449,7 @@
 	    "modified": {
 		"@value": "2014-08-05",
 		"@type": "date"
-	    }
+	    },
 	    
 	    {
 	    "@id": "http://opaquenamespace.org/ns/rangerDistrict",
@@ -487,24 +467,8 @@
 	    "modified": {
 		"@value": "2014-08-19",
 		"@type": "date"
-	    }
+	    },
 	    
-	    {
-	    "@id": "http://opaquenamespace.org/ns/homeAway",
-	     "@type": "Property",
-	    "definedBy": {
-		"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-	    },
-	    "issued": {
-		"@value": "2014-08-19",
-		"@type": "date"
-	    },
-	    "label": "",
-	    "comment": "Designation of location of game for Oregon State University #waiting for better OSU definition",
-	    "modified": {
-		"@value": "2014-08-19",
-		"@type": "date"
-	    }
 	    
 	    {
 	    "@id": "http://opaquenamespace.org/ns/militaryOccupation",
@@ -521,7 +485,7 @@
 	    "modified": {
 		"@value": "2014-08-19",
 		"@type": "date"
-	    }
+	    },
 		
 		 {
 	    "@id": "http://opaquenamespace.org/ns/militaryHighestrank",
@@ -555,7 +519,7 @@
 	    "modified": {
 		"@value": "2014-08-21",
 		"@type": "date"
-	    }
+	    },
 		
 		 {
 	    "@id": "http://opaquenamespace.org/ns/militaryBranch",
@@ -572,7 +536,7 @@
 	    "modified": {
 		"@value": "2014-08-21",
 		"@type": "date"
-	    }
+	    },
 		{
 	    "@id": "http://opaquenamespace.org/ns/tgm",
 	    "@type": "Property",
@@ -584,11 +548,11 @@
 		"@type": "date"
 	    },
 	    "label": "TGM",
-	    "comment": "Thesaurus of Graphic Materials",
+	    "comment": "Thesaurus of Graphic Materials.",
 	    "modified": {
 		"@value": "2014-08-21",
 		"@type": "date"
-	    }
+	    },
 		{
 	    "@id": "http://opaquenamespace.org/ns/uoNames",
 	    "@type": "Property",
@@ -600,11 +564,11 @@
 		"@type": "date"
 	    },
 	    "label": "University of Oregon Names",
-	    "comment": "For ",
+	    "comment": "For names of people associated with the University of Oregon.",
 	    "modified": {
 		"@value": "2014-08-21",
 		"@type": "date"
-	    }
+	    },
 		
 		{
 	    "@id": "http://opaquenamespace.org/ns/seriesName",
@@ -617,13 +581,13 @@
 		"@type": "date"
 	    },
 	    "label": "Series Name",
-	    "comment": "Title of series within collection",
+	    "comment": "Title of series within collection.",
 	    "modified": {
 		"@value": "2014-08-21",
 		"@type": "date"
 	    },
-	    
-	    	{
+		
+		{
 	    "@id": "http://opaquenamespace.org/ns/sportsTeam",
 	    "@type": "Property",
 	    "definedBy": {
@@ -639,7 +603,71 @@
 		"@value": "2014-08-21",
 		"@type": "date"
 	    },
-	    
+	  	{
+	    "@id": "http://opaquenamespace.org/ns/sheetmusic/largerWork",
+	    "@type": "Property",
+	    "definedBy": {
+		"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	    },
+	    "issued": {
+		"@value": "2014-08-21",
+		"@type": "date"
+	    },
+	    "label": "Larger Work",
+	    "comment": "The 'title of larger work' data is used when the item being cataloged is known to be one part of a larger work with a known title.",
+	    "modified": {
+		"@value": "2014-08-21",
+		"@type": "date"
+	    },
+	    {
+	    "@id": "http://opaquenamespace.org/ns/sheetmusic/hostItem",
+	    "@type": "Property",
+	    "definedBy": {
+		"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	    },
+	    "issued": {
+		"@value": "2014-08-21",
+		"@type": "date"
+	    },
+	    "label": "Host Item",
+	    "comment": "Identifier of the host item for the constituent unit in a vertical relationship. This information allows users to locate the physical piece that contains the component part described in the record.",
+	    "modified": {
+		"@value": "2014-08-21",
+		"@type": "date"
+	    },
+		 {
+	    "@id": "http://opaquenamespace.org/ns/ethnographic",
+	    "@type": "Property",
+	    "definedBy": {
+		"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	    },
+	    "issued": {
+		"@value": "2014-08-21",
+		"@type": "date"
+	    },
+	    "label": "Ethnographic",
+	    "comment": "Descriptive terms related to ethnographic subject matter like folklore, ethnomusicology, cultural anthropology, and related fields.",
+	    "modified": {
+		"@value": "2014-08-21",
+		"@type": "date"
+	    },
+		
+		{
+	    "@id": "http://opaquenamespace.org/ns/rightsHolder",
+	    "@type": "Property",
+	    "definedBy": {
+		"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	    },
+	    "issued": {
+		"@value": "2014-08-21",
+		"@type": "date"
+	    },
+	    "label": "Right Holder",
+	    "comment": "Current person or organization who maintains copyright.",
+	    "modified": {
+		"@value": "2014-08-21",
+		"@type": "date"
+	    },
 	
 	}
     ]
