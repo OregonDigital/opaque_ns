@@ -662,12 +662,44 @@
 		"@value": "2014-08-21",
 		"@type": "date"
 	    },
-	    "label": "Right Holder",
+	    "label": "Rights Holder",
 	    "comment": "Current person or organization who maintains copyright.",
 	    "modified": {
-		"@value": "2014-08-21",
+		"@value": "2014-08-23",
 		"@type": "date"
 	    },
+		{
+            "@id": "http://opaquenamespace.org/ns/awardDate",
+            "@type": "Property",
+            "definedBy": {
+                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-08-23",
+                "@type": "date"
+            },
+            "label": "Award Date",
+            "comment": "Date associated with a grant, competition, or professional award.",
+            "modified": {
+                "@value": "2014-08-23",
+                "@type": "date"
+            },
+  		{
+            "@id": "http://opaquenamespace.org/ns/artSeries",
+            "@type": "Property",
+            "definedBy": {
+                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-08-23",
+                "@type": "date"
+            },
+            "label": "Art Series",            
+	    "comment": "In the visual arts, for groups of works by a single artist having a specific and purposeful relation among the works.",
+            "modified": {
+                "@value": "2014-08-23",
+                "@type": "date"
+            },
 	
 	}
     ]
