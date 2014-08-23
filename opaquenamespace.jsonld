@@ -488,7 +488,7 @@
 	    },
 		
 		 {
-	    "@id": "http://opaquenamespace.org/ns/militaryHighestrank",
+	    "@id": "http://opaquenamespace.org/ns/militaryHighestRank",
 	    "@type": "Property",
 	    "definedBy": {
 		"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -500,12 +500,12 @@
 	    "label": "Military Highest Rank",
 	    "comment": "Description of highest position held within a branch of the U.S. military.",
 	    "modified": {
-		"@value": "2014-08-19",
+		"@value": "2014-08-22",
 		"@type": "date"
 	    }
 		
 		 {
-	    "@id": "http://opaquenamespace.org/ns/militaryServiceplaces",
+	    "@id": "http://opaquenamespace.org/ns/militaryServiceLocation",
 	    "@type": "Property",
 	    "definedBy": {
 		"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -514,10 +514,10 @@
 		"@value": "2014-08-21",
 		"@type": "date"
 	    },
-	    "label": "Military Service Places",
+	    "label": "Military Service Location",
 	    "comment": "Description of the places of service within a branch of the U.S. military.",
 	    "modified": {
-		"@value": "2014-08-21",
+		"@value": "2014-08-22",
 		"@type": "date"
 	    },
 		
