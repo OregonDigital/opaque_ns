@@ -46,7 +46,8 @@
 	    "modified": {
 		"@value": "2013-12-16",
 		"@type": "date"
-	    },
+		}
+	},
 	{
 	    "@id": "http://opaquenamespace.org/ns/sheetmusic/firstLine",
 	    "@type": "Property",
@@ -62,7 +63,8 @@
 	    "modified": {
 		"@value": "2013-12-16",
 		"@type": "date"
-	    },
+		}
+	},
 	{
 	    "@id": "http://opaquenamespace.org/ns/sheetmusic/firstLineChorus",
 	    "@type": "Property",
@@ -78,7 +80,8 @@
 	    "modified": {
 		"@value": "2013-12-16",
 		"@type": "date"
-	    },
+		}
+	},
 	{
 	    "@id": "http://opaquenamespace.org/ns/set",
 	    "@type": "Property",
@@ -273,7 +276,7 @@
 		"@type": "date"
 	    }
 	},
-        {
+    {
 	    "@id": "http://opaquenamespace.org/ns/exhibit",
 	    "@type": "Property",
 	    "subPropertyOf": "http://opaquenamespace.org/ns/set",
@@ -291,7 +294,7 @@
 		"@type": "date"
 	    }
 	},
-        {
+    {
 	    "@id": "http://opaquenamespace.org/ns/fullText",
 	    "@type": "Property",
 	    "definedBy": {
@@ -308,7 +311,7 @@
 		"@type": "date"
 	    }
 	},
-        {
+    {
 	    "@id": "http://opaquenamespace.org/ns/dateDigitized",
 	    "@type": "Property",
 	    "definedBy": {
@@ -325,7 +328,7 @@
 		"@type": "date"
 	    }
 	},
-	        {
+	{
 	    "@id": "http://opaquenamespace.org/ns/boxNumber",
 	    "@type": "Property",
 	    "subPropertyOf": "isPartOf",
@@ -344,7 +347,7 @@
 	    }
 		
 	},
-	        {
+	{
 	    "@id": "http://opaquenamespace.org/ns/folderNumber",
 	    "@type": "Property",
 	    "subPropertyOf": "isPartOf",
@@ -363,7 +366,7 @@
 	    }
 	},
 	
-		        {
+	{
 	    "@id": "http://opaquenamespace.org/ns/localCollectionName",
 	    "@type": "Property",
 		"subPropertyOf": "isPartOf",
@@ -382,7 +385,7 @@
 	    }
 	},
 	
-		        {
+	{
 	    "@id": "http://opaquenamespace.org/ns/localCollectionID",
 	    "@type": "Property",
 	    "subPropertyOf": "isPartOf",
@@ -449,9 +452,10 @@
 	    "modified": {
 		"@value": "2014-08-05",
 		"@type": "date"
-	    },
+		}
+	},
 	    
-	    {
+	{
 	    "@id": "http://opaquenamespace.org/ns/rangerDistrict",
 	    "@type": "Property",
 	    "subPropertyOf": "spatial",
@@ -467,10 +471,11 @@
 	    "modified": {
 		"@value": "2014-08-19",
 		"@type": "date"
-	    },
+		}
+	},
 	    
 	    
-	    {
+	{
 	    "@id": "http://opaquenamespace.org/ns/militaryOccupation",
 	    "@type": "Property",
 	    "definedBy": {
@@ -485,9 +490,10 @@
 	    "modified": {
 		"@value": "2014-08-19",
 		"@type": "date"
-	    },
+		}
+	},
 		
-		 {
+	{
 	    "@id": "http://opaquenamespace.org/ns/militaryHighestRank",
 	    "@type": "Property",
 	    "definedBy": {
@@ -502,9 +508,10 @@
 	    "modified": {
 		"@value": "2014-08-22",
 		"@type": "date"
-	    }
+		}
+	},
 		
-		 {
+	{
 	    "@id": "http://opaquenamespace.org/ns/militaryServiceLocation",
 	    "@type": "Property",
 	    "definedBy": {
@@ -519,9 +526,10 @@
 	    "modified": {
 		"@value": "2014-08-22",
 		"@type": "date"
-	    },
+		}
+	},
 		
-		 {
+	{
 	    "@id": "http://opaquenamespace.org/ns/militaryBranch",
 	    "@type": "Property",
 	    "definedBy": {
@@ -536,8 +544,9 @@
 	    "modified": {
 		"@value": "2014-08-21",
 		"@type": "date"
-	    },
-		{
+		}
+	},
+	{
 	    "@id": "http://opaquenamespace.org/ns/tgm",
 	    "@type": "Property",
 	    "definedBy": {
@@ -552,8 +561,9 @@
 	    "modified": {
 		"@value": "2014-08-21",
 		"@type": "date"
-	    },
-		{
+		}
+	},
+	{
 	    "@id": "http://opaquenamespace.org/ns/uoNames",
 	    "@type": "Property",
 	    "definedBy": {
@@ -568,9 +578,10 @@
 	    "modified": {
 		"@value": "2014-08-21",
 		"@type": "date"
-	    },
+		}
+	},
 		
-		{
+	{
 	    "@id": "http://opaquenamespace.org/ns/seriesName",
 	    "@type": "Property",
 	    "definedBy": {
@@ -585,9 +596,10 @@
 	    "modified": {
 		"@value": "2014-08-21",
 		"@type": "date"
-	    },
+		}
+	},
 		
-		{
+	{
 	    "@id": "http://opaquenamespace.org/ns/sportsTeam",
 	    "@type": "Property",
 	    "definedBy": {
@@ -602,8 +614,9 @@
 	    "modified": {
 		"@value": "2014-08-21",
 		"@type": "date"
-	    },
-	  	{
+		}
+	},
+	{
 	    "@id": "http://opaquenamespace.org/ns/sheetmusic/largerWork",
 	    "@type": "Property",
 	    "definedBy": {
@@ -618,8 +631,9 @@
 	    "modified": {
 		"@value": "2014-08-21",
 		"@type": "date"
-	    },
-	    {
+		}
+	},
+	{
 	    "@id": "http://opaquenamespace.org/ns/sheetmusic/hostItem",
 	    "@type": "Property",
 	    "definedBy": {
@@ -634,8 +648,9 @@
 	    "modified": {
 		"@value": "2014-08-21",
 		"@type": "date"
-	    },
-		 {
+		}
+	},
+	{
 	    "@id": "http://opaquenamespace.org/ns/ethnographic",
 	    "@type": "Property",
 	    "definedBy": {
@@ -650,9 +665,10 @@
 	    "modified": {
 		"@value": "2014-08-21",
 		"@type": "date"
-	    },
+		}
+	},
 		
-		{
+	{
 	    "@id": "http://opaquenamespace.org/ns/rightsHolder",
 	    "@type": "Property",
 	    "definedBy": {
@@ -662,13 +678,47 @@
 		"@value": "2014-08-21",
 		"@type": "date"
 	    },
-	    "label": "Right Holder",
+	    "label": "Rights Holder",
 	    "comment": "Current person or organization who maintains copyright.",
 	    "modified": {
-		"@value": "2014-08-21",
+		"@value": "2014-08-23",
 		"@type": "date"
-	    },
+		}
+	},
+	{
+            "@id": "http://opaquenamespace.org/ns/awardDate",
+            "@type": "Property",
+            "definedBy": {
+                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-08-23",
+                "@type": "date"
+            },
+            "label": "Award Date",
+            "comment": "Date associated with a grant, competition, or professional award.",
+            "modified": {
+                "@value": "2014-08-23",
+                "@type": "date"
+                }
+            },
+  		{
+            "@id": "http://opaquenamespace.org/ns/artSeries",
+            "@type": "Property",
+            "definedBy": {
+                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+            },
+            "issued": {
+                "@value": "2014-08-23",
+                "@type": "date"
+            },
+            "label": "Art Series",            
+	    "comment": "In the visual arts, for groups of works by a single artist having a specific and purposeful relation among the works.",
+            "modified": {
+                "@value": "2014-08-23",
+                "@type": "date"
+            }
 	
-	}
+		}
     ]
 }
