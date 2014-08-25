@@ -15,7 +15,7 @@
         "Concept": "http://www.w3.org/2004/02/skos/core#Concept",
         "@language": "en",
         "additionalName": "http://schema.org/additionalName",
-        "alternateName": "https://schema.org/alternateName",
+        "alternateName": "http://schema.org/alternateName",
         "PersonalName": "http://www.w3.org/2004/02/skos/core#PersonalName",
         "CorporateName": "http://www.w3.org/2004/02/skos/core#CorporateName",
         "Topic": "http://www.w3.org/2004/02/skos/core#Topic",
