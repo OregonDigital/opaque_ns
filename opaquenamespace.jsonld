@@ -668,6 +668,23 @@
 		"@value": "2014-08-21",
 		"@type": "date"
 	    },
+	    
+	    	{
+	    "@id": "http://opaquenamespace.org/ns/folderName",
+	    "@type": "Property",
+	    "definedBy": {
+		"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	    },
+	    "issued": {
+		"@value": "2014-08-25",
+		"@type": "date"
+	    },
+	    "label": "Folder Name",
+	    "comment": "Name on the folder within the box holding the physical archival item.",
+	    "modified": {
+		"@value": "2014-08-25",
+		"@type": "date"
+	    },
 	
 	}
     ]
