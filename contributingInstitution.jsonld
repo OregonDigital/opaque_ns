@@ -1,53 +1,52 @@
 {
-    "@context": {
-	"title": "http://purl.org/dc/terms/title",
-	"label": "http://www.w3.org/2000/01/rdf-schema#label",
-	"comment": "http://www.w3.org/2000/01/rdf-schema#comment",
-	"description": "http://purl.org/dc/terms/description",
-	"publisher": "http://purl.org/dc/terms/publisher",
-	"modified": "http://purl.org/dc/terms/modified",
-	"issued": "http://purl.org/dc/terms/issued",
-	"Collection": "http://purl.org/dc/terms/Collection",
-	"definedBy": "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
-	"range": "http://www.w3.org/2000/01/rdf-schema#range",
-	"date": "http://www.w3.org/2001/XMLSchema#date",
-	"RightsStatement": "http://purl.org/dc/terms/RightsStatement",
-	"Concept": "http://www.w3.org/2004/02/skos/core#Concept",
-	"@language": "en",
-	"additionalName": "http://schema.org/additionalName",
-	"alternateName": "https://schema.org/alternateName"
+  "@context": {
+    "@language": "en",
+    "Collection": "http://purl.org/dc/terms/Collection",
+    "Concept": "http://www.w3.org/2004/02/skos/core#Concept",
+    "RightsStatement": "http://purl.org/dc/terms/RightsStatement",
+    "additionalName": "http://schema.org/additionalName",
+    "alternateName": "https://schema.org/alternateName",
+    "comment": "http://www.w3.org/2000/01/rdf-schema#comment",
+    "date": "http://www.w3.org/2001/XMLSchema#date",
+    "definedBy": "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+    "description": "http://purl.org/dc/terms/description",
+    "issued": "http://purl.org/dc/terms/issued",
+    "label": "http://www.w3.org/2000/01/rdf-schema#label",
+    "modified": "http://purl.org/dc/terms/modified",
+    "publisher": "http://purl.org/dc/terms/publisher",
+    "range": "http://www.w3.org/2000/01/rdf-schema#range",
+    "title": "http://purl.org/dc/terms/title"
+  },
+  "@graph": [
+    {
+      "@id": "http://opaquenamespace.org/contributingInstitution",
+      "issued": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2013-12-16"
+      },
+      "modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2013-12-16"
+      },
+      "publisher": "Opaque Namespace",
+      "title": "contributingInstitition controlled vocabulary"
     },
-	  "@graph": [
-	{
-	    "@id": "http://opaquenamespace.org/contributingInstitution",
-	    "title": "contributingInstitition controlled vocabulary",
-	    "publisher": "Opaque Namespace",
-	    "modified": {
-		"@value": "2013-12-16",
-		"@type": "http://www.w3.org/2001/XMLSchema#date"
-	    },
-	    "issued": {
-		"@value": "2013-12-16",
-		"@type": "http://www.w3.org/2001/XMLSchema#date"
-	    }
-	},
-	    {
+    {
       "@id": "http://opaquenamespace.org/ns/contributingInstitution/UniversityofOregonLibraries",
       "@type": "Concept",
+      "comment": "University of Oregon Libraries",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
       "issued": {
-        "@value": "2014-05-13",
-        "@type": "date"
+        "@type": "date",
+        "@value": "2014-05-13"
       },
       "label": "",
-      "comment": "University of Oregon Libraries",
       "modified": {
-        "@value": "2014-05-15",
-        "@type": "date"
- 
-            }
-        }
-    ]
+        "@type": "date",
+        "@value": "2014-05-15"
+      }
+    }
+  ]
 }

@@ -1,2160 +1,2160 @@
 {
-    "@context": {
-        "title": "http://purl.org/dc/terms/title",
-        "label": "http://www.w3.org/2000/01/rdf-schema#label",
-        "comment": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "description": "http://purl.org/dc/terms/description",
-        "publisher": "http://purl.org/dc/terms/publisher",
-        "modified": "http://purl.org/dc/terms/modified",
-        "issued": "http://purl.org/dc/terms/issued",
-        "Collection": "http://purl.org/dc/terms/Collection",
-        "definedBy": "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
-        "range": "http://www.w3.org/2000/01/rdf-schema#range",
-        "date": "http://www.w3.org/2001/XMLSchema#date",
-        "RightsStatement": "http://purl.org/dc/terms/RightsStatement",
-        "Concept": "http://www.w3.org/2004/02/skos/core#Concept",
-        "@language": "en",
-        "additionalName": "http://schema.org/additionalName",
-        "alternateName": "https://schema.org/alternateName"
+  "@context": {
+    "@language": "en",
+    "Collection": "http://purl.org/dc/terms/Collection",
+    "Concept": "http://www.w3.org/2004/02/skos/core#Concept",
+    "RightsStatement": "http://purl.org/dc/terms/RightsStatement",
+    "additionalName": "http://schema.org/additionalName",
+    "alternateName": "https://schema.org/alternateName",
+    "comment": "http://www.w3.org/2000/01/rdf-schema#comment",
+    "date": "http://www.w3.org/2001/XMLSchema#date",
+    "definedBy": "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+    "description": "http://purl.org/dc/terms/description",
+    "issued": "http://purl.org/dc/terms/issued",
+    "label": "http://www.w3.org/2000/01/rdf-schema#label",
+    "modified": "http://purl.org/dc/terms/modified",
+    "publisher": "http://purl.org/dc/terms/publisher",
+    "range": "http://www.w3.org/2000/01/rdf-schema#range",
+    "title": "http://purl.org/dc/terms/title"
+  },
+  "@graph": [
+    {
+      "@id": "http://opaquenamespace.org/culture",
+      "issued": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2013-12-16"
+      },
+      "modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2013-12-16"
+      },
+      "publisher": "Opaque Namespace",
+      "title": "Culture controlled vocabulary"
     },
-    "@graph": [
-        {
-            "@id": "http://opaquenamespace.org/culture",
-            "title": "Culture controlled vocabulary",
-            "publisher": "Opaque Namespace",
-            "modified": {
-                "@value": "2013-12-16",
-                "@type": "http://www.w3.org/2001/XMLSchema#date"
-            },
-            "issued": {
-                "@value": "2013-12-16",
-                "@type": "http://www.w3.org/2001/XMLSchema#date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/undetermined",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "undetermined",
-            "comment": "Getty Appendices. ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Alsatian",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Alsatian",
-            "comment": "Getty Appendices. ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Corsican",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Corsican",
-            "comment": "Getty Appendices. ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Transylvanian",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Transylvanian",
-            "comment": "Getty Appendices. ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Soviet",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Soviet",
-            "comment": "Getty Appendices. ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Ukranian",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Ukranian",
-            "comment": "Getty Appendices. ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/AncientItalian",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Ancient Italian",
-            "comment": "Getty Appendices. ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Bolognese",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Bolognese",
-            "comment": "Getty Appendices. ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/BosnianHerzegovinian",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Bosnian, Herzegovinian",
-            "comment": "Getty Appendices. ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/ChineseHongKong",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Chinese/Hong Kong",
-            "comment": "Getty Appendices. ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Corinthian",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Corinthian",
-            "comment": "Getty Appendices. ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Euboian",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Euboian",
-            "comment": "Getty Appendices. Euboean",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Florentine",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Florentine",
-            "comment": "Getty Appendices. ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/laconic",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "laconic",
-            "comment": "Getty Appendices. Laconian",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Macedonian",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Macedonian",
-            "comment": "Getty Appendices. Ancient Macedonian",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Milanese",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Milanese",
-            "comment": "Getty Appendices. ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Montenegrin",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Montenegrin",
-            "comment": "Getty Appendices. ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Peloponnesian",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Peloponnesian",
-            "comment": "Getty Appendices. ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Rhenish",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Rhenish",
-            "comment": "Getty Appendices. ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Sienese",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Sienese",
-            "comment": "Getty Appendices. ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Singapore",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Singapore",
-            "comment": "Getty Appendices. Singaporean",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/SouthKorean",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "South Korean",
-            "comment": "Getty Appendices. ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Velezuelan",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Velezuelan",
-            "comment": "Getty Appendices. ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Yemeni",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Yemeni",
-            "comment": "Getty Appendices. ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Pontic",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Pontic",
-            "comment": "Culture of the historic region of Pontus, roughly encompassed most of the eastern Black Sea coast of northeastern Asia Minor, on the coast from just west of AyancÄ±k to east of Hopa.. ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Ababdah",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Ababdah",
-            "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. Sudan Alternate name: Ababda, Ababde Cushitic language; one of the groups included in the collective term Beja ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Abam",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Abam",
-            "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. Nigeria Alternate name: Ohaffia, Ohafya Kwa language; subcategory of the Igbo; one of the groups referred to as Eastern Igbo ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Abong",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Abong",
-            "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. Cameroun, Nigeria Alternate name: Abo, AbÃµ, AbÃµn Bantu related language; one of the groups included in the collective term Tigong ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Aksum",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Aksum",
-            "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. Ethiopia Alternate name: Axum ancient Ethiopian city and kingdom flourishing from the first millenium B.C.E. to about 800 A.D.  ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Andean",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Andean",
-            "comment": "Damian, Carol; Virgin of the Andes; Art and Ritual in Colonial Cuzco, Miami Beach: Grassfield Press, 1995. ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/BaiChina",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Bai (China)",
-            "comment": "Gealt, Adelheid, et al.; Masterworks from the Indiana University Art Museum, Bloomington, IN: Indiana University Press, 2007. Chinese: ç™½æ—; pinyin: BÃ¡izÃº. One of the 56 ethnic minorities officially recognized by the People's Republic of China. The Bai population is primarily located in the provinces of Yunnan (Dali area) and in neighboring Guizhou (Bijie area) and Hunan (Sangzhi area) provinces. 80% of the Bai people live in the Dali Bai Autonomous Prefecture in Yunnan province.",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/BatakSumatran",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Batak (Sumatran)",
-            "comment": "Gealt, Adelheid, et al.; Masterworks from the Indiana University Art Museum, Bloomington, IN: Indiana University Press, 2007. Toba subgroup, Sumatra, Indonesia",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Belanda",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Belanda",
-            "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. Sudan The term Belanda (or Bor-Belanda) includes both the Bor (or JoBor) speaking a Western Nilotic langauge and the Bviri (or Bor-Bviri) speaking an Eastern Sudanic language ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/BeringStraitInuit",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Bering Strait Inuit",
-            "comment": "Lee, Molly and Gregory A. Reinhardt; Eskimo Architecture: Dwelling and Structure in the Early Historic Period, Fairbanks: University of Alaska Press and University of Alaska Museum, 2003. United States, ARCTIC: West coast of alaska Language: ?",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Biwat",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Biwat",
-            "comment": "Gealt, Adelheid, et al.; Masterworks from the Indiana University Art Museum, Bloomington, IN: Indiana University Press, 2007. Middle Yuat River, lower Sepik River area, Papua New Guinea people, aka Mundugumor",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Cabinda",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Cabinda",
-            "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. Congo Republic region/enclave in the Congo Republic but the term is sometimes used to refer to the art of the Vili peoples ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Chokwe",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Chokwe",
-            "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. Angola, Zaire,  Zambia Alternate name: Bachokwe, Badjok, Badjokwe, Bajokwe, Batshioko, Ciokwe, Cokwe, Djok, Djokwe, Kioko, Kiokue, Quioco, Shioko, Tschokwe, Tshioko, Tshokwe, Tuchokwe, Watschiwokwe Bantu language  Chokwe is the current usage in most art sources while linguists seem to prefer the form Cokwe. One of the groups included in the Lunda-Lovale peoples. ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/DhoLuo",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Dho Luo",
-            "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. Kenya Alternate name: Luo Western Nilotic language; one of the groups included in the collective term Nilotic peoples; sometimes referred to as Southern Lwoo ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Faafue",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Faafue",
-            "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. CÃ´te dâ€™Ivoire Kwa language; subcategory of the Baule ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Gabbra",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Gabbra",
-            "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. Ethiopia, Kenya Alternate name: Gabra Cushitic language; subcategory of the Oromo ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Grasslands",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Grasslands",
-            "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. Cameroun Alternate name: Grassfields One of three very large so-called stylistic regions in the Cameroun; the others being 2) Northern and  Central Cameroun together ranging from southern Lake Chad to Adamawa, and 3) ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Huari",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Huari",
-            "comment": "Gealt, Adelheid, et al.; Masterworks from the Indiana University Art Museum, Bloomington, IN: Indiana University Press, 2007. ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Hungana",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Hungana",
-            "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. Zaire Alternate name: Bahuana, Bahungana, Huana, Hungaan, Hungana, Hunganna, Wana SOUTH SAVANNA  Bantu language ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Isaaq",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Isaaq",
-            "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. Somalia Alternate name: Issaq Cushitic language; clan-family of the Somali ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Itakete",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Itakete",
-            "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. Nigeria Kwa language; subcategory of the Yoruba ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Jamala",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Jamala",
-            "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. CÃ´te dâ€™Ivoire Gur language; subcategory of the Senufo ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Kalabari",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Kalabari",
-            "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. Nigeria Alternate name: Kalabari Ijo Kwa language; Kalabari is a term sometimes used synonymously with the Ijo, the capital of the Ijo, and also as an eastern subcategory of the Ijo.  see RWL for a more extensive list of subcategories. ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Kambot",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Kambot",
-            "comment": "Gealt, Adelheid, et al.; Masterworks from the Indiana University Art Museum, Bloomington, IN: Indiana University Press, 2007. Lower Sepik River, Papua New Guinea people, aka Tindama, Tin Dama",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Kom",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Kom",
-            "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. Cameroun Alternate name: Bamekom, Bekom, Bikom, Kom-Tikar, Nkom Bantoid language; subcategory of Tikar, one of the groups included in the collective term Bamenda ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Luluwa",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Luluwa",
-            "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. Zaire Alternate name: Bashilange, Bena Lulua, Bena Luluwa, Bena Moyo, Lulua, Shilange Bantu language; one of the groups included in the collective term Bakasai  AAT USES LULUA ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/LumboCongoRepublicGabon",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Lumbo (Congo Republic, Gabon)",
-            "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. Congo Republic, Gabon Alternate name: Balumbo, Loumbou, Lumbu Bantu language ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Maasai",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Maasai",
-            "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. Kenya, Tanzania Alternate name: Masai, Massai Eastern Nilotic language;  grouped as Northern Maasai, Central or Rift Valley Maasai, and Southern Maasai; one of the groups included in the collective term â€œNilo-Hamiticâ€ peoples. see GWS 1969 for numerous additional subcategories*. ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/MamlukAfricangroup",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Mamluk (African group)",
-            "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. CENTRAL-EAST SUDAN ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Masai",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Masai",
-            "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. EAST AFRICA ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Mawri",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Mawri",
-            "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. Niger Alternate name: Mauri Chadic language; subcategory of the Hausa ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Minianka",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Minianka",
-            "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. Mali Alternate name: Minyanka Gur language; sometimes considered a Senufo subcategory ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Montol",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Montol",
-            "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. Nigeria Chadic language ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Mossi",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Mossi",
-            "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. Guinea, Burkina Faso, Togo Alternate name: Mole, More, Moose, Mosi Gur language; The term Moose seems currrently preferable.  The Mossi states or Mossi kingdom, circa 1500-1900, were formed in the 16th century by Dagomba horsemen called Nakomse from Ghana, and established rule over various l ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Ndebele",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Ndebele",
-            "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. South Africa, Zimbabwe Alternate name: Amandebele, Mandebele Bantu language; Have absorbed many different groups;consequently, they are divided into 3 categories:  Zansi, people from down countries; Enhla, people from up countries; Holi, people of Shona-Kalanga origins ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/NorthernMadak",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Northern Madak",
-            "comment": "Gealt, Adelheid, et al.; Masterworks from the Indiana University Art Museum, Bloomington, IN: Indiana University Press, 2007. ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Ntandu",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Ntandu",
-            "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. Zaire Alternate name: Bantandu Bantu language; subcategory of the Kongo ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Oaxacan",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Oaxacan",
-            "comment": "Gealt, Adelheid, et al.; Masterworks from the Indiana University Art Museum, Bloomington, IN: Indiana University Press, 2007. ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Pende",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Pende",
-            "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. Zaire Alternate name: Bapende, Phende, Pindi, Pinji Bantu language; some sources distinguish between Eastern (or Kasai) Pende and Western Pende ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Punu",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Punu",
-            "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. Congo Republic, Gabon Alternate name: Apono, Bapunu, Pounou, Puno Bantu language ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Rendile",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Rendile",
-            "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. Kenya Cushitic language ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/RongowhakaataMaori",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Rongowhakaata (Maori)",
-            "comment": "Gealt, Adelheid, et al.; Masterworks from the Indiana University Art Museum, Bloomington, IN: Indiana University Press, 2007. ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Saka",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Saka",
-            "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. Zaire Alternate name: Bosaka Bantu language; subcategory of Mongo ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Samburu",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Samburu",
-            "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. Kenya Alternate name: Il Loikop, Loikop, Loikpo, Sampur Eastern Nilotic language; one of the groups included in the collective term â€œNilo-Hamiticâ€ peoples; close in culture to the Maasai; sometimes considered to be a branch of the Maasai ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Shona",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Shona",
-            "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. Zambia, Zimbabwe, Mozambique Alternate name: Mashona Bantu language; a congeries of â€œtribesâ€ including the Hera, Kalanga, Karanga, Korekore, Manyika, Mbire, Ndau, Rozwi, Tawara, and Zezuru ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/SicÃ¡n",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "SicÃ¡n",
-            "comment": "Gealt, Adelheid, et al.; Masterworks from the Indiana University Art Museum, Bloomington, IN: Indiana University Press, 2007. ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Somaligroup",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Somali (group)",
-            "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. Djibouti, Ethiopia, Kenya, Somalia Cushitic language ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Swahili",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Swahili",
-            "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. Comores, Kenya, Mozambique, Somalia, Tanzania, Zaire Alternate name: Suaheli, Suaili, Wasuaheli Bantu language; Swahili is a contextual term applied to people of mixed African, Arab and ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Tiwanaku",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Tiwanaku",
-            "comment": "Gealt, Adelheid, et al.; Masterworks from the Indiana University Art Museum, Bloomington, IN: Indiana University Press, 2007. ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Topotha",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Topotha",
-            "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. Ethiopia, Sudan Alternate name: Dabosa, Toposa Eastern Nilotic language; one of the groups included in the collective term â€œNilo-Hamiticâ€ peoples ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Turkana",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Turkana",
-            "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. Kenya, Sudan Eastern Nilotic language; one of the groups included in the collective term â€œNilo-Hamiticâ€ peoples ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Usukuma",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Usukuma",
-            "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. EAST AFRICA ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Yoruba",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Yoruba",
-            "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. Benin, Nigeria, Togo Alternate name: Yorba, Yorouba Kwa language; the Yoruba kingdoms date from circa 1000. to the present. ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/YorubaOwo",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Yoruba Owo",
-            "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. CENTRAL GUINEA COAST ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/YorubaOyo",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Yoruba Oyo",
-            "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. CENTRAL GUINEA COAST ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Zulu",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Zulu",
-            "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. Lesotho, Malawi, South Africa, Swaziland Alternate name: Amazulu Bantu language ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/KazakChina",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Kazak (China)",
-            "comment": "Wang Qijun; Vernacular Dwellings (Ancient Chinese Architecture, v.5), English edition, New York: Springer Verlag/Wien, 2000. Kazak ethnic minority descended from the ancient Wushu tribes and distributed mainly in Xinjiang Ili Kazak autonomous prefecture, Mori and Barkol Kazak autonomous counties and the Gansu and Qinghai provinces.",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/MiaoChina",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Miao (China)",
-            "comment": "Garrett, Valery M; Chinese clothing : an illustrated guide, Hong Kong ; New York: Oxford University Press, 1994. The Miao (Chinese: è‹—; pinyin: MiÃ¡o) are a linguistically and culturally related group of people recognized by the government of the People's Republic of China as one of the 56 official minority groups.",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/MongolChina",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Mongol (China)",
-            "comment": "Feng, Hanji and Huang, Bangjie; National minority costume in China, Hong Kong: Hui yan ya ji, 1985. With a population of 5,813,947, the Mongols (also called Mongolian) ethnic minority is distributed primarily in the Inner Mongolian Autonomous Region along with others in provinces like Qinghai, Gansu, Liaoning, Jilin, and Heilongjiang, etc. This ethnic minority is brave and unconstrained with a profound history. Though they called themselves 'Mongol', meaning everlasting fire, other people refer to them as 'an ethnic minority on the horseback'.",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/St.JohnsCulture",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "St. Johns Culture",
-            "comment": "Morgan, William N.; Prehistoric Architecture in the Eastern United States, Cambridge, MA; London: MIT Press, 1980. United States, SOUTHEASTERN Prehistoric: 500 BCE-1565",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/VaChina",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Va (China)",
-            "comment": "Feng, Hanji and Huang, Bangjie; National minority costume in China, Hong Kong: Hui yan ya ji, 1985. The Va people form one of the 56 ethnic groups officially recognized by the PRC. They live primarily in the counties of Ximeng, Cangyuan and Menglian in Yunnan Provinces. According to the census of 2000, the Wa people has a population of 396,610.",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/YaoChina",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Yao (China)",
-            "comment": "Garrett, Valery M; Chinese clothing : an illustrated guide, Hong Kong ; New York: Oxford University Press, 1994. With a population of 2,637,421 in the year 2000, the Yao ethnic minority is a typical nationality living in the mountainous regions of the southern part of China. Their main habitats are Hunan, Yunnan, Guangdong, Guizhou, and Jiangxi together with Guangxi Zhuang Autonomous Prefecture. They are divided into several branches, such as Baiku Yao (the Yao people who wear white trousers), Hong Yao (the Yao people who favor red clothes), and so on. Similar to the other 54 ethnic groups of China, the Yao ethnic minority has its unique religious and cultural characteristics.",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Chippewah",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Chippewah",
-            "comment": "Nabokov, Peter and Robert Easton; Native American Architecture, Oxford: Oxford University Press, 1989. United States, NORTHEASTERN: Shores of Lake Huron and Lake Superior, extending across Minnesota to Turtle Mountains, North Dakota Alternate names: Baouichtigouin, Bawa'tigowininiwug, Achiligouan Related Groups: Missisauga, Amikwa Language: Algonquian SEE OJIBWA ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/EastGreenlandInuit",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "East Greenland Inuit",
-            "comment": "Lee, Molly and Gregory A. Reinhardt; Eskimo Architecture: Dwelling and Structure in the Early Historic Period, Fairbanks: University of Alaska Press and University of Alaska Museum, 2003. United States, ARCTIC: eastern coast of Greenland Language: Inuit ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/FrenchPolynesian",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "French Polynesian",
-            "comment": "Brettell, Richard et al; The Art of Paul Gauguin, Hardcover, Washington, DC and Chicago: National Gallery of Art and the Art Institute of Chicago, 1988. ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Gibraltar",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Gibraltar",
-            "comment": "Zaigai Nihon no shihÅ (Japanese Art: Selections from Western Collections) v.8, Tokyo: Mainichi Shinbunsha, 1980. ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Hunkapapa",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Hunkapapa",
-            "comment": "Laubin, Reginald and Gladys; Indian Tipi: Its History, Construction and Use, 2nd edition, Norman, OK; London: University of Oklahoma Press, 1977. United States, PLAINS Alternate names: Hunkapapa Lakota, Hunkapapa Sioux Related Groups: Sioux, Dakota Sioux Language: Lakota ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Klickitat",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Klickitat",
-            "comment": "Harper, J. Russell; Paul Kane's Frontier, Austin; Ottawa: University of Texas Press; National Gallery of Canada, 1971. United States, PLATEAU: headwaters of the Cowlitz, Lewis, White salmon and Klichkitat rivers in Central Washington Alternate names: Qulh-hwai-pum Language: Sahaptian ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/KotzebueSoundInuit",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Kotzebue Sound Inuit",
-            "comment": "Lee, Molly and Gregory A. Reinhardt; Eskimo Architecture: Dwelling and Structure in the Early Historic Period, Fairbanks: University of Alaska Press and University of Alaska Museum, 2003. United States, ARCTIC: West coast of alaska Language: ? ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Li",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Li",
-            "comment": "Feng, Hanji and Huang, Bangjie; National minority costume in China, Hong Kong: Hui yan ya ji, 1985. ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/WallisandFutunaIslander",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Wallis and Futuna Islander",
-            "comment": "Leymarie, Jean; French Painting: The Nineteenth Century, Cleveland: World Publishing Company, 1962. ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/WestGreenlandInuit",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "West Greenland Inuit",
-            "comment": "Lee, Molly and Gregory A. Reinhardt; Eskimo Architecture: Dwelling and Structure in the Early Historic Period, Fairbanks: University of Alaska Press and University of Alaska Museum, 2003. United States, ARCTIC: western coast of Greenland Language: Inuit ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Hattian",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Hattian",
-            "comment": "http://en.wikipedia.org/wiki/Hattians. The Hattians were an ancient people who inhabited the land of Hatti. The group was documented at least as early as the empire of Sargon of Akkad, until it was gradually absorbed c.2000â€“1700 BC by the Indo-European Hittites, who became identified with the landofHatti",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/PlumBayouCulture",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Plum Bayou Culture",
-            "comment": "http://www.encyclopediaofarkansas.net/encyclopedia/entry-detail.aspx?entryID=547. United States, SOUTHEASTERN Prehistoric: 650-1050 CE Plum Bayou developed out of the earlier (300 BC to AD 650) Baytown culture",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Cimmerian",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Cimmerian",
-            "comment": "http://en.wikipedia.org/wiki/Cimmerians. The Cimmerians or Kimmerians (Greek: ÎšÎ¹Î¼Î¼Î­ÏÎ¹Î¿Î¹, Kimmerioi) were an ancient Indo-European people living north of the Caucasus and the Sea of Azov as early as 1300 BC[1] until they were driven southward by the Scythians into Anatolia during the 8th century BC",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Da",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Da",
-            "comment": "http://en.wikipedia.org/wiki/Dai_people. The Dai people are one of several ethnic groups living in the Xishuangbanna Dai Autonomous Prefecture and the Dehong Dai and Jingpo Autonomous Prefecture (both in southern Yunnan, China), but by extension can apply to groups in Laos, Vietnam, Thailand, and Burma when Dai is used to mean specifically Tai Lue, Chinese Shan, Tai Dam, Tai Khao or even Tai in general",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Daunian",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Daunian",
-            "comment": "http://en.wikipedia.org/wiki/Daunia. The Daunia is a historical and geographical region in Apulia, southern Italy, mostly coincident with modern Province of Foggia. Its inhabitants were called the Daunians by the ancient Greeks and were also known as the Daunii and the Apulians to the ancient Romans.",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Etretrian",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Etretrian",
-            "comment": ". Term used by Steven Lowenstam",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Falerian",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Falerian",
-            "comment": "http://www.merriam-webster.com/dictionary/falerian. Of or relating to the ancient Etruscan city of Falerii.",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Falernian",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Falernian",
-            "comment": "http://www.merriam-webster.com/dictionary/falernian. Of or coming from a district of Campania called Falernus ager by the Romans â€”used especially of a wine celebrated by Horace",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Konkombwa",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Konkombwa",
-            "comment": "http://en.wikipedia.org/wiki/Konkomba. The Dagomba are an ethnic group of Northern Ghana and they number about 619,000. They inhabit the Northern Region of Ghana in the sparse savanna region below the sahelian belt, known as the Sudan. ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Lukanian",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Lukanian",
-            "comment": "http://en.wikipedia.org/wiki/Lucania. Culture of an ancient district of southern Italy, extending from the Tyrrhenian Sea to the Gulf of Taranto",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Pergamanes",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Pergamanes",
-            "comment": ". Culture related to the city of Pergamon in Ancient Greece.",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Phocaen",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Phocaen",
-            "comment": ". Term used by Steven Lowenstam",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Samosian",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Samosian",
-            "comment": ". Culture related to the island of Samos in Ancient Greece",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Sidonian",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Sidonian",
-            "comment": ". Culture related to the Ancient Phoneician port city of Sidonia or Sidon.",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/WaChina",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Wa (China)",
-            "comment": "Feng, Hanji and Huang, Bangjie; National minority costume in China, Hong Kong: Hui yan ya ji, 1985. ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Angoonpeople",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Angoon people",
-            "comment": "Term derived from the Tribal Legacies collection",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/CeliloFallsIndians",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Celilo Falls Indians",
-            "comment": "Term derived from the Tribal Legacies collection ",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/ChelukemaukesIndians",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Chelukemaukes Indians",
-            "comment": "Term derived from the Tribal Legacies collection",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/ChetlesssentinsIndians",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Chetlesssentins Indians",
-            "comment": "Term derived from the Tribal Legacies collection",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/ClatsopIndians",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Clatsop Indians",
-            "comment": "Term derived from the Tribal Legacies collection",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Clowella",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Clowella",
-            "comment": "Term derived from the Tribal Legacies collection",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/ColumbiaRiverTribes",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Columbia River Tribes",
-            "comment": "Term derived from the Tribal Legacies collection",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Molallapeople",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Molalla people",
-            "comment": "Term derived from the Tribal Legacies collection",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/Tooquot",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-10",
-                "@type": "date"
-            },
-            "label": "Tooquot",
-            "comment": "Term derived from the Tribal Legacies collection",
-            "modified": {
-                "@value": "2014_07-10",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/DutchAmerican",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-05-20",
-                "@type": "date"
-            },
-            "label": "Dutch-American",
-            "comment": "Americans of Dutch descent",
-            "modified": {
-                "@value": "2014-05-20",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/GreekAmerican",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-05-20",
-                "@type": "date"
-            },
-            "label": "Greek-American",
-            "comment": "Americans of Greek descent",
-            "modified": {
-                "@value": "2014-05-20",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/HungarianAmerican",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-05-20",
-                "@type": "date"
-            },
-            "label": "Hungarian-American",
-            "comment": "Americans of Hungarian descent",
-            "modified": {
-                "@value": "2014-05-20",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/SpanishAmerican",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-05-20",
-                "@type": "date"
-            },
-            "label": "Spanish-American",
-            "comment": "Americans of Spanish descent",
-            "modified": {
-                "@value": "2014-05-20",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/culture/JapaneseAmerican",
-            "@type": "Concept",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-05-20",
-                "@type": "date"
-            },
-            "label": "Japanese-American",
-            "comment": "Americans of Japanese descent",
-            "modified": {
-                "@value": "2014-05-20",
-                "@type": "date"
-            }
-        }
-    ]
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/undetermined",
+      "@type": "Concept",
+      "comment": "Getty Appendices. ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "undetermined",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Alsatian",
+      "@type": "Concept",
+      "comment": "Getty Appendices. ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Alsatian",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Corsican",
+      "@type": "Concept",
+      "comment": "Getty Appendices. ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Corsican",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Transylvanian",
+      "@type": "Concept",
+      "comment": "Getty Appendices. ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Transylvanian",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Soviet",
+      "@type": "Concept",
+      "comment": "Getty Appendices. ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Soviet",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Ukranian",
+      "@type": "Concept",
+      "comment": "Getty Appendices. ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Ukranian",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/AncientItalian",
+      "@type": "Concept",
+      "comment": "Getty Appendices. ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Ancient Italian",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Bolognese",
+      "@type": "Concept",
+      "comment": "Getty Appendices. ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Bolognese",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/BosnianHerzegovinian",
+      "@type": "Concept",
+      "comment": "Getty Appendices. ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Bosnian, Herzegovinian",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/ChineseHongKong",
+      "@type": "Concept",
+      "comment": "Getty Appendices. ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Chinese/Hong Kong",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Corinthian",
+      "@type": "Concept",
+      "comment": "Getty Appendices. ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Corinthian",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Euboian",
+      "@type": "Concept",
+      "comment": "Getty Appendices. Euboean",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Euboian",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Florentine",
+      "@type": "Concept",
+      "comment": "Getty Appendices. ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Florentine",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/laconic",
+      "@type": "Concept",
+      "comment": "Getty Appendices. Laconian",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "laconic",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Macedonian",
+      "@type": "Concept",
+      "comment": "Getty Appendices. Ancient Macedonian",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Macedonian",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Milanese",
+      "@type": "Concept",
+      "comment": "Getty Appendices. ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Milanese",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Montenegrin",
+      "@type": "Concept",
+      "comment": "Getty Appendices. ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Montenegrin",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Peloponnesian",
+      "@type": "Concept",
+      "comment": "Getty Appendices. ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Peloponnesian",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Rhenish",
+      "@type": "Concept",
+      "comment": "Getty Appendices. ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Rhenish",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Sienese",
+      "@type": "Concept",
+      "comment": "Getty Appendices. ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Sienese",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Singapore",
+      "@type": "Concept",
+      "comment": "Getty Appendices. Singaporean",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Singapore",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/SouthKorean",
+      "@type": "Concept",
+      "comment": "Getty Appendices. ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "South Korean",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Velezuelan",
+      "@type": "Concept",
+      "comment": "Getty Appendices. ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Velezuelan",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Yemeni",
+      "@type": "Concept",
+      "comment": "Getty Appendices. ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Yemeni",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Pontic",
+      "@type": "Concept",
+      "comment": "Culture of the historic region of Pontus, roughly encompassed most of the eastern Black Sea coast of northeastern Asia Minor, on the coast from just west of Ayanc\u00c4\u00b1k to east of Hopa.. ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Pontic",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Ababdah",
+      "@type": "Concept",
+      "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. Sudan Alternate name: Ababda, Ababde Cushitic language; one of the groups included in the collective term Beja ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Ababdah",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Abam",
+      "@type": "Concept",
+      "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. Nigeria Alternate name: Ohaffia, Ohafya Kwa language; subcategory of the Igbo; one of the groups referred to as Eastern Igbo ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Abam",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Abong",
+      "@type": "Concept",
+      "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. Cameroun, Nigeria Alternate name: Abo, Ab\u00c3\u00b5, Ab\u00c3\u00b5n Bantu related language; one of the groups included in the collective term Tigong ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Abong",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Aksum",
+      "@type": "Concept",
+      "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. Ethiopia Alternate name: Axum ancient Ethiopian city and kingdom flourishing from the first millenium B.C.E. to about 800 A.D.  ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Aksum",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Andean",
+      "@type": "Concept",
+      "comment": "Damian, Carol; Virgin of the Andes; Art and Ritual in Colonial Cuzco, Miami Beach: Grassfield Press, 1995. ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Andean",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/BaiChina",
+      "@type": "Concept",
+      "comment": "Gealt, Adelheid, et al.; Masterworks from the Indiana University Art Museum, Bloomington, IN: Indiana University Press, 2007. Chinese: \u00e7\u2122\u00bd\u00e6\u2014\u008f; pinyin: B\u00c3\u00a1iz\u00c3\u00ba. One of the 56 ethnic minorities officially recognized by the People's Republic of China. The Bai population is primarily located in the provinces of Yunnan (Dali area) and in neighboring Guizhou (Bijie area) and Hunan (Sangzhi area) provinces. 80% of the Bai people live in the Dali Bai Autonomous Prefecture in Yunnan province.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Bai (China)",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/BatakSumatran",
+      "@type": "Concept",
+      "comment": "Gealt, Adelheid, et al.; Masterworks from the Indiana University Art Museum, Bloomington, IN: Indiana University Press, 2007. Toba subgroup, Sumatra, Indonesia",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Batak (Sumatran)",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Belanda",
+      "@type": "Concept",
+      "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. Sudan The term Belanda (or Bor-Belanda) includes both the Bor (or JoBor) speaking a Western Nilotic langauge and the Bviri (or Bor-Bviri) speaking an Eastern Sudanic language ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Belanda",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/BeringStraitInuit",
+      "@type": "Concept",
+      "comment": "Lee, Molly and Gregory A. Reinhardt; Eskimo Architecture: Dwelling and Structure in the Early Historic Period, Fairbanks: University of Alaska Press and University of Alaska Museum, 2003. United States, ARCTIC: West coast of alaska Language: ?",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Bering Strait Inuit",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Biwat",
+      "@type": "Concept",
+      "comment": "Gealt, Adelheid, et al.; Masterworks from the Indiana University Art Museum, Bloomington, IN: Indiana University Press, 2007. Middle Yuat River, lower Sepik River area, Papua New Guinea people, aka Mundugumor",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Biwat",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Cabinda",
+      "@type": "Concept",
+      "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. Congo Republic region/enclave in the Congo Republic but the term is sometimes used to refer to the art of the Vili peoples ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Cabinda",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Chokwe",
+      "@type": "Concept",
+      "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. Angola, Zaire,  Zambia Alternate name: Bachokwe, Badjok, Badjokwe, Bajokwe, Batshioko, Ciokwe, Cokwe, Djok, Djokwe, Kioko, Kiokue, Quioco, Shioko, Tschokwe, Tshioko, Tshokwe, Tuchokwe, Watschiwokwe Bantu language  Chokwe is the current usage in most art sources while linguists seem to prefer the form Cokwe. One of the groups included in the Lunda-Lovale peoples. ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Chokwe",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/DhoLuo",
+      "@type": "Concept",
+      "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. Kenya Alternate name: Luo Western Nilotic language; one of the groups included in the collective term Nilotic peoples; sometimes referred to as Southern Lwoo ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Dho Luo",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Faafue",
+      "@type": "Concept",
+      "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. C\u00c3\u00b4te d\u00e2\u20ac\u2122Ivoire Kwa language; subcategory of the Baule ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Faafue",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Gabbra",
+      "@type": "Concept",
+      "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. Ethiopia, Kenya Alternate name: Gabra Cushitic language; subcategory of the Oromo ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Gabbra",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Grasslands",
+      "@type": "Concept",
+      "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. Cameroun Alternate name: Grassfields One of three very large so-called stylistic regions in the Cameroun; the others being 2) Northern and  Central Cameroun together ranging from southern Lake Chad to Adamawa, and 3) ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Grasslands",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Huari",
+      "@type": "Concept",
+      "comment": "Gealt, Adelheid, et al.; Masterworks from the Indiana University Art Museum, Bloomington, IN: Indiana University Press, 2007. ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Huari",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Hungana",
+      "@type": "Concept",
+      "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. Zaire Alternate name: Bahuana, Bahungana, Huana, Hungaan, Hungana, Hunganna, Wana SOUTH SAVANNA  Bantu language ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Hungana",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Isaaq",
+      "@type": "Concept",
+      "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. Somalia Alternate name: Issaq Cushitic language; clan-family of the Somali ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Isaaq",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Itakete",
+      "@type": "Concept",
+      "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. Nigeria Kwa language; subcategory of the Yoruba ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Itakete",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Jamala",
+      "@type": "Concept",
+      "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. C\u00c3\u00b4te d\u00e2\u20ac\u2122Ivoire Gur language; subcategory of the Senufo ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Jamala",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Kalabari",
+      "@type": "Concept",
+      "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. Nigeria Alternate name: Kalabari Ijo Kwa language; Kalabari is a term sometimes used synonymously with the Ijo, the capital of the Ijo, and also as an eastern subcategory of the Ijo.  see RWL for a more extensive list of subcategories. ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Kalabari",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Kambot",
+      "@type": "Concept",
+      "comment": "Gealt, Adelheid, et al.; Masterworks from the Indiana University Art Museum, Bloomington, IN: Indiana University Press, 2007. Lower Sepik River, Papua New Guinea people, aka Tindama, Tin Dama",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Kambot",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Kom",
+      "@type": "Concept",
+      "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. Cameroun Alternate name: Bamekom, Bekom, Bikom, Kom-Tikar, Nkom Bantoid language; subcategory of Tikar, one of the groups included in the collective term Bamenda ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Kom",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Luluwa",
+      "@type": "Concept",
+      "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. Zaire Alternate name: Bashilange, Bena Lulua, Bena Luluwa, Bena Moyo, Lulua, Shilange Bantu language; one of the groups included in the collective term Bakasai  AAT USES LULUA ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Luluwa",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/LumboCongoRepublicGabon",
+      "@type": "Concept",
+      "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. Congo Republic, Gabon Alternate name: Balumbo, Loumbou, Lumbu Bantu language ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Lumbo (Congo Republic, Gabon)",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Maasai",
+      "@type": "Concept",
+      "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. Kenya, Tanzania Alternate name: Masai, Massai Eastern Nilotic language;  grouped as Northern Maasai, Central or Rift Valley Maasai, and Southern Maasai; one of the groups included in the collective term \u00e2\u20ac\u0153Nilo-Hamitic\u00e2\u20ac\u009d peoples. see GWS 1969 for numerous additional subcategories*. ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Maasai",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/MamlukAfricangroup",
+      "@type": "Concept",
+      "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. CENTRAL-EAST SUDAN ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Mamluk (African group)",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Masai",
+      "@type": "Concept",
+      "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. EAST AFRICA ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Masai",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Mawri",
+      "@type": "Concept",
+      "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. Niger Alternate name: Mauri Chadic language; subcategory of the Hausa ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Mawri",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Minianka",
+      "@type": "Concept",
+      "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. Mali Alternate name: Minyanka Gur language; sometimes considered a Senufo subcategory ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Minianka",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Montol",
+      "@type": "Concept",
+      "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. Nigeria Chadic language ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Montol",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Mossi",
+      "@type": "Concept",
+      "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. Guinea, Burkina Faso, Togo Alternate name: Mole, More, Moose, Mosi Gur language; The term Moose seems currrently preferable.  The Mossi states or Mossi kingdom, circa 1500-1900, were formed in the 16th century by Dagomba horsemen called Nakomse from Ghana, and established rule over various l ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Mossi",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Ndebele",
+      "@type": "Concept",
+      "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. South Africa, Zimbabwe Alternate name: Amandebele, Mandebele Bantu language; Have absorbed many different groups;consequently, they are divided into 3 categories:  Zansi, people from down countries; Enhla, people from up countries; Holi, people of Shona-Kalanga origins ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Ndebele",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/NorthernMadak",
+      "@type": "Concept",
+      "comment": "Gealt, Adelheid, et al.; Masterworks from the Indiana University Art Museum, Bloomington, IN: Indiana University Press, 2007. ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Northern Madak",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Ntandu",
+      "@type": "Concept",
+      "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. Zaire Alternate name: Bantandu Bantu language; subcategory of the Kongo ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Ntandu",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Oaxacan",
+      "@type": "Concept",
+      "comment": "Gealt, Adelheid, et al.; Masterworks from the Indiana University Art Museum, Bloomington, IN: Indiana University Press, 2007. ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Oaxacan",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Pende",
+      "@type": "Concept",
+      "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. Zaire Alternate name: Bapende, Phende, Pindi, Pinji Bantu language; some sources distinguish between Eastern (or Kasai) Pende and Western Pende ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Pende",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Punu",
+      "@type": "Concept",
+      "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. Congo Republic, Gabon Alternate name: Apono, Bapunu, Pounou, Puno Bantu language ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Punu",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Rendile",
+      "@type": "Concept",
+      "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. Kenya Cushitic language ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Rendile",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/RongowhakaataMaori",
+      "@type": "Concept",
+      "comment": "Gealt, Adelheid, et al.; Masterworks from the Indiana University Art Museum, Bloomington, IN: Indiana University Press, 2007. ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Rongowhakaata (Maori)",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Saka",
+      "@type": "Concept",
+      "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. Zaire Alternate name: Bosaka Bantu language; subcategory of Mongo ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Saka",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Samburu",
+      "@type": "Concept",
+      "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. Kenya Alternate name: Il Loikop, Loikop, Loikpo, Sampur Eastern Nilotic language; one of the groups included in the collective term \u00e2\u20ac\u0153Nilo-Hamitic\u00e2\u20ac\u009d peoples; close in culture to the Maasai; sometimes considered to be a branch of the Maasai ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Samburu",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Shona",
+      "@type": "Concept",
+      "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. Zambia, Zimbabwe, Mozambique Alternate name: Mashona Bantu language; a congeries of \u00e2\u20ac\u0153tribes\u00e2\u20ac\u009d including the Hera, Kalanga, Karanga, Korekore, Manyika, Mbire, Ndau, Rozwi, Tawara, and Zezuru ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Shona",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Sic\u00c3\u00a1n",
+      "@type": "Concept",
+      "comment": "Gealt, Adelheid, et al.; Masterworks from the Indiana University Art Museum, Bloomington, IN: Indiana University Press, 2007. ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Sic\u00c3\u00a1n",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Somaligroup",
+      "@type": "Concept",
+      "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. Djibouti, Ethiopia, Kenya, Somalia Cushitic language ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Somali (group)",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Swahili",
+      "@type": "Concept",
+      "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. Comores, Kenya, Mozambique, Somalia, Tanzania, Zaire Alternate name: Suaheli, Suaili, Wasuaheli Bantu language; Swahili is a contextual term applied to people of mixed African, Arab and ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Swahili",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Tiwanaku",
+      "@type": "Concept",
+      "comment": "Gealt, Adelheid, et al.; Masterworks from the Indiana University Art Museum, Bloomington, IN: Indiana University Press, 2007. ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Tiwanaku",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Topotha",
+      "@type": "Concept",
+      "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. Ethiopia, Sudan Alternate name: Dabosa, Toposa Eastern Nilotic language; one of the groups included in the collective term \u00e2\u20ac\u0153Nilo-Hamitic\u00e2\u20ac\u009d peoples ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Topotha",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Turkana",
+      "@type": "Concept",
+      "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. Kenya, Sudan Eastern Nilotic language; one of the groups included in the collective term \u00e2\u20ac\u0153Nilo-Hamitic\u00e2\u20ac\u009d peoples ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Turkana",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Usukuma",
+      "@type": "Concept",
+      "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. EAST AFRICA ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Usukuma",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Yoruba",
+      "@type": "Concept",
+      "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. Benin, Nigeria, Togo Alternate name: Yorba, Yorouba Kwa language; the Yoruba kingdoms date from circa 1000. to the present. ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Yoruba",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/YorubaOwo",
+      "@type": "Concept",
+      "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. CENTRAL GUINEA COAST ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Yoruba Owo",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/YorubaOyo",
+      "@type": "Concept",
+      "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. CENTRAL GUINEA COAST ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Yoruba Oyo",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Zulu",
+      "@type": "Concept",
+      "comment": "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. Lesotho, Malawi, South Africa, Swaziland Alternate name: Amazulu Bantu language ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Zulu",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/KazakChina",
+      "@type": "Concept",
+      "comment": "Wang Qijun; Vernacular Dwellings (Ancient Chinese Architecture, v.5), English edition, New York: Springer Verlag/Wien, 2000. Kazak ethnic minority descended from the ancient Wushu tribes and distributed mainly in Xinjiang Ili Kazak autonomous prefecture, Mori and Barkol Kazak autonomous counties and the Gansu and Qinghai provinces.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Kazak (China)",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/MiaoChina",
+      "@type": "Concept",
+      "comment": "Garrett, Valery M; Chinese clothing : an illustrated guide, Hong Kong ; New York: Oxford University Press, 1994. The Miao (Chinese: \u00e8\u2039\u2014; pinyin: Mi\u00c3\u00a1o) are a linguistically and culturally related group of people recognized by the government of the People's Republic of China as one of the 56 official minority groups.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Miao (China)",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/MongolChina",
+      "@type": "Concept",
+      "comment": "Feng, Hanji and Huang, Bangjie; National minority costume in China, Hong Kong: Hui yan ya ji, 1985. With a population of 5,813,947, the Mongols (also called Mongolian) ethnic minority is distributed primarily in the Inner Mongolian Autonomous Region along with others in provinces like Qinghai, Gansu, Liaoning, Jilin, and Heilongjiang, etc. This ethnic minority is brave and unconstrained with a profound history. Though they called themselves 'Mongol', meaning everlasting fire, other people refer to them as 'an ethnic minority on the horseback'.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Mongol (China)",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/St.JohnsCulture",
+      "@type": "Concept",
+      "comment": "Morgan, William N.; Prehistoric Architecture in the Eastern United States, Cambridge, MA; London: MIT Press, 1980. United States, SOUTHEASTERN Prehistoric: 500 BCE-1565",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "St. Johns Culture",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/VaChina",
+      "@type": "Concept",
+      "comment": "Feng, Hanji and Huang, Bangjie; National minority costume in China, Hong Kong: Hui yan ya ji, 1985. The Va people form one of the 56 ethnic groups officially recognized by the PRC. They live primarily in the counties of Ximeng, Cangyuan and Menglian in Yunnan Provinces. According to the census of 2000, the Wa people has a population of 396,610.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Va (China)",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/YaoChina",
+      "@type": "Concept",
+      "comment": "Garrett, Valery M; Chinese clothing : an illustrated guide, Hong Kong ; New York: Oxford University Press, 1994. With a population of 2,637,421 in the year 2000, the Yao ethnic minority is a typical nationality living in the mountainous regions of the southern part of China. Their main habitats are Hunan, Yunnan, Guangdong, Guizhou, and Jiangxi together with Guangxi Zhuang Autonomous Prefecture. They are divided into several branches, such as Baiku Yao (the Yao people who wear white trousers), Hong Yao (the Yao people who favor red clothes), and so on. Similar to the other 54 ethnic groups of China, the Yao ethnic minority has its unique religious and cultural characteristics.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Yao (China)",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Chippewah",
+      "@type": "Concept",
+      "comment": "Nabokov, Peter and Robert Easton; Native American Architecture, Oxford: Oxford University Press, 1989. United States, NORTHEASTERN: Shores of Lake Huron and Lake Superior, extending across Minnesota to Turtle Mountains, North Dakota Alternate names: Baouichtigouin, Bawa'tigowininiwug, Achiligouan Related Groups: Missisauga, Amikwa Language: Algonquian SEE OJIBWA ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Chippewah",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/EastGreenlandInuit",
+      "@type": "Concept",
+      "comment": "Lee, Molly and Gregory A. Reinhardt; Eskimo Architecture: Dwelling and Structure in the Early Historic Period, Fairbanks: University of Alaska Press and University of Alaska Museum, 2003. United States, ARCTIC: eastern coast of Greenland Language: Inuit ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "East Greenland Inuit",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/FrenchPolynesian",
+      "@type": "Concept",
+      "comment": "Brettell, Richard et al; The Art of Paul Gauguin, Hardcover, Washington, DC and Chicago: National Gallery of Art and the Art Institute of Chicago, 1988. ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "French Polynesian",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Gibraltar",
+      "@type": "Concept",
+      "comment": "Zaigai Nihon no shih\u00c5\u008d (Japanese Art: Selections from Western Collections) v.8, Tokyo: Mainichi Shinbunsha, 1980. ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Gibraltar",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Hunkapapa",
+      "@type": "Concept",
+      "comment": "Laubin, Reginald and Gladys; Indian Tipi: Its History, Construction and Use, 2nd edition, Norman, OK; London: University of Oklahoma Press, 1977. United States, PLAINS Alternate names: Hunkapapa Lakota, Hunkapapa Sioux Related Groups: Sioux, Dakota Sioux Language: Lakota ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Hunkapapa",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Klickitat",
+      "@type": "Concept",
+      "comment": "Harper, J. Russell; Paul Kane's Frontier, Austin; Ottawa: University of Texas Press; National Gallery of Canada, 1971. United States, PLATEAU: headwaters of the Cowlitz, Lewis, White salmon and Klichkitat rivers in Central Washington Alternate names: Qulh-hwai-pum Language: Sahaptian ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Klickitat",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/KotzebueSoundInuit",
+      "@type": "Concept",
+      "comment": "Lee, Molly and Gregory A. Reinhardt; Eskimo Architecture: Dwelling and Structure in the Early Historic Period, Fairbanks: University of Alaska Press and University of Alaska Museum, 2003. United States, ARCTIC: West coast of alaska Language: ? ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Kotzebue Sound Inuit",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Li",
+      "@type": "Concept",
+      "comment": "Feng, Hanji and Huang, Bangjie; National minority costume in China, Hong Kong: Hui yan ya ji, 1985. ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Li",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/WallisandFutunaIslander",
+      "@type": "Concept",
+      "comment": "Leymarie, Jean; French Painting: The Nineteenth Century, Cleveland: World Publishing Company, 1962. ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Wallis and Futuna Islander",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/WestGreenlandInuit",
+      "@type": "Concept",
+      "comment": "Lee, Molly and Gregory A. Reinhardt; Eskimo Architecture: Dwelling and Structure in the Early Historic Period, Fairbanks: University of Alaska Press and University of Alaska Museum, 2003. United States, ARCTIC: western coast of Greenland Language: Inuit ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "West Greenland Inuit",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Hattian",
+      "@type": "Concept",
+      "comment": "http://en.wikipedia.org/wiki/Hattians. The Hattians were an ancient people who inhabited the land of Hatti. The group was documented at least as early as the empire of Sargon of Akkad, until it was gradually absorbed c.2000\u00e2\u20ac\u201c1700 BC by the Indo-European Hittites, who became identified with the landofHatti",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Hattian",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/PlumBayouCulture",
+      "@type": "Concept",
+      "comment": "http://www.encyclopediaofarkansas.net/encyclopedia/entry-detail.aspx?entryID=547. United States, SOUTHEASTERN Prehistoric: 650-1050 CE Plum Bayou developed out of the earlier (300 BC to AD 650) Baytown culture",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Plum Bayou Culture",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Cimmerian",
+      "@type": "Concept",
+      "comment": "http://en.wikipedia.org/wiki/Cimmerians. The Cimmerians or Kimmerians (Greek: \u00ce\u0161\u00ce\u00b9\u00ce\u00bc\u00ce\u00bc\u00ce\u00ad\u00cf\u0081\u00ce\u00b9\u00ce\u00bf\u00ce\u00b9, Kimmerioi) were an ancient Indo-European people living north of the Caucasus and the Sea of Azov as early as 1300 BC[1] until they were driven southward by the Scythians into Anatolia during the 8th century BC",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Cimmerian",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Da",
+      "@type": "Concept",
+      "comment": "http://en.wikipedia.org/wiki/Dai_people. The Dai people are one of several ethnic groups living in the Xishuangbanna Dai Autonomous Prefecture and the Dehong Dai and Jingpo Autonomous Prefecture (both in southern Yunnan, China), but by extension can apply to groups in Laos, Vietnam, Thailand, and Burma when Dai is used to mean specifically Tai Lue, Chinese Shan, Tai Dam, Tai Khao or even Tai in general",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Da",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Daunian",
+      "@type": "Concept",
+      "comment": "http://en.wikipedia.org/wiki/Daunia. The Daunia is a historical and geographical region in Apulia, southern Italy, mostly coincident with modern Province of Foggia. Its inhabitants were called the Daunians by the ancient Greeks and were also known as the Daunii and the Apulians to the ancient Romans.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Daunian",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Etretrian",
+      "@type": "Concept",
+      "comment": ". Term used by Steven Lowenstam",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Etretrian",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Falerian",
+      "@type": "Concept",
+      "comment": "http://www.merriam-webster.com/dictionary/falerian. Of or relating to the ancient Etruscan city of Falerii.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Falerian",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Falernian",
+      "@type": "Concept",
+      "comment": "http://www.merriam-webster.com/dictionary/falernian. Of or coming from a district of Campania called Falernus ager by the Romans \u00e2\u20ac\u201dused especially of a wine celebrated by Horace",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Falernian",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Konkombwa",
+      "@type": "Concept",
+      "comment": "http://en.wikipedia.org/wiki/Konkomba. The Dagomba are an ethnic group of Northern Ghana and they number about 619,000. They inhabit the Northern Region of Ghana in the sparse savanna region below the sahelian belt, known as the Sudan. ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Konkombwa",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Lukanian",
+      "@type": "Concept",
+      "comment": "http://en.wikipedia.org/wiki/Lucania. Culture of an ancient district of southern Italy, extending from the Tyrrhenian Sea to the Gulf of Taranto",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Lukanian",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Pergamanes",
+      "@type": "Concept",
+      "comment": ". Culture related to the city of Pergamon in Ancient Greece.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Pergamanes",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Phocaen",
+      "@type": "Concept",
+      "comment": ". Term used by Steven Lowenstam",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Phocaen",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Samosian",
+      "@type": "Concept",
+      "comment": ". Culture related to the island of Samos in Ancient Greece",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Samosian",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Sidonian",
+      "@type": "Concept",
+      "comment": ". Culture related to the Ancient Phoneician port city of Sidonia or Sidon.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Sidonian",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/WaChina",
+      "@type": "Concept",
+      "comment": "Feng, Hanji and Huang, Bangjie; National minority costume in China, Hong Kong: Hui yan ya ji, 1985. ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Wa (China)",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Angoonpeople",
+      "@type": "Concept",
+      "comment": "Term derived from the Tribal Legacies collection",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Angoon people",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/CeliloFallsIndians",
+      "@type": "Concept",
+      "comment": "Term derived from the Tribal Legacies collection ",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Celilo Falls Indians",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/ChelukemaukesIndians",
+      "@type": "Concept",
+      "comment": "Term derived from the Tribal Legacies collection",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Chelukemaukes Indians",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/ChetlesssentinsIndians",
+      "@type": "Concept",
+      "comment": "Term derived from the Tribal Legacies collection",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Chetlesssentins Indians",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/ClatsopIndians",
+      "@type": "Concept",
+      "comment": "Term derived from the Tribal Legacies collection",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Clatsop Indians",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Clowella",
+      "@type": "Concept",
+      "comment": "Term derived from the Tribal Legacies collection",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Clowella",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/ColumbiaRiverTribes",
+      "@type": "Concept",
+      "comment": "Term derived from the Tribal Legacies collection",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Columbia River Tribes",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Molallapeople",
+      "@type": "Concept",
+      "comment": "Term derived from the Tribal Legacies collection",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Molalla people",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/Tooquot",
+      "@type": "Concept",
+      "comment": "Term derived from the Tribal Legacies collection",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Tooquot",
+      "modified": {
+        "@type": "date",
+        "@value": "2014_07-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/DutchAmerican",
+      "@type": "Concept",
+      "comment": "Americans of Dutch descent",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-05-20"
+      },
+      "label": "Dutch-American",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-05-20"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/GreekAmerican",
+      "@type": "Concept",
+      "comment": "Americans of Greek descent",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-05-20"
+      },
+      "label": "Greek-American",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-05-20"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/HungarianAmerican",
+      "@type": "Concept",
+      "comment": "Americans of Hungarian descent",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-05-20"
+      },
+      "label": "Hungarian-American",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-05-20"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/SpanishAmerican",
+      "@type": "Concept",
+      "comment": "Americans of Spanish descent",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-05-20"
+      },
+      "label": "Spanish-American",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-05-20"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/culture/JapaneseAmerican",
+      "@type": "Concept",
+      "comment": "Americans of Japanese descent",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-05-20"
+      },
+      "label": "Japanese-American",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-05-20"
+      }
+    }
+  ]
 }

@@ -49,5 +49,6 @@ if [[ ! -s $TMPFILE ]]; then
   exit 1
 fi
 
+sed -i -e "s/\s\+$//" $TMPFILE
 cp $TMPFILE $FILE
 echo "File validated and whitespace corrected"
