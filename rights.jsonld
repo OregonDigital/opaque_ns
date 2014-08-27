@@ -1,45 +1,49 @@
 {
-    "@context": {
-	"title": "http://purl.org/dc/terms/title",
-	"label": "http://www.w3.org/2000/01/rdf-schema#label",
-	"comment": "http://www.w3.org/2000/01/rdf-schema#comment",
-	"description": "http://purl.org/dc/terms/description",
-	"publisher": "http://purl.org/dc/terms/publisher",
-	"modified": "http://purl.org/dc/terms/modified",
-	"issued": "http://purl.org/dc/terms/issued",
-	"Collection": "http://purl.org/dc/terms/Collection",
-	"definedBy": "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
-	"range": "http://www.w3.org/2000/01/rdf-schema#range",
-	"date": "http://www.w3.org/2001/XMLSchema#date",
-	"RightsStatement": "http://purl.org/dc/terms/RightsStatement",
-	"Concept": "http://www.w3.org/2004/02/skos/core#Concept",
-	"@language": "en"
+  "@context": {
+    "@language": "en",
+    "Collection": "http://purl.org/dc/terms/Collection",
+    "Concept": "http://www.w3.org/2004/02/skos/core#Concept",
+    "RightsStatement": "http://purl.org/dc/terms/RightsStatement",
+    "comment": "http://www.w3.org/2000/01/rdf-schema#comment",
+    "date": "http://www.w3.org/2001/XMLSchema#date",
+    "definedBy": "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+    "description": "http://purl.org/dc/terms/description",
+    "issued": "http://purl.org/dc/terms/issued",
+    "label": "http://www.w3.org/2000/01/rdf-schema#label",
+    "modified": "http://purl.org/dc/terms/modified",
+    "publisher": "http://purl.org/dc/terms/publisher",
+    "range": "http://www.w3.org/2000/01/rdf-schema#range",
+    "title": "http://purl.org/dc/terms/title"
+  },
+  "@graph": [
+    {
+      "@id": "http://opaquenamespace.org/rights",
+      "issued": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2013-12-16"
+      },
+      "modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2013-12-16"
+      },
+      "publisher": "Opaque Namespace",
+      "title": "Oregon Digital Rights Statements"
     },
-    "@graph": [
-	{
-	    "@id": "http://opaquenamespace.org/rights",
-	    "title": "Oregon Digital Rights Statements",
-	    "publisher": "Opaque Namespace",
-	    "modified": {
-		"@value": "2013-12-16",
-		"@type": "http://www.w3.org/2001/XMLSchema#date"
-	    },
-	    "issued": {
-		"@value": "2013-12-16",
-		"@type": "http://www.w3.org/2001/XMLSchema#date"
-	    }
-	},
-	{
-	    "@id": "http://opaquenamespace.org/rights/educational",
-	    "@type": ["RightsStatement"],
-	    "label": "Educational Use Permitted",
-	    "description": "Educational use is permitted without permission. Permission may be required for additional uses."
-	},
-	{
-	    "@id": "http://opaquenamespace.org/rights/orphan-work-us",
-	    "@type": ["RightsStatement"],
-            "label": "Orphan Work",
-	    "description": "The Orphan works statement can be applied to objects that have been identified as orphan works in the country of first publication and in line with the requirements of the country. This rights statement applies to orphan works as defined in the United States of America. When an object has an orphan work statement, a good faith effort has been applied to try to identify the copyright holder and seek permission."
-	 }
-    ]
+    {
+      "@id": "http://opaquenamespace.org/rights/educational",
+      "@type": [
+        "RightsStatement"
+      ],
+      "description": "Educational use is permitted without permission. Permission may be required for additional uses.",
+      "label": "Educational Use Permitted"
+    },
+    {
+      "@id": "http://opaquenamespace.org/rights/orphan-work-us",
+      "@type": [
+        "RightsStatement"
+      ],
+      "description": "The Orphan works statement can be applied to objects that have been identified as orphan works in the country of first publication and in line with the requirements of the country. This rights statement applies to orphan works as defined in the United States of America. When an object has an orphan work statement, a good faith effort has been applied to try to identify the copyright holder and seek permission.",
+      "label": "Orphan Work"
+    }
+  ]
 }

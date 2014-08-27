@@ -1,2376 +1,2376 @@
 {
-    "@context": {
-        "title": "http://purl.org/dc/terms/title",
-        "label": "http://www.w3.org/2000/01/rdf-schema#label",
-        "comment": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "description": "http://purl.org/dc/terms/description",
-        "publisher": "http://purl.org/dc/terms/publisher",
-        "modified": "http://purl.org/dc/terms/modified",
-        "issued": "http://purl.org/dc/terms/issued",
-        "Collection": "http://purl.org/dc/terms/Collection",
-        "definedBy": "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
-        "range": "http://www.w3.org/2000/01/rdf-schema#range",
-        "date": "http://www.w3.org/2001/XMLSchema#date",
-        "RightsStatement": "http://purl.org/dc/terms/RightsStatement",
-        "Concept": "http://www.w3.org/2004/02/skos/core#Concept",
-        "@language": "en",
-        "additionalName": "http://schema.org/additionalName",
-        "alternateName": "https://schema.org/alternateName",
-        "PersonalName": "http://www.w3.org/2004/02/skos/core#PersonalName",
-        "CorporateName": "http://www.w3.org/2004/02/skos/core#CorporateName",
-        "Topic": "http://www.w3.org/2004/02/skos/core#Topic",
-        "Geographic": "http://www.w3.org/2004/02/skos/core#Geographic",
-        "Title": "http://www.w3.org/2004/02/skos/core#Title"
+  "@context": {
+    "@language": "en",
+    "Collection": "http://purl.org/dc/terms/Collection",
+    "Concept": "http://www.w3.org/2004/02/skos/core#Concept",
+    "CorporateName": "http://www.w3.org/2004/02/skos/core#CorporateName",
+    "Geographic": "http://www.w3.org/2004/02/skos/core#Geographic",
+    "PersonalName": "http://www.w3.org/2004/02/skos/core#PersonalName",
+    "RightsStatement": "http://purl.org/dc/terms/RightsStatement",
+    "Title": "http://www.w3.org/2004/02/skos/core#Title",
+    "Topic": "http://www.w3.org/2004/02/skos/core#Topic",
+    "additionalName": "http://schema.org/additionalName",
+    "alternateName": "https://schema.org/alternateName",
+    "comment": "http://www.w3.org/2000/01/rdf-schema#comment",
+    "date": "http://www.w3.org/2001/XMLSchema#date",
+    "definedBy": "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+    "description": "http://purl.org/dc/terms/description",
+    "issued": "http://purl.org/dc/terms/issued",
+    "label": "http://www.w3.org/2000/01/rdf-schema#label",
+    "modified": "http://purl.org/dc/terms/modified",
+    "publisher": "http://purl.org/dc/terms/publisher",
+    "range": "http://www.w3.org/2000/01/rdf-schema#range",
+    "title": "http://purl.org/dc/terms/title"
+  },
+  "@graph": [
+    {
+      "@id": "http://opaquenamespace.org/genus",
+      "issued": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2013-12-16"
+      },
+      "modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2013-12-16"
+      },
+      "publisher": "Opaque Namespace",
+      "title": "genus controlled vocabulary"
     },
-    "@graph": [
-        {
-            "@id": "http://opaquenamespace.org/genus",
-            "title": "genus controlled vocabulary",
-            "publisher": "Opaque Namespace",
-            "modified": {
-                "@value": "2013-12-16",
-                "@type": "http://www.w3.org/2001/XMLSchema#date"
-            },
-            "issued": {
-                "@value": "2013-12-16",
-                "@type": "http://www.w3.org/2001/XMLSchema#date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Acanthodorisnanaimonensis",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Acanthodoris nanaimonensis",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Acnanthes",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Acnanthes",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Alnanthia",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Alnanthia",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Amphiporusimparaspinosus",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Amphiporus imparaspinosus",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Anthopleurasp",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Anthopleura sp.",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Antithamnionglandifera",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Antithamnion glandifera",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Aphrodite",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Aphrodite",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Aplysiopsissmithii",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Aplysiopsis smithii",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Argopectengibbosus",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Argopecten gibbosus",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Badileia",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Badileia",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Bdellodrilas",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Bdellodrilas",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Calytra",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Calytra",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Cancersp.",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Cancer sp.",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Capellaagallinago",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Capellaa gallinago",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Cenobila",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Cenobila",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Chaetocerosconcavicornus",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Chaetoceros concavicornus",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Chaetocerosconvalutus",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Chaetoceros convalutus",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Chalina",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Chalina",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Chamaecyposislawsoniana",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Chamaecyposis lawsoniana",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Chemidocarpafinmarkiensis",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Chemidocarpa finmarkiensis",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Chenhyperborea",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Chen hyperborea",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Chloeapinnata",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Chloea pinnata",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Chondracanthusexasperatus",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Chondracanthus exasperatus",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Comanthus",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Comanthus",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Conchoeciaarmitra",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Conchoecia armitra",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Crocconeisscutellum",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Crocconeis scutellum",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Crocethiaalba",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Crocethia alba",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Crossasterpapposa",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Crossaster papposa",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Cucumariafrondia",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Cucumaria frondia",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Cyamusmysticeti",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Cyamus mysticeti",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Cyclothonebraveri",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Cyclothone braveri",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Cystodyteslobata",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Cystodytes lobata",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Diadoraaspera",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Diadora aspera",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Diadumiene",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Diadumiene",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Diogenus",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Diogenus",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Diphyllosbothridae",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Diphyllos bothridae",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Dironacolumbiana",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Dirona columbiana",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Echeveriaelegans",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Echeveria elegans",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Elysiadiomedea",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Elysia diomedea",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Epigeichthysatropurpureus",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Epigeichthys atropurpureus",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Epilobiumangustifolia",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Epilobium angustifolia",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Epithemiaventicosum",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Epithemia venticosum",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Ereunetesmauri",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Ereunetes mauri",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Erignathinibarbatus",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Erignathini barbatus",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Eroliaminutilla",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Erolia minutilla",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Eubalaenaglacialissieboldii",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Eubalaena glacialis sieboldii",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Eubranchiopus",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Eubranchiopus",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Eudendrum",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Eudendrum",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Euspiradraconis",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Euspira draconis",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Euspirasp",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Euspira sp",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Eutamiastownsendi",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Eutamias townsendi",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Evasteriatrochelii",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Evasteria trochelii",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Flabelligeracommensalis",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Flabelligera commensalis",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Fragillaria",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Fragillaria",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Frankeniagrandiflora",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Frankenia grandiflora",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Fucusfurcata",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Fucus furcata",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Gleotrichis",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Gleotrichis",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Gloecapsa",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Gloecapsa",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Graffillasiliqua",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Graffilla siliqua",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Griffithsia",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Griffithsia",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Grindellastricta",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Grindella stricta",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Haemulonsp",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Haemulon sp.",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Haliotissp.",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Haliotis sp.",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Heteroscelusincanum",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Heteroscelus incanum",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Janthia",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Janthia",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Juncooreganus",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Junco oreganus",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Katherinatunicata",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Katherina tunicata",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Labophyllia",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Labophyllia",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Lampetratridentatus",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Lampetra tridentatus",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Lamprocystis",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Lamprocystis",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Lanpanyctusarmatus",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Lanpanyctus armatus",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Lapha",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Lapha",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Larusdelewarensis",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Larus delewarensis",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Leiostomusxanthrus",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Leiostomus xanthrus",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Lepipoda",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Lepipoda",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Leucophoyxthula",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Leucophoyx thula",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Licmorpha",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Licmorpha",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Licmorphaabreviata",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Licmorpha abreviata",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Licmorphaflabellata",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Licmorpha flabellata",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Ligiaapallasii",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Ligiaa pallasii",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Liliummaritinum",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Lilium maritinum",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/LiliumPardolium",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Lilium Pardolium",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Limaciacockerelli",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Limacia cockerelli",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Lithopomasp.",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Lithopoma sp.",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Lobipesfulicarius",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Lobipes fulicarius",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Longicruris",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Longicruris",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Lopholithodessp.",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Lopholithodes sp.",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Luvarisimperialis",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Luvaris imperialis",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Mastocarpuspapillatus",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Mastocarpus papillatus",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Mazaella",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Mazaella",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Megathuracrennulata",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Megathura crennulata",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Melibelionina",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Melibe lionina",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Melosiramoniliformilixnumiloides",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Melosira moniliformilix numiloides",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Mitraidea",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Mitra idea",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Moroteuthisrobustus",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Moroteuthis robustus",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Muraenophispardalis",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Muraenophis pardalis",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Naviculaschizoneba",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Navicula schizoneba",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Neorhodomela",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Neorhodomela",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Nephthys",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Nephthys",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Nitzschiafurformia",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Nitzschia furformia",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Ocinusorca",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Ocinus orca",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Octopusdolefreni",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Octopus dolefreni",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Oncorhyncuskisutch",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Oncorhyncus kisutch",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Oncorhyncusnerka",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Oncorhyncus nerka",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Ostreopora",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Ostreopora",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Paracyanthisstearnsi",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Paracyanthis stearnsi",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Pelagosphaera",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Pelagosphaera",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Peltodorisnobilis",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Peltodoris nobilis",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Penicilliatumpenis",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Penicilliatum penis",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Petrochelidonpyrhonota",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Petrochelidon pyrhonota",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Phoronima",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Phoronima",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Phsophorahydrostatica",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Phsophora hydrostatica",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Pisastersp.",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Pisaster sp.",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Pleurobrachiabacei",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Pleurobrachia bacei",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Podicepscaspicus",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Podiceps caspicus",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Polycaron",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Polycaron",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Polymastiapachymastia",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Polymastia pachymastia",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Polyommatusicarus",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Polyommatus icarus",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Porlites",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Porlites",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Prionotustriglodae",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Prionotus triglodae",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Priontislyalli",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Priontis lyalli",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Pseudocrinilus",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Pseudocrinilus",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Psoluschitonoides",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Psolus chitonoides",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Ramaria",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Ramaria",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Rhaphorius",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Rhaphorius",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Rhaphoriusamphitelos",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Rhaphorius amphitelos",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Richmondenacardinalis",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Richmondena cardinalis",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Saltosepia",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Saltosepia",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Scarussp",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Scarus sp.",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Sebastesbobcocki",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Sebastes bobcocki",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Sebastespinninger",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Sebastes pinninger",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Sebastesrubrivinctis",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Sebastes rubrivinctis",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Skeletonemacostratum",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Skeletonema costratum",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Squatarolasquatarola",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Squatarola squatarola",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Squatinasp.",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Squatina sp.",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Stephanopyxisnippouica",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Stephanopyxis nippouica",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Sternafuscatc",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Sterna fuscatc",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Syncorne",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Syncorne",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Thrissacanthiaspencillatus",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Thrissacanthias pencillatus",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Tochuinatetraquerta",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Tochuina tetraquerta",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Totanusmelanoleucus",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Totanus melanoleucus",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Ucapagurus",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Uca pagurus",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Ucapugmas",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Uca pugmas",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Upogebiapugettenis",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Upogebia pugettenis",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Zirphaeapilsbryi",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Zirphaea pilsbryi",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        },
-        {
-            "@id": "http://opaquenamespace.org/ns/genus/Zoraster",
-            "@type": "Topic",
-            "definedBy": {
-                "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-            },
-            "issued": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            },
-            "label": "Zoraster",
-            "modified": {
-                "@value": "2014-07-11",
-                "@type": "date"
-            }
-        }
-    ]
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Acanthodorisnanaimonensis",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Acanthodoris nanaimonensis",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Acnanthes",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Acnanthes",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Alnanthia",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Alnanthia",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Amphiporusimparaspinosus",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Amphiporus imparaspinosus",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Anthopleurasp",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Anthopleura sp.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Antithamnionglandifera",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Antithamnion glandifera",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Aphrodite",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Aphrodite",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Aplysiopsissmithii",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Aplysiopsis smithii",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Argopectengibbosus",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Argopecten gibbosus",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Badileia",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Badileia",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Bdellodrilas",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Bdellodrilas",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Calytra",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Calytra",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Cancersp.",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Cancer sp.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Capellaagallinago",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Capellaa gallinago",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Cenobila",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Cenobila",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Chaetocerosconcavicornus",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Chaetoceros concavicornus",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Chaetocerosconvalutus",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Chaetoceros convalutus",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Chalina",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Chalina",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Chamaecyposislawsoniana",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Chamaecyposis lawsoniana",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Chemidocarpafinmarkiensis",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Chemidocarpa finmarkiensis",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Chenhyperborea",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Chen hyperborea",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Chloeapinnata",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Chloea pinnata",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Chondracanthusexasperatus",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Chondracanthus exasperatus",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Comanthus",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Comanthus",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Conchoeciaarmitra",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Conchoecia armitra",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Crocconeisscutellum",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Crocconeis scutellum",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Crocethiaalba",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Crocethia alba",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Crossasterpapposa",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Crossaster papposa",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Cucumariafrondia",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Cucumaria frondia",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Cyamusmysticeti",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Cyamus mysticeti",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Cyclothonebraveri",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Cyclothone braveri",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Cystodyteslobata",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Cystodytes lobata",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Diadoraaspera",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Diadora aspera",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Diadumiene",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Diadumiene",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Diogenus",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Diogenus",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Diphyllosbothridae",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Diphyllos bothridae",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Dironacolumbiana",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Dirona columbiana",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Echeveriaelegans",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Echeveria elegans",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Elysiadiomedea",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Elysia diomedea",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Epigeichthysatropurpureus",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Epigeichthys atropurpureus",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Epilobiumangustifolia",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Epilobium angustifolia",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Epithemiaventicosum",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Epithemia venticosum",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Ereunetesmauri",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Ereunetes mauri",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Erignathinibarbatus",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Erignathini barbatus",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Eroliaminutilla",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Erolia minutilla",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Eubalaenaglacialissieboldii",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Eubalaena glacialis sieboldii",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Eubranchiopus",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Eubranchiopus",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Eudendrum",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Eudendrum",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Euspiradraconis",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Euspira draconis",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Euspirasp",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Euspira sp",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Eutamiastownsendi",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Eutamias townsendi",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Evasteriatrochelii",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Evasteria trochelii",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Flabelligeracommensalis",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Flabelligera commensalis",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Fragillaria",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Fragillaria",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Frankeniagrandiflora",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Frankenia grandiflora",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Fucusfurcata",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Fucus furcata",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Gleotrichis",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Gleotrichis",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Gloecapsa",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Gloecapsa",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Graffillasiliqua",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Graffilla siliqua",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Griffithsia",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Griffithsia",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Grindellastricta",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Grindella stricta",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Haemulonsp",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Haemulon sp.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Haliotissp.",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Haliotis sp.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Heteroscelusincanum",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Heteroscelus incanum",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Janthia",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Janthia",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Juncooreganus",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Junco oreganus",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Katherinatunicata",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Katherina tunicata",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Labophyllia",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Labophyllia",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Lampetratridentatus",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Lampetra tridentatus",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Lamprocystis",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Lamprocystis",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Lanpanyctusarmatus",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Lanpanyctus armatus",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Lapha",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Lapha",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Larusdelewarensis",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Larus delewarensis",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Leiostomusxanthrus",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Leiostomus xanthrus",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Lepipoda",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Lepipoda",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Leucophoyxthula",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Leucophoyx thula",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Licmorpha",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Licmorpha",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Licmorphaabreviata",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Licmorpha abreviata",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Licmorphaflabellata",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Licmorpha flabellata",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Ligiaapallasii",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Ligiaa pallasii",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Liliummaritinum",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Lilium maritinum",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/LiliumPardolium",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Lilium Pardolium",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Limaciacockerelli",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Limacia cockerelli",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Lithopomasp.",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Lithopoma sp.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Lobipesfulicarius",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Lobipes fulicarius",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Longicruris",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Longicruris",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Lopholithodessp.",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Lopholithodes sp.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Luvarisimperialis",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Luvaris imperialis",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Mastocarpuspapillatus",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Mastocarpus papillatus",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Mazaella",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Mazaella",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Megathuracrennulata",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Megathura crennulata",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Melibelionina",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Melibe lionina",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Melosiramoniliformilixnumiloides",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Melosira moniliformilix numiloides",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Mitraidea",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Mitra idea",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Moroteuthisrobustus",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Moroteuthis robustus",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Muraenophispardalis",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Muraenophis pardalis",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Naviculaschizoneba",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Navicula schizoneba",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Neorhodomela",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Neorhodomela",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Nephthys",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Nephthys",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Nitzschiafurformia",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Nitzschia furformia",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Ocinusorca",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Ocinus orca",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Octopusdolefreni",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Octopus dolefreni",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Oncorhyncuskisutch",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Oncorhyncus kisutch",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Oncorhyncusnerka",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Oncorhyncus nerka",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Ostreopora",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Ostreopora",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Paracyanthisstearnsi",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Paracyanthis stearnsi",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Pelagosphaera",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Pelagosphaera",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Peltodorisnobilis",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Peltodoris nobilis",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Penicilliatumpenis",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Penicilliatum penis",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Petrochelidonpyrhonota",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Petrochelidon pyrhonota",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Phoronima",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Phoronima",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Phsophorahydrostatica",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Phsophora hydrostatica",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Pisastersp.",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Pisaster sp.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Pleurobrachiabacei",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Pleurobrachia bacei",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Podicepscaspicus",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Podiceps caspicus",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Polycaron",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Polycaron",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Polymastiapachymastia",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Polymastia pachymastia",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Polyommatusicarus",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Polyommatus icarus",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Porlites",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Porlites",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Prionotustriglodae",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Prionotus triglodae",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Priontislyalli",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Priontis lyalli",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Pseudocrinilus",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Pseudocrinilus",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Psoluschitonoides",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Psolus chitonoides",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Ramaria",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Ramaria",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Rhaphorius",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Rhaphorius",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Rhaphoriusamphitelos",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Rhaphorius amphitelos",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Richmondenacardinalis",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Richmondena cardinalis",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Saltosepia",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Saltosepia",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Scarussp",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Scarus sp.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Sebastesbobcocki",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Sebastes bobcocki",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Sebastespinninger",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Sebastes pinninger",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Sebastesrubrivinctis",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Sebastes rubrivinctis",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Skeletonemacostratum",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Skeletonema costratum",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Squatarolasquatarola",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Squatarola squatarola",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Squatinasp.",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Squatina sp.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Stephanopyxisnippouica",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Stephanopyxis nippouica",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Sternafuscatc",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Sterna fuscatc",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Syncorne",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Syncorne",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Thrissacanthiaspencillatus",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Thrissacanthias pencillatus",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Tochuinatetraquerta",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Tochuina tetraquerta",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Totanusmelanoleucus",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Totanus melanoleucus",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Ucapagurus",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Uca pagurus",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Ucapugmas",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Uca pugmas",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Upogebiapugettenis",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Upogebia pugettenis",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Zirphaeapilsbryi",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Zirphaea pilsbryi",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/genus/Zoraster",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Zoraster",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    }
+  ]
 }

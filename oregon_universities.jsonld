@@ -1,15 +1,15 @@
 {
-    "@context": {
-	"@language": "en"
+  "@context": {
+    "@language": "en"
+  },
+  "@graph": [
+    {
+      "@id": "http://dbpedia.org/resource/Oregon_State_University",
+      "label": "Oregon State University"
     },
-    "@graph": [
-	{
-	    "@id": "http://dbpedia.org/resource/Oregon_State_University",
-	    "label": "Oregon State University"
-	},
-	{
-	    "@id": "http://dbpedia.org/resource/University_of_Oregon",
-	    "label": "University of Oregon"
-	}
-    ]
+    {
+      "@id": "http://dbpedia.org/resource/University_of_Oregon",
+      "label": "University of Oregon"
+    }
+  ]
 }

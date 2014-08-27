@@ -1,58 +1,56 @@
 {
-    "@context": {
-        "title": "http://purl.org/dc/terms/title",
-        "label": "http://www.w3.org/2000/01/rdf-schema#label",
-        "comment": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "description": "http://purl.org/dc/terms/description",
-        "publisher": "http://purl.org/dc/terms/publisher",
-        "modified": "http://purl.org/dc/terms/modified",
-        "issued": "http://purl.org/dc/terms/issued",
-        "Collection": "http://purl.org/dc/terms/Collection",
-        "definedBy": "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
-        "range": "http://www.w3.org/2000/01/rdf-schema#range",
-        "date": "http://www.w3.org/2001/XMLSchema#date",
-        "RightsStatement": "http://purl.org/dc/terms/RightsStatement",
-        "Concept": "http://www.w3.org/2004/02/skos/core#Concept",
-        "@language": "en",
-        "additionalName": "http://schema.org/additionalName",
-        "alternateName": "https://schema.org/alternateName",
-        "PersonalName": "http://www.w3.org/2004/02/skos/core#PersonalName",
-        "CorporateName": "http://www.w3.org/2004/02/skos/core#CorporateName",
-        "Topic": "http://www.w3.org/2004/02/skos/core#Topic",
-        "Geographic": "http://www.w3.org/2004/02/skos/core#Geographic",
-        "Title": "http://www.w3.org/2004/02/skos/core#Title"
+  "@context": {
+    "@language": "en",
+    "Collection": "http://purl.org/dc/terms/Collection",
+    "Concept": "http://www.w3.org/2004/02/skos/core#Concept",
+    "CorporateName": "http://www.w3.org/2004/02/skos/core#CorporateName",
+    "Geographic": "http://www.w3.org/2004/02/skos/core#Geographic",
+    "PersonalName": "http://www.w3.org/2004/02/skos/core#PersonalName",
+    "RightsStatement": "http://purl.org/dc/terms/RightsStatement",
+    "Title": "http://www.w3.org/2004/02/skos/core#Title",
+    "Topic": "http://www.w3.org/2004/02/skos/core#Topic",
+    "additionalName": "http://schema.org/additionalName",
+    "alternateName": "https://schema.org/alternateName",
+    "comment": "http://www.w3.org/2000/01/rdf-schema#comment",
+    "date": "http://www.w3.org/2001/XMLSchema#date",
+    "definedBy": "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+    "description": "http://purl.org/dc/terms/description",
+    "issued": "http://purl.org/dc/terms/issued",
+    "label": "http://www.w3.org/2000/01/rdf-schema#label",
+    "modified": "http://purl.org/dc/terms/modified",
+    "publisher": "http://purl.org/dc/terms/publisher",
+    "range": "http://www.w3.org/2000/01/rdf-schema#range",
+    "title": "http://purl.org/dc/terms/title"
+  },
+  "@graph": [
+    {
+      "@id": "http://opaquenamespace.org/phylum",
+      "issued": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2013-12-16"
+      },
+      "modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2013-12-16"
+      },
+      "publisher": "Opaque Namespace",
+      "title": "phylum controlled vocabulary"
     },
-    "@graph": [
-        {
-	    "@id": "http://opaquenamespace.org/phylum",
-	    "title": "phylum controlled vocabulary",
-	    "publisher": "Opaque Namespace",
-	    "modified": {
-		"@value": "2013-12-16",
-		"@type": "http://www.w3.org/2001/XMLSchema#date"
-	    },
-	    "issued": {
-		"@value": "2013-12-16",
-		"@type": "http://www.w3.org/2001/XMLSchema#date"
-	    }
-	},
-
-{
-"@id": "http://opaquenamespace.org/ns/phylum/Rhodophyte",
-"@type": "Topic",
-"definedBy": {
-"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-},
-"issued": {
-"@value": "2014-07-11",
-"@type": "date"
-},
-"label": "Rhodophyte",
-"modified": {
-"@value": "2014-07-11",
-"@type": "date"
+    {
+      "@id": "http://opaquenamespace.org/ns/phylum/Rhodophyte",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      },
+      "label": "Rhodophyte",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-11"
+      }
+    }
+  ]
 }
-}
-]
-}
-
