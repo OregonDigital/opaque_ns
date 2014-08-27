@@ -20,7 +20,7 @@
 	"CorporateName": "http://www.w3.org/2004/02/skos/core#CorporateName",
 	"Topic": "http://www.w3.org/2004/02/skos/core#Topic",
 	"Geographic": "http://www.w3.org/2004/02/skos/core#Geographic",
-	"Title": "http://www.w3.org/2004/02/skos/core#Title",
+	"Title": "http://www.w3.org/2004/02/skos/core#Title"
     },
 	  "@graph": [
 	{
@@ -5652,7 +5652,7 @@
 	"@value": "2014_07-10",
 	"@type": "date"
 	}
-	}
+	},
 	{
 	"@id": "http://opaquenamespace.org/ns/localCollectionName/OregonFolklifeProgramArchives",
 	"@type": "Concept",
@@ -5668,7 +5668,7 @@
 	"@value": "2014_07-10",
 	"@type": "date"
 	}
-	}
+	},
 	{
 	"@id": "http://opaquenamespace.org/ns/localCollectionName/WebfootsandBunchgrassersFolkArtoftheOregonCountry",
 	"@type": "Concept",
