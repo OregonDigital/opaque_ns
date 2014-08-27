@@ -134467,7 +134467,7 @@
 "modified": {
 "@value": "2014-07-09",
 "@type": "date"
-}
+}},
 
  {
             "@id": "http://opaquenamespace.org/ns/author/BishopEdwinH",
@@ -139560,7 +139560,7 @@
 },
 "issued":{
 "@value":"2014-08-01",
-"@type":"date",
+"@type":"date"
 },
 "label":"Egge, Joe",
 "modified":{
@@ -140053,7 +140053,7 @@
 "@value":"2014-08-01",
 "@type":"date"
 }
-}
+},
 
 
 {
