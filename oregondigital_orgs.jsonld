@@ -1,6 +1,26 @@
 {
   "@context": {
-    "@language": "en"
+    "@language": "en",
+    "Collection": "http://purl.org/dc/terms/Collection",
+    "Concept": "http://www.w3.org/2004/02/skos/core#Concept",
+    "CorporateName": "http://www.w3.org/2004/02/skos/core#CorporateName",
+    "Geographic": "http://www.w3.org/2004/02/skos/core#Geographic",
+    "PersonalName": "http://www.w3.org/2004/02/skos/core#PersonalName",
+    "RightsStatement": "http://purl.org/dc/terms/RightsStatement",
+    "Title": "http://www.w3.org/2004/02/skos/core#Title",
+    "Topic": "http://www.w3.org/2004/02/skos/core#Topic",
+    "additionalName": "http://schema.org/additionalName",
+    "alternateName": "http://schema.org/alternateName",
+    "comment": "http://www.w3.org/2000/01/rdf-schema#comment",
+    "date": "http://www.w3.org/2001/XMLSchema#date",
+    "definedBy": "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+    "description": "http://purl.org/dc/terms/description",
+    "issued": "http://purl.org/dc/terms/issued",
+    "label": "http://www.w3.org/2000/01/rdf-schema#label",
+    "modified": "http://purl.org/dc/terms/modified",
+    "publisher": "http://purl.org/dc/terms/publisher",
+    "range": "http://www.w3.org/2000/01/rdf-schema#range",
+    "title": "http://purl.org/dc/terms/title"
   },
   "@graph": [
     {
@@ -10,6 +30,17 @@
     {
       "@id": "http://dbpedia.org/resource/University_of_Oregon",
       "label": "University of Oregon"
-    }
-  ]
-}
+    },
+    {
+      "@id": "http://dbpedia.org/resource/Oregon_Arts_Commission",
+      "label": "Oregon Arts Commission"
+    },
+    { 
+      "@id": "http://dbpedia.org/resource/Oregon_Historical_Society",
+      "label": "Oregon Historical Society"
+    },
+    {
+      "@id": "http://dbpedia.org/resource/Jordan_Schnitzer_Museum_of_Art",
+      "label": "Jordan Schnitzer Museum of Art"
+    },
+]
