@@ -35,12 +35,13 @@
       "@id": "http://dbpedia.org/resource/Oregon_Arts_Commission",
       "label": "Oregon Arts Commission"
     },
-    { 
+    {
       "@id": "http://dbpedia.org/resource/Oregon_Historical_Society",
       "label": "Oregon Historical Society"
     },
     {
       "@id": "http://dbpedia.org/resource/Jordan_Schnitzer_Museum_of_Art",
       "label": "Jordan Schnitzer Museum of Art"
-    },
-]
+    }
+  ]
+}
