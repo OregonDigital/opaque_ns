@@ -82615,12 +82615,12 @@
       "modified": {
         "@type": "date",
         "@value": "2014-07-09"
-        }
-        },
-        
-        {
+      }
+    },
+    {
       "@id": "http://opaquenamespace.org/ns/subject/MalheurAgency",
       "@type": "CorporateName",
+      "additionalName": "United States. Office of Indian Affairs. Malheur Agency",
       "comment": "Division of the US Department of the Interior, Bureau of Indian Affairs, that oversaw the Malheur Indian Reservation in southeast Oregon.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -82630,7 +82630,6 @@
         "@value": "2014-05-21"
       },
       "label": "Malheur Agency",
-      "additionalName": "United States. Office of Indian Affairs. Malheur Agency",
       "modified": {
         "@type": "date",
         "@value": "2014-05-21"
