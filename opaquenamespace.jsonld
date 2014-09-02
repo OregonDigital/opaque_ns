@@ -697,7 +697,96 @@
       "modified": {
         "@type": "date",
         "@value": "2014-08-23"
-      }
-    }
+        }
+        },
+     {
+	    "@id": "http://opaquenamespace.org/ns/tribalTitle",
+	    "@type": "Property",
+	    "definedBy": {
+		"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	    },
+	    "issued": {
+		"@value": "2014-09-02",
+		"@type": "date"
+	    },
+	    "label": "Tribal Title",
+	    "comment": "Title given by the members of Native American tribal authorities.",
+	    "modified": {
+		"@value": "2014-09-02",
+		"@type": "date"
+		}
+	    },
+		
+		{
+	    "@id": "http://opaquenamespace.org/ns/tribalNotes",
+	    "@type": "Property",
+	    "definedBy": {
+		"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	    },
+	    "issued": {
+		"@value": "2014-09-02",
+		"@type": "date"
+	    },
+	    "label": "Tribal Notes",
+	    "comment": "Notes made by the members of Native American tribal authorities.",
+	    "modified": {
+		"@value": "2014-09-02",
+		"@type": "date"
+		}
+	    },
+		
+		{
+	    "@id": "http://opaquenamespace.org/ns/tribalTerms",
+	    "@type": "Property",
+	    "definedBy": {
+		"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	    },
+	    "issued": {
+		"@value": "2014-09-02",
+		"@type": "date"
+	    },
+	    "label": "Tribal Terms",
+	    "comment": "Terms assigned by the members of Native American tribal authorities.",
+	    "modified": {
+		"@value": "2014-09-02",
+		"@type": "date"
+		}
+	    },
+		
+		{
+	    "@id": "http://opaquenamespace.org/ns/tribalClasses",
+	    "@type": "Property",
+	    "definedBy": {
+		"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	    },
+	    "issued": {
+		"@value": "2014-09-02",
+		"@type": "date"
+	    },
+	    "label": "Tribal Classes",
+	    "comment": "Classes assigned by the members of Native American tribal authorities.",
+	    "modified": {
+		"@value": "2014-09-02",
+		"@type": "date"
+		}
+	    },
+		
+		{
+	    "@id": "http://opaquenamespace.org/ns/tribalStatus",
+	    "@type": "Property",
+	    "definedBy": {
+		"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	    },
+	    "issued": {
+		"@value": "2014-09-02",
+		"@type": "date"
+	    },
+	    "label": "Tribal Status",
+	    "comment": "Indication of completion of metadata entry by the members of Native American tribal authorities.",
+	    "modified": {
+		"@value": "2014-09-02",
+		"@type": "date"
+	    }
+	    }
   ]
 }
