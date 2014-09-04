@@ -1,4 +1,6 @@
-require 'linkeddata'
+#!/usr/bin/env ruby
+require 'rdf'
+require 'json/ld'
 
 def parse_rdf(file)
   RDF::Graph.load(file)
