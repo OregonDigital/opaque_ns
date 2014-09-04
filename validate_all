@@ -5,11 +5,16 @@ require 'json/ld'
 def parse_rdf(file)
   RDF::Graph.load(file)
 end
+def parse_json(file)
+  JSON.parse(File.read(file))
+end
 
 exit_code = 0
 Dir.glob("**/*.jsonld").each do |file|
   begin
-    puts "Parsing #{file}"
+    puts "Checking JSON syntax for #{file}"
+    parse_json(file)
+    puts "Checking RDF Syntax for #{file}"
     parse_rdf(file)
   rescue StandardError => e
     puts "Failed to parse #{file} with error:\n#{e.message}"
