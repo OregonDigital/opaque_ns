@@ -1,0 +1,24 @@
+#!/usr/bin/env ruby
+require 'rdf'
+require 'json/ld'
+
+def parse_rdf(file)
+  RDF::Graph.load(file)
+end
+def parse_json(file)
+  JSON.parse(File.read(file))
+end
+
+exit_code = 0
+Dir.glob("**/*.jsonld").each do |file|
+  begin
+    puts "Checking JSON syntax for #{file}"
+    parse_json(file)
+    puts "Checking RDF Syntax for #{file}"
+    parse_rdf(file)
+  rescue StandardError => e
+    puts "Failed to parse #{file} with error:\n#{e.message}"
+    exit_code = 1
+  end
+end
+exit exit_code
