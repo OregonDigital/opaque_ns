@@ -547,23 +547,6 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/uoNames",
-      "@type": "Property",
-      "comment": "For names of people associated with the University of Oregon.",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@type": "date",
-        "@value": "2014-08-21"
-      },
-      "label": "University of Oregon Names",
-      "modified": {
-        "@type": "date",
-        "@value": "2014-08-21"
-      }
-    },
-    {
       "@id": "http://opaquenamespace.org/ns/seriesName",
       "@type": "Property",
       "comment": "Title of series within collection.",
