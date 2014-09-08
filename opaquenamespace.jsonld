@@ -802,20 +802,54 @@
       }                  
     },
       {
-      "@id": "http://opaquenamespace.org/ns/tgn",
+        "@id": "http://opaquenamespace.org/ns/tgn",
+        "@type": "Property",
+        "comment": "Geographic terms from the Getty Thesaurus of Geographic Names.",
+        "definedBy": {
+          "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+          "@type": "date",
+          "@value": "2014-09-07"
+        },
+        "label": "Geographic Term",
+        "modified": {
+          "@type": "date",
+          "@value": "2014-09-07"
+        }
+    },
+     {
+      "@id": "http://opaquenamespace.org/ns/hydrologicUnitCode",
       "@type": "Property",
-      "comment": "Geographic terms from the Getty Thesaurus of Geographic Names.",
+      "comment": "Comment from OSU",
       "definedBy": {
-         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
       "issued": {
-         "@type": "date",
-         "@value": "2014-09-07"
+        "@type": "date",
+        "@value": "2014-09-08"
       },
-      "label": "Geographic Term",
-         "modified": {
-         "@type": "date",
-         "@value": "2014-09-07"
+      "label": "Hydrologic Unit Code",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-08"
+      }
+    },
+     {
+      "@id": "http://opaquenamespace.org/ns/llid",
+      "@type": "Property",
+      "comment": "Comment from OSU",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-08"
+      },
+      "label": "LLID Placeholder",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-08"
       }
     }
   ]
