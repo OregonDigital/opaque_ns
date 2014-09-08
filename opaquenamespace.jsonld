@@ -850,6 +850,23 @@
       "modified": {
         "@type": "date",
         "@value": "2014-09-08"
+       }
+    },
+     {
+      "@id": "http://opaquenamespace.org/ns/folderName",
+      "@type": "Property",
+      "comment": "Name on the folder in the archival location information",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-08"
+      },
+      "label": "Folder Name",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-08"
       }
     }
   ]
