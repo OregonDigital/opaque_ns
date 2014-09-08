@@ -547,23 +547,6 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/uoNames",
-      "@type": "Property",
-      "comment": "For names of people associated with the University of Oregon.",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@type": "date",
-        "@value": "2014-08-21"
-      },
-      "label": "University of Oregon Names",
-      "modified": {
-        "@type": "date",
-        "@value": "2014-08-21"
-      }
-    },
-    {
       "@id": "http://opaquenamespace.org/ns/seriesName",
       "@type": "Property",
       "comment": "Title of series within collection.",
@@ -642,10 +625,10 @@
         "@type": "date",
         "@value": "2014-08-21"
       },
-      "label": "Ethnographic",
+      "label": "Ethnographic Term",
       "modified": {
         "@type": "date",
-        "@value": "2014-08-21"
+        "@value": "2014-09-06"
       }
     },
     {
@@ -799,6 +782,40 @@
       "modified": {
         "@type": "date",
         "@value": "2014-09-08"
+      }
+    },
+      {
+      "@id": "http://opaquenamespace.org/ns/people",
+      "@type": "Property",
+      "comment": "Subject term used specifically for individuals.",
+      "definedBy": {
+         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-06"
+      },
+      "label": "People",
+      "modified": {
+         "@type": "date",
+         "@value": "2014-09-06"
+      }                  
+    },
+      {
+      "@id": "http://opaquenamespace.org/ns/tgn",
+      "@type": "Property",
+      "comment": "Geographic terms from the Getty Thesaurus of Geographic Names.",
+      "definedBy": {
+         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+         "@type": "date",
+         "@value": "2014-09-07"
+      },
+      "label": "Geographic Term",
+         "modified": {
+         "@type": "date",
+         "@value": "2014-09-07"
       }
     }
   ]
