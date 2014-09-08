@@ -782,6 +782,23 @@
       "modified": {
         "@type": "date",
         "@value": "2014-09-02"
+        }
+      },
+       {
+      "@id": "http://opaquenamespace.org/ns/seriesNumber",
+      "@type": "Property",
+      "comment": "The official numbers of series within a collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-08"
+      },
+      "label": "Series Number",
+      "modified": {
+        "@type": "date",
+        "@value": 2014-09-08"
       }
     }
   ]
