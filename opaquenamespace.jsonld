@@ -817,6 +817,40 @@
          "@type": "date",
          "@value": "2014-09-07"
       }
+       },
+       {
+      "@id": "http://opaquenamespace.org/ns/hydrologicUnitCode",
+      "@type": "Property",
+      "comment": "Comment from OSU",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-08"
+      },
+      "label": "Hydrologic Unit Code",
+      "modified": {
+        "@type": "date",
+        "@value": 2014-09-08"
+      }
+       },
+       {
+      "@id": "http://opaquenamespace.org/ns/llid",
+      "@type": "Property",
+      "comment": "Comment from OSU",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-08"
+      },
+      "label": "LLID Placeholder",
+      "modified": {
+        "@type": "date",
+        "@value": 2014-09-08"
+      }
     }
   ]
 }
