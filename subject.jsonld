@@ -37,7 +37,7 @@
       "title": "Subject and Event controlled vocabularies"
     },
     {
-      "@id": "http://opaquenamespace.org/ns/event/CPSCamp56",
+      "@id": "http://opaquenamespace.org/ns/subject/CPSCamp56",
       "@type": "Topic",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -53,7 +53,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/event/InternationalNight2013",
+      "@id": "http://opaquenamespace.org/ns/subject/InternationalNight2013",
       "@type": "Topic",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -69,7 +69,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/event/Oregana",
+      "@id": "http://opaquenamespace.org/ns/subject/Oregana",
       "@type": "Topic",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -85,7 +85,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/event/PolarPlungeFundraiser",
+      "@id": "http://opaquenamespace.org/ns/subject/PolarPlungeFundraiser",
       "@type": "Topic",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -101,7 +101,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/event/ShowTime2011",
+      "@id": "http://opaquenamespace.org/ns/subject/ShowTime2011",
       "@type": "Topic",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -117,7 +117,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/event/ShowTime2012",
+      "@id": "http://opaquenamespace.org/ns/subject/ShowTime2012",
       "@type": "Topic",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -133,7 +133,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/event/Showtime2013",
+      "@id": "http://opaquenamespace.org/ns/subject/Showtime2013",
       "@type": "Topic",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -149,7 +149,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/event/WomeninAthleticsCelebration",
+      "@id": "http://opaquenamespace.org/ns/subject/WomeninAthleticsCelebration",
       "@type": "Topic",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -11252,7 +11252,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/AntlerDeer",
+      "@id": "http://opaquenamespace.org/ns/subject/AntlerDeer",
       "@type": "Topic",
       "comment": "The horn of a deer",
       "definedBy": {
@@ -11269,7 +11269,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/AntlerElk",
+      "@id": "http://opaquenamespace.org/ns/subject/AntlerElk",
       "@type": "Topic",
       "comment": "The horn of an elk",
       "definedBy": {
@@ -11286,7 +11286,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/ArmBandsBeaded",
+      "@id": "http://opaquenamespace.org/ns/subject/ArmBandsBeaded",
       "@type": "Topic",
       "comment": "A band worn around the arm with beaded decoration. Alternately, a band made of strung together beads",
       "definedBy": {
@@ -11303,7 +11303,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/ArmBandsBrass",
+      "@id": "http://opaquenamespace.org/ns/subject/ArmBandsBrass",
       "@type": "Topic",
       "comment": "A band worn around the arm made of brass",
       "definedBy": {
@@ -11320,7 +11320,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/ArmBandsFur",
+      "@id": "http://opaquenamespace.org/ns/subject/ArmBandsFur",
       "@type": "Topic",
       "comment": "A band worn around the arm made of animal fur",
       "definedBy": {
@@ -11337,7 +11337,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/BagBeaded",
+      "@id": "http://opaquenamespace.org/ns/subject/BagBeaded",
       "@type": "Topic",
       "comment": "A soft container used for carrying things with beaded decoration",
       "definedBy": {
@@ -11354,7 +11354,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/BagBeadedGeometric",
+      "@id": "http://opaquenamespace.org/ns/subject/BagBeadedGeometric",
       "@type": "Topic",
       "comment": "A soft container used for carrying things with beaded decoration with geometric patterns or stylized figures",
       "definedBy": {
@@ -11371,7 +11371,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/BagCornhusk",
+      "@id": "http://opaquenamespace.org/ns/subject/BagCornhusk",
       "@type": "Topic",
       "comment": "A soft container used for carrying things made from corn husks",
       "definedBy": {
@@ -11388,7 +11388,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/BagPipe",
+      "@id": "http://opaquenamespace.org/ns/subject/BagPipe",
       "@type": "Topic",
       "comment": "A soft container used for carrying one or more smoking pipes",
       "definedBy": {
@@ -11405,7 +11405,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/BagStorage",
+      "@id": "http://opaquenamespace.org/ns/subject/BagStorage",
       "@type": "Topic",
       "comment": "A soft container used for storing things",
       "definedBy": {
@@ -11422,7 +11422,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/BandoleerFur",
+      "@id": "http://opaquenamespace.org/ns/subject/BandoleerFur",
       "@type": "Topic",
       "alternateName": "Bandolier, Fur",
       "comment": "A strap made of animal fur worn over the shoulder and across the chest, often decorative or used for the suspending or supporting of some other object",
@@ -11440,7 +11440,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/BandoleerHairbone",
+      "@id": "http://opaquenamespace.org/ns/subject/BandoleerHairbone",
       "@type": "Topic",
       "alternateName": "Bandolier, Hair Pipe",
       "comment": "A strap made of or decorated with long slender beads  worn over the shoulder and across the chest, often decorative or used for the suspending or supporting of some other object",
@@ -11458,7 +11458,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/Beaded",
+      "@id": "http://opaquenamespace.org/ns/subject/Beaded",
       "@type": "Topic",
       "comment": "Having form or ornament produced with beads",
       "definedBy": {
@@ -11475,7 +11475,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/BeadedGauntlet",
+      "@id": "http://opaquenamespace.org/ns/subject/BeadedGauntlet",
       "@type": "Topic",
       "alternateName": "Gloves, Beaded Gauntlet",
       "comment": "A long glove decorated with beadwork",
@@ -11493,7 +11493,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/BellsAnkleDance",
+      "@id": "http://opaquenamespace.org/ns/subject/BellsAnkleDance",
       "@type": "Topic",
       "comment": "Small, hollow metalic objects worn around the ankle during dancing",
       "definedBy": {
@@ -11510,7 +11510,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/BeltBeaded",
+      "@id": "http://opaquenamespace.org/ns/subject/BeltBeaded",
       "@type": "Topic",
       "comment": "A strip of flexible material worn around the waist, decorated with or formed of beads",
       "definedBy": {
@@ -11527,7 +11527,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/BeltLeather",
+      "@id": "http://opaquenamespace.org/ns/subject/BeltLeather",
       "@type": "Topic",
       "comment": "A strip of leather worn around the waist",
       "definedBy": {
@@ -11544,7 +11544,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/BeltYarn",
+      "@id": "http://opaquenamespace.org/ns/subject/BeltYarn",
       "@type": "Topic",
       "comment": "A woven strip of yran worn around the waist",
       "definedBy": {
@@ -11561,7 +11561,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/BlanketStrip",
+      "@id": "http://opaquenamespace.org/ns/subject/BlanketStrip",
       "@type": "Topic",
       "comment": "A strip of materials woven using the same techniques as blanket",
       "definedBy": {
@@ -11578,7 +11578,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/BlanketStripBeaded",
+      "@id": "http://opaquenamespace.org/ns/subject/BlanketStripBeaded",
       "@type": "Topic",
       "comment": "A strip of materials woven using the same techniques as blanket and decorated with beads",
       "definedBy": {
@@ -11595,7 +11595,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/BonnetDoubleTrail",
+      "@id": "http://opaquenamespace.org/ns/subject/BonnetDoubleTrail",
       "@type": "Topic",
       "comment": "A headdress with two long  decorated tails",
       "definedBy": {
@@ -11612,7 +11612,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/BonnetSingleTrail",
+      "@id": "http://opaquenamespace.org/ns/subject/BonnetSingleTrail",
       "@type": "Topic",
       "comment": "A headdress with a single, long  decorated tail",
       "definedBy": {
@@ -11629,7 +11629,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/BonnetStovePipe",
+      "@id": "http://opaquenamespace.org/ns/subject/BonnetStovePipe",
       "@type": "Topic",
       "comment": "A headdress with an upright, cylindrical form",
       "definedBy": {
@@ -11646,7 +11646,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/BreastplateHairbone",
+      "@id": "http://opaquenamespace.org/ns/subject/BreastplateHairbone",
       "@type": "Topic",
       "alternateName": "Breastplate, Hair Pipe",
       "comment": "A wide decorative chest ornament made of or decorated with long slender beads",
@@ -11664,7 +11664,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/BridleBeaded",
+      "@id": "http://opaquenamespace.org/ns/subject/BridleBeaded",
       "@type": "Topic",
       "comment": "Headgear decorated with beads used to guide a horse",
       "definedBy": {
@@ -11681,7 +11681,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/BustleEagle",
+      "@id": "http://opaquenamespace.org/ns/subject/BustleEagle",
       "@type": "Topic",
       "comment": "A piece of regalia made with eagle feathers attached to a backboard",
       "definedBy": {
@@ -11698,7 +11698,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/Capote",
+      "@id": "http://opaquenamespace.org/ns/subject/Capote",
       "@type": "Topic",
       "alternateName": "Coat, Capote",
       "comment": "A long hooded coat or cloak",
@@ -11716,7 +11716,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/ChapsLeather",
+      "@id": "http://opaquenamespace.org/ns/subject/ChapsLeather",
       "@type": "Topic",
       "comment": "Leather leg coverings",
       "definedBy": {
@@ -11733,7 +11733,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/ClawsBear",
+      "@id": "http://opaquenamespace.org/ns/subject/ClawsBear",
       "@type": "Topic",
       "comment": "The sharp nails of a bear",
       "definedBy": {
@@ -11750,7 +11750,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/CoatBuckskin",
+      "@id": "http://opaquenamespace.org/ns/subject/CoatBuckskin",
       "@type": "Topic",
       "comment": "A piece of outerwear made of the skin of a deer and used to keep the wearer warm or dry",
       "definedBy": {
@@ -11767,7 +11767,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/CoatCloth",
+      "@id": "http://opaquenamespace.org/ns/subject/CoatCloth",
       "@type": "Topic",
       "comment": "A piece of outerwear made from cloth and used to keep the wearer warm or dry",
       "definedBy": {
@@ -11784,7 +11784,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/CoatJacket",
+      "@id": "http://opaquenamespace.org/ns/subject/CoatJacket",
       "@type": "Topic",
       "comment": "A short piece of outerwear used to keep the wearer warm or dry",
       "definedBy": {
@@ -11801,7 +11801,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/Cornhusk",
+      "@id": "http://opaquenamespace.org/ns/subject/Cornhusk",
       "@type": "Topic",
       "comment": "The outer leaves of an ear of corn",
       "definedBy": {
@@ -11818,7 +11818,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/CowboyApparel",
+      "@id": "http://opaquenamespace.org/ns/subject/CowboyApparel",
       "@type": "Topic",
       "comment": "Clothing typially worn by cowboys",
       "definedBy": {
@@ -11835,7 +11835,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/CradleboardBeadedFloral",
+      "@id": "http://opaquenamespace.org/ns/subject/CradleboardBeadedFloral",
       "@type": "Topic",
       "comment": "A baby carrier decorated with beadwork in patterns relating to flowers",
       "definedBy": {
@@ -11852,7 +11852,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/DanceStick",
+      "@id": "http://opaquenamespace.org/ns/subject/DanceStick",
       "@type": "Topic",
       "comment": "A decorated stick used while dancing",
       "definedBy": {
@@ -11869,7 +11869,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/DeerHoof",
+      "@id": "http://opaquenamespace.org/ns/subject/DeerHoof",
       "@type": "Topic",
       "comment": "The horned foot of a deer",
       "definedBy": {
@@ -11886,7 +11886,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/DressBuckskin",
+      "@id": "http://opaquenamespace.org/ns/subject/DressBuckskin",
       "@type": "Topic",
       "comment": "Main garments for women, consisting of a bodice and skirt made from the skin of a deer",
       "definedBy": {
@@ -11903,7 +11903,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/DressCloth",
+      "@id": "http://opaquenamespace.org/ns/subject/DressCloth",
       "@type": "Topic",
       "comment": "Main garments for women, consisting of a bodice and skirt made from cloth",
       "definedBy": {
@@ -11920,7 +11920,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/DressClothBeaded",
+      "@id": "http://opaquenamespace.org/ns/subject/DressClothBeaded",
       "@type": "Topic",
       "comment": "Main garments for women, consisting of a bodice and skirt made from cloth decorated with beads",
       "definedBy": {
@@ -11937,7 +11937,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/DressTradeCloth",
+      "@id": "http://opaquenamespace.org/ns/subject/DressTradeCloth",
       "@type": "Topic",
       "comment": "Main garments for women, consisting of a bodice and skirt made from mass-produced cloth obtained through trade",
       "definedBy": {
@@ -11954,7 +11954,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/EarringsShell",
+      "@id": "http://opaquenamespace.org/ns/subject/EarringsShell",
       "@type": "Topic",
       "comment": "Ear ornaments made of shell",
       "definedBy": {
@@ -11971,7 +11971,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/EelsDrying",
+      "@id": "http://opaquenamespace.org/ns/subject/EelsDrying",
       "@type": "Topic",
       "comment": "The process of preserving eel through exposure to air and sun",
       "definedBy": {
@@ -11988,7 +11988,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/ElectricStudio",
+      "@id": "http://opaquenamespace.org/ns/subject/ElectricStudio",
       "@type": "CorporateName",
       "comment": "A photographic studio?",
       "definedBy": {
@@ -12005,7 +12005,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/ElkTeeth",
+      "@id": "http://opaquenamespace.org/ns/subject/ElkTeeth",
       "@type": "Topic",
       "comment": "Hard bony objects in the mouth of an elk used for biting and chewing",
       "definedBy": {
@@ -12022,7 +12022,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/EuroAmericanclothing",
+      "@id": "http://opaquenamespace.org/ns/subject/EuroAmericanclothing",
       "@type": "Topic",
       "comment": "Clothing typical of American settlers decended from Europeans",
       "definedBy": {
@@ -12039,7 +12039,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/FanEagleTail",
+      "@id": "http://opaquenamespace.org/ns/subject/FanEagleTail",
       "@type": "Topic",
       "comment": "A hand-held object made of eagle feathers used to produce a current of air",
       "definedBy": {
@@ -12056,7 +12056,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/FanHawkTail",
+      "@id": "http://opaquenamespace.org/ns/subject/FanHawkTail",
       "@type": "Topic",
       "comment": "A hand-held object made of hawk feathers used to produce a current of air",
       "definedBy": {
@@ -12073,7 +12073,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/FeathersEagle",
+      "@id": "http://opaquenamespace.org/ns/subject/FeathersEagle",
       "@type": "Topic",
       "comment": "Light outgrowths that form the body covering of an eagle",
       "definedBy": {
@@ -12090,7 +12090,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/FurHairWraps",
+      "@id": "http://opaquenamespace.org/ns/subject/FurHairWraps",
       "@type": "Topic",
       "comment": "Ornamental strips of fur wraped around hair or hanging in the hair",
       "definedBy": {
@@ -12107,7 +12107,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/Hairbone",
+      "@id": "http://opaquenamespace.org/ns/subject/Hairbone",
       "@type": "Topic",
       "alternateName": "Hair Pipe",
       "comment": "Long slender beads",
@@ -12125,7 +12125,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/HatCornhusk",
+      "@id": "http://opaquenamespace.org/ns/subject/HatCornhusk",
       "@type": "Topic",
       "comment": "A head covering made with corn husks",
       "definedBy": {
@@ -12142,7 +12142,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/HeaddressHorned",
+      "@id": "http://opaquenamespace.org/ns/subject/HeaddressHorned",
       "@type": "Topic",
       "comment": "A head covering including the horns of an animal",
       "definedBy": {
@@ -12159,7 +12159,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/HorseGear",
+      "@id": "http://opaquenamespace.org/ns/subject/HorseGear",
       "@type": "Topic",
       "comment": "Equipment worn by horses, typially including saddles, blankets, bridles, reins, saddlebags or ornaments",
       "definedBy": {
@@ -12176,7 +12176,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/HorseTrappings",
+      "@id": "http://opaquenamespace.org/ns/subject/HorseTrappings",
       "@type": "Topic",
       "alternateName": "Horse Regalia",
       "comment": "Ornamental equipment worn by horses, including collars, masks and attachments to the reins, bridles,saddle bags and saddles",
@@ -12194,7 +12194,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/Indianencampments",
+      "@id": "http://opaquenamespace.org/ns/subject/Indianencampments",
       "@type": "Topic",
       "comment": "A place where Native Americans have established a camp",
       "definedBy": {
@@ -12211,7 +12211,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/LeggingsBuckskin",
+      "@id": "http://opaquenamespace.org/ns/subject/LeggingsBuckskin",
       "@type": "Topic",
       "alternateName": "Leggins, Buckskin",
       "comment": "Leather coverings for the legs",
@@ -12229,7 +12229,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/LeggingsWomens",
+      "@id": "http://opaquenamespace.org/ns/subject/LeggingsWomens",
       "@type": "Topic",
       "alternateName": "Leggins, Women's",
       "comment": "Coverings for the legs, especially for women",
@@ -12247,7 +12247,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/LeggingsWool",
+      "@id": "http://opaquenamespace.org/ns/subject/LeggingsWool",
       "@type": "Topic",
       "alternateName": "Leggins, Wool",
       "comment": "Wool coverings for the legs",
@@ -12265,7 +12265,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/Logs",
+      "@id": "http://opaquenamespace.org/ns/subject/Logs",
       "@type": "Topic",
       "comment": "Large pieces of unmilled wood from a tree",
       "definedBy": {
@@ -12282,7 +12282,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/Martingale",
+      "@id": "http://opaquenamespace.org/ns/subject/Martingale",
       "@type": "Topic",
       "comment": "A large collar for a horse",
       "definedBy": {
@@ -12299,7 +12299,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/MoccasinsBeadedFloral",
+      "@id": "http://opaquenamespace.org/ns/subject/MoccasinsBeadedFloral",
       "@type": "Topic",
       "comment": "Soft leather shoeS decorated with beads in patterns relating to flowers",
       "definedBy": {
@@ -12316,7 +12316,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/MoccasinsBeadedGeometric",
+      "@id": "http://opaquenamespace.org/ns/subject/MoccasinsBeadedGeometric",
       "@type": "Topic",
       "comment": "Soft leather shoeS decorated with beads with geometric patterns or stylized figures",
       "definedBy": {
@@ -12333,7 +12333,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/MoccasinsPlain",
+      "@id": "http://opaquenamespace.org/ns/subject/MoccasinsPlain",
       "@type": "Topic",
       "comment": "Soft leather shows devoid of ornament",
       "definedBy": {
@@ -12350,7 +12350,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/NecklaceLoop",
+      "@id": "http://opaquenamespace.org/ns/subject/NecklaceLoop",
       "@type": "Topic",
       "comment": "A piece of jewelry formed by more than one loop of a strand of beads around the neck",
       "definedBy": {
@@ -12367,7 +12367,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/OrnamentsWomens",
+      "@id": "http://opaquenamespace.org/ns/subject/OrnamentsWomens",
       "@type": "Topic",
       "comment": "Decorative objects for women",
       "definedBy": {
@@ -12384,7 +12384,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/Pan",
+      "@id": "http://opaquenamespace.org/ns/subject/Pan",
       "@type": "Topic",
       "comment": "Shallow container typically for domestic use",
       "definedBy": {
@@ -12401,7 +12401,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/PendletonHighSchoolPendletonOregon",
+      "@id": "http://opaquenamespace.org/ns/subject/PendletonHighSchoolPendletonOregon",
       "@type": "CorporateName",
       "comment": "Secondary school in Pendleton, Oregon, United States",
       "definedBy": {
@@ -12418,7 +12418,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/PipeHatchetStyle",
+      "@id": "http://opaquenamespace.org/ns/subject/PipeHatchetStyle",
       "@type": "Topic",
       "comment": "Smoking pipe with the form of a small ax",
       "definedBy": {
@@ -12435,7 +12435,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/Reins",
+      "@id": "http://opaquenamespace.org/ns/subject/Reins",
       "@type": "Topic",
       "comment": "Straps used to guide a horse, connected to a bridle",
       "definedBy": {
@@ -12452,7 +12452,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/Religiousdwellings",
+      "@id": "http://opaquenamespace.org/ns/subject/Religiousdwellings",
       "@type": "Topic",
       "comment": "Domenstic buildings affiliated with a religious sect or community",
       "definedBy": {
@@ -12469,7 +12469,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/RoachPorcupine",
+      "@id": "http://opaquenamespace.org/ns/subject/RoachPorcupine",
       "@type": "Topic",
       "comment": "A headdress made of porcupine hair",
       "definedBy": {
@@ -12486,7 +12486,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/ScabbardKnife",
+      "@id": "http://opaquenamespace.org/ns/subject/ScabbardKnife",
       "@type": "Topic",
       "comment": "A sheath for a knife",
       "definedBy": {
@@ -12503,7 +12503,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/ScabbardRifle",
+      "@id": "http://opaquenamespace.org/ns/subject/ScabbardRifle",
       "@type": "Topic",
       "comment": "A sheath for a rifle",
       "definedBy": {
@@ -12520,7 +12520,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/ShawlPendleton",
+      "@id": "http://opaquenamespace.org/ns/subject/ShawlPendleton",
       "@type": "Topic",
       "comment": "A rectangular garment or wrapper for covering the head and shoulders, made from a Pendleton Blanket. The Pendleton Woolen Mills in Oregon mass produced these blankets for trading with the Indians and they were designed specifically for perceived Native American tastes",
       "definedBy": {
@@ -12537,7 +12537,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/ShirtBuckskin",
+      "@id": "http://opaquenamespace.org/ns/subject/ShirtBuckskin",
       "@type": "Topic",
       "comment": "Main garment for the upper body made of deer skin",
       "definedBy": {
@@ -12554,7 +12554,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/ShirtBuckskinBeaded",
+      "@id": "http://opaquenamespace.org/ns/subject/ShirtBuckskinBeaded",
       "@type": "Topic",
       "comment": "Main garment for the upper body made of deer skin and decorated with beads",
       "definedBy": {
@@ -12571,7 +12571,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/ShirtCloth",
+      "@id": "http://opaquenamespace.org/ns/subject/ShirtCloth",
       "@type": "Topic",
       "comment": "Main garment for the upper body made of cloth",
       "definedBy": {
@@ -12588,7 +12588,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/Textilemillworkers",
+      "@id": "http://opaquenamespace.org/ns/subject/Textilemillworkers",
       "@type": "Topic",
       "comment": "Laborers in the textile-producing industy",
       "definedBy": {
@@ -12605,7 +12605,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/Underdresscloth",
+      "@id": "http://opaquenamespace.org/ns/subject/Underdresscloth",
       "@type": "Topic",
       "comment": "Cloth dresses worn beneath another dress",
       "definedBy": {
@@ -12622,7 +12622,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/VestCloth",
+      "@id": "http://opaquenamespace.org/ns/subject/VestCloth",
       "@type": "Topic",
       "comment": "Sleveless main garments extending to the waist or just below it, made of cloth",
       "definedBy": {
@@ -12639,7 +12639,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/Wagonwheels",
+      "@id": "http://opaquenamespace.org/ns/subject/Wagonwheels",
       "@type": "Topic",
       "comment": "Whells, largely wooden, made for wagons",
       "definedBy": {
@@ -12656,7 +12656,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/Workcrews",
+      "@id": "http://opaquenamespace.org/ns/subject/Workcrews",
       "@type": "Topic",
       "comment": "Groups of laborders put together to accomplish specific tasks",
       "definedBy": {
@@ -12673,7 +12673,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/Awawanita",
+      "@id": "http://opaquenamespace.org/ns/subject/Awawanita",
       "@type": "PersonalName",
       "comment": "Cayuse woman photographed by Lee Moorhouse.",
       "definedBy": {
@@ -12690,7 +12690,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/BarnhartBilly",
+      "@id": "http://opaquenamespace.org/ns/subject/BarnhartBilly",
       "@type": "PersonalName",
       "comment": "Umatilla man whose camp was photographed by Lee Moorhouse in 1903.",
       "definedBy": {
@@ -12707,7 +12707,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/BennettJoe",
+      "@id": "http://opaquenamespace.org/ns/subject/BennettJoe",
       "@type": "PersonalName",
       "comment": "Walla Walla man photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -12724,7 +12724,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/BlackHawkMrs",
+      "@id": "http://opaquenamespace.org/ns/subject/BlackHawkMrs",
       "@type": "PersonalName",
       "comment": "Cayuse woman photographed by Lee Moorhouse.",
       "definedBy": {
@@ -12741,7 +12741,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/BlackMrs",
+      "@id": "http://opaquenamespace.org/ns/subject/BlackMrs",
       "@type": "PersonalName",
       "comment": "Cayuse woman photographed by Lee Moorhouse.",
       "definedBy": {
@@ -12758,7 +12758,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/BurkeBob",
+      "@id": "http://opaquenamespace.org/ns/subject/BurkeBob",
       "@type": "PersonalName",
       "additionalName": "Burke, Robert",
       "comment": "Cowboy who rode in the Pendleton Round-Up ca. 1897-ca. 1920.",
@@ -12776,7 +12776,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/ChapmanEd",
+      "@id": "http://opaquenamespace.org/ns/subject/ChapmanEd",
       "@type": "PersonalName",
       "comment": "Native American man photographed by Lee Moorhouse ca. 1879-ca. 1920. Possibly a weaver in the Pendleton Woolen Mills",
       "definedBy": {
@@ -12793,7 +12793,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/ChapmanJack",
+      "@id": "http://opaquenamespace.org/ns/subject/ChapmanJack",
       "@type": "PersonalName",
       "comment": "Native American man photographed by Lee Moorhouse ca. 1879-ca. 1920. ",
       "definedBy": {
@@ -12810,7 +12810,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/ChapmanSally",
+      "@id": "http://opaquenamespace.org/ns/subject/ChapmanSally",
       "@type": "PersonalName",
       "comment": "Native American woman photographed by Lee Moorhouse ca. 1879-ca. 1920. ",
       "definedBy": {
@@ -12827,7 +12827,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/ChiefFiveCrows",
+      "@id": "http://opaquenamespace.org/ns/subject/ChiefFiveCrows",
       "@type": "PersonalName",
       "comment": "Cayuse man photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -12844,7 +12844,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/ChiefHomily",
+      "@id": "http://opaquenamespace.org/ns/subject/ChiefHomily",
       "@type": "PersonalName",
       "comment": "Walla Walla man photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -12861,7 +12861,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/ChiefNoShirt",
+      "@id": "http://opaquenamespace.org/ns/subject/ChiefNoShirt",
       "@type": "PersonalName",
       "comment": "Walla Walla man photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -12878,7 +12878,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/ChiefPatBelly",
+      "@id": "http://opaquenamespace.org/ns/subject/ChiefPatBelly",
       "@type": "PersonalName",
       "comment": "Palouse man photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -12895,7 +12895,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/ChiefPeo",
+      "@id": "http://opaquenamespace.org/ns/subject/ChiefPeo",
       "@type": "PersonalName",
       "comment": "Umatilla man photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -12912,7 +12912,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/ChiefShooway",
+      "@id": "http://opaquenamespace.org/ns/subject/ChiefShooway",
       "@type": "PersonalName",
       "comment": "Cayuse man photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -12929,7 +12929,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/ChiefUmapine",
+      "@id": "http://opaquenamespace.org/ns/subject/ChiefUmapine",
       "@type": "PersonalName",
       "comment": "Cayuse man photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -12946,7 +12946,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/ChiefWolf",
+      "@id": "http://opaquenamespace.org/ns/subject/ChiefWolf",
       "@type": "PersonalName",
       "comment": "Palouse man photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -12963,7 +12963,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/CoffeyB",
+      "@id": "http://opaquenamespace.org/ns/subject/CoffeyB",
       "@type": "PersonalName",
       "comment": "Indian Agent for the Umatilla ca. 1888.",
       "definedBy": {
@@ -12980,7 +12980,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/CornelisonJamesN",
+      "@id": "http://opaquenamespace.org/ns/subject/CornelisonJamesN",
       "@type": "PersonalName",
       "comment": "Reverand James. N. Cornelison was a missionary affiliated with the Tutuilla Presbyterian Church located on the Confederated Tribes of the Umatilla Indian Reservation (CTUIR).",
       "definedBy": {
@@ -12997,7 +12997,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/CornelisonMaryJane",
+      "@id": "http://opaquenamespace.org/ns/subject/CornelisonMaryJane",
       "@type": "PersonalName",
       "comment": "Photographed by Lee Moorhouse ca. 1897-ca. 1920, Mary Janeis presumed to have a familial relationship with Rev. James N. Cornelison.",
       "definedBy": {
@@ -13014,7 +13014,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/CoyoteAnna",
+      "@id": "http://opaquenamespace.org/ns/subject/CoyoteAnna",
       "@type": "PersonalName",
       "comment": "Cayuse woman photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -13031,7 +13031,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/CoyoteIda",
+      "@id": "http://opaquenamespace.org/ns/subject/CoyoteIda",
       "@type": "PersonalName",
       "comment": "Cayuse girl photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -13048,7 +13048,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/CoyoteLee",
+      "@id": "http://opaquenamespace.org/ns/subject/CoyoteLee",
       "@type": "PersonalName",
       "comment": "Cayuse infant photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -13065,7 +13065,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/CoyoteRuth",
+      "@id": "http://opaquenamespace.org/ns/subject/CoyoteRuth",
       "@type": "PersonalName",
       "comment": "Cayuse woman photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -13082,7 +13082,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/CraigJoe",
+      "@id": "http://opaquenamespace.org/ns/subject/CraigJoe",
       "@type": "PersonalName",
       "comment": "Umatilla man photograohed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -13099,7 +13099,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/Eatnomeat",
+      "@id": "http://opaquenamespace.org/ns/subject/Eatnomeat",
       "@type": "PersonalName",
       "comment": "Cayuse woman photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -13116,7 +13116,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/FrenchLou",
+      "@id": "http://opaquenamespace.org/ns/subject/FrenchLou",
       "@type": "PersonalName",
       "comment": "Walla Walla woman photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -13133,7 +13133,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/GibbonPeter",
+      "@id": "http://opaquenamespace.org/ns/subject/GibbonPeter",
       "@type": "PersonalName",
       "comment": "Palouse man photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -13150,7 +13150,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/GuyerJim",
+      "@id": "http://opaquenamespace.org/ns/subject/GuyerJim",
       "@type": "PersonalName",
       "comment": "Cayuse man photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -13167,7 +13167,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/Heyutesemiliken",
+      "@id": "http://opaquenamespace.org/ns/subject/Heyutesemiliken",
       "@type": "PersonalName",
       "comment": "Native member of the Indian Police Umatilla Agency in 1888.",
       "definedBy": {
@@ -13184,7 +13184,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/Ipnasoletok",
+      "@id": "http://opaquenamespace.org/ns/subject/Ipnasoletok",
       "@type": "PersonalName",
       "comment": "Cayuse woman photographed by Lee Moorhouse.",
       "definedBy": {
@@ -13201,7 +13201,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/Istanse",
+      "@id": "http://opaquenamespace.org/ns/subject/Istanse",
       "@type": "PersonalName",
       "comment": "Cayuse woman photographed by Lee Moorhouse.",
       "definedBy": {
@@ -13218,7 +13218,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/Itskaka",
+      "@id": "http://opaquenamespace.org/ns/subject/Itskaka",
       "@type": "PersonalName",
       "comment": "Cayuse woman photographed by Lee Moorhouse.",
       "definedBy": {
@@ -13235,7 +13235,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/Itswashpalu",
+      "@id": "http://opaquenamespace.org/ns/subject/Itswashpalu",
       "@type": "PersonalName",
       "comment": "Cayuse woman photographed by Lee Moorhouse.",
       "definedBy": {
@@ -13252,7 +13252,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/Jemima",
+      "@id": "http://opaquenamespace.org/ns/subject/Jemima",
       "@type": "PersonalName",
       "comment": "Cayuse woman photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -13269,7 +13269,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/JonesPhillip",
+      "@id": "http://opaquenamespace.org/ns/subject/JonesPhillip",
       "@type": "PersonalName",
       "comment": "Cayuse man photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -13286,7 +13286,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/JosephineYoumoits",
+      "@id": "http://opaquenamespace.org/ns/subject/JosephineYoumoits",
       "@type": "PersonalName",
       "comment": "Cayuse woman photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -13303,7 +13303,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/JoshuaBilly",
+      "@id": "http://opaquenamespace.org/ns/subject/JoshuaBilly",
       "@type": "PersonalName",
       "comment": "Cayuse man photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -13320,7 +13320,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/KanineJim",
+      "@id": "http://opaquenamespace.org/ns/subject/KanineJim",
       "@type": "PersonalName",
       "comment": "Crow man photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -13337,7 +13337,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/KashKash",
+      "@id": "http://opaquenamespace.org/ns/subject/KashKash",
       "@type": "PersonalName",
       "comment": "Cayuse man photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -13354,7 +13354,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/KashKashAnna",
+      "@id": "http://opaquenamespace.org/ns/subject/KashKashAnna",
       "@type": "PersonalName",
       "comment": "Cayuse woman photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -13371,7 +13371,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/KashKashJames",
+      "@id": "http://opaquenamespace.org/ns/subject/KashKashJames",
       "@type": "PersonalName",
       "comment": "Cayuse preacher photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -13388,7 +13388,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/KittsonPeter",
+      "@id": "http://opaquenamespace.org/ns/subject/KittsonPeter",
       "@type": "PersonalName",
       "comment": "Native American man photographed by Lee Moorhouse ca. 1904.",
       "definedBy": {
@@ -13405,7 +13405,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/KolopsSusie",
+      "@id": "http://opaquenamespace.org/ns/subject/KolopsSusie",
       "@type": "PersonalName",
       "comment": "Umatilla woman photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -13422,7 +13422,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/LazyDog",
+      "@id": "http://opaquenamespace.org/ns/subject/LazyDog",
       "@type": "PersonalName",
       "comment": "Umatilla man photographed by Lee Moorhouse 1903.",
       "definedBy": {
@@ -13439,7 +13439,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/LibertyJohn",
+      "@id": "http://opaquenamespace.org/ns/subject/LibertyJohn",
       "@type": "PersonalName",
       "comment": "Umatilla man photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -13456,7 +13456,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/LightfootHorse",
+      "@id": "http://opaquenamespace.org/ns/subject/LightfootHorse",
       "@type": "PersonalName",
       "comment": "Horse ridden in the Pendelton Round-Up ca. 1897-ca. 1920, Pendleton, Oregon.",
       "definedBy": {
@@ -13473,7 +13473,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/LincolnFrancis",
+      "@id": "http://opaquenamespace.org/ns/subject/LincolnFrancis",
       "@type": "PersonalName",
       "comment": "Cayuse man photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -13490,7 +13490,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/LindleyPeter",
+      "@id": "http://opaquenamespace.org/ns/subject/LindleyPeter",
       "@type": "PersonalName",
       "comment": "Cayuse preacher photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -13507,7 +13507,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/LongHair",
+      "@id": "http://opaquenamespace.org/ns/subject/LongHair",
       "@type": "PersonalName",
       "comment": "Cayuse man photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -13524,7 +13524,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/LuTom",
+      "@id": "http://opaquenamespace.org/ns/subject/LuTom",
       "@type": "PersonalName",
       "comment": "Umatilla man whose camp was photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -13541,7 +13541,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/LutonLacy",
+      "@id": "http://opaquenamespace.org/ns/subject/LutonLacy",
       "@type": "PersonalName",
       "comment": "Cayuse woman photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -13558,7 +13558,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/LymanAbraham",
+      "@id": "http://opaquenamespace.org/ns/subject/LymanAbraham",
       "@type": "PersonalName",
       "comment": "Walla Walla man photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -13575,7 +13575,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/MarshallGeorge",
+      "@id": "http://opaquenamespace.org/ns/subject/MarshallGeorge",
       "@type": "PersonalName",
       "comment": "Umatilla man photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -13592,7 +13592,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/McBainJohn",
+      "@id": "http://opaquenamespace.org/ns/subject/McBainJohn",
       "@type": "PersonalName",
       "comment": "Man photographed by Lee Moorhouse, often with groups of Native Americans.",
       "definedBy": {
@@ -13609,7 +13609,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/McKayAgnesRedhawkDavisDixon",
+      "@id": "http://opaquenamespace.org/ns/subject/McKayAgnesRedhawkDavisDixon",
       "@type": "PersonalName",
       "additionalName": "Red Hawk, Agnes Davis Dixon",
       "comment": "Cayuse woman photographed by Lee Moorhouse ca. 1897-ca. 1920.",
@@ -13627,7 +13627,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/McKayDonald",
+      "@id": "http://opaquenamespace.org/ns/subject/McKayDonald",
       "@type": "PersonalName",
       "comment": "Cayuse man photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -13644,7 +13644,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/MinthornLuke",
+      "@id": "http://opaquenamespace.org/ns/subject/MinthornLuke",
       "@type": "PersonalName",
       "comment": "Native member of the Indian Police Umatilla Agency in 1888.",
       "definedBy": {
@@ -13661,7 +13661,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/MinthornMolly",
+      "@id": "http://opaquenamespace.org/ns/subject/MinthornMolly",
       "@type": "PersonalName",
       "comment": "Native American woman photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -13678,7 +13678,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/MinthornSabina",
+      "@id": "http://opaquenamespace.org/ns/subject/MinthornSabina",
       "@type": "PersonalName",
       "comment": "Cayuse woman photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -13695,7 +13695,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/MissCraig",
+      "@id": "http://opaquenamespace.org/ns/subject/MissCraig",
       "@type": "PersonalName",
       "comment": "Walla Walla woman photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -13712,7 +13712,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/Moses",
+      "@id": "http://opaquenamespace.org/ns/subject/Moses",
       "@type": "PersonalName",
       "comment": "Native American man photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -13729,7 +13729,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/MotanicArt",
+      "@id": "http://opaquenamespace.org/ns/subject/MotanicArt",
       "@type": "PersonalName",
       "comment": "Cayuse infant, son of Parson Motanic, photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -13746,7 +13746,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/MotanicDan",
+      "@id": "http://opaquenamespace.org/ns/subject/MotanicDan",
       "@type": "PersonalName",
       "comment": "Cayuse man photographed by Lee Moorhouse  in 1915. Persumably related to Art, Mary, Esther, Sarah, Dorothy, and Parson Motanic.",
       "definedBy": {
@@ -13763,7 +13763,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/MotanicDorothy",
+      "@id": "http://opaquenamespace.org/ns/subject/MotanicDorothy",
       "@type": "PersonalName",
       "comment": "Cayuse woman photographed by Lee Moorhouse  in 1915. Persumably related to Art, Mary, Esther, Sarah, Parson, and Dan Motanic.",
       "definedBy": {
@@ -13780,7 +13780,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/MotanicEsther",
+      "@id": "http://opaquenamespace.org/ns/subject/MotanicEsther",
       "@type": "PersonalName",
       "comment": "Cayuse woman photographed by Lee Moorhouse  in 1915. Persumably related to Art, Mary, Parson, Sarah, Dorothy, and Dan Motanic.",
       "definedBy": {
@@ -13797,7 +13797,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/MotanicInfant",
+      "@id": "http://opaquenamespace.org/ns/subject/MotanicInfant",
       "@type": "PersonalName",
       "comment": "Cayuse infant, child of Parson Motanic, photographed by Lee Moorhouse ca. 1897-ca.1920.",
       "definedBy": {
@@ -13814,7 +13814,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/MotanicMary",
+      "@id": "http://opaquenamespace.org/ns/subject/MotanicMary",
       "@type": "PersonalName",
       "comment": "Cayuse woman photographed by Lee Moorhouse  in 1915. Persumably related to Art, Parson, Esther, Sarah, Dorothy, and Dan Motanic.",
       "definedBy": {
@@ -13831,7 +13831,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/MotanicParson",
+      "@id": "http://opaquenamespace.org/ns/subject/MotanicParson",
       "@type": "PersonalName",
       "comment": "Cayuse man photographed by Lee Moorhouse  in 1915. Persumably related to Art, Mary, Esther, Sarah, Dorothy, and Dan Motanic.",
       "definedBy": {
@@ -13848,7 +13848,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/MotanicSarah",
+      "@id": "http://opaquenamespace.org/ns/subject/MotanicSarah",
       "@type": "PersonalName",
       "comment": "Cayuse woman photographed by Lee Moorhouse  in 1915. Persumably related to Art, Mary, Esther, Parson, Dorothy, and Dan Motanic.",
       "definedBy": {
@@ -13865,7 +13865,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/NoShirtMrs",
+      "@id": "http://opaquenamespace.org/ns/subject/NoShirtMrs",
       "@type": "PersonalName",
       "comment": "Umatilla woman photographed by Lee Moorhouse  in 1903.",
       "definedBy": {
@@ -13882,7 +13882,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/Nuncipo",
+      "@id": "http://opaquenamespace.org/ns/subject/Nuncipo",
       "@type": "PersonalName",
       "comment": "Cayuse woman photographed by Lee Moorhouse.",
       "definedBy": {
@@ -13899,7 +13899,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/O'ReillyCharlesJ",
+      "@id": "http://opaquenamespace.org/ns/subject/O'ReillyCharlesJ",
       "@type": "PersonalName",
       "additionalName": "O'Reilly, Charles Joseph",
       "comment": "Catholic Bishop of Lincoln, Nebraska (1918-1923), Baker City, Oregon (1903-1918), and priest in Oregon City, Oregon (1890-1903).",
@@ -13917,7 +13917,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/ParrNellie",
+      "@id": "http://opaquenamespace.org/ns/subject/ParrNellie",
       "@type": "PersonalName",
       "comment": "Walla Walla woman photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -13934,7 +13934,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/ParrRosa",
+      "@id": "http://opaquenamespace.org/ns/subject/ParrRosa",
       "@type": "PersonalName",
       "comment": "Walla Walla woman photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -13951,7 +13951,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/PatawaAlice",
+      "@id": "http://opaquenamespace.org/ns/subject/PatawaAlice",
       "@type": "PersonalName",
       "comment": "Umatilla woman photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -13968,7 +13968,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/PatawaAllen",
+      "@id": "http://opaquenamespace.org/ns/subject/PatawaAllen",
       "@type": "PersonalName",
       "comment": "Umatilla man photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -13985,7 +13985,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/PaulRosa",
+      "@id": "http://opaquenamespace.org/ns/subject/PaulRosa",
       "@type": "PersonalName",
       "comment": "Walla Walla woman photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -14002,7 +14002,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/PeoChiefElijahLowry",
+      "@id": "http://opaquenamespace.org/ns/subject/PeoChiefElijahLowry",
       "@type": "PersonalName",
       "comment": "Umatilla man photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -14019,7 +14019,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/PeoJennie",
+      "@id": "http://opaquenamespace.org/ns/subject/PeoJennie",
       "@type": "PersonalName",
       "comment": "Native American woman photographed by Lee Moorhouse ca. 1897-ca. 1920. Mother of Rachel Eva Shillal amd sister of Walter Peo.",
       "definedBy": {
@@ -14036,7 +14036,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/PeoWalter",
+      "@id": "http://opaquenamespace.org/ns/subject/PeoWalter",
       "@type": "PersonalName",
       "comment": "Umatilla man photographed by Lee Moorhouse ca. 1897-ca. 1920. Brother of Jennie Peo.",
       "definedBy": {
@@ -14053,7 +14053,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/Petints",
+      "@id": "http://opaquenamespace.org/ns/subject/Petints",
       "@type": "PersonalName",
       "comment": "Walla Walla girl photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -14070,7 +14070,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/PishCook",
+      "@id": "http://opaquenamespace.org/ns/subject/PishCook",
       "@type": "PersonalName",
       "additionalName": "Fish Hawk",
       "comment": "Cayuse man photographed by Lee Moorhouse 1903",
@@ -14088,7 +14088,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/PokerJim",
+      "@id": "http://opaquenamespace.org/ns/subject/PokerJim",
       "@type": "PersonalName",
       "comment": "Cayuse man, whose camp was near Cayuse Station, was photographed by Lee Moorhouse ca. 1897-ca. 1920. He was also Chief of the Pendleton Round-Up sometime during the same period.",
       "definedBy": {
@@ -14105,7 +14105,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/PopeLeoWhiteBull",
+      "@id": "http://opaquenamespace.org/ns/subject/PopeLeoWhiteBull",
       "@type": "PersonalName",
       "comment": "Cayuse and Umatilla boy photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -14122,7 +14122,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/QueenEtna",
+      "@id": "http://opaquenamespace.org/ns/subject/QueenEtna",
       "@type": "PersonalName",
       "comment": "Cayuse woman photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -14139,7 +14139,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/RedElk",
+      "@id": "http://opaquenamespace.org/ns/subject/RedElk",
       "@type": "PersonalName",
       "comment": "Umatilla man photographed by Lee Moorhouse in 1903.",
       "definedBy": {
@@ -14156,7 +14156,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/RedhawkGeorge",
+      "@id": "http://opaquenamespace.org/ns/subject/RedhawkGeorge",
       "@type": "PersonalName",
       "comment": "Cayuse chief photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -14173,7 +14173,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/SampsonMaud",
+      "@id": "http://opaquenamespace.org/ns/subject/SampsonMaud",
       "@type": "Topic",
       "comment": "Cayuse woman photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -14190,7 +14190,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/SawattisKowKow",
+      "@id": "http://opaquenamespace.org/ns/subject/SawattisKowKow",
       "@type": "PersonalName",
       "comment": "Native member of the Indian Police Umatilla Agency in 1888.",
       "definedBy": {
@@ -14207,7 +14207,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/Sequyena",
+      "@id": "http://opaquenamespace.org/ns/subject/Sequyena",
       "@type": "PersonalName",
       "comment": "Walla Walla man photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -14224,7 +14224,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/ShillalRachelEva",
+      "@id": "http://opaquenamespace.org/ns/subject/ShillalRachelEva",
       "@type": "PersonalName",
       "comment": "Native American infant, daughter of Jennie Peo, photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -14241,7 +14241,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/ShowawayPaul",
+      "@id": "http://opaquenamespace.org/ns/subject/ShowawayPaul",
       "@type": "PersonalName",
       "comment": "Umatilla or Cayuse man photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -14258,7 +14258,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/Somkin",
+      "@id": "http://opaquenamespace.org/ns/subject/Somkin",
       "@type": "PersonalName",
       "comment": "Walla Walla princess photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -14275,7 +14275,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/SuLump",
+      "@id": "http://opaquenamespace.org/ns/subject/SuLump",
       "@type": "PersonalName",
       "comment": "Cayuse man photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -14292,7 +14292,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/TiCarNee",
+      "@id": "http://opaquenamespace.org/ns/subject/TiCarNee",
       "@type": "PersonalName",
       "comment": "Walla Walla man photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -14309,7 +14309,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/Tilloquats",
+      "@id": "http://opaquenamespace.org/ns/subject/Tilloquats",
       "@type": "PersonalName",
       "comment": "Cayuse man photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -14326,7 +14326,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/Totshoma",
+      "@id": "http://opaquenamespace.org/ns/subject/Totshoma",
       "@type": "PersonalName",
       "comment": "Cayuse man photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -14343,7 +14343,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/Towatoy",
+      "@id": "http://opaquenamespace.org/ns/subject/Towatoy",
       "@type": "PersonalName",
       "comment": "Umatilla man photographed by Lee Moorhouse in 1903.",
       "definedBy": {
@@ -14360,7 +14360,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/Tsintschpu",
+      "@id": "http://opaquenamespace.org/ns/subject/Tsintschpu",
       "@type": "PersonalName",
       "comment": "Cayuse woman photographed by Lee Moorhouse.",
       "definedBy": {
@@ -14377,7 +14377,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/UmaSomKin",
+      "@id": "http://opaquenamespace.org/ns/subject/UmaSomKin",
       "@type": "PersonalName",
       "additionalName": "Som-kin",
       "comment": "Cayuse man, captain of the Indian Police Umatilla Agency in 1888, photographed by Lee Moorhouse ca. 1897-ca. 1920.",
@@ -14395,7 +14395,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/UmaSomKinMrs",
+      "@id": "http://opaquenamespace.org/ns/subject/UmaSomKinMrs",
       "@type": "PersonalName",
       "comment": "Cayuse woman photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -14412,7 +14412,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/Watistemeha",
+      "@id": "http://opaquenamespace.org/ns/subject/Watistemeha",
       "@type": "PersonalName",
       "comment": "Cayuse man photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -14429,7 +14429,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/Wanico",
+      "@id": "http://opaquenamespace.org/ns/subject/Wanico",
       "@type": "PersonalName",
       "comment": "Umatilla man photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -14446,7 +14446,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/Watalowit",
+      "@id": "http://opaquenamespace.org/ns/subject/Watalowit",
       "@type": "PersonalName",
       "comment": "Native member of the Indian Police Umatilla Agency in 1888.",
       "definedBy": {
@@ -14463,7 +14463,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/WenixtheElder",
+      "@id": "http://opaquenamespace.org/ns/subject/WenixtheElder",
       "@type": "PersonalName",
       "comment": "Cayuse woman, sister of Donald McKay, photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -14480,7 +14480,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/WenixtheYounger",
+      "@id": "http://opaquenamespace.org/ns/subject/WenixtheYounger",
       "@type": "PersonalName",
       "comment": "Cayuse woman, sister of Red Elk, photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -14497,7 +14497,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/WheetSootJack",
+      "@id": "http://opaquenamespace.org/ns/subject/WheetSootJack",
       "@type": "PersonalName",
       "comment": "Cayuse man photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -14514,7 +14514,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/WheetSootMrs",
+      "@id": "http://opaquenamespace.org/ns/subject/WheetSootMrs",
       "@type": "PersonalName",
       "comment": "Cayuse woman photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -14531,7 +14531,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/WhirlwindCharlesJr",
+      "@id": "http://opaquenamespace.org/ns/subject/WhirlwindCharlesJr",
       "@type": "PersonalName",
       "comment": "Native American man photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -14548,7 +14548,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/WhirlwindCharleySr",
+      "@id": "http://opaquenamespace.org/ns/subject/WhirlwindCharleySr",
       "@type": "PersonalName",
       "comment": "Cayuse doctor photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -14565,7 +14565,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/WhiteIsaiah",
+      "@id": "http://opaquenamespace.org/ns/subject/WhiteIsaiah",
       "@type": "PersonalName",
       "additionalName": "Umko-kas-kat",
       "comment": "Native member of the Indian Police Umatilla Agency in 1888.",
@@ -14583,7 +14583,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/WhitebullIsadore",
+      "@id": "http://opaquenamespace.org/ns/subject/WhitebullIsadore",
       "@type": "PersonalName",
       "comment": "Cayuse man photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -14600,7 +14600,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/WikeWike",
+      "@id": "http://opaquenamespace.org/ns/subject/WikeWike",
       "@type": "PersonalName",
       "comment": "Native member of the Indian Police Umatilla Agency in 1888.",
       "definedBy": {
@@ -14617,7 +14617,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/WilliamVictor",
+      "@id": "http://opaquenamespace.org/ns/subject/WilliamVictor",
       "@type": "PersonalName",
       "comment": "Cayuse man photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -14634,7 +14634,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/WilliamsJulius",
+      "@id": "http://opaquenamespace.org/ns/subject/WilliamsJulius",
       "@type": "PersonalName",
       "comment": "Cayuse man photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -14651,7 +14651,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/WilliamsLucian",
+      "@id": "http://opaquenamespace.org/ns/subject/WilliamsLucian",
       "@type": "PersonalName",
       "comment": "Cowboy in the Pendleton Round-Up ca. 1897-ca. 1920.",
       "definedBy": {
@@ -14668,7 +14668,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/WilliamsStella",
+      "@id": "http://opaquenamespace.org/ns/subject/WilliamsStella",
       "@type": "PersonalName",
       "comment": "Cayuse woman photographed by Lee Moorhouse.",
       "definedBy": {
@@ -14685,7 +14685,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/Wohopum",
+      "@id": "http://opaquenamespace.org/ns/subject/Wohopum",
       "@type": "PersonalName",
       "comment": "Cayuse woman photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -14702,7 +14702,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/WoPaPum",
+      "@id": "http://opaquenamespace.org/ns/subject/WoPaPum",
       "@type": "PersonalName",
       "comment": "Cayuse woman photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -14719,7 +14719,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/Yeehye",
+      "@id": "http://opaquenamespace.org/ns/subject/Yeehye",
       "@type": "PersonalName",
       "comment": "Cayuse or Umatilla man photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -14736,7 +14736,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/YellowHawk",
+      "@id": "http://opaquenamespace.org/ns/subject/YellowHawk",
       "@type": "PersonalName",
       "comment": "Native American participant in the Pendleton Round-Up, photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -14753,7 +14753,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/YoungchiefDavid",
+      "@id": "http://opaquenamespace.org/ns/subject/YoungchiefDavid",
       "@type": "PersonalName",
       "comment": "Walla Walla man photographed by Lee Moorhouse ca. 1897-ca. 1920.",
       "definedBy": {
@@ -14770,7 +14770,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/antlerlandscapes",
+      "@id": "http://opaquenamespace.org/ns/subject/antlerlandscapes",
       "@type": "Topic",
       "comment": "Term originated in the Mongolian Altai Inventory Collection",
       "definedBy": {
@@ -14787,7 +14787,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/archaicanimals",
+      "@id": "http://opaquenamespace.org/ns/subject/archaicanimals",
       "@type": "Topic",
       "comment": "Term originated in the Mongolian Altai Inventory Collection",
       "definedBy": {
@@ -14804,7 +14804,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/attackscenes",
+      "@id": "http://opaquenamespace.org/ns/subject/attackscenes",
       "@type": "Topic",
       "comment": "Term originated in the Mongolian Altai Inventory Collection",
       "definedBy": {
@@ -14821,7 +14821,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/birdmen",
+      "@id": "http://opaquenamespace.org/ns/subject/birdmen",
       "@type": "Topic",
       "comment": "Term originated in the Mongolian Altai Inventory Collection",
       "definedBy": {
@@ -14838,7 +14838,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/birthingwomen",
+      "@id": "http://opaquenamespace.org/ns/subject/birthingwomen",
       "@type": "Topic",
       "comment": "Term originated in the Mongolian Altai Inventory Collection",
       "definedBy": {
@@ -14855,7 +14855,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/boar",
+      "@id": "http://opaquenamespace.org/ns/subject/boar",
       "@type": "Topic",
       "comment": "Term originated in the Mongolian Altai Inventory Collection",
       "definedBy": {
@@ -14872,7 +14872,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/bulldeer",
+      "@id": "http://opaquenamespace.org/ns/subject/bulldeer",
       "@type": "Topic",
       "comment": "Term originated in the Mongolian Altai Inventory Collection",
       "definedBy": {
@@ -14889,7 +14889,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/caprids",
+      "@id": "http://opaquenamespace.org/ns/subject/caprids",
       "@type": "Topic",
       "comment": "Term originated in the Mongolian Altai Inventory Collection",
       "definedBy": {
@@ -14906,7 +14906,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/combatscenes",
+      "@id": "http://opaquenamespace.org/ns/subject/combatscenes",
       "@type": "Topic",
       "comment": "Term originated in the Mongolian Altai Inventory Collection",
       "definedBy": {
@@ -14923,7 +14923,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/cupmarks",
+      "@id": "http://opaquenamespace.org/ns/subject/cupmarks",
       "@type": "Topic",
       "comment": "Term originated in the Mongolian Altai Inventory Collection",
       "definedBy": {
@@ -14940,7 +14940,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/dancingfigures",
+      "@id": "http://opaquenamespace.org/ns/subject/dancingfigures",
       "@type": "Topic",
       "comment": "Term originated in the Mongolian Altai Inventory Collection",
       "definedBy": {
@@ -14957,7 +14957,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/deerriders",
+      "@id": "http://opaquenamespace.org/ns/subject/deerriders",
       "@type": "Topic",
       "comment": "Term originated in the Mongolian Altai Inventory Collection",
       "definedBy": {
@@ -14974,7 +14974,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/deerhorses",
+      "@id": "http://opaquenamespace.org/ns/subject/deerhorses",
       "@type": "Topic",
       "comment": "Term originated in the Mongolian Altai Inventory Collection",
       "definedBy": {
@@ -14991,7 +14991,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/domesticscenes",
+      "@id": "http://opaquenamespace.org/ns/subject/domesticscenes",
       "@type": "Topic",
       "comment": "Term originated in the Mongolian Altai Inventory Collection",
       "definedBy": {
@@ -15008,7 +15008,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/enigmaticpatterns",
+      "@id": "http://opaquenamespace.org/ns/subject/enigmaticpatterns",
       "@type": "Topic",
       "comment": "Term originated in the Mongolian Altai Inventory Collection",
       "definedBy": {
@@ -15025,7 +15025,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/eroticscenes",
+      "@id": "http://opaquenamespace.org/ns/subject/eroticscenes",
       "@type": "Topic",
       "comment": "Term originated in the Mongolian Altai Inventory Collection",
       "definedBy": {
@@ -15042,7 +15042,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/felines",
+      "@id": "http://opaquenamespace.org/ns/subject/felines",
       "@type": "Topic",
       "comment": "Term originated in the Mongolian Altai Inventory Collection",
       "definedBy": {
@@ -15059,7 +15059,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/femalefigures",
+      "@id": "http://opaquenamespace.org/ns/subject/femalefigures",
       "@type": "Topic",
       "comment": "Term originated in the Mongolian Altai Inventory Collection",
       "definedBy": {
@@ -15076,7 +15076,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/figures",
+      "@id": "http://opaquenamespace.org/ns/subject/figures",
       "@type": "Topic",
       "comment": "Term originated in the Mongolian Altai Inventory Collection",
       "definedBy": {
@@ -15093,7 +15093,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/frontalfigures",
+      "@id": "http://opaquenamespace.org/ns/subject/frontalfigures",
       "@type": "Topic",
       "comment": "Term originated in the Mongolian Altai Inventory Collection",
       "definedBy": {
@@ -15110,7 +15110,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/handprints",
+      "@id": "http://opaquenamespace.org/ns/subject/handprints",
       "@type": "Topic",
       "comment": "Term originated in the Mongolian Altai Inventory Collection",
       "definedBy": {
@@ -15127,7 +15127,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/herdingscenes",
+      "@id": "http://opaquenamespace.org/ns/subject/herdingscenes",
       "@type": "Topic",
       "comment": "Term originated in the Mongolian Altai Inventory Collection",
       "definedBy": {
@@ -15144,7 +15144,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/hornedfigures",
+      "@id": "http://opaquenamespace.org/ns/subject/hornedfigures",
       "@type": "Topic",
       "comment": "Term originated in the Mongolian Altai Inventory Collection",
       "definedBy": {
@@ -15161,7 +15161,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/huntingscenes",
+      "@id": "http://opaquenamespace.org/ns/subject/huntingscenes",
       "@type": "Topic",
       "comment": "Term originated in the Mongolian Altai Inventory Collection",
       "definedBy": {
@@ -15178,7 +15178,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/landscapescenes",
+      "@id": "http://opaquenamespace.org/ns/subject/landscapescenes",
       "@type": "Topic",
       "comment": "Term originated in the Mongolian Altai Inventory Collection",
       "definedBy": {
@@ -15195,7 +15195,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/malefigures",
+      "@id": "http://opaquenamespace.org/ns/subject/malefigures",
       "@type": "Topic",
       "comment": "Term originated in the Mongolian Altai Inventory Collection",
       "definedBy": {
@@ -15212,7 +15212,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/modernwriting",
+      "@id": "http://opaquenamespace.org/ns/subject/modernwriting",
       "@type": "Topic",
       "comment": "Term originated in the Mongolian Altai Inventory Collection",
       "definedBy": {
@@ -15229,7 +15229,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/ovids",
+      "@id": "http://opaquenamespace.org/ns/subject/ovids",
       "@type": "Topic",
       "comment": "Term originated in the Mongolian Altai Inventory Collection",
       "definedBy": {
@@ -15246,7 +15246,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/predationscenes",
+      "@id": "http://opaquenamespace.org/ns/subject/predationscenes",
       "@type": "Topic",
       "comment": "Term originated in the Mongolian Altai Inventory Collection",
       "definedBy": {
@@ -15263,7 +15263,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/riders",
+      "@id": "http://opaquenamespace.org/ns/subject/riders",
       "@type": "Topic",
       "comment": "Term originated in the Mongolian Altai Inventory Collection",
       "definedBy": {
@@ -15280,7 +15280,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/ritualscenes",
+      "@id": "http://opaquenamespace.org/ns/subject/ritualscenes",
       "@type": "Topic",
       "comment": "Term originated in the Mongolian Altai Inventory Collection",
       "definedBy": {
@@ -15297,7 +15297,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/spiritfigures",
+      "@id": "http://opaquenamespace.org/ns/subject/spiritfigures",
       "@type": "Topic",
       "comment": "Term originated in the Mongolian Altai Inventory Collection",
       "definedBy": {
@@ -15314,7 +15314,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/stylizeddeer",
+      "@id": "http://opaquenamespace.org/ns/subject/stylizeddeer",
       "@type": "Topic",
       "comment": "Term originated in the Mongolian Altai Inventory Collection",
       "definedBy": {
@@ -15331,7 +15331,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/stylizedstags",
+      "@id": "http://opaquenamespace.org/ns/subject/stylizedstags",
       "@type": "Topic",
       "comment": "Term originated in the Mongolian Altai Inventory Collection",
       "definedBy": {
@@ -15348,7 +15348,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/syncreticdeer",
+      "@id": "http://opaquenamespace.org/ns/subject/syncreticdeer",
       "@type": "Topic",
       "comment": "Term originated in the Mongolian Altai Inventory Collection",
       "definedBy": {
@@ -15365,7 +15365,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/syncreticstag",
+      "@id": "http://opaquenamespace.org/ns/subject/syncreticstag",
       "@type": "Topic",
       "comment": "Term originated in the Mongolian Altai Inventory Collection",
       "definedBy": {
@@ -15382,7 +15382,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/tamgas",
+      "@id": "http://opaquenamespace.org/ns/subject/tamgas",
       "@type": "Topic",
       "comment": "Term originated in the Mongolian Altai Inventory Collection",
       "definedBy": {
@@ -15399,7 +15399,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/transitionaldeer",
+      "@id": "http://opaquenamespace.org/ns/subject/transitionaldeer",
       "@type": "Topic",
       "comment": "Term originated in the Mongolian Altai Inventory Collection",
       "definedBy": {
@@ -15416,7 +15416,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/Turkicriders",
+      "@id": "http://opaquenamespace.org/ns/subject/Turkicriders",
       "@type": "Topic",
       "comment": "Term originated in the Mongolian Altai Inventory Collection",
       "definedBy": {
