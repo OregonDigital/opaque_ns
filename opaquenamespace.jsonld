@@ -867,7 +867,214 @@
       "modified": {
         "@type": "date",
         "@value": "2014-09-08"
-      }
+    },
+     {
+      "@id": "http://opaquenamespace.org/ns/vra/culturalContext",
+      "@type": "Property",
+      "comment": "Visual Resources Association Core 4.0 term",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-12"
+      },
+      "label": "Culture",
+	    "domain": "Work",
+	    "range": "Culture",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-12"
+       }
+    },
+     {
+      "@id": "http://opaquenamespace.org/ns/vra/earliestDate",
+      "@type": "Property",
+      "comment": "Visual Resources Association Core 4.0 term. See https://schema.org/startDate",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-12"
+      },
+      "label": "Earliest Date",
+	    "domain": "Event",
+	    "range": "Date",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-12"
+       }
+    },
+     {
+      "@id": "http://opaquenamespace.org/ns/vra/idCurrentRepository",
+      "@type": "Property",
+      "comment": "Visual Resources Association Core 4.0 term",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-12"
+      },
+      "label": "Current Repository ID",
+	    "domain": "Creative Work",
+	    "range": "rdf:Literal",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-12"
+       }
+    },
+     {
+      "@id": "http://opaquenamespace.org/ns/vra/inscription",
+      "@type": "Property",
+      "comment": "Visual Resources Association Core 4.0 term",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-12"
+      },
+      "label": "Inscription",
+	    "range": "rdf:Literal",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-12"
+       }
+    },
+     {
+      "@id": "http://opaquenamespace.org/ns/vra/latestDate",
+      "@type": "Property",
+      "comment": "Visual Resources Association Core 4.0 term. See https://schema.org/endDate",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-12"
+      },
+      "label": "Latest Date",
+	    "domain": "Event",
+	    "range": "Date",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-12"
+       }
+    },
+     {
+      "@id": "http://opaquenamespace.org/ns/vra/material",
+      "@type": "Property",
+      "comment": "Visual Resources Association Core 4.0 term",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-12"
+      },
+      "label": "Material",
+	    "domain": "Creative Work",
+	    "range": "Material",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-12"
+       }
+    },
+     {
+      "@id": "http://opaquenamespace.org/ns/vra/measurements",
+      "@type": "Property",
+      "comment": "Visual Resources Association Core 4.0 term",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-12"
+      },
+      "label": "Measurements",
+	    "domain": "Creative Work",
+	    "range": "Quantitative Value",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-12"
+       }
+    },
+     {
+      "@id": "http://opaquenamespace.org/ns/vra/stateEdition",
+      "@type": "Property",
+      "comment": "Visual Resources Association Core 4.0 term",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-12"
+      },
+      "label": "State / Edition",
+	    "range": "rdf:Literal",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-12"
+       }
+    },
+     {
+      "@id": "http://opaquenamespace.org/ns/vra/hasStylePeriod",
+      "@type": "Property",
+      "comment": "Visual Resources Association Core 4.0 term",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-12"
+      },
+      "label": "Style / Period",
+	    "domain": "Creative Work",
+	    "range": "StylePeriod",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-12"
+       }
+    },
+     {
+      "@id": "http://opaquenamespace.org/ns/vra/hasTechnique",
+      "@type": "Property",
+      "comment": "Visual Resources Association Core 4.0 term",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-12"
+      },
+      "label": "Technique",
+	    "domain": "Creative Work",
+	    "range": "Technique",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-12"
+       }
+    },
+     {
+      "@id": "http://opaquenamespace.org/ns/vra/workType",
+      "@type": "Property",
+      "comment": "Visual Resources Association Core 4.0 term",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-12"
+      },
+      "label": "Work Type",
+	    "domain": "rdfs:Resource",
+	    "range": "rdfs:Class",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-12"
+       }
+    }
     }
   ]
 }
