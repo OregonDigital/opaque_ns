@@ -165,7 +165,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/AWhitePubCo",
+      "@id": "http://opaquenamespace.org/ns/publisher/AWhitePubCo",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -182,7 +182,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/Abscond",
+      "@id": "http://opaquenamespace.org/ns/publisher/Abscond",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -199,7 +199,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/AjaxPress",
+      "@id": "http://opaquenamespace.org/ns/publisher/AjaxPress",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -216,7 +216,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/AlefBeis",
+      "@id": "http://opaquenamespace.org/ns/publisher/AlefBeis",
       "@type": "PersonalName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -233,7 +233,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/Alejandro",
+      "@id": "http://opaquenamespace.org/ns/publisher/Alejandro",
       "@type": "PersonalName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -250,7 +250,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/AndromedaPrintingandGraphicArtCo",
+      "@id": "http://opaquenamespace.org/ns/publisher/AndromedaPrintingandGraphicArtCo",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -267,7 +267,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/ArchitecturalAssociation",
+      "@id": "http://opaquenamespace.org/ns/publisher/ArchitecturalAssociation",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -284,7 +284,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/ArdisLLetey",
+      "@id": "http://opaquenamespace.org/ns/publisher/ArdisLLetey",
       "@type": "PersonalName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -301,7 +301,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/Artandart",
+      "@id": "http://opaquenamespace.org/ns/publisher/Artandart",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -318,7 +318,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/Aubes3935Galerie",
+      "@id": "http://opaquenamespace.org/ns/publisher/Aubes3935Galerie",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -335,7 +335,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/AvidanDafna",
+      "@id": "http://opaquenamespace.org/ns/publisher/AvidanDafna",
       "@type": "PersonalName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -352,7 +352,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/BedfordArts",
+      "@id": "http://opaquenamespace.org/ns/publisher/BedfordArts",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -369,7 +369,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/BisPublishers",
+      "@id": "http://opaquenamespace.org/ns/publisher/BisPublishers",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -386,7 +386,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/BlanchetteCalvin",
+      "@id": "http://opaquenamespace.org/ns/publisher/BlanchetteCalvin",
       "@type": "PersonalName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -403,7 +403,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/BlochRicardo",
+      "@id": "http://opaquenamespace.org/ns/publisher/BlochRicardo",
       "@type": "PersonalName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -420,7 +420,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/BlueBarrelPress",
+      "@id": "http://opaquenamespace.org/ns/publisher/BlueBarrelPress",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -437,7 +437,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/BookWorks",
+      "@id": "http://opaquenamespace.org/ns/publisher/BookWorks",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -454,7 +454,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/CaledonianMacBrain",
+      "@id": "http://opaquenamespace.org/ns/publisher/CaledonianMacBrain",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -471,7 +471,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/Calendar",
+      "@id": "http://opaquenamespace.org/ns/publisher/Calendar",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -488,7 +488,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/CarotucciaPress",
+      "@id": "http://opaquenamespace.org/ns/publisher/CarotucciaPress",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -505,7 +505,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/CharubyPress",
+      "@id": "http://opaquenamespace.org/ns/publisher/CharubyPress",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -522,7 +522,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/ColdDrillBooksBoiseStateUniversity",
+      "@id": "http://opaquenamespace.org/ns/publisher/ColdDrillBooksBoiseStateUniversity",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -539,7 +539,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/Collectionducommerce",
+      "@id": "http://opaquenamespace.org/ns/publisher/Collectionducommerce",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -556,7 +556,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/CrapHound",
+      "@id": "http://opaquenamespace.org/ns/publisher/CrapHound",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -573,7 +573,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/Cremedelacreme",
+      "@id": "http://opaquenamespace.org/ns/publisher/Cremedelacreme",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -590,7 +590,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/CrossroadsNoveltyCorp",
+      "@id": "http://opaquenamespace.org/ns/publisher/CrossroadsNoveltyCorp",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -607,7 +607,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/DailyEdition",
+      "@id": "http://opaquenamespace.org/ns/publisher/DailyEdition",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -624,7 +624,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/DeVeasKristinaYoshimi",
+      "@id": "http://opaquenamespace.org/ns/publisher/DeVeasKristinaYoshimi",
       "@type": "PersonalName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -641,7 +641,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/DomeEditions",
+      "@id": "http://opaquenamespace.org/ns/publisher/DomeEditions",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -658,7 +658,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/DryReadingPress",
+      "@id": "http://opaquenamespace.org/ns/publisher/DryReadingPress",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -675,7 +675,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/EditionDacic",
+      "@id": "http://opaquenamespace.org/ns/publisher/EditionDacic",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -692,7 +692,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/EditionFrickeSchmid",
+      "@id": "http://opaquenamespace.org/ns/publisher/EditionFrickeSchmid",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -709,7 +709,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/Editionsdelobservatoire",
+      "@id": "http://opaquenamespace.org/ns/publisher/Editionsdelobservatoire",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -726,7 +726,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/EditionsdesMassons",
+      "@id": "http://opaquenamespace.org/ns/publisher/EditionsdesMassons",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -743,7 +743,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/ElwingJonathan",
+      "@id": "http://opaquenamespace.org/ns/publisher/ElwingJonathan",
       "@type": "PersonalName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -760,7 +760,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/EMUGallery",
+      "@id": "http://opaquenamespace.org/ns/publisher/EMUGallery",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -777,7 +777,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/EnglishLanguagePress",
+      "@id": "http://opaquenamespace.org/ns/publisher/EnglishLanguagePress",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -794,7 +794,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/Enlightenment",
+      "@id": "http://opaquenamespace.org/ns/publisher/Enlightenment",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -811,7 +811,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/ExPress",
+      "@id": "http://opaquenamespace.org/ns/publisher/ExPress",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -828,7 +828,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/FieryCannon",
+      "@id": "http://opaquenamespace.org/ns/publisher/FieryCannon",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -845,7 +845,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/FingerintheDykeProductions",
+      "@id": "http://opaquenamespace.org/ns/publisher/FingerintheDykeProductions",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -862,7 +862,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/GMurrayGallery",
+      "@id": "http://opaquenamespace.org/ns/publisher/GMurrayGallery",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -879,7 +879,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/GalleriePublications",
+      "@id": "http://opaquenamespace.org/ns/publisher/GalleriePublications",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -896,7 +896,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/GalleryBrunoBischofberger",
+      "@id": "http://opaquenamespace.org/ns/publisher/GalleryBrunoBischofberger",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -913,7 +913,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/GreenLight",
+      "@id": "http://opaquenamespace.org/ns/publisher/GreenLight",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -930,7 +930,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/GWPress",
+      "@id": "http://opaquenamespace.org/ns/publisher/GWPress",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -947,7 +947,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/HerberKarl",
+      "@id": "http://opaquenamespace.org/ns/publisher/HerberKarl",
       "@type": "PersonalName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -964,7 +964,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/IchthysBooks",
+      "@id": "http://opaquenamespace.org/ns/publisher/IchthysBooks",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -981,7 +981,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/InternationalGeneral",
+      "@id": "http://opaquenamespace.org/ns/publisher/InternationalGeneral",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -998,7 +998,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/JalexProduction",
+      "@id": "http://opaquenamespace.org/ns/publisher/JalexProduction",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -1015,7 +1015,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/JeanDominiqueCarréArchivesLibrairie",
+      "@id": "http://opaquenamespace.org/ns/publisher/JeanDominiqueCarréArchivesLibrairie",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -1032,7 +1032,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/KertellRobert",
+      "@id": "http://opaquenamespace.org/ns/publisher/KertellRobert",
       "@type": "PersonalName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -1049,7 +1049,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/KetchartPranuda",
+      "@id": "http://opaquenamespace.org/ns/publisher/KetchartPranuda",
       "@type": "PersonalName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -1066,7 +1066,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/KingLaurence",
+      "@id": "http://opaquenamespace.org/ns/publisher/KingLaurence",
       "@type": "PersonalName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -1083,7 +1083,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/KornishaPress",
+      "@id": "http://opaquenamespace.org/ns/publisher/KornishaPress",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -1100,7 +1100,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/KuklapolitanPress",
+      "@id": "http://opaquenamespace.org/ns/publisher/KuklapolitanPress",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -1117,7 +1117,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/LaCabanesurleChien",
+      "@id": "http://opaquenamespace.org/ns/publisher/LaCabanesurleChien",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -1134,7 +1134,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/LetterpressFall1994UniversityofOregon",
+      "@id": "http://opaquenamespace.org/ns/publisher/LetterpressFall1994UniversityofOregon",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -1151,7 +1151,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/LTTR",
+      "@id": "http://opaquenamespace.org/ns/publisher/LTTR",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -1168,7 +1168,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/MLDArcGallery",
+      "@id": "http://opaquenamespace.org/ns/publisher/MLDArcGallery",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -1185,7 +1185,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/ManualInc",
+      "@id": "http://opaquenamespace.org/ns/publisher/ManualInc",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -1202,7 +1202,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/Maro",
+      "@id": "http://opaquenamespace.org/ns/publisher/Maro",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -1219,7 +1219,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/MiddletownPress",
+      "@id": "http://opaquenamespace.org/ns/publisher/MiddletownPress",
       "@type": "CorporateName,
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -1236,7 +1236,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/MonacelliPress",
+      "@id": "http://opaquenamespace.org/ns/publisher/MonacelliPress",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -1253,7 +1253,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/OldStraightTrackPress",
+      "@id": "http://opaquenamespace.org/ns/publisher/OldStraightTrackPress",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -1270,7 +1270,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/OPMBridge",
+      "@id": "http://opaquenamespace.org/ns/publisher/OPMBridge",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -1287,7 +1287,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/Osbornbook",
+      "@id": "http://opaquenamespace.org/ns/publisher/Osbornbook",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -1304,7 +1304,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/OutonALimb",
+      "@id": "http://opaquenamespace.org/ns/publisher/OutonALimb",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -1321,7 +1321,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/PDavidPress",
+      "@id": "http://opaquenamespace.org/ns/publisher/PDavidPress",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -1338,7 +1338,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/PBParadisePress",
+      "@id": "http://opaquenamespace.org/ns/publisher/PBParadisePress",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -1355,7 +1355,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/PembrokePress",
+      "@id": "http://opaquenamespace.org/ns/publisher/PembrokePress",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -1372,7 +1372,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/PhysicalLanguageLaboratory",
+      "@id": "http://opaquenamespace.org/ns/publisher/PhysicalLanguageLaboratory",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -1389,7 +1389,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/Pirella",
+      "@id": "http://opaquenamespace.org/ns/publisher/Pirella",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -1406,7 +1406,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/Polygon",
+      "@id": "http://opaquenamespace.org/ns/publisher/Polygon",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -1423,7 +1423,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/PorterhouseFineArtEditions",
+      "@id": "http://opaquenamespace.org/ns/publisher/PorterhouseFineArtEditions",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -1440,7 +1440,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/powerHouseBooks",
+      "@id": "http://opaquenamespace.org/ns/publisher/powerHouseBooks",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -1457,7 +1457,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/PrattTerri",
+      "@id": "http://opaquenamespace.org/ns/publisher/PrattTerri",
       "@type": "PersonalName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -1474,7 +1474,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/Press451",
+      "@id": "http://opaquenamespace.org/ns/publisher/Press451",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -1491,7 +1491,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/RayViolet",
+      "@id": "http://opaquenamespace.org/ns/publisher/RayViolet",
       "@type": "PersonalName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -1508,7 +1508,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/RealComePress",
+      "@id": "http://opaquenamespace.org/ns/publisher/RealComePress",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -1525,7 +1525,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/RedstonePress",
+      "@id": "http://opaquenamespace.org/ns/publisher/RedstonePress",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -1542,7 +1542,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/SigmaFoundation",
+      "@id": "http://opaquenamespace.org/ns/publisher/SigmaFoundation",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -1559,7 +1559,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/SimplyBooks",
+      "@id": "http://opaquenamespace.org/ns/publisher/SimplyBooks",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -1576,7 +1576,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/SimpsonGordon",
+      "@id": "http://opaquenamespace.org/ns/publisher/SimpsonGordon",
       "@type": "PersonalName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -1593,7 +1593,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/SmithMichael",
+      "@id": "http://opaquenamespace.org/ns/publisher/SmithMichael",
       "@type": "PersonalName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -1610,7 +1610,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/SnyderJanice",
+      "@id": "http://opaquenamespace.org/ns/publisher/SnyderJanice",
       "@type": "PersonalName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -1627,7 +1627,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/SpiegelmanLon",
+      "@id": "http://opaquenamespace.org/ns/publisher/SpiegelmanLon",
       "@type": "PersonalName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -1644,7 +1644,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/StewartJem",
+      "@id": "http://opaquenamespace.org/ns/publisher/StewartJem",
       "@type": "PersonalName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -1661,7 +1661,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/StopOverPress",
+      "@id": "http://opaquenamespace.org/ns/publisher/StopOverPress",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -1678,7 +1678,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/TeaGardenPress",
+      "@id": "http://opaquenamespace.org/ns/publisher/TeaGardenPress",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -1695,7 +1695,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/TheBillionthPress",
+      "@id": "http://opaquenamespace.org/ns/publisher/TheBillionthPress",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -1712,7 +1712,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/ThePress",
+      "@id": "http://opaquenamespace.org/ns/publisher/ThePress",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -1729,7 +1729,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/TheVanishingRotatingTriangleTVRT",
+      "@id": "http://opaquenamespace.org/ns/publisher/TheVanishingRotatingTriangleTVRT",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -1746,7 +1746,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/TransientBooks",
+      "@id": "http://opaquenamespace.org/ns/publisher/TransientBooks",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -1763,7 +1763,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/Trolley",
+      "@id": "http://opaquenamespace.org/ns/publisher/Trolley",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -1780,7 +1780,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/Turnaround",
+      "@id": "http://opaquenamespace.org/ns/publisher/Turnaround",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -1797,7 +1797,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/TurnerIanLindsay",
+      "@id": "http://opaquenamespace.org/ns/publisher/TurnerIanLindsay",
       "@type": "PersonalName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -1814,7 +1814,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/Typography381LetterpressClassUniversityofOregon",
+      "@id": "http://opaquenamespace.org/ns/publisher/Typography381LetterpressClassUniversityofOregon",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -1831,7 +1831,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/UniversityofOregonDeptofFineandAppliedArtsArtistsBooksCourse",
+      "@id": "http://opaquenamespace.org/ns/publisher/UniversityofOregonDeptofFineandAppliedArtsArtistsBooksCourse",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -1848,7 +1848,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/Vesuvius",
+      "@id": "http://opaquenamespace.org/ns/publisher/Vesuvius",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -1865,7 +1865,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/VisualArts",
+      "@id": "http://opaquenamespace.org/ns/publisher/VisualArts",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -1882,7 +1882,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/WarehousePublications",
+      "@id": "http://opaquenamespace.org/ns/publisher/WarehousePublications",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -1899,7 +1899,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/WedgePress",
+      "@id": "http://opaquenamespace.org/ns/publisher/WedgePress",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -1916,7 +1916,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/WhatReindeer",
+      "@id": "http://opaquenamespace.org/ns/publisher/WhatReindeer",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -1933,7 +1933,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/WordsandPictures",
+      "@id": "http://opaquenamespace.org/ns/publisher/WordsandPictures",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -1950,7 +1950,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/WorksPress",
+      "@id": "http://opaquenamespace.org/ns/publisher/WorksPress",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -1967,7 +1967,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/WrightJohn",
+      "@id": "http://opaquenamespace.org/ns/publisher/WrightJohn",
       "@type": "PersonalName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -1984,7 +1984,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/YangSugene",
+      "@id": "http://opaquenamespace.org/ns/publisher/YangSugene",
       "@type": "PersonalName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
@@ -2001,7 +2001,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/creator/ZartscorpBooks",
+      "@id": "http://opaquenamespace.org/ns/publisher/ZartscorpBooks",
       "@type": "CorporateName",
 	  "comment": "Artist's Book Collection.",
       "definedBy": {
