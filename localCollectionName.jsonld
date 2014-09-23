@@ -26751,6 +26751,78 @@
       }
     },
     {
+      "@id": "http://opaquenamespace.org/ns/localCollectionName/StevenLowenstamCollection",
+      "@type": "Concept",
+      "comment": "University of Oregon Department of Classics.",
+      "date": "active 2013-2014",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Steven Lowenstam Collection",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/localCollectionName/UlmannDorisPhotographs",
+      "@type": "Concept",
+      "comment": "PH038 University of Oregon Special Collections and University Archives.",
+      "date": "active 2013-2014",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Ulmann (Doris) Photographs",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/localCollectionName/LatinoRootscollection",
+      "@type": "Concept",
+      "comment": "UA142 University of Oregon Special Collections and University Archives.",
+      "date": "active 2013-2014",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Latino Roots collection",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/localCollectionName/NationalJapaneseAmericanStudentRelocationCouncilRecords",
+      "@type": "Concept",
+      "comment": "UA009 University of Oregon Special Collections and University Archives.",
+      "date": "active 2013-2014",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Office of the Dean of Personnel Administration. National Japanese American Student Relocation Council Records",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
       "@id": "http://opaquenamespace.org/ns/localCollectionName/OregonSpatialDataLibrary",
       "@type": "Concept",
       "comment": "Portal site of Oregon Explorer.",
