@@ -71,6 +71,74 @@
       }
     },
     {
+      "@id": "http://opaquenamespace.org/ns/technique/commercialprinting",
+      "@type": "Concept",
+      "comment": "Large-scale printing by commercial printing companies. From the Artist's Books collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "commercial printing",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/technique/artistsbooks/other",
+      "@type": "Concept",
+      "comment": "Techniques not defined by other terms. From the Artist's Books collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-23"
+      },
+      "label": "other",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/technique/paperfolding",
+      "@type": "Concept",
+      "comment": "Book construction by means of folding sheets of paper, usually without sewing.  From the Artist's Books collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "paper folding",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/technique/wordprocessing",
+      "@type": "Concept",
+      "comment": "Text printing by means of software and computer printer. From the Artist's Books collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "word processing",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
       "@id": "http://opaquenamespace.org/ns/technique/scratching",
       "@type": "Concept",
       "comment": "Drawing process using irregular shallow incised lines",
