@@ -167,7 +167,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/AWhitePubCo",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -184,7 +184,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/Abscond",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -201,7 +201,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/AjaxPress",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -218,7 +218,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/AlefBeis",
       "@type": "PersonalName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -235,7 +235,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/Alejandro",
       "@type": "PersonalName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -252,7 +252,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/AndromedaPrintingandGraphicArtCo",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -269,7 +269,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/ArchitecturalAssociation",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -286,7 +286,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/ArdisLLetey",
       "@type": "PersonalName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -303,7 +303,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/Artandart",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -320,7 +320,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/Aubes3935Galerie",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -337,7 +337,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/AvidanDafna",
       "@type": "PersonalName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -354,7 +354,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/BedfordArts",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -371,7 +371,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/BisPublishers",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -388,7 +388,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/BlanchetteCalvin",
       "@type": "PersonalName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -405,7 +405,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/BlochRicardo",
       "@type": "PersonalName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -422,7 +422,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/BlueBarrelPress",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -439,7 +439,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/BookWorks",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -456,7 +456,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/CaledonianMacBrain",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -473,7 +473,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/Calendar",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -490,7 +490,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/CarotucciaPress",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -507,7 +507,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/CharubyPress",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -524,7 +524,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/ColdDrillBooksBoiseStateUniversity",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -541,7 +541,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/Collectionducommerce",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -558,7 +558,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/CrapHound",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -575,7 +575,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/Cremedelacreme",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -592,7 +592,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/CrossroadsNoveltyCorp",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -609,7 +609,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/DailyEdition",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -626,7 +626,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/DeVeasKristinaYoshimi",
       "@type": "PersonalName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -643,7 +643,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/DomeEditions",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -660,7 +660,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/DryReadingPress",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -677,7 +677,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/EditionDacic",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -694,7 +694,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/EditionFrickeSchmid",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -711,7 +711,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/Editionsdelobservatoire",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -728,7 +728,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/EditionsdesMassons",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -745,7 +745,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/ElwingJonathan",
       "@type": "PersonalName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -762,7 +762,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/EMUGallery",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -779,7 +779,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/EnglishLanguagePress",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -796,7 +796,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/Enlightenment",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -812,8 +812,8 @@
     },
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/ExPress",
-      "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "@type": "CorporateName"
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -830,7 +830,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/FieryCannon",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -847,7 +847,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/FingerintheDykeProductions",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -864,7 +864,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/GMurrayGallery",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -881,7 +881,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/GalleriePublications",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -898,7 +898,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/GalleryBrunoBischofberger",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -915,7 +915,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/GreenLight",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -932,7 +932,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/GWPress",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -949,7 +949,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/HerberKarl",
       "@type": "PersonalName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -966,7 +966,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/IchthysBooks",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -983,7 +983,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/InternationalGeneral",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -1000,7 +1000,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/JalexProduction",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -1017,7 +1017,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/JeanDominiqueCarréArchivesLibrairie",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -1034,7 +1034,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/KertellRobert",
       "@type": "PersonalName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -1051,7 +1051,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/KetchartPranuda",
       "@type": "PersonalName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -1068,7 +1068,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/KingLaurence",
       "@type": "PersonalName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -1085,7 +1085,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/KornishaPress",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -1102,7 +1102,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/KuklapolitanPress",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -1119,7 +1119,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/LaCabanesurleChien",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -1136,7 +1136,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/LetterpressFall1994UniversityofOregon",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -1153,7 +1153,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/LTTR",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -1170,7 +1170,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/MLDArcGallery",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -1187,7 +1187,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/ManualInc",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -1204,7 +1204,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/Maro",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -1221,7 +1221,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/MiddletownPress",
       "@type": "CorporateName,
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -1238,7 +1238,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/MonacelliPress",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -1255,7 +1255,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/OldStraightTrackPress",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -1272,7 +1272,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/OPMBridge",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -1289,7 +1289,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/Osbornbook",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -1306,7 +1306,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/OutonALimb",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -1323,7 +1323,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/PDavidPress",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -1340,7 +1340,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/PBParadisePress",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -1357,7 +1357,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/PembrokePress",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -1374,7 +1374,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/PhysicalLanguageLaboratory",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -1391,7 +1391,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/Pirella",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -1408,7 +1408,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/Polygon",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -1425,7 +1425,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/PorterhouseFineArtEditions",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -1442,7 +1442,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/powerHouseBooks",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -1459,7 +1459,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/PrattTerri",
       "@type": "PersonalName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -1476,7 +1476,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/Press451",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -1493,7 +1493,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/RayViolet",
       "@type": "PersonalName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -1510,7 +1510,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/RealComePress",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -1527,7 +1527,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/RedstonePress",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -1544,7 +1544,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/SigmaFoundation",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -1561,7 +1561,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/SimplyBooks",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -1578,7 +1578,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/SimpsonGordon",
       "@type": "PersonalName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -1595,7 +1595,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/SmithMichael",
       "@type": "PersonalName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -1612,7 +1612,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/SnyderJanice",
       "@type": "PersonalName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -1629,7 +1629,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/SpiegelmanLon",
       "@type": "PersonalName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -1646,7 +1646,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/StewartJem",
       "@type": "PersonalName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -1663,7 +1663,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/StopOverPress",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -1680,7 +1680,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/TeaGardenPress",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -1697,7 +1697,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/TheBillionthPress",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -1714,7 +1714,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/ThePress",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -1731,7 +1731,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/TheVanishingRotatingTriangleTVRT",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -1748,7 +1748,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/TransientBooks",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -1765,7 +1765,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/Trolley",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -1782,7 +1782,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/Turnaround",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -1799,7 +1799,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/TurnerIanLindsay",
       "@type": "PersonalName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -1816,7 +1816,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/Typography381LetterpressClassUniversityofOregon",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -1833,7 +1833,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/UniversityofOregonDeptofFineandAppliedArtsArtistsBooksCourse",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -1850,7 +1850,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/Vesuvius",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -1867,7 +1867,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/VisualArts",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -1884,7 +1884,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/WarehousePublications",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -1901,7 +1901,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/WedgePress",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -1918,7 +1918,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/WhatReindeer",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -1935,7 +1935,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/WordsandPictures",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -1952,7 +1952,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/WorksPress",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -1969,7 +1969,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/WrightJohn",
       "@type": "PersonalName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -1986,7 +1986,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/YangSugene",
       "@type": "PersonalName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -2003,7 +2003,7 @@
 	{
       "@id": "http://opaquenamespace.org/ns/publisher/ZartscorpBooks",
       "@type": "CorporateName",
-	  "comment": "Artist's Book Collection.",
+      "comment": "Artist's Book Collection.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
