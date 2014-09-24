@@ -795,7 +795,7 @@
         "@type": "date",
         "@value": "2014-09-24"
       }
-    }
+    },
     {
       "@id": "http://opaquenamespace.org/ns/digitalCollection/ArtistsBooks",
       "@type": "Concept",
