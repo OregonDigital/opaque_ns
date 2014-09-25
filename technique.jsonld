@@ -71,6 +71,347 @@
       }
     },
     {
+      "@id": "http://opaquenamespace.org/ns/technique/commercialprinting",
+      "@type": "Concept",
+      "comment": "Large-scale printing by commercial printing companies. From the Artist's Books collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "commercial printing",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/technique/artistsbooks/other",
+      "@type": "Concept",
+      "comment": "Techniques not defined by other terms. From the Artist's Books collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-23"
+      },
+      "label": "other",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/technique/paperfolding",
+      "@type": "Concept",
+      "comment": "Book construction by means of folding sheets of paper, usually without sewing.  From the Artist's Books collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "paper folding",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/technique/wordprocessing",
+      "@type": "Concept",
+      "comment": "Text printing by means of software and computer printer. From the Artist's Books collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "word processing",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+	{
+      "@id": "http://opaquenamespace.org/ns/technique/buttonholestitchedheadbands",
+      "@type": "Concept",
+      "comment": "Headbands with looped sewing. Subtype of Worked headbands. From the Artist's Books collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "button hole stitched headbands",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+	{
+      "@id": "http://opaquenamespace.org/ns/technique/tacketedbindings",
+      "@type": "Concept",
+      "comment": "Bindings in which the case is attached to the text block by means tackets, such as strips of parchment or leather thongs. From the Artist's Books collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "tacketed bindings",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+	{
+      "@id": "http://opaquenamespace.org/ns/technique/combbindings",
+      "@type": "Concept",
+      "comment": "Bindings in which the curved prongs of a strip of metal, plastic, etc., pass through a series of holes in a margin of the text block. From the Artist's Books collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "comb bindings",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+	{
+      "@id": "http://opaquenamespace.org/ns/technique/clamshellboxes",
+      "@type": "Concept",
+      "comment": "Box structures that include two three-sided trays (one made to fit inside the other when closed) attached to a case. From the Artist's Books collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "clamshell boxes",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+	{
+      "@id": "http://opaquenamespace.org/ns/technique/combinationbinding",
+      "@type": "Concept",
+      "comment": "One or more binding techniques used in close conjunction. From the Artist's Books collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "combination binding",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+	{
+      "@id": "http://opaquenamespace.org/ns/technique/commercialbinding",
+      "@type": "Concept",
+      "comment": "Bindings produced en masse by commercial binderies. Often Case or Perfect bindings. From the Artist's Books collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "commercial binding",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+	{
+      "@id": "http://opaquenamespace.org/ns/technique/crossstructurebinding",
+      "@type": "Concept",
+      "comment": ". From the Artist's Books collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "cross-structure binding",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+	{
+      "@id": "http://opaquenamespace.org/ns/technique/hingedbinding",
+      "@type": "Concept",
+	  "alternateName": "crossed structure binding",
+      "comment": "Binding produced by interlaced straps attached to both boards to which the text block is sewn. From the Artist's Books collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "hinged binding",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+	{
+      "@id": "http://opaquenamespace.org/ns/technique/librarynewspaperstick",
+      "@type": "Concept",
+      "comment": "From the Artist's Books collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "library newspaper stick",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+	{
+      "@id": "http://opaquenamespace.org/ns/technique/longstitching",
+      "@type": "Concept",
+      "comment": "Binding produced by sewing the text block to the binding in stitches on the spine and parallel to it. From the Artist's Books collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "long stitching",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+	{
+      "@id": "http://opaquenamespace.org/ns/technique/postandscrewbinding",
+      "@type": "Concept",
+      "comment": "A form of Stab binding with utilizes metal screws that fit inside metal posts which penetrate edge of the cover and text block near the spine. From the Artist's Books collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "post and screw binding",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+	{
+      "@id": "http://opaquenamespace.org/ns/technique/rubberbandbinding",
+      "@type": "Concept",
+      "comment": "Binding that uses rubber bands in place of sewing thread or that hold together an otherwise unbound structure in its entirety. From the Artist's Books collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "rubber band binding",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+	{
+      "@id": "http://opaquenamespace.org/ns/technique/skewerbinding",
+      "@type": "Concept",
+      "comment": "Binding produced that utilize long, thin rods, often bamboo, in combination with loops or perforations in the leaves of the text block and/or cover along the spine. From the Artist's Books collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "skewer binding",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+	{
+      "@id": "http://opaquenamespace.org/ns/technique/wrappedlongstitching",
+      "@type": "Concept",
+      "comment": "From the Artist's Books collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "wrapped long stitching",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+	{
+      "@id": "http://opaquenamespace.org/ns/technique/Frechstitching",
+      "@type": "Concept",
+      "comment": "Exposed binding by which the text block is attached to tapes with cross-stitched threads. From the Artist's Books collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "French stitching",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+	{
+      "@id": "http://opaquenamespace.org/ns/technique/artistsbooks/other",
+      "@type": "Concept",
+      "comment": "Undefined biding method. From the Artist's Books collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "other",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
       "@id": "http://opaquenamespace.org/ns/technique/scratching",
       "@type": "Concept",
       "comment": "Drawing process using irregular shallow incised lines",

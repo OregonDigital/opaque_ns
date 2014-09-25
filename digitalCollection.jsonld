@@ -491,7 +491,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/digitalCollection/UniversityofOregonArchivesPhotographs",
+      "@id": "http://opaquenamespace.org/ns/digitalCollection/AfricanPoliticalEphemeraandRealia",
       "@type": "Concept",
       "comment": "UO Digital Collection",
       "definedBy": {
@@ -499,12 +499,301 @@
       },
       "issued": {
         "@type": "date",
-        "@value": "2014-05-13"
+        "@value": "2014-09-23"
       },
-      "label": "University of Oregon Libraries. University of Oregon Archives Photographs.",
+      "label": "University of Oregon Libraries. African Political Ephemera and Realia.",
       "modified": {
         "@type": "date",
-        "@value": "2014-05-15"
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/digitalCollection/HistoricSheetMusic",
+      "@type": "Concept",
+      "comment": "UO Digital Collection",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "University of Oregon Libraries. Historic Sheet Music.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/digitalCollection/NorthwestFolklifeDigitalCollection",
+      "@type": "Concept",
+      "comment": "UO Digital Collection",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "University of Oregon Libraries. Northwest Folklife Digital Collection.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/digitalCollection/CharlesWFurlong18741967photographs",
+      "@type": "Concept",
+      "comment": "UO Digital Collection",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-24"
+      },
+      "label": "University of Oregon Libraries. Charles W. Furlong (1874-1967) photographs.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-24"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/digitalCollection/AlbumCollection",
+      "@type": "Concept",
+      "comment": "UO Digital Collection",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-24"
+      },
+      "label": "University of Oregon Libraries. Album Collection.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-24"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/digitalCollection/AngelusStudiophotographs",
+      "@type": "Concept",
+      "comment": "UO Digital Collection",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-24"
+      },
+      "label": "University of Oregon Libraries. Angelus Studio photographs.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-24"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/digitalCollection/CLAndrews18621948photographs",
+      "@type": "Concept",
+      "comment": "UO Digital Collection",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-24"
+      },
+      "label": "University of Oregon Libraries. C.L. Andrews (1862-1948) photographs.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-24"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/digitalCollection/DanPowellphotographs1970s2000s",
+      "@type": "Concept",
+      "comment": "UO Digital Collection",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-24"
+      },
+      "label": "University of Oregon Libraries. Dan Powell photographs, 1970s-2000s.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-24"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/digitalCollection/ElectricStudioOGAllenphotographsca19111913",
+      "@type": "Concept",
+      "comment": "UO Digital Collection",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-24"
+      },
+      "label": "University of Oregon Libraries. Electric Studio/O.G. Allen photographs, ca. 1911-1913.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-24"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/digitalCollection/GertrudeBassWarner18631951photographs",
+      "@type": "Concept",
+      "comment": "UO Digital Collection",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-24"
+      },
+      "label": "University of Oregon Libraries. Gertrude Bass Warner (1863-1951) photographs.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-24"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/digitalCollection/GraysonMathews19482007photographs1970s1990s",
+      "@type": "Concept",
+      "comment": "UO Digital Collection",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-24"
+      },
+      "label": "University of Oregon Libraries. Grayson Mathews (1948-2007) photographs, 1970s-1990s.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-24"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/digitalCollection/JamesCloutierphotographs1977",
+      "@type": "Concept",
+      "comment": "UO Digital Collection",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-24"
+      },
+      "label": "University of Oregon Libraries. James Cloutier photographs, 1977.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-24"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/digitalCollection/JohnBauguessphotographs1970s",
+      "@type": "Concept",
+      "comment": "UO Digital Collection",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-24"
+      },
+      "label": "University of Oregon Libraries. John Bauguess photographs, 1970s.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-24"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/digitalCollection/LeeDDrake18821957photographsca19101957",
+      "@type": "Concept",
+      "comment": "UO Digital Collection",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-24"
+      },
+      "label": "University of Oregon Libraries. Lee D. Drake (1882-1957) photographs, ca. 1910-1957.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-24"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/digitalCollection/LeeMoorhouse18501926photographs18881916",
+      "@type": "Concept",
+      "comment": "UO Digital Collection",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-24"
+      },
+      "label": "University of Oregon Libraries. Lee Moorhouse (1850-1926) photographs, 1888-1916.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-24"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/digitalCollection/RandallVMillsTransportationCollection19071952photographsc19371952",
+      "@type": "Concept",
+      "comment": "UO Digital Collection",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-24"
+      },
+      "label": "University of Oregon Libraries. Randall V. Mills Transportation Collection (1907-1952) photographs, c. 1937-1952.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-24"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/digitalCollection/RoyCAndrewsphotographs19021955",
+      "@type": "Concept",
+      "comment": "UO Digital Collection",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-24"
+      },
+      "label": "University of Oregon Libraries. Roy C. Andrews photographs, 1902-1955.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-24"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/digitalCollection/WalterSBowman18651938photographs1880s1920s",
+      "@type": "Concept",
+      "comment": "UO Digital Collection",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-24"
+      },
+      "label": "University of Oregon Libraries. Walter S. Bowman (1865-1938) photographs, 1880s-1920s.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-24"
       }
     },
     {

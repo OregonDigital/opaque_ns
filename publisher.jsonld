@@ -165,6 +165,1859 @@
       }
     },
     {
+      "@id": "http://opaquenamespace.org/ns/publisher/AWhitePubCo",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "A. White Pub. Co.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/Abscond",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Abscond",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/AjaxPress",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Ajax Press",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/AlefBeis",
+      "@type": "PersonalName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "ALef-Beis",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/Alejandro",
+      "@type": "PersonalName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Alejandro",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/AndromedaPrintingandGraphicArtCo",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Andromeda Printing and Graphic Art Co.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/ArchitecturalAssociation",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Architectural Association",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/ArdisLLetey",
+      "@type": "PersonalName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Ardis L. Letey",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/Artandart",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Art & art",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/Aubes3935Galerie",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Aubes 3935 Galerie",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/AvidanDafna",
+      "@type": "PersonalName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Avidan, Dafna",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/BedfordArts",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Bedford Arts",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/BisPublishers",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Bis Publishers",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/BlanchetteCalvin",
+      "@type": "PersonalName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Blanchette, Calvin",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/BlochRicardo",
+      "@type": "PersonalName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Bloch, Ricardo",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/BlueBarrelPress",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Blue Barrel Press",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/BookWorks",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Book Works",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/CaledonianMacBrain",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Caledonian MacBrain",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/Calendar",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Calendar",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/CarotucciaPress",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Carotuccia Press",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/CharubyPress",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Charuby Press",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/ColdDrillBooksBoiseStateUniversity",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Cold-Drill Books, Boise State University",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/Collectionducommerce",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Collection du commerce",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/CrapHound",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Crap Hound",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/Cremedelacreme",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Creme de la creme",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/CrossroadsNoveltyCorp",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Crossroads Novelty Corp.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/DailyEdition",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Daily Edition",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/DeVeasKristinaYoshimi",
+      "@type": "PersonalName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "De Veas, Kristina Yoshimi",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/DomeEditions",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Dome Editions",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/DryReadingPress",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Dry Reading Press",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/EditionDacic",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Edition Dacic'",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/EditionFrickeSchmid",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Edition Fricke & Schmid",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/Editionsdelobservatoire",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Editions de l'observatoire",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/EditionsdesMassons",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Editions des Massons",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/ElwingJonathan",
+      "@type": "PersonalName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Elwing, Jonathan",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/EMUGallery",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "EMU Gallery",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/EnglishLanguagePress",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "English Language Press",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/Enlightenment",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Enlightenment",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/ExPress",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Ex Press",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/FieryCannon",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Fiery Cannon",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/FingerintheDykeProductions",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Finger in the Dyke Productions",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/GMurrayGallery",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "G. Murray Gallery",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/GalleriePublications",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Gallerie Publications",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/GalleryBrunoBischofberger",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Gallery Bruno Bischofberger",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/GreenLight",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Green Light",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/GWPress",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "GW Press",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/HerberKarl",
+      "@type": "PersonalName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Herber, Karl",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/IchthysBooks",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Ichthys Books",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/InternationalGeneral",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "International General",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/JalexProduction",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Jalex Production",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/JeanDominiqueCarréArchivesLibrairie",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Jean-Dominique Carré, Archives Librairie",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/KertellRobert",
+      "@type": "PersonalName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Kertell, Robert",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/KetchartPranuda",
+      "@type": "PersonalName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Ketchart, Pranuda",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/KingLaurence",
+      "@type": "PersonalName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "King, Laurence",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/KornishaPress",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Kornisha Press",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/KuklapolitanPress",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Kuklapolitan Press",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/LaCabanesurleChien",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "La Cabane sur le Chien",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/LetterpressFall1994UniversityofOregon",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Letterpress, Fall 1994, University of Oregon",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/LTTR",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "LTTR",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/MLDArcGallery",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "M.L. D'Arc Gallery",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/ManualInc",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Manual Inc.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/Maro",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Maro",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/MiddletownPress",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Middletown Press",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/MonacelliPress",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Monacelli Press",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/OldStraightTrackPress",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Old Straight Track Press",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/OPMBridge",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "OPM/Bridge",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/Osbornbook",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Osbornbook",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/OutonALimb",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Out-on A-Limb",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/PDavidPress",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "P. David Press",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/PBParadisePress",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "PBParadise Press",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/PembrokePress",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Pembroke Press",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/PhysicalLanguageLaboratory",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Physical Language Laboratory",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/Pirella",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Pirella",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/Polygon",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Polygon",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/PorterhouseFineArtEditions",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Porterhouse Fine Art Editions",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/powerHouseBooks",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "powerHouse Books",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/PrattTerri",
+      "@type": "PersonalName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Pratt, Terri",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/Press451",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Press 451",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/RayViolet",
+      "@type": "PersonalName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Ray, Violet",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/RealComePress",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Real Comet Press",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/RedstonePress",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Redstone Press",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/SigmaFoundation",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Sigma Foundation",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/SimplyBooks",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Simply Books",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/SimpsonGordon",
+      "@type": "PersonalName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Simpson, Gordon",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/SmithMichael",
+      "@type": "PersonalName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Smith, Michael",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/SnyderJanice",
+      "@type": "PersonalName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Snyder, Janice",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/SpiegelmanLon",
+      "@type": "PersonalName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Spiegelman, Lon",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/StewartJem",
+      "@type": "PersonalName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Stewart, Jem",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/StopOverPress",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Stop Over Press",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/TeaGardenPress",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Tea Garden Press",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/TheBillionthPress",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "The Billionth Press",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/ThePress",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "The Press",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/TheVanishingRotatingTriangleTVRT",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "The Vanishing Rotating Triangle (T.V.R.T.)",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/TransientBooks",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Transient Books",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/Trolley",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Trolley",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/Turnaround",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Turnaround",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/TurnerIanLindsay",
+      "@type": "PersonalName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Turner, Ian Lindsay",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/Typography381LetterpressClassUniversityofOregon",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Typography 381 Letterpress Class University of Oregon",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/UniversityofOregonDeptofFineandAppliedArtsArtistsBooksCourse",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "University of Oregon, Dept. of Fine and Applied Arts, Artists' Books Course",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/Vesuvius",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Vesuvius",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/VisualArts",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Visual Arts",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/WarehousePublications",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Warehouse Publications",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/WedgePress",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Wedge Press",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/WhatReindeer",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "What Reindeer",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/WordsandPictures",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Words & Pictures",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/WorksPress",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Works Press",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/WrightJohn",
+      "@type": "PersonalName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Wright, John",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/YangSugene",
+      "@type": "PersonalName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Yang, Sugene",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/publisher/ZartscorpBooks",
+      "@type": "CorporateName",
+      "comment": "Artist's Book Collection.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      },
+      "label": "Zartscorp Books",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-23"
+      }
+    },
+    {
       "@id": "http://opaquenamespace.org/ns/publisher/SportsPublicationsIncEugeneOr",
       "@type": "CorporateName",
       "definedBy": {
