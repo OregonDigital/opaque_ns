@@ -145,7 +145,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/localCollectionName/BowmanWalterSPhotographsn",
+      "@id": "http://opaquenamespace.org/ns/localCollectionName/BowmanWalterSPhotographs",
       "@type": "Concept",
       "comment": "Collection in Special Collection and University Archives, University of Oregon.",
       "date": "active 2013-2014",
