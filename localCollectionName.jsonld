@@ -26839,6 +26839,330 @@
         "@type": "date",
         "@value": "2014-09-04"
       }
-    }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/localCollectionName/UniversityPhotographicCollection",
+      "@type": "Concept",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-30"
+      },
+      "label": "University Photographic Collection",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-30"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/localCollectionName/UAREF3UniversityPhotographicCollection",
+      "@type": "Concept",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-30"
+      },
+      "label": "UA_REF_3; University Photographic Collection",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-30"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/localCollectionName/BillBowermanpapers19321999",
+      "@type": "Concept",
+      "comment": "UA 003 Collection in Special Collections and University Archives, University of Oregon",
+      "date": "1932-1999",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-30"
+      },
+      "label": "Bill Bowerman papers, 1932-1999",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-30"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/localCollectionName/UniversityPhotographCollection1846",
+      "@type": "Concept",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-30"
+      },
+      "label": "University Photograph Collection, 1846-",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-30"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/localCollectionName/UniversityPhotosPaulHarveyIV",
+      "@type": "Concept",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-30"
+      },
+      "label": "University Photos - Paul Harvey, IV.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-30"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/localCollectionName/FrederickWallaceWilsonCollection",
+      "@type": "Concept",
+      "comment": "Mss 2167 Collection in Oregon Historical Society",
+      "date": "1856-1942",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-30"
+      },
+      "label": "Frederick Wallace Wilson Collection",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-30"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/localCollectionName/PrintCollection",
+      "@type": "Concept",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-30"
+      },
+      "label": "Print Collection",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-30"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/localCollectionName/UOLibrariesMapCollectionOCSW",
+      "@type": "Concept",
+      "comment": "Map Collection of University of Oregon Libraries",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-30"
+      },
+      "label": "UO Libraries: Map Collection; OCSW",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-30"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/localCollectionName/OfficeofthePresidentRecordsRobertDClark",
+      "@type": "Concept",
+      "comment": "UA 001.012 Collection in Special Collections and University Archives, University of Oregon",
+      "date": "1969-1976",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-30"
+      },
+      "label": "Office of the President Records, Robert D. Clark",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-30"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/localCollectionName/OfficeofthePresidentRecordsArthurSFlemming",
+      "@type": "Concept",
+      "comment": "Collection in Special Collections and University Archives, University of Oregon",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-30"
+      },
+      "label": "Office of the President Records, Arthur S. Flemming",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-30"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/localCollectionName/OldOregon",
+      "@type": "Concept",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-30"
+      },
+      "label": "Old Oregon",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-30"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/localCollectionName/WesleyGoodsonNicholsonPapers",
+      "@type": "Concept",
+      "comment": "Collection in Special Collections and University Archives, University of Oregon",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-30"
+      },
+      "label": "Wesley Goodson Nicholson Papers",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-30"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/localCollectionName/KenMetzlerPapers",
+      "@type": "Concept",
+      "comment": "UA 007 Collection in Special Collections and University Archives, University of Oregon",
+      "date": "1968-1971",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-30"
+      },
+      "label": "Ken Metzler Papers",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-30"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/localCollectionName/Oregana1969",
+      "@type": "Concept",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-30"
+      },
+      "label": "Oregana1969",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-30"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/localCollectionName/LauraJBockPapers",
+      "@type": "Concept",
+      "comment": "UA 018 Collection in Special Collections and University Archives, University of Oregon",
+      "date": "1962-1969",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-30"
+      },
+      "label": "Laura J. Bock Papers",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-30"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/localCollectionName/OfficeofthePresidentRecordsJohnsonHawk196869",
+      "@type": "Concept",
+      "comment": "Collection in Special Collections and University Archives, University of Oregon",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-30"
+      },
+      "label": "Office of the President Records, Johnson-Hawk (1968-69)",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-30"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/localCollectionName/RobertDClarkPapers",
+      "@type": "Concept",
+      "comment": "UA 144 Collection in Special Collections and University Archives, University of Oregon",
+      "date": "1958-1975",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-30"
+      },
+      "label": "Robert D. Clark Papers",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-30"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/localCollectionName/OfficeofthePresidentRecordsOMeredithWilson",
+      "@type": "Concept",
+      "comment": "UA 010 Collection in Special Collections and University Archives, University of Oregon",
+      "date": "1929-1989",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-30"
+      },
+      "label": "Office of the President Records, O. Meredith Wilson",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-30"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/localCollectionName/OfficeofthePresidentRecordsCharlesEJohnson",
+      "@type": "Concept",
+      "comment": "UA 008 Collection in Special Collections and University Archives, University of Oregon",
+      "date": "1942-1968",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-30"
+      },
+      "label": "Office of the President Records, Charles E. Johnson",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-30"
+       }
+    } 
   ]
 }
