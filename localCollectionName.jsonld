@@ -27147,6 +27147,42 @@
       }
     },
     {
+      "@id": "http://opaquenamespace.org/ns/localCollectionName/AbigailScottDuniwayPapers18521992",
+      "@type": "Concept",
+      "comment": "Coll 232B Collection in Special Collections and University Archives, University of Oregon",
+      "date": "1929-1989",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-30"
+      },
+      "label": "Abigail Scott Duniway Papers, 1852-1992",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-30"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/localCollectionName/Manuscriptscollection",
+      "@type": "Concept",
+      "comment": "Special Collections and University Archives, University of Oregon",
+      "date": "1929-1989",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-30"
+      },
+      "label": "Manuscripts collection",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-30"
+      }
+    },
+    {
       "@id": "http://opaquenamespace.org/ns/localCollectionName/OfficeofthePresidentRecordsCharlesEJohnson",
       "@type": "Concept",
       "comment": "UA 008 Collection in Special Collections and University Archives, University of Oregon",
