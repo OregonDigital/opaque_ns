@@ -1075,6 +1075,42 @@
         "@value": "2014-09-12"
       },
       "range": "rdfs:Class"
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/collectedDate",
+      "@type": "Property",
+      "comment": "The date the original resource was collected.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-30"
+      },
+      "label": "Collected Date",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-30"
+      },
+      "range": "Date"
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/specimenType",
+      "@type": "Property",
+      "comment": "The specimen which formed the basis of the original description.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-09-30"
+      },
+      "label": "Specimen Type",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-09-30"
+      },
+      "range": "rdf:Literal"
     }
   ]
 }
