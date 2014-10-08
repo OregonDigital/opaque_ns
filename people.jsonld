@@ -54423,6 +54423,134 @@
         "@type": "date",
         "@value": "2014-07-10"
       }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/creator/BuckEliza",
+      "@type": "PersonalName",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-08"
+      },
+      "label": "Buck, Eliza",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-08"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/creator/CastellanozEva",
+      "@type": "PersonalName",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-08"
+      },
+      "label": "Castellanoz, Eva",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-08"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/creator/ChildesLeila",
+      "@type": "PersonalName",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-08"
+      },
+      "label": "Childes, Leila",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-08"
+      }
+    },
+     {
+      "@id": "http://opaquenamespace.org/ns/creator/JonesSuzi",
+      "@type": "PersonalName",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-08"
+      },
+      "label": "Jones, Suzi",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-08"
+      }
+    },
+     {
+      "@id": "http://opaquenamespace.org/ns/creator/KodishDeborah",
+      "@type": "PersonalName",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-08"
+      },
+      "label": "Kodish, Deborah",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-08"
+      }
+    },
+     {
+      "@id": "http://opaquenamespace.org/ns/creator/LoomisOrmond",
+      "@type": "PersonalName",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-08"
+      },
+      "label": "Loomis, Ormond",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-08"
+      }
+    },
+     {
+      "@id": "http://opaquenamespace.org/ns/creator/NuszNancy",
+      "@type": "PersonalName",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-08"
+      },
+      "label": "Nusz, Nancy",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-08"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/creator/MorinJonesMaryan",
+      "@type": "PersonalName",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-08"
+      },
+      "label": "Morin-Jones, Maryan",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-08"
+      }
     }
   ]
 }
