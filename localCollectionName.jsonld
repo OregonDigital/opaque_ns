@@ -26843,6 +26843,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/localCollectionName/UniversityPhotographicCollection",
       "@type": "Concept",
+      "comment": "University of Oregon Special Collections and University Archives.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -26856,22 +26857,7 @@
         "@value": "2014-09-30"
       }
     },
-    {
-      "@id": "http://opaquenamespace.org/ns/localCollectionName/UAREF3UniversityPhotographicCollection",
-      "@type": "Concept",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@type": "date",
-        "@value": "2014-09-30"
-      },
-      "label": "UA_REF_3; University Photographic Collection",
-      "modified": {
-        "@type": "date",
-        "@value": "2014-09-30"
-      }
-    },
+  
     {
       "@id": "http://opaquenamespace.org/ns/localCollectionName/BillBowermanpapers19321999",
       "@type": "Concept",
