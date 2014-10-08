@@ -49491,6 +49491,125 @@
         "@type": "date",
         "@value": "2014-08-25"
       }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/subject/WilliamMoore",
+      "@type": "PersonalName",
+      "comment": "Artist.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "William Moore",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      }
+    },
+	{
+      "@id": "http://opaquenamespace.org/ns/subject/unidentifiedmale",
+      "@type": "PersonalName",
+      "comment": "Artist.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "unidentified male",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      }
+     },
+	  {
+      "@id": "http://opaquenamespace.org/ns/creator/MeehanHoward",
+      "@type": "PersonalName",
+      "comment": "Artist",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-06-13"
+      },
+      "label": "Meehan, Howard",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-06-13"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/creator/MeehanKathleen",
+      "@type": "PersonalName",
+      "comment": "Artist",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-06-13"
+      },
+      "label": "Meehan, Kathleen",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-06-13"
+      }
+    },
+	  {
+      "@id": "http://opaquenamespace.org/ns/subject/KarenGuzak",
+      "@type": "PersonalName",
+      "comment": "Artist.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Karen Guzak",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      }
+    },
+	 {
+      "@id": "http://opaquenamespace.org/ns/subject/unidentifiedmale",
+      "@type": "PersonalName",
+      "comment": "Artist.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "unidentified male",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      }
+    },
+	    {
+      "@id": "http://opaquenamespace.org/ns/subject/MichiKosuge",
+      "@type": "PersonalName",
+      "comment": "Artist.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      },
+      "label": "Michi Kosuge",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-07-10"
+      }
     }
   ]
 }
