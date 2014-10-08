@@ -54551,6 +54551,1414 @@
         "@type": "date",
         "@value": "2014-10-08"
       }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/ClineLawrence",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Cline, Lawrence",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/ParksLennie",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Parks, Lennie",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/RapauchPaul",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Rapauch, Paul",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/DeWittGale",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "DeWitt, Gale",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/HiattWaldo",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Hiatt, Waldo",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/TuckerSam",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Tucker, Sam",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/McKayDonald",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "McKay, Donald",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/WalrusHarry",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Walrus, Harry",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/GilmanClara",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Gilman, Clara",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/CarsonCG",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Carson, C.G.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/WitworthVester",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Witworth, Vester",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/HupprichAntone",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Hupprich, Antone",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/ReinhartGeorge",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Reinhart, George",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/ElmerCarl",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Elmer, Carl",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/BeridugoChino",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Beridugo, Chino",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/GowenEnidCawlfield",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Gowen, Enid Cawlfield",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/CawlfieldMaryB",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Cawlfield, Mary B.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/MillerRoseHenderson",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Miller, Rose Henderson",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/AdamsJames",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Adams, James",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/HowserMrs",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Howser, Mrs.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/HaleBessie",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Hale, Bessie",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/SmithNellie",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Smith, Nellie",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/BraninDenis",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Branin, Denis",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/ForbesPL",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Forbes, P.L.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/BernardAndrewSenoir",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Bernard, Andrew, Senoir",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/RussellGeorge",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Russell, George",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/MooreMedford",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Moore, Medford",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/KundretVictoriaCombs",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Kundret, Victoria Combs",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/DorrellCoraPearl",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Dorrell, Cora Pearl",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/JohnsonSarah",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Johnson, Sarah",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/SmithEH",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Smith, E.H.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/HughesWJBilly",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Hughes, W.J. Billy",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/HamleysSaddlery",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Hamleys Saddlery",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/ClevengerVernon",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Clevenger, Vernon",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/MotherofBowmanRay",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Mother of Bowman, Ray",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/MitchellTE",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Mitchell, T.E.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/GrahmRalph",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Grahm, Ralph",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/ThomasonCarolineWasson",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Thomason, Caroline Wasson",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/SchminckLulu",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Schminck, Lulu",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/SchminckHugo",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Schminck, Hugo",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/HumphreyMrsAL",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Humphrey, Mrs. A.L.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/FosterElizabethCurrier",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Foster, Elizabeth Currier",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/SunbladeGus",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Sunblade, Gus",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/NeilLou",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Neil, Lou",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/HyattDolores",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Hyatt, Dolores",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/JohnsonLottie",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Johnson, Lottie",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/WarnockEva",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Warnock, Eva",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/TrumpCordellish",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Trump, Cordellish",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/OsborneEltie",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Osborne, Eltie",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/RounsavellCarrie",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Rounsavell, Carrie",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/LindseyFrank",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Lindsey, Frank",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/LindseyEmma",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Lindsey, Emma",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/WeinhardNinaMiller",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Weinhard, Nina Miller",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/BoydMargurite",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Boyd, Margurite",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/StenkampJohn",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Stenkamp, John",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/DykunBarbara",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Dykun, Barbara",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/BrickyCH",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Bricky, C.H.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/EvansLaura",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Evans, Laura",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/SmithMarie",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Smith, Marie",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/CochranLucy",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Cochran, Lucy",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/PedersenBente",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Pedersen, Bente",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/HahnFrances",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Hahn, Frances",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/EndicottEllen",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Endicott, Ellen",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/SundbaumDagney",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Sundbaum, Dagney",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/MauryLawrencePike",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Maury, Lawrence Pike",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/CoulterFrankEvans",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Coulter, Frank Evans",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/RoyCaptainJesseL",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Roy, Captain Jesse L.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/EnegrenCharles",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Enegren, Charles",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/OConnorEllen",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "O'Connor, Ellen",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/HumbertGeorge",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Humbert, George",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/JonesEaster",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Jones, Easter",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/VenableCustomKnives",
+        "@type": "CorporateName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Venable Custom Knives",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/TomsBootShop",
+        "@type": "CorporateName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Tom's Boot Shop",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/MastersonSaddleryCo",
+        "@type": "CorporateName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Masterson Saddlery Co.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/RoddasSaddlesandShop",
+        "@type": "CorporateName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Rodda's Saddles & Shop",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/WallowaLakeLodge",
+        "@type": "CorporateName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Wallowa Lake Lodge",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/OstersRawhideProducts",
+        "@type": "CorporateName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Oster's Rawhide Products",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/CarlElmerSaddlery",
+        "@type": "CorporateName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Carl Elmer Saddlery",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/SaveYourLostSole",
+        "@type": "CorporateName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Save Your Lost Sole",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/BurnsBootShop",
+        "@type": "CorporateName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Burns Boot Shop",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/BatesAyersWeldingShop",
+        "@type": "CorporateName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Bates-Ayers Welding Shop",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/Lincecums",
+        "@type": "CorporateName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Lincecum's",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/UnionMuseum",
+        "@type": "CorporateName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Union Museum",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/CommunityProject",
+        "@type": "CorporateName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Community Project",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/DurkeeCaf\u00e9",
+        "@type": "CorporateName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Durkee Caf\u00e9",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/BaltzorsWillowConstructions",
+        "@type": "CorporateName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Baltzor's Willow Constructions",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/ChineseArtStudio",
+        "@type": "CorporateName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Chinese Art Studio",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/ChetcoValleyHistoricalSocietyMuseum",
+        "@type": "CorporateName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Chetco Valley Historical Society Museum",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
     }
   ]
 }
