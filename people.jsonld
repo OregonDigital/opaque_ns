@@ -51969,6 +51969,1332 @@
       }
     },
     {
+      "@id": "http://opaquenamespace.org/ns/people/BellJordanT",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Mens' Basketball, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Bell, Jordan T.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/BensonCaseyB",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Mens' Basketball, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Benson, Casey B.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/YoungJosephM",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Mens' Basketball, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Young, Joseph M.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/RorieAhmaad",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Mens' Basketball, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Rorie, Ahmaad",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/BrooksDillon",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Mens' Basketball, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Brooks, Dillon",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/ChandlerMichael",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Mens' Basketball, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Chandler, Michael",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/BaumgartenBrandonL",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Mens' Golf, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Baumgarten, Brandon",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/BonnerAndrewM",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Mens' Golf, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Bonner, Andrew M.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/CarterMaxwellJ",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Mens' Golf, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Carter, Maxwell J.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/FousheeZacharyS",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Mens' Golf, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Foushee, Zachary S.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/LettNigelW",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Mens' Golf, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Lett, Nigel W.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/LimThomasF",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Mens' Golf, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Lim, Thomas F.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/LongChristopherHurlyH",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Mens' Golf, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Long, Christopher 'Hurley' H.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/ParkLukeT",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Mens' Golf, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Park, Luke T.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/WiseAaron",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Mens' Golf, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Wise, Aaron",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/WooJonathanK",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Mens' Golf, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Woo, Jonathan K.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/BushSam",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Mens' Tennis, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Bush, Sam",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/MarcinkowskiAlexanderR",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Mens' Tennis, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Marcinkowski, Alexander R.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/ReyesAlberto",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Mens' Tennis, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Reyes, Alberto",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/StevensSimon",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Mens' Tennis, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Stevens, Simon",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/SwayslandJosephJ",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Mens' Tennis, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Swaysland, Joseph J.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/DelgadoJosephJ",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Mens' Track and Field, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Delgado, Joseph J.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/LattChristopherJordanJ",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Mens' Track and Field, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Latt, Christopher 'Jordan' J.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/LaubacherBradleyJ",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Mens' Track and Field, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Laubacher, Bradley J.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/McArdleMarcusN",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Mens' Track and Field, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "McArdle, Marcus N.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/MeluJoshua",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Mens' Track and Field, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Melu, Joshua",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/ModinMitchG",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Mens' Track and Field, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Modin, Mitch G.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/PerkinsRonaldRonJ",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Mens' Track and Field, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Perkins, Ronald 'Ron' J.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/PrenaCullenP",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Mens' Track and Field, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Prena, Cullen P.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/SkipperGregoryK",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Mens' Track and Field, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Skipper, Gregory K.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/ThielBenjaminD",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Mens' Track and Field, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Thiel, Benjamin D.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/WalshColeR",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Mens' Track and Field, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Walsh, Cole R.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/WhiteAustinO",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Mens' Track and Field, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "White, Austin O.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/WillyardBrettD",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Mens' Track and Field, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Willyard, Brett D.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/BandoAlexisE",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Women's Basketball, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Bando, Alexis E.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/VandenbergJacintaC",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Women's Basketball, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Vandenberg, Jacinta C.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/NeubertTatumJ",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Women's Basketball, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Neubert, Tatum J.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/ConderMeganR",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Women's Golf, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Conder, Megan R.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/MurphyBrennaE",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Women's Golf, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Murphy, Brenna E.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/PranoviaMarcella",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Women's Golf, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Pranovia, Marcella",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/SantosoCathleen",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Women's Golf, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Santoso, Cathleen",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/UlepKelseyN",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Women's Golf, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Ulep, Kelsey N.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/MorrisJennaC",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Women's Lacross, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Morris, Jenna C.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/MarlattKatherineKatieT",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Women's Lacross, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Matlatt, Katherine 'Katie' T.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/HeskethJoannaL",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Women's Lacross, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Hesketh, Joanna L.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/KailLindseyA",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Women's Lacross, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Kail, Lindsey A.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/MurphyEvanA",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Women's Lacross, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Murphy, Evan A.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/TerefenkoMadisonMaddieM",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Women's Lacross, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Terefenko, Madison 'Maddie' M.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/ModlyNatalieR",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Women's Lacross, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Modly, Natalie R.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/OConnellCarlyE",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Women's Lacross, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "O'Connell, Carley E.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/ZubillagaJillian",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Women's Lacross, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Zubillaga, Jillian",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/KatzenRebeccaBeccaC",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Women's Lacross, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Katzen, Rebecca 'Becca' C.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/BlumhardtKathrynC",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Women's Lacross, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Blumhardt, Kathryn C.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/MichaelDevanP",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Women's Lacross, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Michael, Devan P.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/LongtainAnnaAnnieS",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Women's Lacross, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Longtain, Anna 'Annie' S.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/CukarCambrianCambiJ",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Women's Lacross, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Cukar, Cambrian 'Cambi' J.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/WalkerRachel",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Women's Lacross, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Walker, Rachel",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/SchilmoellerErinF",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Women's Lacross, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Schilmoeller, Erin F.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/GattiMariahMarK",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Women's Lacross, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Gatti, Maria 'Mar' K.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/ParkerJanelleC",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Women's Lacross, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Parker, Janelle C.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/LindvallLaurenD",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Women's Softball, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Lindvall, Lauren D.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/GlascoGeriGeriAnnA",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Women's Softball, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Glasco, Geri 'Geri Ann' A.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/DeckerHaileyC",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Women's Softball, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Decker, Hailey C.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/SvekisGuinevereGwenM",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Women's Softball, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Svekis, Guinevere 'Gwen' M.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/PowellCheyeneN",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Women's Softball, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Powell, Cheyene N.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/TobitaAlyssaT",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Women's Tennis, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Tobita, Alyssa T.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/RoseNiaA",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Women's Tennis, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Rose, Nia A.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/MannBrittanyT",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Women's Track and Field, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Mann, Brittany T.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/MiddlebrooksMadelineO",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Women's Track and Field, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Middlebrooks, Madeline O.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/OdleFeliciaM",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Women's Track and Field, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Odle, Felicia M.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/RowleeAlishaJ",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Women's Track and Field, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Rowlee, Alisha J.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/SantMarybethE",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Women's Track and Field, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Sant, Marybeth E.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/SensLaurenE",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Women's Track and Field, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Sens, Lauren E.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/SummersChanceP",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Women's Track and Field, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Summers, Chance P.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/ThomasClaireP",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Women's Track and Field, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Thomas, Claire P.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/VarelaMadelayneE",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Women's Track and Field, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Varela, Madelayne E.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/WeirJillianL",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Women's Track and Field, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Weir, Jullian L.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/WhitfieldAnnieN",
+      "@type": "PersonalName",
+      "comment": "Univeristy of Oregon Women's Track and Field, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      },
+      "label": "Whitfield, Annie N.",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-10-10"
+      }
+    },
+    {
       "@id": "http://opaquenamespace.org/ns/creator/MorinJonesMaryan",
       "@type": "PersonalName",
       "definedBy": {
