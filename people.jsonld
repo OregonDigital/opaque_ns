@@ -25781,7 +25781,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/people/Ka'aiLakeK",
+      "@id": "http://opaquenamespace.org/ns/people/KaaiLakeK",
       "@type": "PersonalName",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -34949,7 +34949,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/people/O'ConnellCarlyE",
+      "@id": "http://opaquenamespace.org/ns/people/OConnellCarlyE",
       "@type": "PersonalName",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -34981,7 +34981,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/people/O'DonnellBrianK",
+      "@id": "http://opaquenamespace.org/ns/people/ODonnellBrianK",
       "@type": "PersonalName",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -34997,7 +34997,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/people/O'DonnellMorganS",
+      "@id": "http://opaquenamespace.org/ns/people/ODonnellMorganS",
       "@type": "PersonalName",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -35109,7 +35109,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/people/O'LearyAlanB",
+      "@id": "http://opaquenamespace.org/ns/people/OLearyAlanB",
       "@type": "PersonalName",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -35301,7 +35301,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/people/O'MalleyColleenE",
+      "@id": "http://opaquenamespace.org/ns/people/OMalleyColleenE",
       "@type": "PersonalName",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -35317,7 +35317,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/people/O'NeillDavidM",
+      "@id": "http://opaquenamespace.org/ns/people/ONeillDavidM",
       "@type": "PersonalName",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -35381,7 +35381,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/people/O'RourkeLeo",
+      "@id": "http://opaquenamespace.org/ns/people/ORourkeLeo",
       "@type": "PersonalName",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -35397,7 +35397,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/people/O'RourkeRandy",
+      "@id": "http://opaquenamespace.org/ns/people/ORourkeRandy",
       "@type": "PersonalName",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -35477,7 +35477,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/people/O'TooleWilliamS",
+      "@id": "http://opaquenamespace.org/ns/people/OTooleWilliamS",
       "@type": "PersonalName",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -44629,7 +44629,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/people/ThomasDe'AnthonyM",
+      "@id": "http://opaquenamespace.org/ns/people/ThomasDeAnthonyM",
       "@type": "PersonalName",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -55897,7 +55897,7 @@
         }
     },
     {
-        "@id": "http://opaquenamespace.org/ns/people/DurkeeCaf\u00e9",
+        "@id": "http://opaquenamespace.org/ns/people/DurkeeCafe",
         "@type": "CorporateName",
         "definedBy": {
             "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -55906,7 +55906,7 @@
             "@type": "date",
             "@value": "2014-07-09"
         },
-        "label": "Durkee Caf\u00e9",
+        "label": "Durkee Caf",
         "modified": {
             "@type": "date",
             "@value": "2014-07-09"

@@ -207,7 +207,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/stylePeriod/ArtEvoluci\u00f3",
+      "@id": "http://opaquenamespace.org/ns/stylePeriod/ArtEvolucio",
       "@type": "Concept",
       "comment": "Robinson, William H, Jordi Falg\u00e0s, and Carmen Belen Lord; Barcelona and Modernity: Picasso, Gaud\u00ed, Mir\u00f3, Dal\u00ed, Cleveland, New Haven: Cleveland Museum of Art, Yale University Press, 2006. A Spanish avant-garde movement associated with Joaqu\u00edn Torres-Garc\u00eda.  His focus on the subject of the city offered a clean break from the classicism of Noucentisme and was well suited for his experiments in cubist form.  Art-Evoluci\u00f3 was one of the first movements in Spain to integrate the formal innovations and theories prevalent in the broader European avant-garde.    ",
       "definedBy": {
@@ -428,7 +428,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/stylePeriod/Bunky\u016b",
+      "@id": "http://opaquenamespace.org/ns/stylePeriod/Bunkyu",
       "@type": "Concept",
       "comment": "Clark, Timothy; Ukiyo-e Paintings in the British Museum, Washington, D.C.: Smithsonian Institution Press, 1992. ",
       "definedBy": {
@@ -1040,7 +1040,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/stylePeriod/Kei\u014d",
+      "@id": "http://opaquenamespace.org/ns/stylePeriod/Keio",
       "@type": "Concept",
       "comment": "Clark, Timothy; Ukiyo-e Paintings in the British Museum, Washington, D.C.: Smithsonian Institution Press, 1992. ",
       "definedBy": {
@@ -1278,7 +1278,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/stylePeriod/LatePet\u00e9narchitecture",
+      "@id": "http://opaquenamespace.org/ns/stylePeriod/LatePetenarchitecture",
       "@type": "Concept",
       "comment": "Schmidt, Peter and Mercedes da la Garza and Enrique Nalda; Maya, New York: Rizzoli, 1998. Distinguished by compact mounds made from rough cut blocks, groups of complexes or monumental architectonic masses, connected by  networks of walkways called, sacbeoob. A variant / sub - style is identified as the Megalithic style where fine stone cutting is utilized in designing building materials.  ",
       "definedBy": {
@@ -2145,7 +2145,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/stylePeriod/Sic\u00e1nLateMiddleperiod",
+      "@id": "http://opaquenamespace.org/ns/stylePeriod/SicanLateMiddleperiod",
       "@type": "Concept",
       "comment": "Gealt, Adelheid, et al.; Masterworks from the Indiana University Art Museum, Bloomington, IN: Indiana University Press, 2007. ",
       "definedBy": {
@@ -2349,7 +2349,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/stylePeriod/UltimateLaT\u00e8ne",
+      "@id": "http://opaquenamespace.org/ns/stylePeriod/UltimateLaTene",
       "@type": "Concept",
       "comment": "Ryan, Michael; Treasures of Ireland: Irish Art 3000 B.C. - 1500 A.D., Dublin: Royal Irish Academy, 1983. ",
       "definedBy": {
