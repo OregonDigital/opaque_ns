@@ -725,7 +725,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/subject/ArashiSangor\u014dKabukiactor",
+      "@id": "http://opaquenamespace.org/ns/subject/ArashiSangoroKabukiactor",
       "@type": "PersonalName",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -2133,7 +2133,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/subject/CalligraphyGhub\u0101r",
+      "@id": "http://opaquenamespace.org/ns/subject/CalligraphyGhubar",
       "@type": "Topic",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -2165,7 +2165,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/subject/CalligraphyGulz\u0101rthuluth",
+      "@id": "http://opaquenamespace.org/ns/subject/CalligraphyGulzarthuluth",
       "@type": "Topic",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -2197,7 +2197,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/subject/CalligraphyJal\u012balthulth",
+      "@id": "http://opaquenamespace.org/ns/subject/CalligraphyJalialthulth",
       "@type": "Topic",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -2213,7 +2213,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/subject/CalligraphyJal\u012bthuluth",
+      "@id": "http://opaquenamespace.org/ns/subject/CalligraphyJalithuluth",
       "@type": "Topic",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -2421,7 +2421,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/subject/C\u00e9saireSaintd543",
+      "@id": "http://opaquenamespace.org/ns/subject/CesaireSaintd543",
       "@type": "PersonalName",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -3141,7 +3141,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/subject/Demopho\u00f6nGreekmythology",
+      "@id": "http://opaquenamespace.org/ns/subject/DemophoonGreekmythology",
       "@type": "PersonalName",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -3205,7 +3205,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/subject/Diocr\u00e8sRaymond11thc",
+      "@id": "http://opaquenamespace.org/ns/subject/DiocresRaymond11thc",
       "@type": "PersonalName",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -3269,7 +3269,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/subject/EdaGenz\u014dHirostunawarrior",
+      "@id": "http://opaquenamespace.org/ns/subject/EdaGenzoHirostunawarrior",
       "@type": "Topic",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -3573,7 +3573,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/subject/Expositioninternationaledusurre\u0301alisme1938ParisFrance",
+      "@id": "http://opaquenamespace.org/ns/subject/Expositioninternationaledusurrealisme1938ParisFrance",
       "@type": "CorporateName",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -5237,7 +5237,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/subject/Isfandiya\u0304r",
+      "@id": "http://opaquenamespace.org/ns/subject/Isfandiyar",
       "@type": "PersonalName",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -5493,7 +5493,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/subject/KappL\u00fcttwitzPutsch1920WeimarGermany",
+      "@id": "http://opaquenamespace.org/ns/subject/KappLuttwitzPutsch1920WeimarGermany",
       "@type": "CorporateName",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -5605,7 +5605,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/subject/Kid\u014dmaruBandit",
+      "@id": "http://opaquenamespace.org/ns/subject/KidomaruBandit",
       "@type": "Topic",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -6405,7 +6405,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/subject/M\u00e4rzrevolution1848Germany",
+      "@id": "http://opaquenamespace.org/ns/subject/Marzrevolution1848Germany",
       "@type": "CorporateName",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -6453,7 +6453,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/subject/MatthieuFran\u00e7oisX18181914",
+      "@id": "http://opaquenamespace.org/ns/subject/MatthieuFrancoisX18181914",
       "@type": "PersonalName",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -7141,7 +7141,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/subject/N\u014dJapan",
+      "@id": "http://opaquenamespace.org/ns/subject/NoJapan",
       "@type": "Topic",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -7653,7 +7653,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/subject/Pf\u00f6rtnerUibeleisenEmma18801928",
+      "@id": "http://opaquenamespace.org/ns/subject/PfortnerUibeleisenEmma18801928",
       "@type": "PersonalName",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -8389,7 +8389,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/subject/SakuraS\u014dgor\u014dS\u014dgosama1605September1653",
+      "@id": "http://opaquenamespace.org/ns/subject/SakuraSogoroSogosama1605September1653",
       "@type": "Topic",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -8693,7 +8693,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/subject/ShahAbulMaa\u0304li\u0304",
+      "@id": "http://opaquenamespace.org/ns/subject/ShahAbulMaali",
       "@type": "PersonalName",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -8885,7 +8885,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/subject/S\u014dshiAraiKomachi",
+      "@id": "http://opaquenamespace.org/ns/subject/SoshiAraiKomachi",
       "@type": "PersonalName",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -9861,7 +9861,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/subject/Vydu\u0304nas18681953Istselenie",
+      "@id": "http://opaquenamespace.org/ns/subject/Vydunas18681953Istselenie",
       "@type": "Title",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -9870,7 +9870,7 @@
         "@type": "date",
         "@value": "2014-07-10"
       },
-      "label": "Vydu\u0304nas, 1868-1953. Istselenie",
+      "label": "Vydu-nas, 1868-1953. Istselenie",
       "modified": {
         "@type": "date",
         "@value": "2014_07-10"
@@ -13899,7 +13899,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/subject/O'ReillyCharlesJ",
+      "@id": "http://opaquenamespace.org/ns/subject/OReillyCharlesJ",
       "@type": "PersonalName",
       "additionalName": "O'Reilly, Charles Joseph",
       "comment": "Catholic Bishop of Lincoln, Nebraska (1918-1923), Baker City, Oregon (1903-1918), and priest in Oregon City, Oregon (1890-1903).",
@@ -45466,7 +45466,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/subject/Ka'aiKoa",
+      "@id": "http://opaquenamespace.org/ns/subject/KaaiKoa",
       "@type": "PersonalName",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -45482,7 +45482,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/subject/Ka'aiLakeK",
+      "@id": "http://opaquenamespace.org/ns/subject/KaaiLakeK",
       "@type": "PersonalName",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -56266,7 +56266,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/subject/O'BrienJim",
+      "@id": "http://opaquenamespace.org/ns/subject/OBrienJim",
       "@type": "PersonalName",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -56282,7 +56282,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/subject/O'ConnellCarlyE",
+      "@id": "http://opaquenamespace.org/ns/subject/OConnellCarlyE",
       "@type": "PersonalName",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -56314,7 +56314,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/subject/O'DonnellMorganS",
+      "@id": "http://opaquenamespace.org/ns/subject/ODonnellMorganS",
       "@type": "PersonalName",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -56458,7 +56458,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/subject/O'LearyAlanB",
+      "@id": "http://opaquenamespace.org/ns/subject/OLearyAlanB",
       "@type": "PersonalName",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -56650,7 +56650,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/subject/O'NeillDavidM",
+      "@id": "http://opaquenamespace.org/ns/subject/ONeillDavidM",
       "@type": "PersonalName",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -56746,7 +56746,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/subject/O'RourkeLeo",
+      "@id": "http://opaquenamespace.org/ns/subject/ORourkeLeo",
       "@type": "PersonalName",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -56762,7 +56762,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/subject/O'RourkeRandy",
+      "@id": "http://opaquenamespace.org/ns/subject/ORourkeRandy",
       "@type": "PersonalName",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -56810,7 +56810,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/subject/O'TooleWilliamS",
+      "@id": "http://opaquenamespace.org/ns/subject/OTooleWilliamS",
       "@type": "PersonalName",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -67754,7 +67754,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/subject/ThomasDe'AnthonyM",
+      "@id": "http://opaquenamespace.org/ns/subject/ThomasDeAnthonyM",
       "@type": "PersonalName",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -72154,7 +72154,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/subject/Wiltshire'sEugeneOr",
+      "@id": "http://opaquenamespace.org/ns/subject/WiltshiresEugeneOr",
       "@type": "PersonalName",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -76826,7 +76826,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/subject/January14thPeople'sTrialCommittee",
+      "@id": "http://opaquenamespace.org/ns/subject/January14thPeoplesTrialCommittee",
       "@type": "CorporateName",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -77082,7 +77082,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/subject/SanFrancisoStateCollegeontherecord\u2026",
+      "@id": "http://opaquenamespace.org/ns/subject/SanFrancisoStateCollegeontherecord",
       "@type": "CorporateName",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -77091,7 +77091,7 @@
         "@type": "date",
         "@value": "2014-07-09"
       },
-      "label": "San Franciso State College. on the record\u2026",
+      "label": "San Franciso State College. on the record...",
       "modified": {
         "@type": "date",
         "@value": "2014-07-09"
@@ -81370,7 +81370,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/subject/O'ConnellCarlyE",
+      "@id": "http://opaquenamespace.org/ns/subject/OConnellCarlyE",
       "@type": "PersonalName",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -81386,7 +81386,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/subject/O'DonnellBrianK",
+      "@id": "http://opaquenamespace.org/ns/subject/ODonnellBrianK",
       "@type": "PersonalName",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -81418,7 +81418,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/subject/O'MalleyColleenE",
+      "@id": "http://opaquenamespace.org/ns/subject/OMalleyColleenE",
       "@type": "PersonalName",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -82202,7 +82202,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/subject/ThomasDe'AnthonyM",
+      "@id": "http://opaquenamespace.org/ns/subject/ThomasDeAnthonyM",
       "@type": "PersonalName",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -82636,6 +82636,39 @@
       }
     },
     {
+
+        "@id": "http://opaquenamespace.org/ns/subject/GlovesBeadedGauntlet",
+        "@type": "Topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Gloves, Beaded Gauntlet",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/subject/Interiorphotograph",
+        "@type": "Topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Interior photograph",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+        },
+        {
       "@id": "http://opaquenamespace.org/ns/subject/Sicilian",
       "@type": "Topic",
       "definedBy": {
@@ -82650,6 +82683,7 @@
         "@type": "date",
         "@value": "2014-10-08"
       }
+	
     }
   ]
 }

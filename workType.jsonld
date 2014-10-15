@@ -576,7 +576,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/workType/karans\u00e9",
+      "@id": "http://opaquenamespace.org/ns/workType/karanse",
       "@type": "Concept",
       "comment": "Gealt, Adelheid, et al.; Masterworks from the Indiana University Art Museum, Bloomington, IN: Indiana University Press, 2007. Associated with the northern Mossi people. A face mask surmounted by an antelpe head and horns with a plank-like superstructure behind them. in Vcat",
       "definedBy": {
@@ -678,7 +678,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/workType/\u014dhosobanotanzaku",
+      "@id": "http://opaquenamespace.org/ns/workType/ohosobanotanzaku",
       "@type": "Concept",
       "comment": "http://mercury.lcs.mit.edu/~jnc/prints/glossary.html. Literally, a large hosoban. A fairly rare, narrow print size (about 38 x 17 cm) often used for kacho-ga prints by Hiroshige. ",
       "definedBy": {
