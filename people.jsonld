@@ -54703,6 +54703,1145 @@
         }
     },
     {
+        "@id": "http://opaquenamespace.org/ns/people/HortonGeorgeE",
+        "@type": "PersonalName",
+        "comment": "Head Coach, University of Oregon Men's Baseball",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        },
+        "label": "Horton, George E.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/UhlmanJasonJayA",
+        "@type": "PersonalName",
+        "comment": "Assistant Coach, University of Oregon Men's Baseball",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        },
+        "label": "Uhlman, Jason 'Jay' A.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/StilesDeanP",
+        "@type": "PersonalName",
+        "comment": "Volunetter Assistant Coach, University of Oregon Men's Baseball",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        },
+        "label": "Stiles, Dean P.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/WasikowskiMark",
+        "@type": "PersonalName",
+        "comment": "Assistant Coach, University of Oregon Men's Baseball",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        },
+        "label": "Wasikowski, Mark",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/RadcliffeJamesJimC",
+        "@type": "PersonalName",
+        "comment": "Strength and Conditioning Coach, University of Oregon Men's Baseball",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        },
+        "label": "Radcliffe, James 'Jim' C.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/EmbreeThomasTomR",
+        "@type": "PersonalName",
+        "comment": "Athletic Trainer, University of Oregon Men's Baseball",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        },
+        "label": "Embree, Thomas 'Tom' R.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/AltmanDanaD",
+        "@type": "PersonalName",
+        "comment": "Head Coach, University of Oregon Men's Basketball",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        },
+        "label": "Altman, Dana D.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/StubblefieldAnthonyTonyG",
+        "@type": "PersonalName",
+        "comment": "Assistant Coach, University of Oregon Men's Basketball",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        },
+        "label": "Stubblefield, Anthony 'Tony' G.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/MennengaMichaelM",
+        "@type": "PersonalName",
+        "comment": "Assistant Coach, University of Oregon Men's Basketball",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        },
+        "label": "Mennenga, Michael M.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/DaubBryceD",
+        "@type": "PersonalName",
+        "comment": "Strength and Conditioning Coach, University of Oregon Men's Basketball",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        },
+        "label": "Daub, Bryce D.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/MorrilAllen",
+        "@type": "PersonalName",
+        "comment": "Assistant Conditioning Coach, University of Oregon Men's Basketball",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        },
+        "label": "Morril, Allen",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/McKennaKevinR",
+        "@type": "PersonalName",
+        "comment": "Assistant Coach, University of Oregon Men's Basketball",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        },
+        "label": "McKenna, Kevin R.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/JamiesonClaytonClayE",
+        "@type": "PersonalName",
+        "comment": "Athletic Trainer, University of Oregon Men's Basketball",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        },
+        "label": "Jamieson, Clayton 'Clay' E.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/JohnsonRobertA",
+        "@type": "PersonalName",
+        "comment": "Head Coach, University of Oregon Track and Field",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        },
+        "label": "Johnson, Robert A.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/PowellAndrewAndyC",
+        "@type": "PersonalName",
+        "comment": "Associate Head Coach, University of Oregon Track and Field",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        },
+        "label": "Powell, Andrew 'Andy' C.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/PowellMauricaC",
+        "@type": "PersonalName",
+        "comment": "Assistant Coach, University of Oregon Track and Field",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        },
+        "label": "Powell, Maurica C.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/OshiroTracyC",
+        "@type": "PersonalName",
+        "comment": "Athletic Trainer, University of Oregon Track and Field",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        },
+        "label": "Oshiro, Tracy C.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/WilsonGrant",
+        "@type": "PersonalName",
+        "comment": "Athletic Trainer, University of Oregon Track and Field",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        },
+        "label": "Wilson, Grant",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/HelfrichMarkA",
+        "@type": "PersonalName",
+        "comment": "Head Coach, University of Oregon Football",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        },
+        "label": "Helfrich, Mark A.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/FrostScottA",
+        "@type": "PersonalName",
+        "comment": "Offensive Coordinator/Quarterbacks, University of Oregon Football",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        },
+        "label": "Frost, Scott A.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/GreatwoodStevenSteveE",
+        "@type": "PersonalName",
+        "comment": "Running Game Coordinator/Offensive Line, University of Oregon Football",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        },
+        "label": "Greatwood, Steven 'Steve' E.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/CampbellGaryL",
+        "@type": "PersonalName",
+        "comment": "Running Backs, University of Oregon Football",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        },
+        "label": "Campbell, Gary L.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/LubickMatthewW",
+        "@type": "PersonalName",
+        "comment": "Passing Game Coordinator/Wide Receivers, University of Oregon Football",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        },
+        "label": "Lubick, Matthew W.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/OsborneThomasTomS",
+        "@type": "PersonalName",
+        "comment": "Special Teams Coordinator/Tight Ends, University of Oregon Football",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        },
+        "label": "Osborne, Thomas 'Tom' S.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/PellumDonW",
+        "@type": "PersonalName",
+        "comment": "Defensive Coordinator/Inside Linebackers, University of Oregon Football",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        },
+        "label": "Pellum, Don W.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/AikenRonaldRonB",
+        "@type": "PersonalName",
+        "comment": "Defensive Line, University of Oregon Football",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        },
+        "label": "Aiken, Ronald 'Ron' B.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/ChinanderErikJ",
+        "@type": "PersonalName",
+        "comment": "Outside Linebackers, University of Oregon Football",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        },
+        "label": "Chinander, Erik J.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/NealJohnC",
+        "@type": "PersonalName",
+        "comment": "Passing Game Coordinator/Secondary, University of Oregon Football",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        },
+        "label": "Neal, John C.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/MartinCaseyM",
+        "@type": "PersonalName",
+        "comment": "Head Coach, University of Oregon Men's Golf",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        },
+        "label": "Martin, Casey M.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/WilliamsVanceVanE",
+        "@type": "PersonalName",
+        "comment": "Assistant Coach, University of Oregon Men's Golf",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        },
+        "label": "Williams, Vance 'Van' E.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/SchyllanderNilsJ",
+        "@type": "PersonalName",
+        "comment": "Head Coach, University of Oregon Men's Tennis",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        },
+        "label": "Schyllander, Nils J.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/PiiborJonasC",
+        "@type": "PersonalName",
+        "comment": "Associate Head Coach, University of Oregon Men's Tennis",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        },
+        "label": "Piibor, Jonas C.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/WhitsittErikM",
+        "@type": "PersonalName",
+        "comment": "Throws, University of Oregon Track and Field",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        },
+        "label": "Whitsitt, Erik M.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/SchaudtBrian",
+        "@type": "PersonalName",
+        "comment": "Jumps and Sprints, University of Oregon Track and Field",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        },
+        "label": "Schaudt, Brian",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/CookJamesJamieF",
+        "@type": "PersonalName",
+        "comment": "Combined Events, High Jumo, Hurdles and Pole Vault, University of Oregon Track and Field",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        },
+        "label": "Cook James 'Jamie' F.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/TaylorCurtisA",
+        "@type": "PersonalName",
+        "comment": "Sprints, Hurdles and Relays, University of Oregon Track anf Field",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        },
+        "label": "Taylor, Curtis A.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/MattoxKimberM",
+        "@type": "PersonalName",
+        "comment": "Distance, University of Oregon Track anf Field",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        },
+        "label": "Mattox, Kimber M.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/ShawChelsea",
+        "@type": "PersonalName",
+        "comment": "Head Coach, University of Oregon Acrobatics and Tumbling",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        },
+        "label": "Shaw, Chelsea",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/RowellKelseyC",
+        "@type": "PersonalName",
+        "comment": "Assistant Coach, University of Oregon Acrobatics and Tumbling",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        },
+        "label": "Rowell, Kelsey C.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/GravesKellyL",
+        "@type": "PersonalName",
+        "comment": "Head Coach, University of Oregon Women's Basketball",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        },
+        "label": "Graves, Kelly L.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/BerryJodieR",
+        "@type": "PersonalName",
+        "comment": "Assistant Coach, University of Oregon Women's Basketball",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        },
+        "label": "Berry, Jodie R.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/PowellNicoleK",
+        "@type": "PersonalName",
+        "comment": "Assistant Coach, University of Oregon Women's Basketball",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        },
+        "label": "Powell, Nicole K.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/NodaToriA",
+        "@type": "PersonalName",
+        "comment": "Athletic Trainter, University of Oregon Women's Basketball",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        },
+        "label": "Noda, Tori A.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/LopezXavierXavi'",
+        "@type": "PersonalName",
+        "comment": "Assistant Strength and Conditioning Coach, University of Oregon Women's Basketball",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        },
+        "label": "Lopez,  Xavier 'Xavi'",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/CampbellMarkJ",
+        "@type": "PersonalName",
+        "comment": "Assistant Coach, University of Oregon Women's Basketball",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        },
+        "label": "Campbell, Mark J.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/DavisMarkC",
+        "@type": "PersonalName",
+        "comment": "Strength and Conditioning Coach, University of Oregon Women's Basketball",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        },
+        "label": "Davis, Mark C.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/ScottRiaDeniseG",
+        "@type": "PersonalName",
+        "comment": "Head Coach, University of Oregon Women's Golf",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        },
+        "label": "Scott, Ria Denise G.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/PugaTeresa",
+        "@type": "PersonalName",
+        "comment": "Assistant Coach, University of Oregon Women's Golf",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        },
+        "label": "Puga, Teresa",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/BeckJenniferJenL",
+        "@type": "PersonalName",
+        "comment": "Head Coach, University of Oregon Women's Lacrosse",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        },
+        "label": "Beck, Jennifer 'Jen' L.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/BrayRobertRobM",
+        "@type": "PersonalName",
+        "comment": "Associate Head Coach, University of Oregon Women's Lacrosse",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        },
+        "label": "Bray, Robert 'Rob' M.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/GintherGeoffreyGeoffE",
+        "@type": "PersonalName",
+        "comment": "Strength and Conditioning Coach, University of Oregon Women's Lacrosse",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        },
+        "label": "Ginther, Geoffrey 'Geoff' E.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/DerbyJenniferM",
+        "@type": "PersonalName",
+        "comment": "Assistant Coach, University of Oregon Women's Lacrosse",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        },
+        "label": "Derby, Jennifer M.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/MertzKatherineKatH",
+        "@type": "PersonalName",
+        "comment": "Head Coach, University of Oregon Women's Soccer",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        },
+        "label": "Mertz, Katherine 'Kat' H.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/MartinsEmanuelMannyM",
+        "@type": "PersonalName",
+        "comment": "Assistant Coach, University of Oregon Women's Soccer",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        },
+        "label": "Martins, Emanuel 'Manny' M.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/NovakKyleR",
+        "@type": "PersonalName",
+        "comment": "Volunteer Goalkeeper Coach, University of Oregon Women's Soccer",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        },
+        "label": "Novak, Kyle R.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/DillonMarkA",
+        "@type": "PersonalName",
+        "comment": "Strength and Conditioning Coach, University of Oregon Women's Soccer and Softball",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        },
+        "label": "Dillon, Mark A. ",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/WelshChristieR",
+        "@type": "PersonalName",
+        "comment": "Assistant Coach, University of Oregon Women's Soccer",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        },
+        "label": "Welsh, Christie R.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/HalsethHeatherR",
+        "@type": "PersonalName",
+        "comment": "Athletic Trainer, University of Oregon Women's Soccer",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        },
+        "label": "Halseth, Heather R.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/WhiteMichaelMikeC",
+        "@type": "PersonalName",
+        "comment": "Head Coach, University of Oregon Women's Softball",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        },
+        "label": "White, Michael 'Mike' C.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/KolaitisJamesJimmyM",
+        "@type": "PersonalName",
+        "comment": "Assistant Coach, University of Oregon Women's Softball",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        },
+        "label": "Kolaitis, James 'Jimmy' M.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/SpencerChelseaD",
+        "@type": "PersonalName",
+        "comment": "Assistant Coach, University of Oregon Women's Softball",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        },
+        "label": "Spencer, Chelsea D.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/SilverioAlisonJ",
+        "@type": "PersonalName",
+        "comment": "Head Coach, University of Oregon Women's Tennis",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        },
+        "label": "Silverio, Alison J.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/GiannoniTony",
+        "@type": "PersonalName",
+        "comment": "Assistant Coach, University of Oregon Women's Tennis",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        },
+        "label": "Giannoni, Tony",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/MooreJamesJimW",
+        "@type": "PersonalName",
+        "comment": "Head Coach, University of Oregon Women's Volleyball",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        },
+        "label": "Moore, James 'Jim' W.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/MetroStacyA",
+        "@type": "PersonalName",
+        "comment": "Assistant Coach, University of Oregon Women's Volleyball",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        },
+        "label": "Metro, Stacy A.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/SylvesterTylerC",
+        "@type": "PersonalName",
+        "comment": "Athletic Trainer, University of Oregon Women's Volleyball",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        },
+        "label": "Sylvester, Tyler C. ",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/UlmerMatthewMattD",
+        "@type": "PersonalName",
+        "comment": "Assistant Coach, University of Oregon Women's Volleyball",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        },
+        "label": "Ulmer, Matthew 'Matt' D.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-10-17"
+        }
+    },
+    {
         "@id": "http://opaquenamespace.org/ns/people/ChetcoValleyHistoricalSocietyMuseum",
         "@type": "CorporateName",
         "definedBy": {
