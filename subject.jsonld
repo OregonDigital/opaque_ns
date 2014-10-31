@@ -82667,8 +82667,25 @@
             "@type": "date",
             "@value": "2014-07-09"
         }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/subject/BloomfieldBrettA",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Baseball Player 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
         },
-        {
+        "issued": {
+            "@type": "date",
+            "@value": "2014-10-31"
+        },
+        "label": "Bloomfield, Brett A.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-10-31"
+        }
+    },
+    {
       "@id": "http://opaquenamespace.org/ns/subject/Sicilian",
       "@type": "Topic",
       "definedBy": {
