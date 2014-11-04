@@ -1111,6 +1111,42 @@
         "@value": "2014-09-30"
       },
       "range": "rdf:Literal"
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/objectOrientation",
+      "@type": "Property",
+      "comment": "Compass direction of the object pictured.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-11-04"
+      },
+      "label": "Object Orientation",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-11-04"
+      },
+      "range": "rdf:Literal"
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/photographOrientation",
+      "@type": "Property",
+      "comment": "Compass direction of the photograph.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-11-04"
+      },
+      "label": "Photograph Orientation",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-11-04"
+      },
+      "range": "rdf:Literal"
     }
   ]
 }
