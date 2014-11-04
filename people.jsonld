@@ -55842,6 +55842,499 @@
         }
     },
     {
+        "@id": "http://opaquenamespace.org/ns/people/HellerMaxT",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Men's Basketball 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-11-04"
+        },
+        "label": "Heller, Max T.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-11-04"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/NoebelCharlieC",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Men's Basketball 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-11-04"
+        },
+        "label": "Noebel, Charlie C.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-11-04"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/JensenTimothyJ",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Men's Basketball 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-11-04"
+        },
+        "label": "Jensen, Timothy J.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-11-04"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/CoppedgeHaydenN",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Men's Basketball 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-11-04"
+        },
+        "label": "Coppedge, Hayden N.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-11-04"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/PiganelliAnthonyP",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Men's Basketball 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-11-04"
+        },
+        "label": "Piganelli, Anthony P.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-11-04"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/CockrielDanielC",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Men's Ice Hockey 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-11-04"
+        },
+        "label": "Cockriel, Daniel C.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-11-04"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/McCartyTrevorL",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Men's Ice Hockey 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-11-04"
+        },
+        "label": "McCarty, Trevor L.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-11-04"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/DonnellyTerranJ",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Men's Ice Hockey 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-11-04"
+        },
+        "label": "Donnelly, Terran J.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-11-04"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/HooverJosephM",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Men's Ice Hockey 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-11-04"
+        },
+        "label": "Hoover, Joseph M.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-11-04"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/AbateDillonA",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Men's Ice Hockey 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-11-04"
+        },
+        "label": "Abate, Dillon A.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-11-04"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/StankeiviczChristopherP",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Men's Ice Hockey 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-11-04"
+        },
+        "label": "Stankeivicz, Christopher P.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-11-04"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/SgarlataPatrickA",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Men's Ice Hockey 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-11-04"
+        },
+        "label": "Sgarlata, Patrick A.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-11-04"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/LewisThomasTommyG",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Men's Ice Hockey 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-11-04"
+        },
+        "label": "Lewis, Thomas 'Tommy' G.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-11-04"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/YaleJacobJakeD",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Men's Ice Hockey 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-11-04"
+        },
+        "label": "Yale, Jacob 'Jake' D.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-11-04"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/AndertonTylerJ",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Men's Ice Hockey 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-11-04"
+        },
+        "label": "Anderton, Tyler J.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-11-04"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/TaylorPatrickA",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Men's Ice Hockey 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-11-04"
+        },
+        "label": "Taylor, Patrick A.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-11-04"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/RosenbergSamuelSamE",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Men's Ice Hockey 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-11-04"
+        },
+        "label": "Rosenberg, Samuel 'Sam' E.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-11-04"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/DreesCodyJ",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Men's Ice Hockey 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-11-04"
+        },
+        "label": "Drees, Cody J.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-11-04"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/LukeMichaelD",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Men's Ice Hockey 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-11-04"
+        },
+        "label": "Luke, Michael D.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-11-04"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/BurgessBrockE",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Men's Ice Hockey 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-11-04"
+        },
+        "label": "Burgess, Brock E.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-11-04"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/ShottTrevorJ",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Men's Ice Hockey 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-11-04"
+        },
+        "label": "Shott, Trevor J.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-11-04"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/LeonardJesseE",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Men's Ice Hockey 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-11-04"
+        },
+        "label": "Leonard, Jesse E.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-11-04"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/EberleRyanN",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Men's Ice Hockey 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-11-04"
+        },
+        "label": "Eberle, Ryan N.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-11-04"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/DanielsWilliamH",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Men's Ice Hockey 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-11-04"
+        },
+        "label": "Daniels, William H.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-11-04"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/McBrideConnorF",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Men's Ice Hockey 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-11-04"
+        },
+        "label": "McBride, Connor F.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-11-04"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/SciabarraNicholasJ",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Men's Ice Hockey 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-11-04"
+        },
+        "label": "Sciabarra, Nicholas J.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-11-04"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/PetersonTrevorM",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Men's Ice Hockey 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-11-04"
+        },
+        "label": "Peterson, Trevor M.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-11-04"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/CampbellChristopherS",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Men's Ice Hockey 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-11-04"
+        },
+        "label": "Campbell, Christopher S.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-11-04"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/SulitzerAlex",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Men's Ice Hockey 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-11-04"
+        },
+        "label": "Sulitzer, Alex",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-11-04"
+        }
+    },
+    {
         "@id": "http://opaquenamespace.org/ns/people/ChetcoValleyHistoricalSocietyMuseum",
         "@type": "CorporateName",
         "definedBy": {
