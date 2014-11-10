@@ -56335,6 +56335,23 @@
         }
     },
     {
+        "@id": "http://opaquenamespace.org/ns/people/MarieRBerthuel",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Women's Basketball 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-11-10"
+        },
+        "label": "Berthuel, Marie R.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-11-10"
+        }
+    },
+    {
         "@id": "http://opaquenamespace.org/ns/people/ChetcoValleyHistoricalSocietyMuseum",
         "@type": "CorporateName",
         "definedBy": {
