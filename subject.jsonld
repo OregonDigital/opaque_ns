@@ -82720,6 +82720,23 @@
         }
     },
     {
+        "@id": "http://opaquenamespace.org/ns/subject/MultnomahClub",
+        "@type": "CorporateName",
+        "comment": "Athletic club in Portland, Oregon",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-11-14"
+        },
+        "label": "Multonomah Club",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-11-14"
+        }
+    },
+    {
       "@id": "http://opaquenamespace.org/ns/subject/Sicilian",
       "@type": "Topic",
       "definedBy": {
