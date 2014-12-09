@@ -82737,6 +82737,108 @@
         }
     },
     {
+        "@id": "http://opaquenamespace.org/ns/subject/GordonReneeS",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Running Club, 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-12-09"
+        },
+        "label": "Gordon, Renee S.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-12-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/subject/MartinezMoises",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Running Club, 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-12-09"
+        },
+        "label": "Martinez, Moises",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-12-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/subject/WalkerAndreS",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Running Club, 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-12-09"
+        },
+        "label": "Walker, Andre S.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-12-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/subject/WilkesClay",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Running Club, 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-12-09"
+        },
+        "label": "Wilkes, Clay",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-12-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/subject/BaileyMatthewJ",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Running Club, 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-12-09"
+        },
+        "label": "Bailey, Matthew J.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-12-09"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/subject/MatuszakMichaelMikeT",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Running Club, 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-12-09"
+        },
+        "label": "Matuszak, Michael 'Mike' T.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-12-09"
+        }
+    },
+    {
       "@id": "http://opaquenamespace.org/ns/subject/Sicilian",
       "@type": "Topic",
       "definedBy": {
