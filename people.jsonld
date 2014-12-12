@@ -56352,6 +56352,23 @@
         }
     },
     {
+        "@id": "http://opaquenamespace.org/ns/people/OstlindHannaK",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Women's Volleyball Manager 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-12-12"
+        },
+        "label": "Ostlind, Hanna K.",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-12-12"
+        }
+    },
+    {
         "@id": "http://opaquenamespace.org/ns/people/ChetcoValleyHistoricalSocietyMuseum",
         "@type": "CorporateName",
         "definedBy": {
