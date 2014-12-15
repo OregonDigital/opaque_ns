@@ -51738,7 +51738,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/subject/WilliamMoore",
+      "@id": "http://opaquenamespace.org/ns/people/WilliamMoore",
       "@type": "PersonalName",
       "comment": "Artist.",
       "definedBy": {
@@ -51755,7 +51755,7 @@
       }
     },
 	{
-      "@id": "http://opaquenamespace.org/ns/subject/unidentifiedmale",
+      "@id": "http://opaquenamespace.org/ns/people/unidentifiedmale",
       "@type": "PersonalName",
       "comment": "Artist.",
       "definedBy": {
@@ -51772,7 +51772,7 @@
       }
      },
 	  {
-      "@id": "http://opaquenamespace.org/ns/creator/MeehanHoward",
+      "@id": "http://opaquenamespace.org/ns/people/MeehanHoward",
       "@type": "PersonalName",
       "comment": "Artist",
       "definedBy": {
@@ -51789,7 +51789,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/creator/MeehanKathleen",
+      "@id": "http://opaquenamespace.org/ns/people/MeehanKathleen",
       "@type": "PersonalName",
       "comment": "Artist",
       "definedBy": {
@@ -51806,7 +51806,7 @@
       }
     },
 	  {
-      "@id": "http://opaquenamespace.org/ns/subject/KarenGuzak",
+      "@id": "http://opaquenamespace.org/ns/people/KarenGuzak",
       "@type": "PersonalName",
       "comment": "Artist.",
       "definedBy": {
@@ -51823,7 +51823,7 @@
       }
     },
 	 {
-      "@id": "http://opaquenamespace.org/ns/subject/unidentifiedmale",
+      "@id": "http://opaquenamespace.org/ns/people/unidentifiedmale",
       "@type": "PersonalName",
       "comment": "Artist.",
       "definedBy": {
@@ -51840,7 +51840,7 @@
       }
     },
 	    {
-      "@id": "http://opaquenamespace.org/ns/subject/MichiKosuge",
+      "@id": "http://opaquenamespace.org/ns/people/MichiKosuge",
       "@type": "PersonalName",
       "comment": "Artist.",
       "definedBy": {
@@ -51857,7 +51857,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/creator/BuckEliza",
+      "@id": "http://opaquenamespace.org/ns/people/BuckEliza",
       "@type": "PersonalName",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -51873,7 +51873,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/creator/CastellanozEva",
+      "@id": "http://opaquenamespace.org/ns/people/CastellanozEva",
       "@type": "PersonalName",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -51889,7 +51889,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/creator/ChildesLeila",
+      "@id": "http://opaquenamespace.org/ns/people/ChildesLeila",
       "@type": "PersonalName",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -51905,7 +51905,7 @@
       }
     },
      {
-      "@id": "http://opaquenamespace.org/ns/creator/JonesSuzi",
+      "@id": "http://opaquenamespace.org/ns/people/JonesSuzi",
       "@type": "PersonalName",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -51921,7 +51921,7 @@
       }
     },
      {
-      "@id": "http://opaquenamespace.org/ns/creator/KodishDeborah",
+      "@id": "http://opaquenamespace.org/ns/people/KodishDeborah",
       "@type": "PersonalName",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -51937,7 +51937,7 @@
       }
     },
      {
-      "@id": "http://opaquenamespace.org/ns/creator/LoomisOrmond",
+      "@id": "http://opaquenamespace.org/ns/people/LoomisOrmond",
       "@type": "PersonalName",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -51953,7 +51953,7 @@
       }
     },
      {
-      "@id": "http://opaquenamespace.org/ns/creator/NuszNancy",
+      "@id": "http://opaquenamespace.org/ns/people/NuszNancy",
       "@type": "PersonalName",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -53295,7 +53295,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/creator/MorinJonesMaryan",
+      "@id": "http://opaquenamespace.org/ns/people/MorinJonesMaryan",
       "@type": "PersonalName",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
