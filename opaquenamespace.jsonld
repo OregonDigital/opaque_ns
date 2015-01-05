@@ -1147,6 +1147,24 @@
         "@value": "2014-11-04"
       },
       "range": "rdf:Literal"
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/vra/support",
+      "@type": "Property",
+      "comment": "Visual Resources Association Core 4.0 term.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2014-12-29"
+      },
+      "label": "Support",
+      "modified": {
+        "@type": "date",
+        "@value": "2014-12-29"
+      },
+      "range": "dc:PhysicalMedium"
     }
   ]
 }
