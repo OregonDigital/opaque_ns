@@ -82852,6 +82852,141 @@
       "modified": {
         "@type": "date",
         "@value": "2014-10-08"
+      },
+      {
+      "@id": "http://opaquenamespace.org/ns/subject/AccordionfoldformatBinding",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-01-05"
+      },
+      "label": "Accordion fold format (Binding)",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-01-05"
+      },
+      {
+      "@id": "http://opaquenamespace.org/ns/subject/Articipation881988PortlandOr",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-01-05"
+      },
+      "label": "Articipation '88 (1988 : Portland, Or.)",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-01-05"
+      },
+      {
+      "@id": "http://opaquenamespace.org/ns/subject/Livresjeux",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-01-05"
+      },
+      "label": "Livres-jeux",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-01-05"
+      },
+      {
+      "@id": "http://opaquenamespace.org/ns/subject/LoeweKimberly",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-01-05"
+      },
+      "label": "Loewe, Kimberly",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-01-05"
+      },
+      {
+      "@id": "http://opaquenamespace.org/ns/subject/MaderMeersmanJuli",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-01-05"
+      },
+      "label": "Mader-Meersman, Juli",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-01-05"
+      },
+      {
+      "@id": "http://opaquenamespace.org/ns/subject/OlbertElizabeth",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-01-05"
+      },
+      "label": "Olbert, Elizabeth",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-01-05"
+      },
+      {
+      "@id": "http://opaquenamespace.org/ns/subject/RoddyMike",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-01-05"
+      },
+      "label": "Roddy, Mike",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-01-05"
+      },
+      {
+      "@id": "http://opaquenamespace.org/ns/subject/Savage1971",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-01-05"
+      },
+      "label": "Savage, -- 1971-",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-01-05"
+      },
+      {
+      "@id": "http://opaquenamespace.org/ns/subject/Szentifamily",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-01-05"
+      },
+      "label": "Szenti family",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-01-05"
       }
 	
     }
