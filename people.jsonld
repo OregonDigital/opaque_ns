@@ -56368,6 +56368,40 @@
             "@value": "2014-12-12"
         }
     },
+	{
+        "@id": "http://opaquenamespace.org/ns/people/BlakeAnthony",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Men's Tennis player 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-01-20"
+        },
+        "label": "Blake, Anthony",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-01-20"
+        }
+    },
+	{
+        "@id": "http://opaquenamespace.org/ns/people/ClissoldCormacF",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Men's Tennis player 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-01-20"
+        },
+        "label": "Clissold, Cormac F.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-01-20"
+        }
+    },
     {
         "@id": "http://opaquenamespace.org/ns/people/ChetcoValleyHistoricalSocietyMuseum",
         "@type": "CorporateName",
