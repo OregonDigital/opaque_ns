@@ -82982,6 +82982,230 @@
             "@value": "2015-01-05"
         }
     },
+       {
+        "@id": "http://opaquenamespace.org/ns/subject/2008CoachesLuncheon",
+        "@type": "Topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-01-21"
+        },
+        "label": "2008 Coaches Luncheon",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-01-21"
+        }
+    },
+           {
+        "@id": "http://opaquenamespace.org/ns/subject/2009PrefontaineClassic",
+        "@type": "Topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-01-21"
+        },
+        "label": "2009 Prefontaine Classic",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-01-21"
+        }
+    },
+           {
+        "@id": "http://opaquenamespace.org/ns/subject/2009USATFNationalChampionships",
+        "@type": "Topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-01-21"
+        },
+        "label": "2009 USATF National Championships",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-01-21"
+        }
+    },
+           {
+        "@id": "http://opaquenamespace.org/ns/subject/2011ParadeofChampions",
+        "@type": "Topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-01-21"
+        },
+        "label": "2011 Parade of Champions",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-01-21"
+        }
+    },
+           {
+        "@id": "http://opaquenamespace.org/ns/subject/2012UndergraduateSymposium",
+        "@type": "Topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-01-21"
+        },
+        "label": "2012 Undergraduate Symposium",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-01-21"
+        }
+    },
+           {
+        "@id": "http://opaquenamespace.org/ns/subject/AdrenalineFilmProject2010",
+        "@type": "Topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-01-21"
+        },
+        "label": "Adrenaline Film Project 2010",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-01-21"
+        }
+    },
+           {
+        "@id": "http://opaquenamespace.org/ns/subject/AmericanCancerSocietyRelayforLife",
+        "@type": "Topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-01-21"
+        },
+        "label": "American Cancer Society Relay for Life",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-01-21"
+        }
+    },
+           {
+        "@id": "http://opaquenamespace.org/ns/subject/BarackObamasStandforChangerally",
+        "@type": "Topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-01-21"
+        },
+        "label": "Barack Obama's 'Stand for Change' rally",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-01-21"
+        }
+    },
+           {
+        "@id": "http://opaquenamespace.org/ns/subject/CinemaStudiesLabOpeningReception",
+        "@type": "Topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-01-21"
+        },
+        "label": "Cinema Studies Lab Opening Reception",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-01-21"
+        }
+    },
+           {
+        "@id": "http://opaquenamespace.org/ns/subject/Eugene08Festival",
+        "@type": "Topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-01-21"
+        },
+        "label": "Eugene 08 Festival",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-01-21"
+        }
+    },
+           {
+        "@id": "http://opaquenamespace.org/ns/subject/HomeMovieDay2006",
+        "@type": "Topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-01-21"
+        },
+        "label": "Home Movie Day 2006",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-01-21"
+        }
+    },
+           {
+        "@id": "http://opaquenamespace.org/ns/subject/SpringGraduationCeremonies2010",
+        "@type": "Topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-01-21"
+        },
+        "label": "Spring Graduation Ceremonies 2010",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-01-21"
+        }
+    },
+           {
+        "@id": "http://opaquenamespace.org/ns/subject/UndergraduateSymposium2012",
+        "@type": "Topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-01-21"
+        },
+        "label": "Undergraduate Symposium 2012",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-01-21"
+        }
+    },
+           {
+        "@id": "http://opaquenamespace.org/ns/subject/UniversityDay2009",
+        "@type": "Topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-01-21"
+        },
+        "label": "University Day 2009",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-01-21"
+        }
+    },
     {
       "@id": "http://opaquenamespace.org/ns/subject/Sicilian",
       "@type": "Topic",
