@@ -56403,6 +56403,23 @@
         }
     },
     {
+        "@id": "http://opaquenamespace.org/ns/people/CostaNathanielW",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Football graduate assistant coach 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-01-26"
+        },
+        "label": "Costa, Nathaniel W.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-01-26"
+        }
+    },
+    {
         "@id": "http://opaquenamespace.org/ns/people/ChetcoValleyHistoricalSocietyMuseum",
         "@type": "CorporateName",
         "definedBy": {
