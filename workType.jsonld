@@ -1378,6 +1378,380 @@
         "@value": "2014-07-23"
       }
     },
+     {
+      "@id": "http: //opaquenamespace.org/ns/workType/Circlebooks",
+      "@type": "Concept",
+      "comment": "Structure object type from the Artists' Books Collection.",
+      "definedBy": {
+        "@id": "http: //opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-01-26"
+      },
+      "label": "Circle books",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-01-26"
+      }
+    },
+     {
+      "@id": "http: //opaquenamespace.org/ns/workType/Doublespinebooks",
+      "@type": "Concept",
+      "comment": "Structure object type from the Artists' Books Collection.",
+      "definedBy": {
+        "@id": "http: //opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-01-26"
+      },
+      "label": "Double spine books",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-01-26"
+      }
+    },
+     {
+      "@id": "http: //opaquenamespace.org/ns/workType/Flagbook",
+      "@type": "Concept",
+      "comment": "Structure object type from the Artists' Books Collection.",
+      "definedBy": {
+        "@id": "http: //opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-01-26"
+      },
+      "label": "Flag book",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-01-26"
+      }
+    },
+     {
+      "@id": "http: //opaquenamespace.org/ns/workType/FanPalmLeafbooks",
+      "@type": "Concept",
+      "comment": "Structure object type from the Artists' Books Collection.",
+      "definedBy": {
+        "@id": "http: //opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-01-26"
+      },
+      "label": "Fan Palm Leaf books",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-01-26"
+      }
+    },
+     {
+      "@id": "http: //opaquenamespace.org/ns/workType/Foldedboxes",
+      "@type": "Concept",
+      "comment": "Structure object type from the Artists' Books Collection.",
+      "definedBy": {
+        "@id": "http: //opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-01-26"
+      },
+      "label": "Folded boxes",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-01-26"
+      }
+    },
+     {
+      "@id": "http: //opaquenamespace.org/ns/workType/Frenchdoorbooks",
+      "@type": "Concept",
+      "comment": "Structure object type from the Artists' Books Collection.",
+      "definedBy": {
+        "@id": "http: //opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-01-26"
+      },
+      "label": "French door books",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-01-26"
+      }
+    },
+     {
+      "@id": "http: //opaquenamespace.org/ns/workType/Frenchfoldbook",
+      "@type": "Concept",
+      "comment": "Structure object type from the Artists' Books Collection.",
+      "definedBy": {
+        "@id": "http: //opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-01-26"
+      },
+      "label": "French fold book",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-01-26"
+      }
+    },
+     {
+      "@id": "http: //opaquenamespace.org/ns/workType/Jacobsladderfoldbook",
+      "@type": "Concept",
+      "comment": "Structure object type from the Artists' Books Collection.",
+      "definedBy": {
+        "@id": "http: //opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-01-26"
+      },
+      "label": "Jacob's ladder (fold book)",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-01-26"
+      }
+    },
+     {
+      "@id": "http: //opaquenamespace.org/ns/workType/Layeredbooks",
+      "@type": "Concept",
+      "comment": "Structure object type from the Artists' Books Collection.",
+      "definedBy": {
+        "@id": "http: //opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-01-26"
+      },
+      "label": "Layered books",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-01-26"
+      }
+    },
+     {
+      "@id": "http: //opaquenamespace.org/ns/workType/Mazebooks",
+      "@type": "Concept",
+      "comment": "Structure object type from the Artists' Books Collection.",
+      "definedBy": {
+        "@id": "http: //opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-01-26"
+      },
+      "label": "Maze books",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-01-26"
+      }
+    },
+     {
+      "@id": "http: //opaquenamespace.org/ns/workType/Metalplatebooks",
+      "@type": "Concept",
+      "comment": "Structure object type from the Artists' Books Collection.t",
+      "definedBy": {
+        "@id": "http: //opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-01-26"
+      },
+      "label": "Metal plate books",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-01-26"
+      }
+    },
+     {
+      "@id": "http: //opaquenamespace.org/ns/workType/Nestedboxes",
+      "@type": "Concept",
+      "comment": "Structure object type from the Artists' Books Collection.",
+      "definedBy": {
+        "@id": "http: //opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-01-26"
+      },
+      "label": "Nested boxes",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-01-26"
+      }
+    },
+     {
+      "@id": "http: //opaquenamespace.org/ns/workType/Palmleafbooks",
+      "@type": "Concept",
+      "comment": "Structure object type from the Artists' Books Collection.",
+      "definedBy": {
+        "@id": "http: //opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-01-26"
+      },
+      "label": "Palm leaf books",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-01-26"
+      }
+    },
+     {
+      "@id": "http: //opaquenamespace.org/ns/workType/Pegbooks",
+      "@type": "Concept",
+      "comment": "Structure object type from the Artists' Books Collection.",
+      "definedBy": {
+        "@id": "http: //opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-01-26"
+      },
+      "label": "Peg books",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-01-26"
+      }
+    },
+     {
+      "@id": "http: //opaquenamespace.org/ns/workType/Phaseboxes",
+      "@type": "Concept",
+      "comment": "Structure object type from the Artists' Books Collection.",
+      "definedBy": {
+        "@id": "http: //opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-01-26"
+      },
+      "label": "Phase boxes",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-01-26"
+      }
+    },
+     {
+      "@id": "http: //opaquenamespace.org/ns/workType/Printmatbooks",
+      "@type": "Concept",
+      "comment": "Structure object type from the Artists' Books Collection.",
+      "definedBy": {
+        "@id": "http: //opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-01-26"
+      },
+      "label": "Print mat books",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-01-26"
+      }
+    },
+     {
+      "@id": "http: //opaquenamespace.org/ns/workType/Rotatingwheelbooks",
+      "@type": "Concept",
+      "comment": "Structure object type from the Artists' Books Collection.",
+      "definedBy": {
+        "@id": "http: //opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-01-26"
+      },
+      "label": "Rotating wheel books",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-01-26"
+      }
+    },
+     {
+      "@id": "http: //opaquenamespace.org/ns/workType/Singlesheetbooks",
+      "@type": "Concept",
+      "comment": "Structure object type from the Artists' Books Collection.",
+      "definedBy": {
+        "@id": "http: //opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-01-26"
+      },
+      "label": "Single-sheet books",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-01-26"
+      }
+    },
+     {
+      "@id": "http: //opaquenamespace.org/ns/workType/Stampbooks",
+      "@type": "Concept",
+      "comment": "Structure object type from the Artists' Books Collection.",
+      "definedBy": {
+        "@id": "http: //opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-01-26"
+      },
+      "label": "Stamp books",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-01-26"
+      }
+    },
+     {
+      "@id": "http: //opaquenamespace.org/ns/workType/Tetebeches",
+      "@type": "Concept",
+      "comment": "Structure object type from the Artists' Books Collection.",
+      "definedBy": {
+        "@id": "http: //opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-01-26"
+      },
+      "label": "Tete beches",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-01-26"
+      }
+    },
+     {
+      "@id": "http: //opaquenamespace.org/ns/workType/Tetratetraflexagon",
+      "@type": "Concept",
+      "comment": "Structure object type from the Artists' Books Collection.",
+      "definedBy": {
+        "@id": "http: //opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-01-26"
+      },
+      "label": "Tetra tetra flexagon",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-01-26"
+      }
+    },
+     {
+      "@id": "http: //opaquenamespace.org/ns/workType/Venetianblindpalmleafbooks",
+      "@type": "Concept",
+      "comment": "Structure object type from the Artists' Books Collection.",
+      "definedBy": {
+        "@id": "http: //opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-01-26"
+      },
+      "label": "Venetian blind palm leaf books",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-01-26"
+      }
+    },
     {
       "@id": "http: //opaquenamespace.org/ns/workType/intentionalCommunities",
       "@type": "Concept",
