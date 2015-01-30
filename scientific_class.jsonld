@@ -40,7 +40,7 @@
       "@id": "http://opaquenamespace.org/ns/class/Ascidacea",
       "@type": "Topic",
       "definedBy": {
-        "@id": "http: //opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
       "issued": {
         "@type": "date",
