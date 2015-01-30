@@ -27169,6 +27169,24 @@
       }
     },
     {
+      "@id": "http://opaquenamespace.org/ns/localCollectionName/RuthMountaingrovePhotographs",
+      "@type": "Concept",
+      "comment": "Coll 309 in Special Collections and University Archives, University of Oregon",
+      "date": "1950-1999",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-01-30"
+      },
+      "label": "Ruth Mountaingrove Photographs",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-01-30"
+      }
+    },
+    {
       "@id": "http://opaquenamespace.org/ns/localCollectionName/OfficeofthePresidentRecordsCharlesEJohnson",
       "@type": "Concept",
       "comment": "UA 008 Collection in Special Collections and University Archives, University of Oregon",
