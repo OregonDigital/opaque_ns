@@ -27187,6 +27187,23 @@
       }
     },
     {
+      "@id": "http://opaquenamespace.org/ns/localCollectionName/GertrudeBassWarnerMemorialLibraryJapaneseArts",
+      "@type": "Topic",
+      "comment": "Special Collections and University Archives, University of Oregon",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-02-03"
+      },
+      "label": "Gertrude Bass Warner Memorial Library. Japanese Art",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-02-03"
+      }
+    },
+    {
       "@id": "http://opaquenamespace.org/ns/localCollectionName/OfficeofthePresidentRecordsCharlesEJohnson",
       "@type": "Concept",
       "comment": "UA 008 Collection in Special Collections and University Archives, University of Oregon",
