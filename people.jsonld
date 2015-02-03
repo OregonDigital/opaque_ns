@@ -56437,6 +56437,380 @@
         }
     },
     {
+        "@id": "http://opaquenamespace.org/ns/people/ChapmanKisa",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Acrobatics and Tumbling Team 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-02-02"
+        },
+        "label": "Chapman, Kisa",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-02-02"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/CrossAlexisN",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Acrobatics and Tumbling Team 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-02-02"
+        },
+        "label": "Cross, Alexis N.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-02-02"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/CzyzNicoleL",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Acrobatics and Tumbling Team 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-02-02"
+        },
+        "label": "Czyz, Nicole L.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-02-02"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/GalvinTaylorA",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Acrobatics and Tumbling Team 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-02-02"
+        },
+        "label": "Galvin, Taylor A.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-02-02"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/GarelickHaleyL",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Acrobatics and Tumbling Team 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-02-02"
+        },
+        "label": "Garelick, Haley L.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-02-02"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/GarwoodAliL",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Acrobatics and Tumbling Team 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-02-02"
+        },
+        "label": "Garwood, Ali L.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-02-02"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/GreenKendallA",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Acrobatics and Tumbling Team 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-02-02"
+        },
+        "label": "Green, Kendall A.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-02-02"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/HiteMadysonMaddyA",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Acrobatics and Tumbling Team 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-02-02"
+        },
+        "label": "Hite, Madyson 'Maddy' A.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-02-02"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/HollidayCheyenneM",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Acrobatics and Tumbling Team 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-02-02"
+        },
+        "label": "Holliday, Cheyenne M.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-02-02"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/JaynesNatalieA",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Acrobatics and Tumbling Team 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-02-02"
+        },
+        "label": "Jaynes, Natalie A.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-02-02"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/JonesLaurenC",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Acrobatics and Tumbling Team 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-02-02"
+        },
+        "label": "Jones, Lauren C.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-02-02"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/KirklandJalenR",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Acrobatics and Tumbling Team 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-02-02"
+        },
+        "label": "Kirkland, Jalen R.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-02-02"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/KoenigSarahR",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Acrobatics and Tumbling Team 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-02-02"
+        },
+        "label": "Koenig, Sarah R.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-02-02"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/MichaudKaileA",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Acrobatics and Tumbling Team 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-02-02"
+        },
+        "label": "Michaud, Kaile A.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-02-02"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/MohrShannonM",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Acrobatics and Tumbling Team 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-02-02"
+        },
+        "label": "Mohr, Shannon M.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-02-02"
+        }
+    },    
+    {
+        "@id": "http://opaquenamespace.org/ns/people/NicklosKayleeA",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Acrobatics and Tumbling Team 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-02-02"
+        },
+        "label": "Nicklos, Kaylee A.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-02-02"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/NorczykCarlieJ",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Acrobatics and Tumbling Team 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-02-02"
+        },
+        "label": "Norczyk, Carlie J.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-02-02"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/PeytonSabrinaE",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Acrobatics and Tumbling Team 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-02-02"
+        },
+        "label": "Peyton, Sabrina E.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-02-02"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/RobinsonAnnelyseF",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Acrobatics and Tumbling Team 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-02-02"
+        },
+        "label": "Robinson, Annelyse F.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-02-02"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/TrussellReaganC",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Acrobatics and Tumbling Team 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-02-02"
+        },
+        "label": "Trussell, Reagan C.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-02-02"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/VestutoKiannaL",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Acrobatics and Tumbling Team 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-02-02"
+        },
+        "label": "Vestuto, Kianna L.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-02-02"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/YacoubianMari",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Acrobatics and Tumbling Team 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-02-02"
+        },
+        "label": "Yacoubian, Mari",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-02-02"
+        }
+    },
+    {
         "@id": "http://opaquenamespace.org/ns/people/ChetcoValleyHistoricalSocietyMuseum",
         "@type": "CorporateName",
         "definedBy": {
