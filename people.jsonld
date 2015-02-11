@@ -56828,6 +56828,584 @@
         }
     },
     {
+        "@id": "http://opaquenamespace.org/ns/people/BaltaAnthonyJ",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Men's Baseball Team 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-02-11"
+        },
+        "label": "Balta, Anthony J.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-02-11"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/BloomfieldBrettA",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Men's Baseball Team 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-02-11"
+        },
+        "label": "Bloomfield, Brett A.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-02-11"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/BreshearsCarsonT",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Men's Baseball Team 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-02-11"
+        },
+        "label": "Breshears, Carson T.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-02-11"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/BryantJohnJBW",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Men's Baseball Team 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-02-11"
+        },
+        "label": "Bryant, John 'J.B.' W.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-02-11"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/CatalanoNicholasA",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Men's Baseball Team 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-02-11"
+        },
+        "label": "Catalano, Nicholas A.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-02-11"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/ChaseShaun",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Men's Baseball Team 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-02-11"
+        },
+        "label": "Chase, Shaun",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-02-11"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/CleavingerGarrettJ",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Men's Baseball Team 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-02-11"
+        },
+        "label": "Cleavinger, Garrett J.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-02-11"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/CornJacobJ",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Men's Baseball Team 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-02-11"
+        },
+        "label": "Corn, Jacob J.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-02-11"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/CraigStLouisPhilippe",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Men's Baseball Team 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-02-11"
+        },
+        "label": "Craig-St. Louis, Philippe",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-02-11"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/CuddyBrandonA",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Men's Baseball Team 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-02-11"
+        },
+        "label": "Cuddy, Brandon A.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-02-11"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/EuresteMatthewR",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Men's Baseball Team 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-02-11"
+        },
+        "label": "Eureste, Matthew R.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-02-11"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/GoldfarbJakobC",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Men's Baseball Team 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-02-11"
+        },
+        "label": "Goldfarb, Jakob C.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-02-11"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/GrahamJoshuaJ",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Men's Baseball Team 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-02-11"
+        },
+        "label": "Graham, Joshua J.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-02-11"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/GrebeckAustinA",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Men's Baseball Team 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-02-11"
+        },
+        "label": "Grebeck, Austin A.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-02-11"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/HarberConorS",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Men's Baseball Team 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-02-11"
+        },
+        "label": "Harber, Conor S.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-02-11"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/HeggenSladeJ",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Men's Baseball Team 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-02-11"
+        },
+        "label": "Heggen, Slade J.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-02-11"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/HeinemanScottM",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Men's Baseball Team 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-02-11"
+        },
+        "label": "Heineman, Scott M.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-02-11"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/HostertKohlbyH",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Men's Baseball Team 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-02-11"
+        },
+        "label": "Hostert, Kohlby H.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-02-11"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/IrvinColeR",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Men's Baseball Team 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-02-11"
+        },
+        "label": "Irvin, Cole R.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-02-11"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/KaraviotisMarkR",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Men's Baseball Team 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-02-11"
+        },
+        "label": "Karaviotis, Mark R.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-02-11"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/KarrakerJackR",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Men's Baseball Team 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-02-11"
+        },
+        "label": "Karraker, Jack R.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-02-11"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/KasserKyleV",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Men's Baseball Team 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-02-11"
+        },
+        "label": "Kasser, Kyle V.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-02-11"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/KrookMatthewE",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Men's Baseball Team 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-02-11"
+        },
+        "label": "Krook, Matthew E.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-02-11"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/NogosekStephenJ",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Men's Baseball Team 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-02-11"
+        },
+        "label": "Nogosek, Stephen J.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-02-11"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/PackardStevenB",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Men's Baseball Team 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-02-11"
+        },
+        "label": "Packard, Steven B.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-02-11"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/PaddonTrentC",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Men's Baseball Team 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-02-11"
+        },
+        "label": "Paddon, Trent C.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-02-11"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/PatzlaffDanielR",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Men's Baseball Team 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-02-11"
+        },
+        "label": "Patzlaff, Daniel R.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-02-11"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/PetersonDavidJ",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Men's Baseball Team 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-02-11"
+        },
+        "label": "Peterson, David J.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-02-11"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/RetaJosephM",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Men's Baseball Team 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-02-11"
+        },
+        "label": "Reta, Joseph M.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-02-11"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/SmithSpencerL",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Men's Baseball Team 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-02-11"
+        },
+        "label": "Smith, Spencer L.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-02-11"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/StilesCooperJ",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Men's Baseball Team 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-02-11"
+        },
+        "label": "Stiles, Cooper J.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-02-11"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/SusnaraTimothyJ",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Men's Baseball Team 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-02-11"
+        },
+        "label": "Susnara, Timothy J.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-02-11"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/TolmanMitchellR",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Men's Baseball Team 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-02-11"
+        },
+        "label": "Tolman, Mitchell R.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-02-11"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/WarrenBracA",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Men's Baseball Team 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-02-11"
+        },
+        "label": "Warren, Brac A.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-02-11"
+        }
+    },
+    {
         "@id": "http://opaquenamespace.org/ns/people/ChetcoValleyHistoricalSocietyMuseum",
         "@type": "CorporateName",
         "definedBy": {
