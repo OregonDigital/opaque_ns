@@ -57423,6 +57423,74 @@
         }
     },
     {
+        "@id": "http://opaquenamespace.org/ns/people/WheatonKennethKennyT",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Football player",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-02-16"
+        },
+        "label": "Wheaton, Kenneth 'Kenny' T.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-02-16"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/UbahLillianA",
+        "@type": "PersonalName",
+        "comment": "International student, University of Oregon 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-02-16"
+        },
+        "label": "Ubah, Lillian A",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-02-16"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/WafeqNabila",
+        "@type": "PersonalName",
+        "comment": "International student, University of Oregon 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-02-16"
+        },
+        "label": "Wafeq, Nabila",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-02-16"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/YurishchevaAnastasiaStacyA",
+        "@type": "PersonalName",
+        "comment": "University of Oregon 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-02-16"
+        },
+        "label": "Yurishcheva, Anastasia 'Stacy' A.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-02-16"
+        }
+    },
+    {
         "@id": "http://opaquenamespace.org/ns/people/ChetcoValleyHistoricalSocietyMuseum",
         "@type": "CorporateName",
         "definedBy": {
