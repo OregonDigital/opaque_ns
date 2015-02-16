@@ -57474,7 +57474,7 @@
         }
     },
     {
-        "@id": "http://opaquenamespace.org/ns/people/YurishchevaAnastasiaStacyA",
+        "@id": "http://opaquenamespace.org/ns/people/YurishchevaAnastasiaStacyE",
         "@type": "PersonalName",
         "comment": "University of Oregon 2014-2015",
         "definedBy": {
@@ -57484,7 +57484,7 @@
             "@type": "date",
             "@value": "2015-02-16"
         },
-        "label": "Yurishcheva, Anastasia 'Stacy' A.",
+        "label": "Yurishcheva, Anastasia 'Stacy' E.",
         "modified": {
             "@type": "date",
             "@value": "2015-02-16"
