@@ -83207,6 +83207,102 @@
         }
     },
     {
+        "@id": "http://opaquenamespace.org/ns/subject/BristleDolls",
+        "@type": "Topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "22015-02-20"
+        },
+        "label": "Bristle Dolls",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-02-20"
+        }
+    },
+     {
+        "@id": "http://opaquenamespace.org/ns/subject/DoughFigures",
+        "@type": "Topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-02-20"
+        },
+        "label": "Dough Figures",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-02-20"
+        }
+    },
+     {
+        "@id": "http://opaquenamespace.org/ns/subject/FoldedPaperFigures",
+        "@type": "Topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-02-20"
+        },
+        "label": "Folded Paper Figures",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-02-20"
+        }
+    },
+     {
+        "@id": "http://opaquenamespace.org/ns/subject/MudDolls",
+        "@type": "Topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-02-20"
+        },
+        "label": "Mud Dolls",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-02-20"
+        }
+    },
+     {
+        "@id": "http://opaquenamespace.org/ns/subject/Mudtoys",
+        "@type": "Topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-02-20"
+        },
+        "label": "Mud toys",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-02-20"
+        }
+    },
+     {
+        "@id": "http://opaquenamespace.org/ns/subject/PuHuiPainting",
+        "@type": "Topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-02-20"
+        },
+        "label": "Pu Hui Painting",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-02-20"
+        }
+    },
+    {
       "@id": "http://opaquenamespace.org/ns/subject/Sicilian",
       "@type": "Topic",
       "definedBy": {
