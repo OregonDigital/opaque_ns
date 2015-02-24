@@ -24,7 +24,7 @@
   },
   "@graph": [
     {
-      "@id": "http://opaquenamespace.org/subject",
+      "@id": "http://opaquenamespace.org/ns/subject",
       "issued": {
         "@type": "http://www.w3.org/2001/XMLSchema#date",
         "@value": "2013-12-16"
