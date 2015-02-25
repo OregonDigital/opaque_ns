@@ -17,7 +17,7 @@
   },
   "@graph": [
     {
-      "@id": "http://opaquenamespace.org/rights",
+      "@id": "http://opaquenamespace.org/ns/rights",
       "issued": {
         "@type": "http://www.w3.org/2001/XMLSchema#date",
         "@value": "2013-12-16"
@@ -30,7 +30,7 @@
       "title": "Oregon Digital Rights Statements"
     },
     {
-      "@id": "http://opaquenamespace.org/rights/educational",
+      "@id": "http://opaquenamespace.org/ns/rights/educational",
       "@type": [
         "RightsStatement"
       ],
@@ -38,7 +38,7 @@
       "label": "Educational Use Permitted"
     },
     {
-      "@id": "http://opaquenamespace.org/rights/orphan-work-us",
+      "@id": "http://opaquenamespace.org/ns/rights/orphan-work-us",
       "@type": [
         "RightsStatement"
       ],
