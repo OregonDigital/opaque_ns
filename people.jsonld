@@ -57491,7 +57491,7 @@
         }
     },
     {
-        "@id": "http://opaquenamespace.org/ns/people/MardenJackA",
+        "@id": "http://opaquenamespace.org/ns/people/MarderJackA",
         "@type": "PersonalName",
         "comment": "University of Oregon Baseball First Base Coach, 2014-2015",
         "definedBy": {
@@ -57501,7 +57501,7 @@
             "@type": "date",
             "@value": "2015-02-25"
         },
-        "label": "Marden, Jack A.",
+        "label": "Marder, Jack A.",
         "modified": {
             "@type": "date",
             "@value": "2015-02-25"
