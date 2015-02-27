@@ -57508,6 +57508,23 @@
         }
     },
     {
+        "@id": "http://opaquenamespace.org/ns/people/GomezPalomaM",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Women's Tennis team, 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-02-27"
+        },
+        "label": "Gomez, Paloma M.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-02-27"
+        }
+    },
+    {
         "@id": "http://opaquenamespace.org/ns/people/ChetcoValleyHistoricalSocietyMuseum",
         "@type": "CorporateName",
         "definedBy": {
