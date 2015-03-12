@@ -57525,6 +57525,261 @@
         }
     },
     {
+        "@id": "http://opaquenamespace.org/ns/people/ArcuriGiuliaM",
+        "@type": "PersonalName",
+        "comment": "University of Oregon student actor, 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-03-12"
+        },
+        "label": "Arcuri, Giulia M.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-03-12"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/BrownCrystalH",
+        "@type": "PersonalName",
+        "comment": "University of Oregon student actor, 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-03-12"
+        },
+        "label": "Brown, Crystal H.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-03-12"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/CampbellKaterinaP",
+        "@type": "PersonalName",
+        "comment": "University of Oregon student actor, 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-03-12"
+        },
+        "label": "Campbell, Katerina P.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-03-12"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/DavisClaytonJ",
+        "@type": "PersonalName",
+        "comment": "University of Oregon student actor, 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-03-12"
+        },
+        "label": "Davis, Clayton J.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-03-12"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/DobosBrittanyD",
+        "@type": "PersonalName",
+        "comment": "University of Oregon student actor, 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-03-12"
+        },
+        "label": "Dobos, Brittany D.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-03-12"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/HarlowStephanieR",
+        "@type": "PersonalName",
+        "comment": "University of Oregon student actor, 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-03-12"
+        },
+        "label": "Harlow, Stephanie R.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-03-12"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/JeschEmilyA",
+        "@type": "PersonalName",
+        "comment": "University of Oregon student actor, 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-03-12"
+        },
+        "label": "Jesch, Emily A.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-03-12"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/KazarianAtticusJ",
+        "@type": "PersonalName",
+        "comment": "University of Oregon student actor, 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-03-12"
+        },
+        "label": "Kazarian, Atticus J.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-03-12"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/KrasnovaYulia",
+        "@type": "PersonalName",
+        "comment": "University of Oregon student actor, 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-03-12"
+        },
+        "label": "Krasnova, Yulia ",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-03-12"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/LuttonNicholasA",
+        "@type": "PersonalName",
+        "comment": "University of Oregon student actor, 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-03-12"
+        },
+        "label": "Lutton, Nicholas A.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-03-12"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/MillerJonathanJ",
+        "@type": "PersonalName",
+        "comment": "University of Oregon student actor, 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-03-12"
+        },
+        "label": "Miller, Jonathan J.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-03-12"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/RavitchLaraM",
+        "@type": "PersonalName",
+        "comment": "University of Oregon student actor, 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-03-12"
+        },
+        "label": "Ravitch, Lara M.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-03-12"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/StepanovaAlexandraA",
+        "@type": "PersonalName",
+        "comment": "University of Oregon student actor, 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-03-12"
+        },
+        "label": "Stepanova, Alexandra A.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-03-12"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/VaintrobElizabeth",
+        "@type": "PersonalName",
+        "comment": "University of Oregon student actor, 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-03-12"
+        },
+        "label": "Vaintrob, Elizabeth",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-03-12"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/WhitwerLaceyA",
+        "@type": "PersonalName",
+        "comment": "University of Oregon student actor, 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-03-12"
+        },
+        "label": "Whitwer, Lacey A.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-03-12"
+        }
+    },
+    {
         "@id": "http://opaquenamespace.org/ns/people/ChetcoValleyHistoricalSocietyMuseum",
         "@type": "CorporateName",
         "definedBy": {
