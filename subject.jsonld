@@ -83190,7 +83190,7 @@
             "@value": "2015-01-21"
         }
     },
-           {
+    {
         "@id": "http://opaquenamespace.org/ns/subject/UniversityDay2009",
         "@type": "Topic",
         "definedBy": {
@@ -83204,6 +83204,54 @@
         "modified": {
             "@type": "date",
             "@value": "2015-01-21"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/subject/DoughFlowers",
+        "@type": "Topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-04-01"
+        },
+        "label": "Dough Flowers",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-04-01"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/subject/ClothTigers",
+        "@type": "Topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-04-01"
+        },
+        "label": "Cloth Tigers",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-04-01"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/subject/Hutongs",
+        "@type": "Topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-04-01"
+        },
+        "label": "Hutongs",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-04-01"
         }
     },
     {
