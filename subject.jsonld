@@ -83302,6 +83302,23 @@
             "@value": "2015-02-20"
         }
     },
+     {
+        "@id": "http://opaquenamespace.org/ns/subject/SchulteMaryJaneA",
+        "@type": "Topic",
+        "comment": "University of Oregon student, 2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-04-02"
+        },
+        "label": "Schulte, Mary Jane A.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-04-02"
+        }
+    },
     {
       "@id": "http://opaquenamespace.org/ns/subject/Sicilian",
       "@type": "Topic",
