@@ -1753,6 +1753,40 @@
       }
     },
     {
+      "@id": "http://opaquenamespace.org/ns/workType/Glasspositives",
+      "@type": "Concept",
+      "comment": "Structure object type from materials housed in Special Collections and Archives Research Center, Oregon State University.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-03-19"
+      },
+      "label": "Glass positives",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-03-19"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/workType/Portraitphotographs",
+      "@type": "Concept",
+      "comment": "Structure object type from materials housed in Special Collections and Archives Research Center, Oregon State University.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-03-19"
+      },
+      "label": "Portrait photographs",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-03-19"
+      }
+    },
+    {
       "@id": "http://opaquenamespace.org/ns/workType/intentionalCommunities",
       "@type": "Concept",
       "comment": "Planned residential communities designed from the start to have a high degree of social cohesion and teamwork. The members of an intentional community typically hold a common social, political, religious, or spiritual vision and often follow an alternative lifestyle.",
