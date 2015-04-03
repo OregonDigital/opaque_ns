@@ -83367,6 +83367,23 @@
             "@value": "2015-04-01"
         }
     },
+        {
+        "@id": "http://opaquenamespace.org/ns/subject/Divisi",
+        "@type": "CorporateName",
+        "comment": "Divisi is the premier all-female a cappella singing group from the University of Oregon.",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-04-03"
+        },
+        "label": "Divisi",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-04-03"
+        }
+    },
     {
       "@id": "http://opaquenamespace.org/ns/subject/Sicilian",
       "@type": "Topic",
