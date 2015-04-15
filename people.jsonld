@@ -57780,6 +57780,346 @@
         }
     },
     {
+        "@id": "http://opaquenamespace.org/ns/people/BrennanDrakeD",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Track and Field, 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-04-15"
+        },
+        "label": "Brennan, Drake D.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-04-15"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/BrooksJamesTony",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Track and Field, 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-04-15"
+        },
+        "label": "Brooks-James, Tony",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-04-15"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/ButlerMitchellJ",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Track and Field, 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-04-15"
+        },
+        "label": "Butler, Mitchell J.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-04-15"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/DanielsonCodyC",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Track and Field, 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-04-15"
+        },
+        "label": "Danielson, Cody C.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-04-15"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/FranzmairNikolausF",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Track and Field, 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-04-15"
+        },
+        "label": "Franzmair, Nikolaus F.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-04-15"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/GeogheganWilliamD",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Track and Field, 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-04-15"
+        },
+        "label": "Geoghegan, William D.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-04-15"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/GregorekJohnP",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Track and Field, 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-04-15"
+        },
+        "label": "Gregorek, John P.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-04-15"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/GrosvenorGrantW",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Track and Field, 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-04-15"
+        },
+        "label": "Grosvenor, Grant W.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-04-15"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/HenshawLiamJ",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Track and Field, 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-04-15"
+        },
+        "label": "Henshaw, Liam J.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-04-15"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/JanisJhetJ",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Track and Field, 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-04-15"
+        },
+        "label": "Janis, Jhet J.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-04-15"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/NizichJohnA",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Track and Field, 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-04-15"
+        },
+        "label": "Nizich, John A.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-04-15"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/RettigSchullerF",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Track and Field, 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-04-15"
+        },
+        "label": "Rettig, Schuller F.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-04-15"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/WhitehurstChanceJ",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Track and Field, 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-04-15"
+        },
+        "label": "Whitehurst, Chance J.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-04-15"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/WashingtonArianaA",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Track and Field, 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-04-15"
+        },
+        "label": "Washington, Ariana A.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-04-15"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/RogersHendersonRaevynA",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Track and Field, 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-04-15"
+        },
+        "label": "Rogers-Henderson, Raevyn A.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-04-15"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/PoradaKatherineJ",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Track and Field, 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-04-15"
+        },
+        "label": "Porada, Katherine J.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-04-15"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/NerudBriannaL",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Track and Field, 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-04-15"
+        },
+        "label": "Nerud, Brianna L.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-04-15"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/MooreAshleeL",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Track and Field, 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-04-15"
+        },
+        "label": "Moore, Ashlee L.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-04-15"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/JohnsonAlayshaA",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Track and Field, 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-04-15"
+        },
+        "label": "Johnson, Alaysha A.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-04-15"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/AbrahamsonEmmaJ",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Track and Field, 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-04-15"
+        },
+        "label": "Abrahamson, Emma J.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-04-15"
+        }
+    },
+    {
         "@id": "http://opaquenamespace.org/ns/people/ChetcoValleyHistoricalSocietyMuseum",
         "@type": "CorporateName",
         "definedBy": {
