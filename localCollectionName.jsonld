@@ -9453,24 +9453,6 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/localCollectionName/mss_corvallisgeneralstore",
-      "@type": "Concept",
-      "comment": "Collection in Special Collections & Archives Research Center, Oregon State University Libraries.",
-      "date": "active 2013-2014",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@type": "date",
-        "@value": "2014-09-04"
-      },
-      "label": "Corvallis General Store Records, 1880-1897 (MSS CorvallisGeneralStore)",
-      "modified": {
-        "@type": "date",
-        "@value": "2014-09-04"
-      }
-    },
-    {
       "@id": "http://opaquenamespace.org/ns/localCollectionName/p_051",
       "@type": "Concept",
       "comment": "Collection in Special Collections & Archives Research Center, Oregon State University Libraries.",
@@ -15980,7 +15962,7 @@
         "@type": "date",
         "@value": "2014-09-04"
       },
-      "label": "William Evans Lawrence Text, 1942 (MSS Lawrence)",
+      "label": "William Evans Lawrence Papers, 1893-1945 (MSS Lawrence)",
       "modified": {
         "@type": "date",
         "@value": "2014-09-04"
@@ -16916,7 +16898,7 @@
         "@type": "date",
         "@value": "2014-09-04"
       },
-      "label": "Joe O. Mattson Photographs, 1923-1924 (P 145)",
+      "label": "Joe O. Mattson Photograph Collection, 1923-1924 (P 145)",
       "modified": {
         "@type": "date",
         "@value": "2014-09-04"
@@ -17834,7 +17816,7 @@
         "@type": "date",
         "@value": "2014-09-04"
       },
-      "label": "Harriet Moore Photographic Collection, 1887-1934 (P 150)",
+      "label": "Harriet Moore Photograph Collection, 1890-1962 (P 150)",
       "modified": {
         "@type": "date",
         "@value": "2014-09-04"
@@ -20228,7 +20210,7 @@
         "@type": "date",
         "@value": "2014-09-04"
       },
-      "label": "Fred P. Parcher Photographs, 1915 (P 143)",
+      "label": "Phillip Parcher Photograph Album, 1915 (P 143)",
       "modified": {
         "@type": "date",
         "@value": "2014-09-04"
@@ -24008,7 +23990,7 @@
         "@type": "date",
         "@value": "2014-09-04"
       },
-      "label": "Armond C. Taylor Photographs, 1916 (P 139)",
+      "label": "Armond C. Taylor Photograph Collection, 1916 (P 139)",
       "modified": {
         "@type": "date",
         "@value": "2014-09-04"
@@ -27220,6 +27202,402 @@
         "@type": "date",
         "@value": "2014-09-30"
        }
-    } 
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/localCollectionName/mss_hotv",
+      "@type": "Concept",
+      "comment": "Collection in Special Collections & Archives Research Center, Oregon State University Libraries.",
+      "date": "active 2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-04-16"
+      },
+      "label": "Heart of the Valley Homebrewers Records, 1982-2004 (MSS HOTV)",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-04-16"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/localCollectionName/mss_hrc",
+      "@type": "Concept",
+      "comment": "Collection in Special Collections & Archives Research Center, Oregon State University Libraries.",
+      "date": "active 2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-04-16"
+      },
+      "label": "Hops Research Council Records, 1943-2009 (MSS HRC)",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-04-16"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/localCollectionName/mss_johnston",
+      "@type": "Concept",
+      "comment": "Collection in Special Collections & Archives Research Center, Oregon State University Libraries.",
+      "date": "active 2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-04-16"
+      },
+      "label": "Lory Johnston Papers, 1946-1950 (MSS Johnston)",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-04-16"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/localCollectionName/mss_westpulp",
+      "@type": "Concept",
+      "comment": "Collection in Special Collections & Archives Research Center, Oregon State University Libraries.",
+      "date": "active 2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-04-16"
+      },
+      "label": "Western Pulp and Paper Manufacturers Uniform Labor Agreements, 1952-2004 (MSS WestPulp)",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-04-16"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/localCollectionName/oh_28",
+      "@type": "Concept",
+      "comment": "Collection in Special Collections & Archives Research Center, Oregon State University Libraries.",
+      "date": "active 2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-04-16"
+      },
+      "label": "H. J. Andrews Experimental Forest Oral History Collection, 1996-1998 (OH 28)",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-04-16"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/localCollectionName/oh_29",
+      "@type": "Concept",
+      "comment": "Collection in Special Collections & Archives Research Center, Oregon State University Libraries.",
+      "date": "active 2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-04-16"
+      },
+      "label": "African-American Railroad Porter Oral History Collection, 1983-1992 (OH 29)",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-04-16"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/localCollectionName/mss_applegate",
+      "@type": "Concept",
+      "comment": "Collection in Special Collections & Archives Research Center, Oregon State University Libraries.",
+      "date": "active 2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-04-16"
+      },
+      "label": "Jesse A. Applegate Collection, 1861-1934 (MSS Applegate)",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-04-16"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/localCollectionName/mss_avery",
+      "@type": "Concept",
+      "comment": "Collection in Special Collections & Archives Research Center, Oregon State University Libraries.",
+      "date": "active 2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-04-16"
+      },
+      "label": "Avery Lodge Records, 1966-2014 (MSS Avery)",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-04-16"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/localCollectionName/mss_biddle",
+      "@type": "Concept",
+      "comment": "Collection in Special Collections & Archives Research Center, Oregon State University Libraries.",
+      "date": "active 2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-04-16"
+      },
+      "label": "Margaret Alden Biddle Scrapbook, 1910-1917 (MSS Biddle)",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-04-16"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/localCollectionName/mss_carter",
+      "@type": "Concept",
+      "comment": "Collection in Special Collections & Archives Research Center, Oregon State University Libraries.",
+      "date": "active 2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-04-16"
+      },
+      "label": "Haskell C. and Sarah E. Carter Memoir, 1982 (MSS Carter)",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-04-16"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/localCollectionName/mss_decker",
+      "@type": "Concept",
+      "comment": "Collection in Special Collections & Archives Research Center, Oregon State University Libraries.",
+      "date": "active 2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-04-16"
+      },
+      "label": "Phil Decker Oregon Crop Festival Photographs Collection, 2010-2014 (MSS Decker)",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-04-16"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/localCollectionName/mss_harrisc",
+      "@type": "Concept",
+      "comment": "Collection in Special Collections & Archives Research Center, Oregon State University Libraries.",
+      "date": "active 2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-04-16"
+      },
+      "label": "Celeste Liston Harris Scrapbooks on Ben Hur Lampman, 1926-1951 (MSS HarrisC)",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-04-16"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/localCollectionName/mss_howard",
+      "@type": "Concept",
+      "comment": "Collection in Special Collections & Archives Research Center, Oregon State University Libraries.",
+      "date": "active 2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-04-16"
+      },
+      "label": "Francis T. Howard Diary, 1858-1946 (MSS Howard)",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-04-16"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/localCollectionName/mss_lewis",
+      "@type": "Concept",
+      "comment": "Collection in Special Collections & Archives Research Center, Oregon State University Libraries.",
+      "date": "active 2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-04-16"
+      },
+      "label": "Lucy Lewis Scrapbook, 1914-1915 (MSS Lewis)",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-04-16"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/localCollectionName/mss_marcus",
+      "@type": "Concept",
+      "comment": "Collection in Special Collections & Archives Research Center, Oregon State University Libraries.",
+      "date": "active 2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-04-16"
+      },
+      "label": "David A. Marcus Letters, 1972-1985 (MSS Marcus)",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-04-16"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/localCollectionName/mss_meehan",
+      "@type": "Concept",
+      "comment": "Collection in Special Collections & Archives Research Center, Oregon State University Libraries.",
+      "date": "active 2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-04-16"
+      },
+      "label": "Margaret Meehan Papers, 1961-1987 (MSS Meehan)",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-04-16"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/localCollectionName/mss_ohga",
+      "@type": "Concept",
+      "comment": "Collection in Special Collections & Archives Research Center, Oregon State University Libraries.",
+      "date": "active 2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-04-16"
+      },
+      "label": "Oregon Hop Growers Association Records, 1912-2011 (MSS OHGA)",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-04-16"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/localCollectionName/pub_010-15c",
+      "@type": "Concept",
+      "comment": "Collection in Special Collections & Archives Research Center, Oregon State University Libraries.",
+      "date": "active 2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-04-16"
+      },
+      "label": "Oregon State Yank Newsletters, 1943-1945 (PUB 010-15c)",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-04-16"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/localCollectionName/maps_streets",
+      "@type": "Concept",
+      "comment": "Collection in Special Collections & Archives Research Center, Oregon State University Libraries.",
+      "date": "active 2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-04-16"
+      },
+      "label": "Street Surface Maps of Oregon Cities and Towns, 1939-1942 (MAPS Streets)",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-04-16"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/localCollectionName/mss_tooze",
+      "@type": "Concept",
+      "comment": "Collection in Special Collections & Archives Research Center, Oregon State University Libraries.",
+      "date": "active 2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-04-16"
+      },
+      "label": "Ruth Tibbits Tooze Papers, 1938-1940 (MSS Tooze)",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-04-16"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/localCollectionName/mss_meteorology",
+      "@type": "Concept",
+      "comment": "Collection in Special Collections & Archives Research Center, Oregon State University Libraries.",
+      "date": "active 2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-04-16"
+      },
+      "label": "Oregon Agricultural College Voluntary Observers' Meteorological Records, 1889-1940 (MSS Meteorology)",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-04-16"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/localCollectionName/mss_stock",
+      "@type": "Concept",
+      "comment": "Collection in Special Collections & Archives Research Center, Oregon State University Libraries.",
+      "date": "active 2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-04-16"
+      },
+      "label": "Stock's Cash Store Records, 1880-1897 (MSS Stock)",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-04-16"
+      }
+    }
   ]
 }
