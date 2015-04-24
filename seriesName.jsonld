@@ -789,6 +789,214 @@
       }
     },
     {
+      "@id": "http://opaquenamespace.org/ns/seriesName/2013July",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-04-24"
+      },
+      "label": "2013_July",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-04-24"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/seriesName/2012October",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-04-24"
+      },
+      "label": "2012_October",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-04-24"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/seriesName/2012May",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-04-24"
+      },
+      "label": "2012_May",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-04-24"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/seriesName/2011September",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-04-24"
+      },
+      "label": "2011_September",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-04-24"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/seriesName/2011QibaoShadowPlay",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-04-24"
+      },
+      "label": "2011_Qibao_Shadow_Play",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-04-24"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/seriesName/2011BeijingFieldSchool",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-04-24"
+      },
+      "label": "2011_Beijing_Field_School",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-04-24"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/seriesName/2010September",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-04-24"
+      },
+      "label": "2010_September",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-04-24"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/seriesName/2009September",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-04-24"
+      },
+      "label": "2009_September",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-04-24"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/seriesName/2009March",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-04-24"
+      },
+      "label": "2009_March",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-04-24"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/seriesName/2008May",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-04-24"
+      },
+      "label": "2008_May",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-04-24"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/seriesName/2008March",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-04-24"
+      },
+      "label": "2008_March",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-04-24"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/seriesName/2007May",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-04-24"
+      },
+      "label": "2007_May",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-04-24"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/seriesName/2007BarneyandLowe",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-04-24"
+      },
+      "label": "2007_Barney_and_Lowe",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-04-24"
+      }
+    },
+    {
       "@id": "http://opaquenamespace.org/ns/seriesName/WomeninColor",
       "@type": "Topic",
       "definedBy": {
