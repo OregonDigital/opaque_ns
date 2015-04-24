@@ -27204,6 +27204,23 @@
       }
     },
     {
+      "@id": "http://opaquenamespace.org/ns/localCollectionName/ChinaVineArchives",
+      "@type": "Topic",
+      "comment": "ChinaVine archives from chinavine.org",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-04-24"
+      },
+      "label": "ChinaVine Archives",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-04-24"
+      }
+    },
+    {
       "@id": "http://opaquenamespace.org/ns/localCollectionName/OfficeofthePresidentRecordsCharlesEJohnson",
       "@type": "Concept",
       "comment": "UA 008 Collection in Special Collections and University Archives, University of Oregon",
