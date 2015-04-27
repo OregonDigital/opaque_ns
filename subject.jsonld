@@ -83402,6 +83402,91 @@
       }
     },
     {
+      "@id": "http://opaquenamespace.org/ns/subject/ChiuminettaBlakeA",
+      "@type": "PersonalName",
+      "comment": "University of Oregon Running Club, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-04-27"
+      },
+      "label": "Chiuminetta, Blake A.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-04-27"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/subject/JonesEmilyN",
+      "@type": "PersonalName",
+      "comment": "University of Oregon Running Club, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-04-27"
+      },
+      "label": "Jones, Emily N.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-04-27"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/subject/DolanErinK",
+      "@type": "PersonalName",
+      "comment": "University of Oregon Running Club, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-04-27"
+      },
+      "label": "Dolan, Erin K.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-04-27"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/subject/FordCaitlinKateyK",
+      "@type": "PersonalName",
+      "comment": "University of Oregon Running Club, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-04-27"
+      },
+      "label": "Ford, Caitlin 'Katey' K.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-04-27"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/subject/StephenKeeraR",
+      "@type": "PersonalName",
+      "comment": "University of Oregon Running Club, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-04-27"
+      },
+      "label": "Stephen, Keera R.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-04-27"
+      }
+    },
+    {
       "@id": "http://opaquenamespace.org/ns/subject/Sicilian",
       "@type": "Topic",
       "definedBy": {
