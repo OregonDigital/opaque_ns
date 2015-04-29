@@ -58137,6 +58137,40 @@
         }
     },
     {
+        "@id": "http://opaquenamespace.org/ns/people/FettigPierceK",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Men's Tennis Team Manager, 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-04-29"
+        },
+        "label": "Fettig, Pierce K.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-04-29"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/RoedlEricL",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Executive Associate Athletic Director, 2014-2015",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-04-29"
+        },
+        "label": "Roedl, Eric L.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-04-29"
+        }
+    },
+    {
         "@id": "http://opaquenamespace.org/ns/people/ChetcoValleyHistoricalSocietyMuseum",
         "@type": "CorporateName",
         "definedBy": {
