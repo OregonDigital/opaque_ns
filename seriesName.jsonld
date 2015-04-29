@@ -981,7 +981,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/seriesName/2007BarneyandLowe",
+      "@id": "http://opaquenamespace.org/ns/seriesName/2007BarneyandLoye",
       "@type": "Topic",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -990,7 +990,7 @@
         "@type": "date",
         "@value": "2015-04-24"
       },
-      "label": "2007_Barney_and_Lowe",
+      "label": "2007_Barney_and_Loye",
       "modified": {
         "@type": "date",
         "@value": "2015-04-24"
