@@ -1,0 +1,126 @@
+{
+  "@context": {
+    "@language": "en",
+    "Collection": "http://purl.org/dc/terms/Collection",
+    "Concept": "http://www.w3.org/2004/02/skos/core#Concept",
+    "CorporateName": "http://www.w3.org/2004/02/skos/core#CorporateName",
+    "Geographic": "http://www.w3.org/2004/02/skos/core#Geographic",
+    "PersonalName": "http://www.w3.org/2004/02/skos/core#PersonalName",
+    "RightsStatement": "http://purl.org/dc/terms/RightsStatement",
+    "Title": "http://www.w3.org/2004/02/skos/core#Title",
+    "Topic": "http://www.w3.org/2004/02/skos/core#Topic",
+    "additionalName": "http://schema.org/additionalName",
+    "alternateName": "http://schema.org/alternateName",
+    "comment": "http://www.w3.org/2000/01/rdf-schema#comment",
+    "date": "http://www.w3.org/2001/XMLSchema#date",
+    "definedBy": "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+    "description": "http://purl.org/dc/terms/description",
+    "issued": "http://purl.org/dc/terms/issued",
+    "label": "http://www.w3.org/2000/01/rdf-schema#label",
+    "modified": "http://purl.org/dc/terms/modified",
+    "publisher": "http://purl.org/dc/terms/publisher",
+    "range": "http://www.w3.org/2000/01/rdf-schema#range",
+    "title": "http://purl.org/dc/terms/title"
+  },
+  "@graph": [
+    {
+      "@id": "http://opaquenamespace.org/ns/accessRestrictions",
+      "issued": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2015-04-29"
+      },
+      "modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2015-04-29"
+      },
+      "publisher": "Opaque Namespace",
+      "title": "Access Restrictions controlled vocabulary"
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/accessRestrictions/UOopen",
+      "@type": "Concept",
+      "comment": "This item is open to faculty, students and staff of the University of Oregon.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-04-29"
+      },
+      "label": "",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-04-29"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/accessRestrictions/UOrestricted",
+      "@type": "Concept",
+      "comment": "",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-04-29"
+      },
+      "label": "Access to this item is restricted to faculty, students and staff of the University of Oregon.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-04-29"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/accessRestrictions/OSUopen",
+      "@type": "Concept",
+      "comment": "",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-04-29"
+      },
+      "label": "This item is open to faculty, students and staff of Oregon State University.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-04-29"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/accessRestrictions/OSUrestricted",
+      "@type": "Concept",
+      "comment": "",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-04-29"
+      },
+      "label": "Access to this item is restricted to faculty, students and staff of Oregon State University.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-04-29"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/accessRestrictions/Allrestricted",
+      "@type": "Concept",
+      "comment": "",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-04-29"
+      },
+      "label": "Access to this item is restricted.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-04-29"
+      }
+    }
+  ]
+}  
+      
