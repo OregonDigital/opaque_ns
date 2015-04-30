@@ -27582,6 +27582,22 @@
       }
     },
     {
+      "@id": "http://opaquenamespace.org/ns/localCollectionName/ChinaVineArchives",
+      "@type": "Concept",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-04-29"
+      },
+      "label": "ChinaVine Archives",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-04-29"
+      }
+    }, 
+    {
       "@id": "http://opaquenamespace.org/ns/localCollectionName/mss_stock",
       "@type": "Concept",
       "comment": "Collection in Special Collections & Archives Research Center, Oregon State University Libraries.",
