@@ -27614,6 +27614,21 @@
         "@type": "date",
         "@value": "2015-04-16"
       }
+    },
+    {
+
+      "@id": "http://opaquenamespace.org/ns/localCollectionName/GeraldWilliamsRegionalAlbums",
+      "@type": "Concept",
+      "comment": "Collection in Special Collections & Archives Research Center, Oregon State University Libraries.",
+      "issued": {
+        "@type": "date",
+        "@value": "2015-05-01"
+      },
+      "label": "Gerald W. Williams Regional Albums (P 303)",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-05-01"
+      }
     }
   ]
 }
