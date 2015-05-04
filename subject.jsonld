@@ -83486,6 +83486,23 @@
         "@value": "2015-04-27"
       }
     },
+     {
+      "@id": "http://opaquenamespace.org/ns/subject/MindtheGap",
+      "@type": "PersonalName",
+      "comment": "University of Oregon a cappella group, founded 2007",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-05-04"
+      },
+      "label": "Mind the Gap",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-05-04"
+      }
+    },
     {
       "@id": "http://opaquenamespace.org/ns/subject/Sicilian",
       "@type": "Topic",
