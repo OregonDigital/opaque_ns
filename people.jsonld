@@ -58171,6 +58171,24 @@
         }
     },
     {
+        "@id": "http://opaquenamespace.org/ns/people/KamalaniKeloni",
+        "@type": "PersonalName",
+        "comment": "University of Oregon Football player, 2009-2012. Full name Keloni Kimo Logan Sarasin Kamalani.",
+        "alternateName": "Kamalani, Keloni Kimo Logan Sarasin",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-05-06"
+        },
+        "label": "Kamalani, Keloni",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-05-06"
+        }
+    },
+    {
         "@id": "http://opaquenamespace.org/ns/people/ChetcoValleyHistoricalSocietyMuseum",
         "@type": "CorporateName",
         "definedBy": {
