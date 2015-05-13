@@ -83488,7 +83488,7 @@
     },
      {
       "@id": "http://opaquenamespace.org/ns/subject/MindtheGap",
-      "@type": "PersonalName",
+      "@type": "CorporateName",
       "comment": "University of Oregon a cappella group, founded 2007",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -83501,6 +83501,74 @@
       "modified": {
         "@type": "date",
         "@value": "2015-05-04"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/subject/http://opaquenamespace.org/ns/subject/LaursenLouise",
+      "@type": "PersonalName",
+      "comment": "University of Oregon Running Club, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-05-13"
+      },
+      "label": "Laursen, Louise",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-05-13"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/subject/TaylorKendrick",
+      "@type": "PersonalName",
+      "comment": "University of Oregon Running Club, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-05-13"
+      },
+      "label": "Taylor, Kendrick",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-05-13"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/subject/BerglundMilesE",
+      "@type": "PersonalName",
+      "comment": "University of Oregon Running Club, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-05-13"
+      },
+      "label": "Berglund, Miles E.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-05-13"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/subject/CallanShaneD",
+      "@type": "PersonalName",
+      "comment": "University of Oregon Running Club, 2014-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-05-13"
+      },
+      "label": "Callan, Shane D.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-05-13"
       }
     },
     {
