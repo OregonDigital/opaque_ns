@@ -83571,6 +83571,24 @@
         "@value": "2015-05-13"
       }
     },
+	{
+      "@id": "http://opaquenamespace.org/ns/subject/VintonMusicPublishingCompany",
+      "@type": "CorporateName",
+      "comment": "Historic Sheet Music Collection. Identity confirmed Worldcat",
+      "date": "active 1904-1908",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-05-27"
+      },
+      "label": "Vinton Music Publishing Company",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-05-27"
+      }
+    },
     {
       "@id": "http://opaquenamespace.org/ns/subject/Sicilian",
       "@type": "Topic",
