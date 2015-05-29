@@ -27666,6 +27666,65 @@
       }
     },
     {
+      "@id": "http://opaquenamespace.org/ns/localCollectionName/CronkFamily",
+      "@type": "PersonalName",
+      "issued": {
+        "@type": "date",
+        "@value": "2015-05-29"
+      },
+      "label": "Cronk Family",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-05-29"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/localCollectionName/SALTnewsletter",
+      "@type": "Concept",
+      "@additionalName": "Take it with a Grain",
+      "comment": "Siuslaw National Forest Newsletter.  Named for the forest being on the ocean - not known to be an acronym.",
+      "date": "1931-1938",
+      "issued": {
+        "@type": "date",
+        "@value": "2015-05-29"
+      },
+      "label": "SALT newsletter",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-05-29"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/localCollectionName/SandDunePlantingRecords",
+      "@type": "Concept",
+      "comment": "Siuslaw National Forest Administrative records of a project to re-forest the dunes",
+      "date": "1910-1945",
+      "issued": {
+        "@type": "date",
+        "@value": "2015-05-29"
+      },
+      "label": "Sand Dune Planting Records",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-05-29"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/localCollectionName/JPCronk",
+      "@type": "PersonalName",
+      "comment": "Photographer",
+      "date": "1887-1972",
+      "issued": {
+        "@type": "date",
+        "@value": "2015-05-29"
+      },
+      "label": "J.P. Cronk",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-05-29"
+      }
+    },
+    {
       "@id": "http://opaquenamespace.org/ns/localCollectionName/mss_dunlop",
       "@type": "Concept",
       "comment": "Collection in Special Collections & Archives Research Center, Oregon State University Libraries.",
