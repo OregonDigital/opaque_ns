@@ -58189,6 +58189,74 @@
         }
     },
     {
+        "@id": "http://opaquenamespace.org/ns/people/DiNataleStephenSteveJ",
+        "@type": "PersonalName",
+        "comment": "Howe Field grounds crew, University of Oregon, 2015.",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-06-01"
+        },
+        "label": "Di Natale, Stephen 'Steve' J.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-06-01"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/McCoyRobertA",
+        "@type": "PersonalName",
+        "comment": "Howe Field grounds crew, University of Oregon, 2015.",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-06-01"
+        },
+        "label": "McCoy, Robert A.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-06-01"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/CentrellaWilliamBillL",
+        "@type": "PersonalName",
+        "comment": "Howe Field grounds crew, University of Oregon, 2015.",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-06-01"
+        },
+        "label": "Centrella, William 'Bill' L.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-06-01"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/MillerDavidDaveJ",
+        "@type": "PersonalName",
+        "comment": "Howe Field grounds crew, University of Oregon, 2015.",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-06-01"
+        },
+        "label": "Miller, David 'Dave' J.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-06-01"
+        }
+    },
+    {
         "@id": "http://opaquenamespace.org/ns/people/ChetcoValleyHistoricalSocietyMuseum",
         "@type": "CorporateName",
         "definedBy": {
