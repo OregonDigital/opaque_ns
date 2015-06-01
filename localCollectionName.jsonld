@@ -27636,7 +27636,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/localCollectionName/JoelPalmerUOSCUA",
       "@type": "Concept",
-      "comment": "Ax 057, University of Oregon Special Collections and University Archives",
+      "comment": "Ax057 and Ph206, University of Oregon Special Collections and University Archives",
       "date": "1851-1879",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -27648,7 +27648,7 @@
       "label": "Joel Palmer Papers, 1851-1879",
       "modified": {
         "@type": "date",
-        "@value": "2015-05-06"
+        "@value": "2015-06-01"
       }
     },
     {
