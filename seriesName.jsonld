@@ -997,6 +997,74 @@
       }
     },
     {
+      "@id": "http://opaquenamespace.org/ns/seriesName/USOfficeofIndianAffairsOregonSuperintendencyJoelPalmer",
+      "@type": "Topic",
+      "comment": "Ax057, Joel Palmer papers, Spcial Collections and University Archives, University of Oregon.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-06-01"
+      },
+      "label": "U. S. Office of Indian Affairs, Oregon Superintendency",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-06-01"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/seriesName/VolumesJoelPalmer",
+      "@type": "Topic",
+      "comment": "Ax057, Joel Palmer papers, Spcial Collections and University Archives, University of Oregon.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-06-01"
+      },
+      "label": "Volumes",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-06-01"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/seriesName/ChronologicalFilesJoelPalmer",
+      "@type": "Topic",
+      "comment": "Ax057, Joel Palmer papers, Spcial Collections and University Archives, University of Oregon.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-06-01"
+      },
+      "label": "Chronological Files",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-06-01"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/seriesName/LettersJoelPalmer",
+      "@type": "Topic",
+      "comment": "Ax057, Joel Palmer papers, Spcial Collections and University Archives, University of Oregon.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-06-01"
+      },
+      "label": "Letters",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-06-01"
+      }
+    },
+    {
       "@id": "http://opaquenamespace.org/ns/seriesName/WomeninColor",
       "@type": "Topic",
       "definedBy": {
