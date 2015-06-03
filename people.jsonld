@@ -58257,6 +58257,193 @@
         }
     },
     {
+        "@id": "http://opaquenamespace.org/ns/people/FletcherFrancis",
+        "@type": "PersonalName",
+        "comment": "Ph206, Special Collections and University Archives, University of Oregon.",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-06-01"
+        },
+        "label": "Fletcher, Francis",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-06-01"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/FletcherFrank",
+        "@type": "PersonalName",
+        "comment": "Ph206, Special Collections and University Archives, University of Oregon. Son of Francis Fletcher.",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-06-01"
+        },
+        "label": "Fletcher, Frank",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-06-01"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/HannaMajorFrancis",
+        "@type": "PersonalName",
+        "comment": "Ph206, Special Collections and University Archives, University of Oregon. Father of Mary Fletcher Reed.",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-06-01"
+        },
+        "label": "Hanna, Major Francis",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-06-01"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/HannaJackson",
+        "@type": "PersonalName",
+        "comment": "Ph206, Special Collections and University Archives, University of Oregon. Brother of Mrs. Fred Crawford",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-06-01"
+        },
+        "label": "Hanna, Jackson",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-06-01"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/MarunCollins",
+        "@type": "PersonalName",
+        "comment": "Ph206, Special Collections and University Archives, University of Oregon. Brother of Edna Marun, son of Joeline Palmer and Joseph Mann.",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-06-01"
+        },
+        "label": "Marun, Collins",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-06-01"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/MarunEdna",
+        "@type": "PersonalName",
+        "comment": "Ph206, Special Collections and University Archives, University of Oregon. Sister of Collins Marun, daughter of Joeline Palmer and Joseph Mann.",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-06-01"
+        },
+        "label": "Marun, Edna",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-06-01"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/MoanJames",
+        "@type": "PersonalName",
+        "comment": "Ph206, Special Collections and University Archives, University of Oregon. Grandson of William McKay",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-06-01"
+        },
+        "label": "Moan, James",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-06-01"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/MoanJohn",
+        "@type": "PersonalName",
+        "comment": "Ph206, Special Collections and University Archives, University of Oregon. Grandson of William McKay, first husband of Emma Palmer.",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-06-01"
+        },
+        "label": "Moan, John",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-06-01"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/MoraMooreEmmaPalmer",
+        "@type": "PersonalName",
+        "comment": "Ph206, Special Collections and University Archives, University of Oregon. Possibly the wife of John Moan.",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-06-01"
+        },
+        "label": "Mora-Moore, Emma Palmer",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-06-01"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/PalmerAliceAntoinette",
+        "@type": "PersonalName",
+        "comment": "Ph206, Special Collections and University Archives, University of Oregon. Wife of William Penn Palmer",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-06-01"
+        },
+        "label": "Palmer, Alice Antoinette",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-06-01"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/ReedMaryFletcher",
+        "@type": "PersonalName",
+        "comment": "Ph206, Special Collections and University Archives, University of Oregon. Daughter of Francis Fletcher.",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-06-01"
+        },
+        "label": "Reed, Mary Fletcher",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-06-01"
+        }
+    },
+    {
         "@id": "http://opaquenamespace.org/ns/people/ChetcoValleyHistoricalSocietyMuseum",
         "@type": "CorporateName",
         "definedBy": {
