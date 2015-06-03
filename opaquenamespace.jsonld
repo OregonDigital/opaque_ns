@@ -339,6 +339,24 @@
       "subPropertyOf": "isPartOf"
     },
     {
+      "@id": "http://opaquenamespace.org/ns/boxName",
+      "@type": "Property",
+      "comment": "Identifier on the box holding the physical archival item.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-06-03"
+      },
+      "label": "Box Name",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-06-03"
+      },
+      "subPropertyOf": "isPartOf"
+    },
+    {
       "@id": "http://opaquenamespace.org/ns/folderNumber",
       "@type": "Property",
       "comment": "Identifier on the folder within the box holding the physical archival item.",
