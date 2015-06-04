@@ -13959,6 +13959,25 @@
       }
     },
     {
+      "@id": "http://opaquenamespace.org/ns/repository/ArkansasStateUniversityArchivesandSpecialCollections",
+      "@type": "CorporateName",
+      "additionalName": "Arkansas State University. Archives and Special Collections",
+      "comment": "From: Weisse, Julie. Corazon de Dixie.",
+      "date": "1997-",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-06-04"
+      },
+      "label": "Arkansas State University. Archives & Special Collections",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-06-04"
+      }
+    },
+    {
       "@id": "http://opaquenamespace.org/ns/repository/Zuishinintemple",
       "@type": "CorporateName",
       "comment": "Zuishinin temple, Kyoto (Kyoto), Kinki, Japan. Kobayashi, Tadashi and Hiroyuki Kano; Kano-ha to fuzokuga, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
