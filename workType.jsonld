@@ -1787,6 +1787,54 @@
       }
     },
     {
+      "@id": "http://opaquenamespace.org/ns/workType/Starbook",
+      "@type": "Concept",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-06-04"
+      },
+      "label": "Star book",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-06-04"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/workType/Gatefoldbook",
+      "@type": "Concept",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-06-04"
+      },
+      "label": "Gatefold book",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-06-04"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/workType/Clamshellboxes",
+      "@type": "Concept",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-06-04"
+      },
+      "label": "Clamshell boxes",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-06-04"
+      }
+    },
+    {
       "@id": "http://opaquenamespace.org/ns/workType/intentionalCommunities",
       "@type": "Concept",
       "comment": "Planned residential communities designed from the start to have a high degree of social cohesion and teamwork. The members of an intentional community typically hold a common social, political, religious, or spiritual vision and often follow an alternative lifestyle.",
