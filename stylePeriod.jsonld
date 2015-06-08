@@ -2553,7 +2553,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/Altai/BronzeAgeandlater",
+      "@id": "http://opaquenamespace.org/ns/stylePeriod/Altai/BronzeAgeandlater",
       "@type": "Concept",
       "comment": "Referring to the period and cultures present in the Mongolian Altai Mountains from about 3500 BCE and later.",
       "definedBy": {
@@ -2570,7 +2570,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/Altai/EarlyNomadic",
+      "@id": "http://opaquenamespace.org/ns/stylePeriod/Altai/EarlyNomadic",
       "@type": "Concept",
       "comment": "Referring to the period and nomadic herding cultures present in the Mongolian Altai Mountains from the Late Bronze Age to the Early Iron Age, about 2800-2300 BCE.",
       "definedBy": {
@@ -2587,7 +2587,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/Altai/EthnographicPeriod",
+      "@id": "http://opaquenamespace.org/ns/stylePeriod/Altai/EthnographicPeriod",
       "@type": "Concept",
       "comment": "A subdivision of the Iron Age in the cultures of the Mongolian Altai Mountains.",
       "definedBy": {
@@ -2604,7 +2604,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/Altai/MongolPeriod",
+      "@id": "http://opaquenamespace.org/ns/stylePeriod/Altai/MongolPeriod",
       "@type": "Concept",
       "comment": "Referring to the period and cultures originating in the steppes of Central Asia and extending across Asia in the in the 13th and 14th century.",
       "definedBy": {
@@ -2621,7 +2621,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/Altai/PostTurkic",
+      "@id": "http://opaquenamespace.org/ns/stylePeriod/Altai/PostTurkic",
       "@type": "Concept",
       "comment": "Referring to the period and cultures present in the Mongolian Altai Mountains from the end of the Turkic period, about 1000 BCE.",
       "definedBy": {
@@ -2638,7 +2638,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/Altai/PreBronzeAge",
+      "@id": "http://opaquenamespace.org/ns/stylePeriod/Altai/PreBronzeAge",
       "@type": "Concept",
       "comment": "Referring to the period and cultures present in the Mongolian Altai Mountains from the end of the Neolithic era, about 4300 BCE, to the beginning of the Bronze Age, about 4000 BCE.",
       "definedBy": {
@@ -2655,7 +2655,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/Altai/PreModern",
+      "@id": "http://opaquenamespace.org/ns/stylePeriod/Altai/PreModern",
       "@type": "Concept",
       "comment": "Referring to the period and cultures present in the Mongolian Altai Mountains in modern times",
       "definedBy": {
@@ -2672,7 +2672,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/Altai/TurkicPeriod",
+      "@id": "http://opaquenamespace.org/ns/stylePeriod/Altai/TurkicPeriod",
       "@type": "Concept",
       "comment": "Referring to the period and cultures present in the Mongolian Altai Mountains between the 6th and 9th centuries.",
       "definedBy": {
@@ -2689,7 +2689,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/Altai/Uighurperiod",
+      "@id": "http://opaquenamespace.org/ns/stylePeriod/Altai/UighurPeriod",
       "@type": "Concept",
       "comment": "Referring to the period and Uighur culture present in the Mongolian Altai Mountains from the the end of the Turkic Period, around the 8th-9th centuries.",
       "definedBy": {
@@ -2699,14 +2699,14 @@
         "@type": "date",
         "@value": "2014-07-23"
       },
-      "label": "Uighur period",
+      "label": "Uighur Period",
       "modified": {
         "@type": "date",
         "@value": "2014-07-23"
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/Altai/Uncertain",
+      "@id": "http://opaquenamespace.org/ns/stylePeriod/Altai/uncertain",
       "@type": "Concept",
       "comment": "Referring to uncertain period and cultures present in the Mongolian Altai Mountains.",
       "definedBy": {
@@ -2723,194 +2723,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/Altai/BronzeAgeandlater",
-      "@type": "Concept",
-      "comment": "Referring to the period and cultures present in the Mongolian Altai Mountains from about 3500 BCE and later.",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@type": "date",
-        "@value": "2014-07-23"
-      },
-      "label": "Bronze Age and later",
-      "modified": {
-        "@type": "date",
-        "@value": "2014-07-23"
-      }
-    },
-    {
-      "@id": "http://opaquenamespace.org/ns/Altai/EarlyNomadic",
-      "@type": "Concept",
-      "comment": "Referring to the period and nomadic herding cultures present in the Mongolian Altai Mountains from the Late Bronze Age to the Early Iron Age, about 2800-2300 BCE.",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@type": "date",
-        "@value": "2014-07-23"
-      },
-      "label": "Early Nomadic",
-      "modified": {
-        "@type": "date",
-        "@value": "2014-07-23"
-      }
-    },
-    {
-      "@id": "http://opaquenamespace.org/ns/Altai/EthnographicPeriod",
-      "@type": "Concept",
-      "comment": "A subdivision of the Iron Age in the cultures of the Mongolian Altai Mountains.",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@type": "date",
-        "@value": "2014-07-23"
-      },
-      "label": "Ethnographic Period",
-      "modified": {
-        "@type": "date",
-        "@value": "2014-07-23"
-      }
-    },
-    {
-      "@id": "http://opaquenamespace.org/ns/Altai/MongolPeriod",
-      "@type": "Concept",
-      "comment": "Referring to the period and cultures originating in the steppes of Central Asia and extending across Asia in the in the 13th and 14th century.",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@type": "date",
-        "@value": "2014-07-23"
-      },
-      "label": "Mongol Period",
-      "modified": {
-        "@type": "date",
-        "@value": "2014-07-23"
-      }
-    },
-    {
-      "@id": "http://opaquenamespace.org/ns/Altai/PostTurkic",
-      "@type": "Concept",
-      "comment": "Referring to the period and cultures present in the Mongolian Altai Mountains from the end of the Turkic period, about 1000 BCE.",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@type": "date",
-        "@value": "2014-07-23"
-      },
-      "label": "Post-Turkic",
-      "modified": {
-        "@type": "date",
-        "@value": "2014-07-23"
-      }
-    },
-    {
-      "@id": "http://opaquenamespace.org/ns/Altai/PreBronzeAge",
-      "@type": "Concept",
-      "comment": "Referring to the period and cultures present in the Mongolian Altai Mountains from the end of the Neolithic era, about 4300 BCE, to the beginning of the Bronze Age, about 4000 BCE.",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@type": "date",
-        "@value": "2014-07-23"
-      },
-      "label": "Pre-Bronze Age",
-      "modified": {
-        "@type": "date",
-        "@value": "2014-07-23"
-      }
-    },
-    {
-      "@id": "http://opaquenamespace.org/ns/Altai/PreModer",
-      "@type": "Concept",
-      "comment": "Referring to the period and cultures present in the Mongolian Altai Mountains in modern times",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@type": "date",
-        "@value": "2014-07-23"
-      },
-      "label": "Pre-Modern",
-      "modified": {
-        "@type": "date",
-        "@value": "2014-07-23"
-      }
-    },
-    {
-      "@id": "http://opaquenamespace.org/ns/Altai/TurkicPeriod",
-      "@type": "Concept",
-      "comment": "Referring to the period and cultures present in the Mongolian Altai Mountains between the 6th and 9th centuries.",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@type": "date",
-        "@value": "2014-07-23"
-      },
-      "label": "Turkic Period",
-      "modified": {
-        "@type": "date",
-        "@value": "2014-07-23"
-      }
-    },
-    {
-      "@id": "http://opaquenamespace.org/ns/Altai/Uighurperiod",
-      "@type": "Concept",
-      "comment": "Referring to the period and Uighur culture present in the Mongolian Altai Mountains from the the end of the Turkic Period, around the 8th-9th centuries.",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@type": "date",
-        "@value": "2014-07-23"
-      },
-      "label": "Uighur period",
-      "modified": {
-        "@type": "date",
-        "@value": "2014-07-23"
-      }
-    },
-    {
-      "@id": "http://opaquenamespace.org/ns/Altai/Uncertain",
-      "@type": "Concept",
-      "comment": "Referring to uncertain period and cultures present in the Mongolian Altai Mountains.",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@type": "date",
-        "@value": "2014-07-23"
-      },
-      "label": "Uncertain",
-      "modified": {
-        "@type": "date",
-        "@value": "2014-07-23"
-      }
-    },
-    {
-      "@id": "http://opaquenamespace.org/ns/Altai/Arzhan",
-      "@type": "Concept",
-      "comment": "Term originated in the Mongolian Altai Inventory",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@type": "date",
-        "@value": "2014-07-23"
-      },
-      "label": "Arzhan",
-      "modified": {
-        "@type": "date",
-        "@value": "2014-07-23"
-      }
-    },
-    {
-      "@id": "http://opaquenamespace.org/ns/Altai/ArzhanPeriod",
+      "@id": "http://opaquenamespace.org/ns/stylePeriod/Altai/ArzhanPeriod",
       "@type": "Concept",
       "comment": "Term originated in the Mongolian Altai Inventory",
       "definedBy": {
@@ -2927,7 +2740,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/Altai/BronzeAgetoModern",
+      "@id": "http://opaquenamespace.org/ns/stylePeriod/Altai/BronzeAgetoModern",
       "@type": "Concept",
       "comment": "Referring to the period and cultures present in the Mongolian Altai Mountains from about 3500 BCE to modern times.",
       "definedBy": {
@@ -2944,7 +2757,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/Altai/EarlyIronAgeorlater",
+      "@id": "http://opaquenamespace.org/ns/stylePeriod/Altai/EarlyIronAgeorlater",
       "@type": "Concept",
       "comment": "Referring to the period and cultures present in the Mongolian Altai Mountains from about 2500 BCE.",
       "definedBy": {
@@ -2961,7 +2774,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/Altai/Kyrgyz",
+      "@id": "http://opaquenamespace.org/ns/stylePeriod/Altai/Kyrgyz",
       "@type": "Concept",
       "comment": "Term originated in the Mongolian Altai Inventory",
       "definedBy": {
@@ -2978,7 +2791,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/late",
+      "@id": "http://opaquenamespace.org/ns/stylePeriod/Altai/late",
       "@type": "Concept",
       "comment": "Indicating the latter end of the period or era",
       "definedBy": {
@@ -2995,7 +2808,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/Altai/LatePazyryk",
+      "@id": "http://opaquenamespace.org/ns/stylePeriod/Altai/LatePazyryk",
       "@type": "Concept",
       "comment": "Referring to the latter end of the period of the Pazyryk culture present in the Mongolian Altai Mountains, around the 3rd century BCE.",
       "definedBy": {
@@ -3012,7 +2825,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/Altai/morerecent",
+      "@id": "http://opaquenamespace.org/ns/stylePeriod/Altai/morerecent",
       "@type": "Concept",
       "comment": "Term originated in the Mongolian Altai Inventory",
       "definedBy": {
@@ -3029,7 +2842,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/Altai/possiblylater",
+      "@id": "http://opaquenamespace.org/ns/stylePeriod/Altai/possiblylater",
       "@type": "Concept",
       "comment": "Term originated in the Mongolian Altai Inventory",
       "definedBy": {
@@ -3046,7 +2859,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/Altai/recent",
+      "@id": "http://opaquenamespace.org/ns/stylePeriod/Altai/recent",
       "@type": "Concept",
       "comment": "Term originated in the Mongolian Altai Inventory",
       "definedBy": {
@@ -3063,7 +2876,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/Altai/Tamga",
+      "@id": "http://opaquenamespace.org/ns/stylePeriod/Altai/Tamga",
       "@type": "Concept",
       "comment": "Term originated in the Mongolian Altai Inventory",
       "definedBy": {
@@ -3080,24 +2893,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/Altai/uncertain",
-      "@type": "Concept",
-      "comment": "Term originated in the Mongolian Altai Inventory",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@type": "date",
-        "@value": "2014-07-23"
-      },
-      "label": "uncertain",
-      "modified": {
-        "@type": "date",
-        "@value": "2014-07-23"
-      }
-    },
-    {
-      "@id": "http://opaquenamespace.org/ns/Altai/varied",
+      "@id": "http://opaquenamespace.org/ns/stylePeriod/Altai/varied",
       "@type": "Concept",
       "comment": "Term originated in the Mongolian Altai Inventory",
       "definedBy": {
