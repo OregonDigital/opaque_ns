@@ -39,7 +39,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/AachenCathedralTreasury",
       "@type": "CorporateName",
-      "comment": "Aachen Cathedral Treasury, Aachen, North Rhine-Westphalia, Germany. Grodecki, Louis, Florentine M\u00fctherich, Jean Taralon and Francis Wormald; Si\u00e8cle de l'An Mil, 950-1050, Paris: \u00c9ditions Gallimard, 1973",
+      "comment": "Aachen Cathedral Treasury, Aachen, North Rhine-Westphalia, Germany. Grodecki, Louis, Florentine Mütherich, Jean Taralon and Francis Wormald; Siècle de l'An Mil, 950-1050, Paris: Éditions Gallimard, 1973",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -73,7 +73,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/AkamaJingu",
       "@type": "CorporateName",
-      "comment": "Akama Jingu, Yamaguchi (Nagano-ken), Chubu, Japan. \u014cishi, Hidenori; Directory of the Sectarian Shinto Federation and the principal Shinto shrines of Japan, T\u014dky\u014d: Kokusai Sh\u016bky\u014d Kenky\u016bjo, 1957",
+      "comment": "Akama Jingu, Yamaguchi (Nagano-ken), Chubu, Japan. Ōishi, Hidenori; Directory of the Sectarian Shinto Federation and the principal Shinto shrines of Japan, Tōkyō: Kokusai Shūkyō Kenkyūjo, 1957",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -277,7 +277,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Aokifamily",
       "@type": "CorporateName",
-      "comment": "Aoki family, Tokyo (T\u014dky\u014d), Kanto, Japan. Yamane, Y\u016bz\u014d; F\u016bzokuga to Ukiyoe shi (Genshoku Nihon no Bijutsu, v.24), 1971  ",
+      "comment": "Aoki family, Tokyo (Tōkyō), Kanto, Japan. Yamane, Yūzō; Fūzokuga to Ukiyoe shi (Genshoku Nihon no Bijutsu, v.24), 1971  ",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -292,9 +292,9 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/repository/ArchaeologicalMuseumElevs\u00eds",
+      "@id": "http://opaquenamespace.org/ns/repository/ArchaeologicalMuseumElevsis",
       "@type": "CorporateName",
-      "comment": "Archaeological Museum, Elevs\u00eds, Central Grcce and Euboea, Greece. Name originated in the University of Oregon Visual Resources Collection slide collections",
+      "comment": "Archaeological Museum, Elevsís, Central Grcce and Euboea, Greece. Name originated in the University of Oregon Visual Resources Collection slide collections",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -309,7 +309,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/repository/ArchaeologicalMuseumIzmir Ili",
+      "@id": "http://opaquenamespace.org/ns/repository/ArchaeologicalMuseumIzmirIli",
       "@type": "CorporateName",
       "comment": "Archaeological Museum, Ephesus, Izmir Ili, Turkey. Name originated with Saskia, Ltd. Metadata.",
       "definedBy": {
@@ -360,9 +360,9 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/repository/ArchaeologicalMuseumTh\u00e1sos",
+      "@id": "http://opaquenamespace.org/ns/repository/ArchaeologicalMuseumThasos",
       "@type": "CorporateName",
-      "comment": "Archaeological Museum, Th\u00e1sos, Macedonia, Greece. Hampe, Roland and Erika Simon; Birth of Greek Art From the Mycenaean to the Archaic Period, New York: Oxford University Press, 1981",
+      "comment": "Archaeological Museum, Thásos, Macedonia, Greece. Hampe, Roland and Erika Simon; Birth of Greek Art From the Mycenaean to the Archaic Period, New York: Oxford University Press, 1981",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -481,7 +481,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/ArchaeologicalMuseumofVeroia",
       "@type": "CorporateName",
-      "comment": "Archaeological Museum of Veroia, V\u00e9roia, Macedonia, Greece. Christopoulos, George A.; Prehistory and Protohistory, English edition, Athens: Ekdotike Athenon S.A., 1974",
+      "comment": "Archaeological Museum of Veroia, Véroia, Macedonia, Greece. Christopoulos, George A.; Prehistory and Protohistory, English edition, Athens: Ekdotike Athenon S.A., 1974",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -549,7 +549,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/AtsutaJingu",
       "@type": "CorporateName",
-      "comment": "Atsuta Jingu, Nagoya (Aichi-ken), Chubu, Japan. \u014cishi, Hidenori; Directory of the Sectarian Shinto Federation and the principal Shinto shrines of Japan, T\u014dky\u014d: Kokusai Sh\u016bky\u014d Kenky\u016bjo, 1957",
+      "comment": "Atsuta Jingu, Nagoya (Aichi-ken), Chubu, Japan. Ōishi, Hidenori; Directory of the Sectarian Shinto Federation and the principal Shinto shrines of Japan, Tōkyō: Kokusai Shūkyō Kenkyūjo, 1957",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -634,7 +634,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/BaltimoreMuseumofArt",
       "@type": "CorporateName",
-      "comment": "Baltimore Museum of Art, Baltimore, Maryland, United States. Prelinger, Elizabeth; K\u00e4the Kollwitz, New Haven: Yale University Press, 1992",
+      "comment": "Baltimore Museum of Art, Baltimore, Maryland, United States. Prelinger, Elizabeth; Käthe Kollwitz, New Haven: Yale University Press, 1992",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -651,7 +651,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/BauerCollection",
       "@type": "CorporateName",
-      "comment": "Bauer Collection, Geneva, Gen\u00e8ve, Switzerland. Fischer, Felice, et al.; Arts of Hon'Ami Koetsu, Japanese Renaissance Master, Philadelphia: Philadephi Museum of Art, 2000",
+      "comment": "Bauer Collection, Geneva, Genève, Switzerland. Fischer, Felice, et al.; Arts of Hon'Ami Koetsu, Japanese Renaissance Master, Philadelphia: Philadephi Museum of Art, 2000",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -753,7 +753,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Bujoji",
       "@type": "CorporateName",
-      "comment": "Bujoji, Kyoto (Kyoto), Kinki, Japan. Toda, Teisuke and Ry\u016bsuke Asami; Zensh\u016b jiin to teien : Nanbokuch\u014d, Muromachi no kenchiku ch\u014dkoku k\u014dgei, Nihon Bijutsu Zenshu",
+      "comment": "Bujoji, Kyoto (Kyoto), Kinki, Japan. Toda, Teisuke and Ryūsuke Asami; Zenshū jiin to teien : Nanbokuchō, Muromachi no kenchiku chōkoku kōgei, Nihon Bijutsu Zenshu",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -770,7 +770,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Byakugoji",
       "@type": "CorporateName",
-      "comment": "Byakugoji, Nara (Nara), Kinki, Japan. Mizuno, Keizabur\u014d, Toshifumi Konno, and Kakichi Suzuki; Mikky\u014d jiin to butsuz\u014d, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
+      "comment": "Byakugoji, Nara (Nara), Kinki, Japan. Mizuno, Keizaburō, Toshifumi Konno, and Kakichi Suzuki; Mikkyō jiin to butsuzō, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -787,7 +787,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Byodointemple",
       "@type": "CorporateName",
-      "comment": "Byodoin temple, Kyoto (Kyoto), Kinki, Japan. Mizuno, Keizabur\u014d, Kakichi Suzuki, Shir\u014d It\u014d, Kazuharu Asai; By\u014dd\u014din to J\u014dch\u014d, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1994",
+      "comment": "Byodoin temple, Kyoto (Kyoto), Kinki, Japan. Mizuno, Keizaburō, Kakichi Suzuki, Shirō Itō, Kazuharu Asai; Byōdōin to Jōchō, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1994",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -1059,7 +1059,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Chiyodacho",
       "@type": "CorporateName",
-      "comment": "Chiyodacho, Hiroshima-ken, Chugoku, Japan. Mizuno, Keizabur\u014d, Toshifumi Konno, and Kakichi Suzuki; Mikky\u014d jiin to butsuz\u014d, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
+      "comment": "Chiyodacho, Hiroshima-ken, Chugoku, Japan. Mizuno, Keizaburō, Toshifumi Konno, and Kakichi Suzuki; Mikkyō jiin to butsuzō, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -1076,7 +1076,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Chodenji",
       "@type": "CorporateName",
-      "comment": "Chodenji, Mie, Kinki, Japan. Kobayashi, Tadashi, Johei Sasaki and Naomi Okawa; Taiga to \u014ckyo, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
+      "comment": "Chodenji, Mie, Kinki, Japan. Kobayashi, Tadashi, Johei Sasaki and Naomi Okawa; Taiga to Ōkyo, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -1093,7 +1093,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/ChofukujiNara",
       "@type": "CorporateName",
-      "comment": "Chofukuji, Nara (Nara), Kinki, Japan. Nakano, Masaki; Engie to nisee : Kamakura no kaiga k\u014dgei, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
+      "comment": "Chofukuji, Nara (Nara), Kinki, Japan. Nakano, Masaki; Engie to nisee : Kamakura no kaiga kōgei, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -1110,7 +1110,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/ChorakujiKyoto",
       "@type": "CorporateName",
-      "comment": "Chorakuji, Kyoto (Kyoto), Kinki, Japan. Toda, Teisuke and Ry\u016bsuke Asami; Zensh\u016b jiin to teien : Nanbokuch\u014d, Muromachi no kenchiku ch\u014dkoku k\u014dgei, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
+      "comment": "Chorakuji, Kyoto (Kyoto), Kinki, Japan. Toda, Teisuke and Ryūsuke Asami; Zenshū jiin to teien : Nanbokuchō, Muromachi no kenchiku chōkoku kōgei, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -1127,7 +1127,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Chosonji",
       "@type": "CorporateName",
-      "comment": "Chosonji, Iwate, Tohoku-chiho, Japan. Nakano, Masaki, Yutaka Hirata, and Midori Sano; \u014cch\u014d emaki to s\u014dshoku ky\u014d, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1990",
+      "comment": "Chosonji, Iwate, Tohoku-chiho, Japan. Nakano, Masaki, Yutaka Hirata, and Midori Sano; Ōchō emaki to sōshoku kyō, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1990",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -1161,7 +1161,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Chuguji",
       "@type": "CorporateName",
-      "comment": "Chuguji, Nara (Nara), Kinki, Japan. Nakano, Masaki; Sh\u014ds\u014din to j\u014ddai kaiga : Asuka Nara no kaiga k\u014dgei, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
+      "comment": "Chuguji, Nara (Nara), Kinki, Japan. Nakano, Masaki; Shōsōin to jōdai kaiga : Asuka Nara no kaiga kōgei, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -1246,7 +1246,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/CLDavidCollection",
       "@type": "CorporateName",
-      "comment": "C.L. David Collection, Copenhagen, K\u00f8benhavn, Denmark. Charleston, Robert J.; Masterpieces of Western and Near Eastern Ceramics: Islamic Pottery, New York: Kodansha International/USA, Ltd., 1979",
+      "comment": "C.L. David Collection, Copenhagen, København, Denmark. Charleston, Robert J.; Masterpieces of Western and Near Eastern Ceramics: Islamic Pottery, New York: Kodansha International/USA, Ltd., 1979",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -1365,7 +1365,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/CollectionNese",
       "@type": "CorporateName",
-      "comment": "Collection Nese, Switzerland. Zaigai Nihon no shih\u014d (Japanese Art: Selections from Western Collections) v.4, Tokyo: Mainichi Shinbunsha, 1980",
+      "comment": "Collection Nese, Switzerland. Zaigai Nihon no shihō (Japanese Art: Selections from Western Collections) v.4, Tokyo: Mainichi Shinbunsha, 1980",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -2232,7 +2232,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/CollectionofMrandMrsCYLee",
       "@type": "CorporateName",
-      "comment": "Collection of Mr. and Mrs. C. Y. Lee, S\u00e3o Paulo, Sudeste, Brazil. Fu, Shen C. Y.; Challenging the Past: The Paintings of Chang Dai-Chien, Washington, D.C.: Arthur Sackler Gallery, Smithsonian Institute, 1991",
+      "comment": "Collection of Mr. and Mrs. C. Y. Lee, São Paulo, Sudeste, Brazil. Fu, Shen C. Y.; Challenging the Past: The Paintings of Chang Dai-Chien, Washington, D.C.: Arthur Sackler Gallery, Smithsonian Institute, 1991",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -2419,7 +2419,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/CollectionofMrGeorgeJSchlenker",
       "@type": "CorporateName",
-      "comment": "Collection of Mr. George J. Schlenker, Piedmont, California, United States. Zaigai Nihon no shih\u014d (Japanese Art: Selections from Western Collections) v.4, Tokyo: Mainichi Shinbunsha, 1980",
+      "comment": "Collection of Mr. George J. Schlenker, Piedmont, California, United States. Zaigai Nihon no shihō (Japanese Art: Selections from Western Collections) v.4, Tokyo: Mainichi Shinbunsha, 1980",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -3184,7 +3184,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/CollectionPierreAlechinsky",
       "@type": "CorporateName",
-      "comment": "Collection Pierre Alechinsky, Bougival, \u00cele-de-France, France. Crow, Thomas; Rise of the Sixties, New Haven: Yale University Press, 1996",
+      "comment": "Collection Pierre Alechinsky, Bougival, Île-de-France, France. Crow, Thomas; Rise of the Sixties, New Haven: Yale University Press, 1996",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -3235,7 +3235,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/CollectionViollet",
       "@type": "CorporateName",
-      "comment": "Collection Viollet, Paris, \u00cele-de-France, France. Barrucand, Marianne and Achim Bednorz; Moorish Architecture in Andalucia, Los Angeles: Taschen GmbH, 2007",
+      "comment": "Collection Viollet, Paris, Île-de-France, France. Barrucand, Marianne and Achim Bednorz; Moorish Architecture in Andalucia, Los Angeles: Taschen GmbH, 2007",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -3286,7 +3286,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/ContemporaryArtCenter",
       "@type": "CorporateName",
-      "comment": "Contemporary Art Center, Osaka (Osaka), Kinki, Japan. Takashina, Shuji and Toru Asano; Modanizumu to dent\u014d, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
+      "comment": "Contemporary Art Center, Osaka (Osaka), Kinki, Japan. Takashina, Shuji and Toru Asano; Modanizumu to dentō, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -3303,7 +3303,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/ContiniBonacossiCollection",
       "@type": "CorporateName",
-      "comment": "Contini-Bonacossi Collection, Florence, Tuscany, Italy. Coliva, Anna and Sebastian Sch\u00fctze; Bernini  Scultore: la Nascita del Barocco in Casa Borghese, Rome: Edizioni de Luca, 1998",
+      "comment": "Contini-Bonacossi Collection, Florence, Tuscany, Italy. Coliva, Anna and Sebastian Schütze; Bernini  Scultore: la Nascita del Barocco in Casa Borghese, Rome: Edizioni de Luca, 1998",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -3354,7 +3354,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Daifukudenji",
       "@type": "CorporateName",
-      "comment": "Daifukudenji, Mie, Kinki, Japan. Nakano, Masaki, Yutaka Hirata, and Midori Sano; \u014cch\u014d emaki to s\u014dshoku ky\u014d, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1990",
+      "comment": "Daifukudenji, Mie, Kinki, Japan. Nakano, Masaki, Yutaka Hirata, and Midori Sano; Ōchō emaki to sōshoku kyō, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1990",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -3371,7 +3371,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Daigoji",
       "@type": "CorporateName",
-      "comment": "Daigoji, Kyoto (Kyoto), Kinki, Japan. Mizuno, Keizabur\u014d, Toshifumi Konno, and Kakichi Suzuki; Mikky\u014d jiin to butsuz\u014d, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
+      "comment": "Daigoji, Kyoto (Kyoto), Kinki, Japan. Mizuno, Keizaburō, Toshifumi Konno, and Kakichi Suzuki; Mikkyō jiin to butsuzō, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -3388,7 +3388,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Daijoji",
       "@type": "CorporateName",
-      "comment": "Daijo-ji, Kasumi (Hyogo), Kinki, Japan. Kobayashi, Tadashi, Johei Sasaki and Naomi Okawa; Taiga to \u014ckyo, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
+      "comment": "Daijo-ji, Kasumi (Hyogo), Kinki, Japan. Kobayashi, Tadashi, Johei Sasaki and Naomi Okawa; Taiga to Ōkyo, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -3405,7 +3405,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Daijuji",
       "@type": "CorporateName",
-      "comment": "Daijuji, Mikawa (Ishikawa-ken ), Chubu, Japan. Kobayashi, Tadashi, Johei Sasaki and Naomi Okawa; Taiga to \u014ckyo, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
+      "comment": "Daijuji, Mikawa (Ishikawa-ken ), Chubu, Japan. Kobayashi, Tadashi, Johei Sasaki and Naomi Okawa; Taiga to Ōkyo, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -3422,7 +3422,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Daioji",
       "@type": "CorporateName",
-      "comment": "Daioji, Kyoto (Kyoto), Kinki, Japan. Tsuji, Nobuo; Sessh\u016b to Yamatoe By\u014dbu, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
+      "comment": "Daioji, Kyoto (Kyoto), Kinki, Japan. Tsuji, Nobuo; Sesshū to Yamatoe Byōbu, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -3439,7 +3439,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Dairyuji",
       "@type": "CorporateName",
-      "comment": "Dairyuji, Hyogo, Kinki, Japan. Mizuno, Keizabur\u014d, Hideo Okada, and Kazuharu Asai; T\u014ddaiji to Heij\u014dky\u014d : Nara no kenchiku, ch\u014dkoku, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1990  (",
+      "comment": "Dairyuji, Hyogo, Kinki, Japan. Mizuno, Keizaburō, Hideo Okada, and Kazuharu Asai; Tōdaiji to Heijōkyō : Nara no kenchiku, chōkoku, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1990  (",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -3473,7 +3473,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Daishoin",
       "@type": "CorporateName",
-      "comment": "Daishoin, Miyajima (Hiroshima-ken), Chugoku, Japan. Mizuno, Keizabur\u014d, Kakichi Suzuki, Shir\u014d It\u014d, Kazuharu Asai; By\u014dd\u014din to J\u014dch\u014d, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1994",
+      "comment": "Daishoin, Miyajima (Hiroshima-ken), Chugoku, Japan. Mizuno, Keizaburō, Kakichi Suzuki, Shirō Itō, Kazuharu Asai; Byōdōin to Jōchō, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1994",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -3524,7 +3524,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Darumaji",
       "@type": "CorporateName",
-      "comment": "Darumaji, Oji (Nara), Kinki, Japan. Toda, Teisuke and Ry\u016bsuke Asami; Zensh\u016b jiin to teien : Nanbokuch\u014d, Muromachi no kenchiku ch\u014dkoku k\u014dgei, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
+      "comment": "Darumaji, Oji (Nara), Kinki, Japan. Toda, Teisuke and Ryūsuke Asami; Zenshū jiin to teien : Nanbokuchō, Muromachi no kenchiku chōkoku kōgei, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -3626,7 +3626,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Dojoji",
       "@type": "CorporateName",
-      "comment": "Dojoji, Wakayama, Kinki, Japan. Mizuno, Keizabur\u014d, Toshifumi Konno, and Kakichi Suzuki; Mikky\u014d jiin to butsuz\u014d, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
+      "comment": "Dojoji, Wakayama, Kinki, Japan. Mizuno, Keizaburō, Toshifumi Konno, and Kakichi Suzuki; Mikkyō jiin to butsuzō, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -3643,7 +3643,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Domyoji",
       "@type": "CorporateName",
-      "comment": "Domyoji, Osaka (Osaka), Chubu, Japan. Mizuno, Keizabur\u014d, Toshifumi Konno, and Kakichi Suzuki; Mikky\u014d jiin to butsuz\u014d, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
+      "comment": "Domyoji, Osaka (Osaka), Chubu, Japan. Mizuno, Keizaburō, Toshifumi Konno, and Kakichi Suzuki; Mikkyō jiin to butsuzō, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -3728,7 +3728,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Eisanji",
       "@type": "CorporateName",
-      "comment": "Eisanji, Nara (Nara), Kinki, Japan. Nakano, Masaki; Sh\u014ds\u014din to j\u014ddai kaiga : Asuka Nara no kaiga k\u014dgei, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
+      "comment": "Eisanji, Nara (Nara), Kinki, Japan. Nakano, Masaki; Shōsōin to jōdai kaiga : Asuka Nara no kaiga kōgei, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -3745,7 +3745,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/EiseiBunko",
       "@type": "CorporateName",
-      "comment": "Eisei Bunko, Tokyo (Tokyo), Kanto, Japan. Takashina, Shuji, Tetsuro Kagesato and Hideo Tanaka; Y\u014dga to Nihonga, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
+      "comment": "Eisei Bunko, Tokyo (Tokyo), Kanto, Japan. Takashina, Shuji, Tetsuro Kagesato and Hideo Tanaka; Yōga to Nihonga, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -3796,7 +3796,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Enjoji",
       "@type": "CorporateName",
-      "comment": "Enjoji, Nara (Nara), Kinki, Japan. Mizuno, Keizabur\u014d, Yoshiaki Kud\u014d, and Hisao Miyake; Unkei to Kaikei : Kamakura no kenchiku, ch\u014dkoku, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1991",
+      "comment": "Enjoji, Nara (Nara), Kinki, Japan. Mizuno, Keizaburō, Yoshiaki Kudō, and Hisao Miyake; Unkei to Kaikei : Kamakura no kenchiku, chōkoku, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1991",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -3813,7 +3813,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Ennoji",
       "@type": "CorporateName",
-      "comment": "Ennoji, Kanagawa-ken, Kanto, Japan. Mizuno, Keizabur\u014d, Yoshiaki Kud\u014d, and Hisao Miyake; Unkei to Kaikei : Kamakura no kenchiku, ch\u014dkoku, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1991",
+      "comment": "Ennoji, Kanagawa-ken, Kanto, Japan. Mizuno, Keizaburō, Yoshiaki Kudō, and Hisao Miyake; Unkei to Kaikei : Kamakura no kenchiku, chōkoku, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1991",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -3830,7 +3830,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Enrakyuji",
       "@type": "CorporateName",
-      "comment": "Enrakyuji, Shiga (Shiga), Kinki, Japan. Mizuno, Keizabur\u014d, Toshifumi Konno, and Kakichi Suzuki; Mikky\u014d jiin to butsuz\u014d, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
+      "comment": "Enrakyuji, Shiga (Shiga), Kinki, Japan. Mizuno, Keizaburō, Toshifumi Konno, and Kakichi Suzuki; Mikkyō jiin to butsuzō, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -3847,7 +3847,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Enryakuji",
       "@type": "CorporateName",
-      "comment": "Enryakuji, Kyoto (Kyoto), Kinki, Japan. Nakano, Masaki, Yutaka Hirata, and Masayuki Sekiguchi; Mandara to raig\u014dzu, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1991",
+      "comment": "Enryakuji, Kyoto (Kyoto), Kinki, Japan. Nakano, Masaki, Yutaka Hirata, and Masayuki Sekiguchi; Mandara to raigōzu, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1991",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -4051,7 +4051,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/FroehlichCollection",
       "@type": "CorporateName",
-      "comment": "Froehlich Collection, Stuttgart, Baden-W\u00fcrttemberg, Germany. Crow, Thomas; Rise of the Sixties, New Haven: Yale University Press, 1996",
+      "comment": "Froehlich Collection, Stuttgart, Baden-Württemberg, Germany. Crow, Thomas; Rise of the Sixties, New Haven: Yale University Press, 1996",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -4272,7 +4272,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Ganjojuin",
       "@type": "CorporateName",
-      "comment": "Ganjojuin, Shizuoka (Shizuoka-ken), Chubu, Japan. Mizuno, Keizabur\u014d, Yoshiaki Kud\u014d, and Hisao Miyake; Unkei to Kaikei : Kamakura no kenchiku, ch\u014dkoku, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1991",
+      "comment": "Ganjojuin, Shizuoka (Shizuoka-ken), Chubu, Japan. Mizuno, Keizaburō, Yoshiaki Kudō, and Hisao Miyake; Unkei to Kaikei : Kamakura no kenchiku, chōkoku, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1991",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -4340,7 +4340,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/GerhardPulvererCollection",
       "@type": "CorporateName",
-      "comment": "Gerhard Pulverer Collection, Germany. Kobayashi, Tadashi, Yasushi Murashige and Akio Haino; S\u014dtatsu to K\u014drin, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1990",
+      "comment": "Gerhard Pulverer Collection, Germany. Kobayashi, Tadashi, Yasushi Murashige and Akio Haino; Sōtatsu to Kōrin, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1990",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -4391,7 +4391,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Gokokuji",
       "@type": "CorporateName",
-      "comment": "Gokokuji, Tokyo (Tokyo), Kanto, Japan. Japan. Tetsud\u014dsh\u014d; Official guide to Japan: with preparatory explanations on Japanese customs, language, history, religion, literature, fine art, architecture, music, drama, etc., etc.: a handbook for travelers, Rev. Ed., T\u014dky\u014d: Japanese Government Railways, 1933",
+      "comment": "Gokokuji, Tokyo (Tokyo), Kanto, Japan. Japan. Tetsudōshō; Official guide to Japan: with preparatory explanations on Japanese customs, language, history, religion, literature, fine art, architecture, music, drama, etc., etc.: a handbook for travelers, Rev. Ed., Tōkyō: Japanese Government Railways, 1933",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -4408,7 +4408,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Gokokushiji",
       "@type": "CorporateName",
-      "comment": "Gokokushiji, Gifu (Gifu-ken), Chubu, Japan. Nakano, Masaki; Sh\u014ds\u014din to j\u014ddai kaiga : Asuka Nara no kaiga k\u014dgei, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
+      "comment": "Gokokushiji, Gifu (Gifu-ken), Chubu, Japan. Nakano, Masaki; Shōsōin to jōdai kaiga : Asuka Nara no kaiga kōgei, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -4425,7 +4425,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Gokurakuji",
       "@type": "CorporateName",
-      "comment": "Gokurakuji, Kobe (Hyogo), Kinki, Japan. Nakano, Masaki, Yutaka Hirata, and Midori Sano; \u014cch\u014d emaki to s\u014dshoku ky\u014d, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1990",
+      "comment": "Gokurakuji, Kobe (Hyogo), Kinki, Japan. Nakano, Masaki, Yutaka Hirata, and Midori Sano; Ōchō emaki to sōshoku kyō, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1990",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -4459,7 +4459,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/GoulandrisCollection",
       "@type": "CorporateName",
-      "comment": "Goulandris Collection, Athens, Perif\u00e9reia Protevo\u00fasis, Greece. Getz-Preziosi, Pat; Sculptors of the Cyclades: Individual and Tradition in the Third Millennium B.C., Ann Arbor: University of Michigan Press, 1987",
+      "comment": "Goulandris Collection, Athens, Periféreia Protevoúsis, Greece. Getz-Preziosi, Pat; Sculptors of the Cyclades: Individual and Tradition in the Third Millennium B.C., Ann Arbor: University of Michigan Press, 1987",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -4476,7 +4476,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/GreatMosqueofKairouan",
       "@type": "CorporateName",
-      "comment": "Great Mosque of Kairouan, Kairouan, Al Qayraw\u00e1n, Tunisia (site). Ettinghausen, Richard, Oleg Grabar and Marilyn Jenkins-Madina; Islamic Art and Architecture 650-1250, New Haven: Yale University Press, 2001",
+      "comment": "Great Mosque of Kairouan, Kairouan, Al Qayrawán, Tunisia (site). Ettinghausen, Richard, Oleg Grabar and Marilyn Jenkins-Madina; Islamic Art and Architecture 650-1250, New Haven: Yale University Press, 2001",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -4578,7 +4578,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Hagadera",
       "@type": "CorporateName",
-      "comment": "Hagadera, Fukui, Chubu, Japan. Mizuno, Keizabur\u014d, Toshifumi Konno, and Kakichi Suzuki; Mikky\u014d jiin to butsuz\u014d, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
+      "comment": "Hagadera, Fukui, Chubu, Japan. Mizuno, Keizaburō, Toshifumi Konno, and Kakichi Suzuki; Mikkyō jiin to butsuzō, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -4595,7 +4595,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/HakoneJinja",
       "@type": "CorporateName",
-      "comment": "Hakone Jinja, Hakone (Kanagawa-ken), Kanto, Japan. Mizuno, Keizabur\u014d, Toshifumi Konno, and Kakichi Suzuki; Mikky\u014d jiin to butsuz\u014d, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
+      "comment": "Hakone Jinja, Hakone (Kanagawa-ken), Kanto, Japan. Mizuno, Keizaburō, Toshifumi Konno, and Kakichi Suzuki; Mikkyō jiin to butsuzō, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -4612,7 +4612,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/HakutsuruArtMuseum",
       "@type": "CorporateName",
-      "comment": "Hakutsuru Art Museum, Kobe (Hyogo), Kinki, Japan. Tsuji, Nobuo; Sessh\u016b to Yamatoe By\u014dbu, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
+      "comment": "Hakutsuru Art Museum, Kobe (Hyogo), Kinki, Japan. Tsuji, Nobuo; Sesshū to Yamatoe Byōbu, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -4646,7 +4646,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Hankyuji",
       "@type": "CorporateName",
-      "comment": "Hankyuji, Hyogo, Kinki, Japan. Nakano, Masaki, Yutaka Hirata, and Midori Sano; \u014cch\u014d emaki to s\u014dshoku ky\u014d, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1990",
+      "comment": "Hankyuji, Hyogo, Kinki, Japan. Nakano, Masaki, Yutaka Hirata, and Midori Sano; Ōchō emaki to sōshoku kyō, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1990",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -4663,7 +4663,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Harafamily",
       "@type": "CorporateName",
-      "comment": "Hara family, Tokyo (Tokyo), Kanto, Japan. Yamane, Y\u016bz\u014d; F\u016bzokuga to Ukiyoe shi (Genshoku Nihon no Bijutsu, v.24), 1971",
+      "comment": "Hara family, Tokyo (Tokyo), Kanto, Japan. Yamane, Yūzō; Fūzokuga to Ukiyoe shi (Genshoku Nihon no Bijutsu, v.24), 1971",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -4714,7 +4714,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/HarvardUniversity",
       "@type": "CorporateName",
-      "comment": "Harvard University, Cambridge, Massachusetts, United States. Tsuji, Nobuo; Sessh\u016b to Yamatoe By\u014dbu, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
+      "comment": "Harvard University, Cambridge, Massachusetts, United States. Tsuji, Nobuo; Sesshū to Yamatoe Byōbu, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -4731,7 +4731,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Hasedera",
       "@type": "CorporateName",
-      "comment": "Hasedera, Nara (Nara), Kinki, Japan. Mizuno, Keizabur\u014d, Kin'ya Sekiguchi, and Sh\u016bya \u014cnishi; H\u014dry\u016bji kara Yakushiji e : Asuka Nara no kenchiku, ch\u014dkoku, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1990  (406196402X)",
+      "comment": "Hasedera, Nara (Nara), Kinki, Japan. Mizuno, Keizaburō, Kin'ya Sekiguchi, and Shūya Ōnishi; Hōryūji kara Yakushiji e : Asuka Nara no kenchiku, chōkoku, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1990  (406196402X)",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -4782,7 +4782,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Henjoji",
       "@type": "CorporateName",
-      "comment": "Henjoji, Tochigi, Kanto, Japan. Toda, Teisuke and Ry\u016bsuke Asami; Zensh\u016b jiin to teien : Nanbokuch\u014d, Muromachi no kenchiku ch\u014dkoku k\u014dgei, Nihon Bijutsu Zenshu , Tokyo: Kodansha, 1993",
+      "comment": "Henjoji, Tochigi, Kanto, Japan. Toda, Teisuke and Ryūsuke Asami; Zenshū jiin to teien : Nanbokuchō, Muromachi no kenchiku chōkoku kōgei, Nihon Bijutsu Zenshu , Tokyo: Kodansha, 1993",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -4799,7 +4799,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Henjokoin",
       "@type": "CorporateName",
-      "comment": "Henjoko-in, Koyasan (Wakayama), Kinki, Japan. Kobayashi, Tadashi, Johei Sasaki and Naomi Okawa; Taiga to \u014ckyo, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
+      "comment": "Henjoko-in, Koyasan (Wakayama), Kinki, Japan. Kobayashi, Tadashi, Johei Sasaki and Naomi Okawa; Taiga to Ōkyo, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -4833,7 +4833,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/HeraklionArchaeologicalMuseum",
       "@type": "CorporateName",
-      "comment": "Heraklion Archaeological Museum, Ir\u00e1klion, Crete, Greece. Siebler, Michael; Troia - Homer - Schliemann: Mythos und Wahrheit, Mainz am Rhein: Verlag Philipp von Zabern, 1990",
+      "comment": "Heraklion Archaeological Museum, Iráklion, Crete, Greece. Siebler, Michael; Troia - Homer - Schliemann: Mythos und Wahrheit, Mainz am Rhein: Verlag Philipp von Zabern, 1990",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -4850,7 +4850,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/HigashiHonganji",
       "@type": "CorporateName",
-      "comment": "Higashi-Honganji, Kyoto (Kyoto), Kinki, Japan. Japan. Tetsud\u014dsh\u014d; Official guide to Japan: with preparatory explanations on Japanese customs, language, history, religion, literature, fine art, architecture, music, drama, etc., etc.: a handbook for travelers, Rev. Ed., T\u014dky\u014d: Japanese Government Railways, 1933",
+      "comment": "Higashi-Honganji, Kyoto (Kyoto), Kinki, Japan. Japan. Tetsudōshō; Official guide to Japan: with preparatory explanations on Japanese customs, language, history, religion, literature, fine art, architecture, music, drama, etc., etc.: a handbook for travelers, Rev. Ed., Tōkyō: Japanese Government Railways, 1933",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -4918,7 +4918,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Hirosefamily",
       "@type": "CorporateName",
-      "comment": "Hirose family, Yokohama (Kanagawa-ken), Kanto, Japan. Yamane, Y\u016bz\u014d; F\u016bzokuga to Ukiyoe shi (Genshoku Nihon no Bijutsu, v.24), 1971",
+      "comment": "Hirose family, Yokohama (Kanagawa-ken), Kanto, Japan. Yamane, Yūzō; Fūzokuga to Ukiyoe shi (Genshoku Nihon no Bijutsu, v.24), 1971",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -4969,7 +4969,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Hobodaiin",
       "@type": "CorporateName",
-      "comment": "Hobodaiin, Kyoto (Kyoto), Kinki, Japan. Mizuno, Keizabur\u014d, Toshifumi Konno, and Kakichi Suzuki; Mikky\u014d jiin to butsuz\u014d, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
+      "comment": "Hobodaiin, Kyoto (Kyoto), Kinki, Japan. Mizuno, Keizaburō, Toshifumi Konno, and Kakichi Suzuki; Mikkyō jiin to butsuzō, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -5020,7 +5020,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/HokkaidoMigishiKotaroMuseumofArt",
       "@type": "CorporateName",
-      "comment": "Hokkaido Migishi Kotaro Museum of Art, Sapporo (Hokkaido), Hokkaido, Japan. Takashina, Shuji and Toru Asano; Modanizumu to dent\u014d, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
+      "comment": "Hokkaido Migishi Kotaro Museum of Art, Sapporo (Hokkaido), Hokkaido, Japan. Takashina, Shuji and Toru Asano; Modanizumu to dentō, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -5037,7 +5037,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Hokkeji",
       "@type": "CorporateName",
-      "comment": "Hokkeji, Nara (Nara), Kinki, Japan. Japan. Tetsud\u014dsh\u014d; Official guide to Japan: with preparatory explanations on Japanese customs, language, history, religion, literature, fine art, architecture, music, drama, etc., etc.: a handbook for travelers, Rev. Ed., T\u014dky\u014d: Japanese Government Railways, 1933",
+      "comment": "Hokkeji, Nara (Nara), Kinki, Japan. Japan. Tetsudōshō; Official guide to Japan: with preparatory explanations on Japanese customs, language, history, religion, literature, fine art, architecture, music, drama, etc., etc.: a handbook for travelers, Rev. Ed., Tōkyō: Japanese Government Railways, 1933",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -5105,7 +5105,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Honganji",
       "@type": "CorporateName",
-      "comment": "Honganji, Kyoto (Kyoto), Kinki, Japan. Nakano, Masaki, Yutaka Hirata, and Midori Sano; \u014cch\u014d emaki to s\u014dshoku ky\u014d, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1990  (4061964089)",
+      "comment": "Honganji, Kyoto (Kyoto), Kinki, Japan. Nakano, Masaki, Yutaka Hirata, and Midori Sano; Ōchō emaki to sōshoku kyō, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1990  (4061964089)",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -5122,7 +5122,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Horinji",
       "@type": "CorporateName",
-      "comment": "Horinji, Nara (Nara), Kinki, Japan. Mizuno, Keizabur\u014d, Kin'ya Sekiguchi, and Sh\u016bya \u014cnishi; H\u014dry\u016bji kara Yakushiji e : Asuka Nara no kenchiku, ch\u014dkoku, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1990  (406196402X)",
+      "comment": "Horinji, Nara (Nara), Kinki, Japan. Mizuno, Keizaburō, Kin'ya Sekiguchi, and Shūya Ōnishi; Hōryūji kara Yakushiji e : Asuka Nara no kenchiku, chōkoku, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1990  (406196402X)",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -5139,7 +5139,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Hoshakuin",
       "@type": "CorporateName",
-      "comment": "Hoshakuin, Yamagata-ken, Tohoku-chiho, Japan. Mizuno, Keizabur\u014d, Toshifumi Konno, and Kakichi Suzuki; Mikky\u014d jiin to butsuz\u014d, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
+      "comment": "Hoshakuin, Yamagata-ken, Tohoku-chiho, Japan. Mizuno, Keizaburō, Toshifumi Konno, and Kakichi Suzuki; Mikkyō jiin to butsuzō, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -5156,7 +5156,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Hoshakuji",
       "@type": "CorporateName",
-      "comment": "Hoshakuji, Kyoto (Kyoto), Kinki, Japan. Mizuno, Keizabur\u014d, Yoshiaki Kud\u014d, and Hisao Miyake; Unkei to Kaikei : Kamakura no kenchiku, ch\u014dkoku, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1991",
+      "comment": "Hoshakuji, Kyoto (Kyoto), Kinki, Japan. Mizuno, Keizaburō, Yoshiaki Kudō, and Hisao Miyake; Unkei to Kaikei : Kamakura no kenchiku, chōkoku, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1991",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -5190,7 +5190,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Hosshoji",
       "@type": "CorporateName",
-      "comment": "Hosshoji, Kyoto (Kyoto), Kinki, Japan. Mizuno, Keizabur\u014d, Kakichi Suzuki, Shir\u014d It\u014d, Kazuharu Asai; By\u014dd\u014din to J\u014dch\u014d, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1994",
+      "comment": "Hosshoji, Kyoto (Kyoto), Kinki, Japan. Mizuno, Keizaburō, Kakichi Suzuki, Shirō Itō, Kazuharu Asai; Byōdōin to Jōchō, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1994",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -5207,7 +5207,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/HoteldeVille",
       "@type": "CorporateName",
-      "comment": "Hotel de Ville, Montreuil, \u00cele-de-France, France. Peltre, Christine; Orientalism in Art, First Edition, New York: Abbeville Press, 1998",
+      "comment": "Hotel de Ville, Montreuil, Île-de-France, France. Peltre, Christine; Orientalism in Art, First Edition, New York: Abbeville Press, 1998",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -5275,7 +5275,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/HyogoPrefecturalMuseumofModernArtHyogoKenritsukindaiBijutsukan",
       "@type": "CorporateName",
-      "comment": "Hyogo Prefectural Museum of Modern Art (Hyogo Kenritsu kindai Bijutsukan), Kobe (Hyogo), Kinki, Japan. Takashina, Shuji, Tetsuro Kagesato and Hideo Tanaka; Y\u014dga to Nihonga, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
+      "comment": "Hyogo Prefectural Museum of Modern Art (Hyogo Kenritsu kindai Bijutsukan), Kobe (Hyogo), Kinki, Japan. Takashina, Shuji, Tetsuro Kagesato and Hideo Tanaka; Yōga to Nihonga, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -5292,7 +5292,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/IbarakiPrefecturalMuseumofHistory",
       "@type": "CorporateName",
-      "comment": "Ibaraki Prefectural Museum of History, Mito (Ibaraki-ken), Kanto, Japan. Kobayashi, Tadashi, Johei Sasaki and Naomi Okawa; Taiga to \u014ckyo, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
+      "comment": "Ibaraki Prefectural Museum of History, Mito (Ibaraki-ken), Kanto, Japan. Kobayashi, Tadashi, Johei Sasaki and Naomi Okawa; Taiga to Ōkyo, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -5360,7 +5360,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/IleanaSonnabendGallery",
       "@type": "CorporateName",
-      "comment": "Ileana Sonnabend Gallery, Paris, \u00cele-de-France, France. Joselit, David; American Art Since 1945, London: Thames and Hudson, 2003",
+      "comment": "Ileana Sonnabend Gallery, Paris, Île-de-France, France. Joselit, David; American Art Since 1945, London: Thames and Hudson, 2003",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -5375,9 +5375,9 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/repository/IlGes\u00f9",
+      "@id": "http://opaquenamespace.org/ns/repository/IlGesu",
       "@type": "CorporateName",
-      "comment": "Il Ges\u00f9, Rome, Lazio, Italy. Puglisi, Catherine; Caravaggio, First Paperback Edition, London: Phaidon, 2000",
+      "comment": "Il Gesù, Rome, Lazio, Italy. Puglisi, Catherine; Caravaggio, First Paperback Edition, London: Phaidon, 2000",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -5385,7 +5385,7 @@
         "@type": "date",
         "@value": "2014-07-10"
       },
-      "label": "Il Ges\u00f9",
+      "label": "Il Gesù",
       "modified": {
         "@type": "date",
         "@value": "2014-07-10"
@@ -5445,7 +5445,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/InstitutdeMondeArabe",
       "@type": "CorporateName",
-      "comment": "Institut de Monde Arabe, Paris, \u00cele-de-France, France. Piotrovsky, M.B. and Rogers, J.M., eds.; Heaven On Earth: Art from Islamic Lands: Works from The State Hermitage Museum and the Khalili Collection, New York: Prestel Publishing, 2004",
+      "comment": "Institut de Monde Arabe, Paris, Île-de-France, France. Piotrovsky, M.B. and Rogers, J.M., eds.; Heaven On Earth: Art from Islamic Lands: Works from The State Hermitage Museum and the Khalili Collection, New York: Prestel Publishing, 2004",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -5460,9 +5460,9 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/repository/InstitutNationaldArch\u00e9ologieetdArt",
+      "@id": "http://opaquenamespace.org/ns/repository/InstitutNationaldArcheologieetdArt",
       "@type": "CorporateName",
-      "comment": "Institut National d\u2019Arch\u00e9ologie et d\u2019Art, Tunis, Tunis, Wilayat. Falk, Toby, ed.; Treatures of Islam, London: Philip Wilson Publishers, Ltd., 1985",
+      "comment": "Institut National d'Archéologie et d'Art, Tunis, Tunis, Wilayat. Falk, Toby, ed.; Treatures of Islam, London: Philip Wilson Publishers, Ltd., 1985",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -5470,7 +5470,7 @@
         "@type": "date",
         "@value": "2014-07-10"
       },
-      "label": "Institut National d\u2019Arch\u00e9ologie et d\u2019Art",
+      "label": "Institut National d'Archéologie et d'Art",
       "modified": {
         "@type": "date",
         "@value": "2014-07-10"
@@ -5530,7 +5530,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/IshibashiMuseumofArtIshibashiFoundation",
       "@type": "CorporateName",
-      "comment": "Ishibashi Museum of Art,  Ishibashi Foundation, Fukuoka (Fukuoka), Kyushu-chiho, Japan. Takashina, Shuji, Tetsuro Kagesato and Hideo Tanaka; Y\u014dga to Nihonga, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
+      "comment": "Ishibashi Museum of Art,  Ishibashi Foundation, Fukuoka (Fukuoka), Kyushu-chiho, Japan. Takashina, Shuji, Tetsuro Kagesato and Hideo Tanaka; Yōga to Nihonga, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -5547,7 +5547,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/IslamicMuseum",
       "@type": "CorporateName",
-      "comment": "Islamic Museum, Baghdad, Baghdad, Iraq. Hattstein, Markus and Peter Delius; Islam: Art and Architecture, Cologne: K\u00f6nemann, 2000",
+      "comment": "Islamic Museum, Baghdad, Baghdad, Iraq. Hattstein, Markus and Peter Delius; Islam: Art and Architecture, Cologne: Könemann, 2000",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -5581,7 +5581,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/ItsukushimaShrine",
       "@type": "CorporateName",
-      "comment": "Itsukushima Shrine, Miyajima (Hiroshima-ken), Chugoku, Japan. Nakano, Masaki, Yutaka Hirata, and Midori Sano; \u014cch\u014d emaki to s\u014dshoku ky\u014d, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1990",
+      "comment": "Itsukushima Shrine, Miyajima (Hiroshima-ken), Chugoku, Japan. Nakano, Masaki, Yutaka Hirata, and Midori Sano; Ōchō emaki to sōshoku kyō, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1990",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -5632,7 +5632,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/IwatePrefecturalMuseumMorioka",
       "@type": "CorporateName",
-      "comment": "Iwate Prefectural Museum, Morioka (Iwate), Tohoku-chiho, Japan. Takashina, Shuji, Tetsuro Kagesato and Hideo Tanaka; Y\u014dga to Nihonga, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
+      "comment": "Iwate Prefectural Museum, Morioka (Iwate), Tohoku-chiho, Japan. Takashina, Shuji, Tetsuro Kagesato and Hideo Tanaka; Yōga to Nihonga, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -5649,7 +5649,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/IzumoTaisha",
       "@type": "CorporateName",
-      "comment": "Izumo Taisha, Shimane-ken, Chugoku, Japan. Nakano, Masaki; Engie to nisee : Kamakura no kaiga k\u014dgei, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
+      "comment": "Izumo Taisha, Shimane-ken, Chugoku, Japan. Nakano, Masaki; Engie to nisee : Kamakura no kaiga kōgei, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -5717,7 +5717,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/JCRomandCollection",
       "@type": "CorporateName",
-      "comment": "J. C. Romand Collection, Paris, \u00cele-de-France, France. Name originated in the University of Oregon Visual Resources Collection slide collections",
+      "comment": "J. C. Romand Collection, Paris, Île-de-France, France. Name originated in the University of Oregon Visual Resources Collection slide collections",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -5768,7 +5768,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Jifukuji",
       "@type": "CorporateName",
-      "comment": "Jifukuji, Nara, Kinki, Japan. Mizuno, Keizabur\u014d, Toshifumi Konno, and Kakichi Suzuki; Mikky\u014d jiin to butsuz\u014d, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
+      "comment": "Jifukuji, Nara, Kinki, Japan. Mizuno, Keizaburō, Toshifumi Konno, and Kakichi Suzuki; Mikkyō jiin to butsuzō, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -5785,7 +5785,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Jikoji",
       "@type": "CorporateName",
-      "comment": "Jikoji, Hiroshima-ken, Chugoku, Japan. Nakano, Masaki, Yutaka Hirata, and Masayuki Sekiguchi; Mandara to raig\u014dzu, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1991",
+      "comment": "Jikoji, Hiroshima-ken, Chugoku, Japan. Nakano, Masaki, Yutaka Hirata, and Masayuki Sekiguchi; Mandara to raigōzu, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1991",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -5819,7 +5819,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Jindaiji",
       "@type": "CorporateName",
-      "comment": "Jindaiji, Tokyo (Tokyo), Kanto, Japan. Mizuno, Keizabur\u014d, Kin'ya Sekiguchi, and Sh\u016bya \u014cnishi; H\u014dry\u016bji kara Yakushiji e : Asuka Nara no kenchiku, ch\u014dkoku, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1990  (406196402X)",
+      "comment": "Jindaiji, Tokyo (Tokyo), Kanto, Japan. Mizuno, Keizaburō, Kin'ya Sekiguchi, and Shūya Ōnishi; Hōryūji kara Yakushiji e : Asuka Nara no kenchiku, chōkoku, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1990  (406196402X)",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -5836,7 +5836,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Jinkoin",
       "@type": "CorporateName",
-      "comment": "Jinkoin, Kyoto (Kyoto), Kinki, Japan. Nakano, Masaki, Yutaka Hirata, and Masayuki Sekiguchi; Mandara to raig\u014dzu, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1991",
+      "comment": "Jinkoin, Kyoto (Kyoto), Kinki, Japan. Nakano, Masaki, Yutaka Hirata, and Masayuki Sekiguchi; Mandara to raigōzu, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1991",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -5853,7 +5853,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Jinshoji",
       "@type": "CorporateName",
-      "comment": "Jinshoji, Nagahama (Shiga), Kinki, Japan. Nakano, Masaki, Yutaka Hirata, and Masayuki Sekiguchi; Mandara to raig\u014dzu, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1991",
+      "comment": "Jinshoji, Nagahama (Shiga), Kinki, Japan. Nakano, Masaki, Yutaka Hirata, and Masayuki Sekiguchi; Mandara to raigōzu, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1991",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -5870,7 +5870,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Jionji",
       "@type": "CorporateName",
-      "comment": "Jionji, Mie, Kinki, Japan. Mizuno, Keizabur\u014d, Toshifumi Konno, and Kakichi Suzuki; Mikky\u014d jiin to butsuz\u014d, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
+      "comment": "Jionji, Mie, Kinki, Japan. Mizuno, Keizaburō, Toshifumi Konno, and Kakichi Suzuki; Mikkyō jiin to butsuzō, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -5887,7 +5887,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Jishoji",
       "@type": "CorporateName",
-      "comment": "Jishoji, Kyoto (Ky\u014dto), Kinki, Japan. Kidder, J. Edward (Jonathan Edward); Japanese temples; sculpture, paintings, gardens, and architecture, Tokyo: Bijutsu Shuppan-Sha, 1964",
+      "comment": "Jishoji, Kyoto (Kyōto), Kinki, Japan. Kidder, J. Edward (Jonathan Edward); Japanese temples; sculpture, paintings, gardens, and architecture, Tokyo: Bijutsu Shuppan-Sha, 1964",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -5904,7 +5904,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Jisonin",
       "@type": "CorporateName",
-      "comment": "Jisonin, Koyasan (Wakayama), Kinki, Japan. Mizuno, Keizabur\u014d, Toshifumi Konno, and Kakichi Suzuki; Mikky\u014d jiin to butsuz\u014d, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
+      "comment": "Jisonin, Koyasan (Wakayama), Kinki, Japan. Mizuno, Keizaburō, Toshifumi Konno, and Kakichi Suzuki; Mikkyō jiin to butsuzō, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -5921,7 +5921,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/JodojiHiroshima",
       "@type": "CorporateName",
-      "comment": "Jodoji, Hiroshima (Hiroshima-ken), Chugoku, Japan. Mizuno, Keizabur\u014d, Yoshiaki Kud\u014d, and Hisao Miyake; Unkei to Kaikei : Kamakura no kenchiku, ch\u014dkoku, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1991",
+      "comment": "Jodoji, Hiroshima (Hiroshima-ken), Chugoku, Japan. Mizuno, Keizaburō, Yoshiaki Kudō, and Hisao Miyake; Unkei to Kaikei : Kamakura no kenchiku, chōkoku, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1991",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -5955,7 +5955,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Jofukuji",
       "@type": "CorporateName",
-      "comment": "Jofukuji, Mie, Kinki, Japan. Mizuno, Keizabur\u014d, Toshifumi Konno, and Kakichi Suzuki; Mikky\u014d jiin to butsuz\u014d, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
+      "comment": "Jofukuji, Mie, Kinki, Japan. Mizuno, Keizaburō, Toshifumi Konno, and Kakichi Suzuki; Mikkyō jiin to butsuzō, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -6006,7 +6006,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Jokyoji",
       "@type": "CorporateName",
-      "comment": "Jokyoji, Shiga, Kinki, Japan. Mizuno, Keizabur\u014d, Toshifumi Konno, and Kakichi Suzuki; Mikky\u014d jiin to butsuz\u014d, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
+      "comment": "Jokyoji, Shiga, Kinki, Japan. Mizuno, Keizaburō, Toshifumi Konno, and Kakichi Suzuki; Mikkyō jiin to butsuzō, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -6023,7 +6023,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Jorakuji",
       "@type": "CorporateName",
-      "comment": "Jorakuji, Kamakura (Kanagawa-ken), Kanto, Japan. Mizuno, Keizabur\u014d, Yoshiaki Kud\u014d, and Hisao Miyake; Unkei to Kaikei : Kamakura no kenchiku, ch\u014dkoku, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1991",
+      "comment": "Jorakuji, Kamakura (Kanagawa-ken), Kanto, Japan. Mizuno, Keizaburō, Yoshiaki Kudō, and Hisao Miyake; Unkei to Kaikei : Kamakura no kenchiku, chōkoku, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1991",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -6057,7 +6057,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Jozenji",
       "@type": "CorporateName",
-      "comment": "Jozenji, Fukui, Chubu, Japan. Mizuno, Keizabur\u014d, Kakichi Suzuki, Shir\u014d It\u014d, Kazuharu Asai; By\u014dd\u014din to J\u014dch\u014d, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1994",
+      "comment": "Jozenji, Fukui, Chubu, Japan. Mizuno, Keizaburō, Kakichi Suzuki, Shirō Itō, Kazuharu Asai; Byōdōin to Jōchō, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1994",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -6108,7 +6108,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Kachioji",
       "@type": "CorporateName",
-      "comment": "Kachioji, Osaka (Osaka), Chubu, Japan. Mizuno, Keizabur\u014d, Toshifumi Konno, and Kakichi Suzuki; Mikky\u014d jiin to butsuz\u014d, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
+      "comment": "Kachioji, Osaka (Osaka), Chubu, Japan. Mizuno, Keizaburō, Toshifumi Konno, and Kakichi Suzuki; Mikkyō jiin to butsuzō, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -6125,7 +6125,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/KahitsukanKyotoMuseumofContemporaryArt",
       "@type": "CorporateName",
-      "comment": "Kahitsukan Kyoto Museum of Contemporary Art, Kyoto (Kyoto), Kinki, Japan. Takashina, Shuji, Tetsuro Kagesato and Hideo Tanaka; Y\u014dga to Nihonga, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
+      "comment": "Kahitsukan Kyoto Museum of Contemporary Art, Kyoto (Kyoto), Kinki, Japan. Takashina, Shuji, Tetsuro Kagesato and Hideo Tanaka; Yōga to Nihonga, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -6142,7 +6142,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Kaijusenji",
       "@type": "CorporateName",
-      "comment": "Kaijusenji, Kizu (Kyoto), Kinki, Japan. Mizuno, Keizabur\u014d, Toshifumi Konno, and Kakichi Suzuki; Mikky\u014d jiin to butsuz\u014d, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
+      "comment": "Kaijusenji, Kizu (Kyoto), Kinki, Japan. Mizuno, Keizaburō, Toshifumi Konno, and Kakichi Suzuki; Mikkyō jiin to butsuzō, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -6159,7 +6159,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Kaikoji",
       "@type": "CorporateName",
-      "comment": "Kaikoji, Kyoto (Kyoto), Kinki, Japan. Mizuno, Keizabur\u014d, Yoshiaki Kud\u014d, and Hisao Miyake; Unkei to Kaikei : Kamakura no kenchiku, ch\u014dkoku, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1991",
+      "comment": "Kaikoji, Kyoto (Kyoto), Kinki, Japan. Mizuno, Keizaburō, Yoshiaki Kudō, and Hisao Miyake; Unkei to Kaikei : Kamakura no kenchiku, chōkoku, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1991",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -6193,7 +6193,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/KamoJinja",
       "@type": "CorporateName",
-      "comment": "Kamo Jinja, Fukui (Fukui), Chubu, Japan. Mizuno, Keizabur\u014d, Toshifumi Konno, and Kakichi Suzuki; Mikky\u014d jiin to butsuz\u014d, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
+      "comment": "Kamo Jinja, Fukui (Fukui), Chubu, Japan. Mizuno, Keizaburō, Toshifumi Konno, and Kakichi Suzuki; Mikkyō jiin to butsuzō, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -6244,7 +6244,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/KanagawaPrefecturalMuseumofCulturalHistory",
       "@type": "CorporateName",
-      "comment": "Kanagawa Prefectural Museum of Cultural History, Yokohama (Kanagawa-ken), Kanto, Japan. Nakano, Masaki; Engie to nisee : Kamakura no kaiga k\u014dgei, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
+      "comment": "Kanagawa Prefectural Museum of Cultural History, Yokohama (Kanagawa-ken), Kanto, Japan. Nakano, Masaki; Engie to nisee : Kamakura no kaiga kōgei, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -6278,7 +6278,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Kanimanji",
       "@type": "CorporateName",
-      "comment": "Kanimanji, Kyoto (Kyoto), Kinki, Japan. Mizuno, Keizabur\u014d, Kin'ya Sekiguchi, and Sh\u016bya \u014cnishi; H\u014dry\u016bji kara Yakushiji e : Asuka Nara no kenchiku, ch\u014dkoku, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1990",
+      "comment": "Kanimanji, Kyoto (Kyoto), Kinki, Japan. Mizuno, Keizaburō, Kin'ya Sekiguchi, and Shūya Ōnishi; Hōryūji kara Yakushiji e : Asuka Nara no kenchiku, chōkoku, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1990",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -6295,7 +6295,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Kankikoji",
       "@type": "CorporateName",
-      "comment": "Kankikoji, Kyoto (Kyoto), Kinki, Japan. Nakano, Masaki, Yutaka Hirata, and Midori Sano; \u014cch\u014d emaki to s\u014dshoku ky\u014d, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1990",
+      "comment": "Kankikoji, Kyoto (Kyoto), Kinki, Japan. Nakano, Masaki, Yutaka Hirata, and Midori Sano; Ōchō emaki to sōshoku kyō, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1990",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -6312,7 +6312,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Kanshinji",
       "@type": "CorporateName",
-      "comment": "Kanshinji, Osaka (Osaka), Kinki, Japan. Mizuno, Keizabur\u014d, Kin'ya Sekiguchi, and Sh\u016bya \u014cnishi; H\u014dry\u016bji kara Yakushiji e : Asuka Nara no kenchiku, ch\u014dkoku, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1990  (406196402X)",
+      "comment": "Kanshinji, Osaka (Osaka), Kinki, Japan. Mizuno, Keizaburō, Kin'ya Sekiguchi, and Shūya Ōnishi; Hōryūji kara Yakushiji e : Asuka Nara no kenchiku, chōkoku, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1990  (406196402X)",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -6329,7 +6329,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Kanshoin",
       "@type": "CorporateName",
-      "comment": "Kanshoin, Nagano (Nagano-ken), Chubu, Japan. Mizuno, Keizabur\u014d, Kin'ya Sekiguchi, and Sh\u016bya \u014cnishi; H\u014dry\u016bji kara Yakushiji e : Asuka Nara no kenchiku, ch\u014dkoku, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1990  (406196402X)",
+      "comment": "Kanshoin, Nagano (Nagano-ken), Chubu, Japan. Mizuno, Keizaburō, Kin'ya Sekiguchi, and Shūya Ōnishi; Hōryūji kara Yakushiji e : Asuka Nara no kenchiku, chōkoku, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1990  (406196402X)",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -6346,7 +6346,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/KanumaMunicipalMuseumofSumioKawakami",
       "@type": "CorporateName",
-      "comment": "Kanuma Municipal Museum of Sumio Kawakami, Kanuma (Tochigi), Kanto, Japan. Takashina, Shuji and Toru Asano; Modanizumu to dent\u014d, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
+      "comment": "Kanuma Municipal Museum of Sumio Kawakami, Kanuma (Tochigi), Kanto, Japan. Takashina, Shuji and Toru Asano; Modanizumu to dentō, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -6363,7 +6363,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Kanzeonji",
       "@type": "CorporateName",
-      "comment": "Kanzeonji, Dazaifu (Fukuoka), Kyushu-chiho, Japan. Mizuno, Keizabur\u014d, Toshifumi Konno, and Kakichi Suzuki; Mikky\u014d jiin to butsuz\u014d, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
+      "comment": "Kanzeonji, Dazaifu (Fukuoka), Kyushu-chiho, Japan. Mizuno, Keizaburō, Toshifumi Konno, and Kakichi Suzuki; Mikkyō jiin to butsuzō, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -6395,9 +6395,9 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/repository/K\u00e4theKollwitzMuseumK\u00f6ln",
+      "@id": "http://opaquenamespace.org/ns/repository/KatheKollwitzMuseumKoln",
       "@type": "CorporateName",
-      "comment": "K\u00e4the Kollwitz Museum K\u00f6ln, Cologne, North Rhine-Westphalia, Germany. Prelinger, Elizabeth; K\u00e4the Kollwitz, New Haven: Yale University Press, 1992",
+      "comment": "Käthe Kollwitz Museum Köln, Cologne, North Rhine-Westphalia, Germany. Prelinger, Elizabeth; Käthe Kollwitz, New Haven: Yale University Press, 1992",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -6405,7 +6405,7 @@
         "@type": "date",
         "@value": "2014-07-10"
       },
-      "label": "K\u00e4the Kollwitz Museum K\u00f6ln",
+      "label": "Käthe Kollwitz Museum Köln",
       "modified": {
         "@type": "date",
         "@value": "2014-07-10"
@@ -6414,7 +6414,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/KawabataFoundation",
       "@type": "CorporateName",
-      "comment": "Kawabata Foundation, Kanagawa-ken, Kanto, Japan. Kobayashi, Tadashi, Johei Sasaki and Naomi Okawa; Taiga to \u014ckyo, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
+      "comment": "Kawabata Foundation, Kanagawa-ken, Kanto, Japan. Kobayashi, Tadashi, Johei Sasaki and Naomi Okawa; Taiga to Ōkyo, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -6431,7 +6431,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/KawabataYasunariKinenkai",
       "@type": "CorporateName",
-      "comment": "Kawabata Yasunari Kinenkai, Kamakura (Kanagawa-ken), Kanto, Japan. Kobayashi, Tadashi, Johei Sasaki and Naomi Okawa; Taiga to \u014ckyo, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
+      "comment": "Kawabata Yasunari Kinenkai, Kamakura (Kanagawa-ken), Kanto, Japan. Kobayashi, Tadashi, Johei Sasaki and Naomi Okawa; Taiga to Ōkyo, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -6448,7 +6448,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Kawadera",
       "@type": "CorporateName",
-      "comment": "Kawadera, Asuka (Nara), Kinki, Japan (discovery). Mizuno, Keizabur\u014d, Kin'ya Sekiguchi, and Sh\u016bya \u014cnishi; H\u014dry\u016bji kara Yakushiji e : Asuka Nara no kenchiku, ch\u014dkoku, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1990  (406196402X)",
+      "comment": "Kawadera, Asuka (Nara), Kinki, Japan (discovery). Mizuno, Keizaburō, Kin'ya Sekiguchi, and Shūya Ōnishi; Hōryūji kara Yakushiji e : Asuka Nara no kenchiku, chōkoku, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1990  (406196402X)",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -6482,7 +6482,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Keisokuji",
       "@type": "CorporateName",
-      "comment": "Keisokuji, Shiga, Kinki, Japan. Mizuno, Keizabur\u014d, Toshifumi Konno, and Kakichi Suzuki; Mikky\u014d jiin to butsuz\u014d, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
+      "comment": "Keisokuji, Shiga, Kinki, Japan. Mizuno, Keizaburō, Toshifumi Konno, and Kakichi Suzuki; Mikkyō jiin to butsuzō, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -6499,7 +6499,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Keizuiji",
       "@type": "CorporateName",
-      "comment": "Keizuiji, Takatsuki (Osaka), Kinki, Japan. Mizuno, Keizabur\u014d, Toshifumi Konno, and Kakichi Suzuki; Mikky\u014d jiin to butsuz\u014d, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
+      "comment": "Keizuiji, Takatsuki (Osaka), Kinki, Japan. Mizuno, Keizaburō, Toshifumi Konno, and Kakichi Suzuki; Mikkyō jiin to butsuzō, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -6584,7 +6584,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/KimikoandJohnPowersCollection",
       "@type": "CorporateName",
-      "comment": "Kimiko and John Powers Collection, New York, New York, United States. Zaigai Nihon no shih\u014d (Japanese Art: Selections from Western Collections) v.4, Tokyo: Mainichi Shinbunsha, 1980",
+      "comment": "Kimiko and John Powers Collection, New York, New York, United States. Zaigai Nihon no shihō (Japanese Art: Selections from Western Collections) v.4, Tokyo: Mainichi Shinbunsha, 1980",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -6618,7 +6618,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/KiyoshikojinSeichoji",
       "@type": "CorporateName",
-      "comment": "Kiyoshi-kojin Seicho-ji, Takarazuka (Hyogo), Kinki, Japan. Takashina, Shuji, Tetsuro Kagesato and Hideo Tanaka; Y\u014dga to Nihonga, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
+      "comment": "Kiyoshi-kojin Seicho-ji, Takarazuka (Hyogo), Kinki, Japan. Takashina, Shuji, Tetsuro Kagesato and Hideo Tanaka; Yōga to Nihonga, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -6669,7 +6669,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Koenji",
       "@type": "CorporateName",
-      "comment": "Koen-ji, Kyoto (Kyoto), Kinki, Japan. Tsuji, Nobuo; Sessh\u016b to Yamatoe By\u014dbu, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
+      "comment": "Koen-ji, Kyoto (Kyoto), Kinki, Japan. Tsuji, Nobuo; Sesshū to Yamatoe Byōbu, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -6737,7 +6737,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/KogenjiTakatsuki",
       "@type": "CorporateName",
-      "comment": "Kogenji, Takatsuki (Shiga), Kinki, Japan. Mizuno, Keizabur\u014d, Toshifumi Konno, and Kakichi Suzuki; Mikky\u014d jiin to butsuz\u014d, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
+      "comment": "Kogenji, Takatsuki (Shiga), Kinki, Japan. Mizuno, Keizaburō, Toshifumi Konno, and Kakichi Suzuki; Mikkyō jiin to butsuzō, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -6754,7 +6754,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Kojimadera",
       "@type": "CorporateName",
-      "comment": "Kojimadera, Nara (Nara), Kinki, Japan. Nakano, Masaki, Yutaka Hirata, and Masayuki Sekiguchi; Mandara to raig\u014dzu, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1991",
+      "comment": "Kojimadera, Nara (Nara), Kinki, Japan. Nakano, Masaki, Yutaka Hirata, and Masayuki Sekiguchi; Mandara to raigōzu, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1991",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -6771,7 +6771,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Kokokuji",
       "@type": "CorporateName",
-      "comment": "Kokokuji, Wakayama (Wakayama), Kinki, Japan. Mizuno, Keizabur\u014d, Yoshiaki Kud\u014d, and Hisao Miyake; Unkei to Kaikei : Kamakura no kenchiku, ch\u014dkoku, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1991",
+      "comment": "Kokokuji, Wakayama (Wakayama), Kinki, Japan. Mizuno, Keizaburō, Yoshiaki Kudō, and Hisao Miyake; Unkei to Kaikei : Kamakura no kenchiku, chōkoku, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1991",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -6805,7 +6805,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Komyoji",
       "@type": "CorporateName",
-      "comment": "Komyoji, Kamakura (Kanagawa-ken), Kanto, Japan. Nakano, Masaki, Yutaka Hirata, and Midori Sano; \u014cch\u014d emaki to s\u014dshoku ky\u014d, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1990",
+      "comment": "Komyoji, Kamakura (Kanagawa-ken), Kanto, Japan. Nakano, Masaki, Yutaka Hirata, and Midori Sano; Ōchō emaki to sōshoku kyō, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1990",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -6822,7 +6822,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Konbuin",
       "@type": "CorporateName",
-      "comment": "Konbuin, Nara (Nara), Kinki, Japan. Nakano, Masaki, Yutaka Hirata, and Masayuki Sekiguchi; Mandara to raig\u014dzu, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1991",
+      "comment": "Konbuin, Nara (Nara), Kinki, Japan. Nakano, Masaki, Yutaka Hirata, and Masayuki Sekiguchi; Mandara to raigōzu, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1991",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -6856,7 +6856,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Kongobuji",
       "@type": "CorporateName",
-      "comment": "Kongobuji, Koyasan (Wakayama), Kinki, Japan. Mizuno, Keizabur\u014d, Toshifumi Konno, and Kakichi Suzuki; Mikky\u014d jiin to butsuz\u014d, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
+      "comment": "Kongobuji, Koyasan (Wakayama), Kinki, Japan. Mizuno, Keizaburō, Toshifumi Konno, and Kakichi Suzuki; Mikkyō jiin to butsuzō, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -6924,7 +6924,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/KongojiOsakaKinki",
       "@type": "CorporateName",
-      "comment": "Kongo-ji, Osaka, Kinki, Japan. Tsuji, Nobuo; Sessh\u016b to Yamatoe By\u014dbu, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
+      "comment": "Kongo-ji, Osaka, Kinki, Japan. Tsuji, Nobuo; Sesshū to Yamatoe Byōbu, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -6941,7 +6941,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Kongoshinin",
       "@type": "CorporateName",
-      "comment": "Kongoshinin, Kyoto (Kyoto), Kinki, Japan. Mizuno, Keizabur\u014d, Toshifumi Konno, and Kakichi Suzuki; Mikky\u014d jiin to butsuz\u014d, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
+      "comment": "Kongoshinin, Kyoto (Kyoto), Kinki, Japan. Mizuno, Keizaburō, Toshifumi Konno, and Kakichi Suzuki; Mikkyō jiin to butsuzō, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -6958,7 +6958,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Konjikiin",
       "@type": "CorporateName",
-      "comment": "Konjikiin, Iwate, Tohoku-chiho, Japan. Nakano, Masaki, Yutaka Hirata, and Masayuki Sekiguchi; Mandara to raig\u014dzu, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1991",
+      "comment": "Konjikiin, Iwate, Tohoku-chiho, Japan. Nakano, Masaki, Yutaka Hirata, and Masayuki Sekiguchi; Mandara to raigōzu, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1991",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -6975,7 +6975,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Konkaikonyoji",
       "@type": "CorporateName",
-      "comment": "Konkaikonyoji, Kyoto (Kyoto), Kinki, Japan. Nakano, Masaki, Yutaka Hirata, and Midori Sano; \u014cch\u014d emaki to s\u014dshoku ky\u014d, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1990",
+      "comment": "Konkaikonyoji, Kyoto (Kyoto), Kinki, Japan. Nakano, Masaki, Yutaka Hirata, and Midori Sano; Ōchō emaki to sōshoku kyō, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1990",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -6992,7 +6992,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/KonradFischerGalerie",
       "@type": "CorporateName",
-      "comment": "Konrad Fischer Galerie, D\u00fcsseldorf, North Rhine-Westphalia, Germany. Joselit, David; American Art Since 1945, London: Thames and Hudson, 2003",
+      "comment": "Konrad Fischer Galerie, Düsseldorf, North Rhine-Westphalia, Germany. Joselit, David; American Art Since 1945, London: Thames and Hudson, 2003",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -7009,7 +7009,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Koryuji",
       "@type": "CorporateName",
-      "comment": "Koryuji, Kyoto (Kyoto), Kinki, Japan. Mizuno, Keizabur\u014d, Kin'ya Sekiguchi, and Sh\u016bya \u014cnishi; H\u014dry\u016bji kara Yakushiji e : Asuka Nara no kenchiku, ch\u014dkoku, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1990",
+      "comment": "Koryuji, Kyoto (Kyoto), Kinki, Japan. Mizuno, Keizaburō, Kin'ya Sekiguchi, and Shūya Ōnishi; Hōryūji kara Yakushiji e : Asuka Nara no kenchiku, chōkoku, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1990",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -7026,7 +7026,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Koseiin",
       "@type": "CorporateName",
-      "comment": "Kosei-in, Kyoto (Kyoto), Kinki, Japan. Kobayashi, Tadashi, Johei Sasaki and Naomi Okawa; Taiga to \u014ckyo, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
+      "comment": "Kosei-in, Kyoto (Kyoto), Kinki, Japan. Kobayashi, Tadashi, Johei Sasaki and Naomi Okawa; Taiga to Ōkyo, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -7043,7 +7043,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Koshoji",
       "@type": "CorporateName",
-      "comment": "Koshoji, Uji (Kyoto), Kinki, Japan. Kobayashi, Tadashi, Johei Sasaki and Naomi Okawa; Taiga to \u014ckyo, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
+      "comment": "Koshoji, Uji (Kyoto), Kinki, Japan. Kobayashi, Tadashi, Johei Sasaki and Naomi Okawa; Taiga to Ōkyo, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -7060,7 +7060,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Kotohiragu",
       "@type": "CorporateName",
-      "comment": "Kotohiragu, Kotohira (Kagawa), Shikoku-chiho, Japan. \u014cishi, Hidenori; Directory of the Sectarian Shinto Federation and the principal Shinto shrines of Japan, T\u014dky\u014d: Kokusai Sh\u016bky\u014d Kenky\u016bjo, 1957",
+      "comment": "Kotohiragu, Kotohira (Kagawa), Shikoku-chiho, Japan. Ōishi, Hidenori; Directory of the Sectarian Shinto Federation and the principal Shinto shrines of Japan, Tōkyō: Kokusai Shūkyō Kenkyūjo, 1957",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -7094,7 +7094,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Kotoin",
       "@type": "CorporateName",
-      "comment": "Kotoin, Kyoto (Ky\u014dto), Kinki, Japan. Collcutt, Martin; Cultural atlas of Japan, New York: Facts on File, 1988",
+      "comment": "Kotoin, Kyoto (Kyōto), Kinki, Japan. Collcutt, Martin; Cultural atlas of Japan, New York: Facts on File, 1988",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -7128,7 +7128,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/KumaMuseum",
       "@type": "CorporateName",
-      "comment": "Kuma Museum, Ehime, Shikoku-chiho, Japan. Takashina, Shuji, Tetsuro Kagesato and Hideo Tanaka; Y\u014dga to Nihonga, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
+      "comment": "Kuma Museum, Ehime, Shikoku-chiho, Japan. Takashina, Shuji, Tetsuro Kagesato and Hideo Tanaka; Yōga to Nihonga, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -7145,7 +7145,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/KumanoHayatamaTaishashrine",
       "@type": "CorporateName",
-      "comment": "Kumano Hayatama Taisha shrine, Shingu (Wakayama), Kinki, Japan. Toda, Teisuke and Ry\u016bsuke Asami; Zensh\u016b jiin to teien : Nanbokuch\u014d, Muromachi no kenchiku ch\u014dkoku k\u014dgei, Nihon Bijutsu Zenshu",
+      "comment": "Kumano Hayatama Taisha shrine, Shingu (Wakayama), Kinki, Japan. Toda, Teisuke and Ryūsuke Asami; Zenshū jiin to teien : Nanbokuchō, Muromachi no kenchiku chōkoku kōgei, Nihon Bijutsu Zenshu",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -7179,7 +7179,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/KumeMuseumofArt",
       "@type": "CorporateName",
-      "comment": "Kume Museum of Art, Tokyo (Tokyo), Kanto, Japan. Takashina, Shuji, Tetsuro Kagesato and Hideo Tanaka; Y\u014dga to Nihonga, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
+      "comment": "Kume Museum of Art, Tokyo (Tokyo), Kanto, Japan. Takashina, Shuji, Tetsuro Kagesato and Hideo Tanaka; Yōga to Nihonga, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -7213,7 +7213,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/KunsthalleBremen",
       "@type": "CorporateName",
-      "comment": "Kunsthalle Bremen, Bremen, Bremen, Germany. Prelinger, Elizabeth; K\u00e4the Kollwitz, New Haven: Yale University Press, 1992",
+      "comment": "Kunsthalle Bremen, Bremen, Bremen, Germany. Prelinger, Elizabeth; Käthe Kollwitz, New Haven: Yale University Press, 1992",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -7247,7 +7247,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/KyotoMunicipalMuseumofArt",
       "@type": "CorporateName",
-      "comment": "Kyoto Municipal Museum of Art, Kyoto (Kyoto), Kinki, Japan. Takashina, Shuji, Tetsuro Kagesato and Hideo Tanaka; Y\u014dga to Nihonga, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
+      "comment": "Kyoto Municipal Museum of Art, Kyoto (Kyoto), Kinki, Japan. Takashina, Shuji, Tetsuro Kagesato and Hideo Tanaka; Yōga to Nihonga, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -7264,7 +7264,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/KyotoPrefecturalInshoDomotoMuseumofFineArts",
       "@type": "CorporateName",
-      "comment": "Kyoto Prefectural Insho Domoto Museum of Fine Arts, Kyoto (Kyoto), Kinki, Japan. Takashina, Shuji and Toru Asano; Modanizumu to dent\u014d, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
+      "comment": "Kyoto Prefectural Insho Domoto Museum of Fine Arts, Kyoto (Kyoto), Kinki, Japan. Takashina, Shuji and Toru Asano; Modanizumu to dentō, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -7298,7 +7298,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/KyotoPrefecturalOkiHighSchool",
       "@type": "CorporateName",
-      "comment": "Kyoto Prefectural Oki High School, Kyoto (Kyoto), Kinki, Japan. Takashina, Shuji, Tetsuro Kagesato and Hideo Tanaka; Y\u014dga to Nihonga, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
+      "comment": "Kyoto Prefectural Oki High School, Kyoto (Kyoto), Kinki, Japan. Takashina, Shuji, Tetsuro Kagesato and Hideo Tanaka; Yōga to Nihonga, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -7519,7 +7519,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Makiku",
       "@type": "CorporateName",
-      "comment": "Makiku, Oita, Kyushu-chiho, Japan. Mizuno, Keizabur\u014d, Kakichi Suzuki, Shir\u014d It\u014d, Kazuharu Asai; By\u014dd\u014din to J\u014dch\u014d, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1994",
+      "comment": "Makiku, Oita, Kyushu-chiho, Japan. Mizuno, Keizaburō, Kakichi Suzuki, Shirō Itō, Kazuharu Asai; Byōdōin to Jōchō, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1994",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -7536,7 +7536,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Mampukuji",
       "@type": "CorporateName",
-      "comment": "Mampukuji, Uji (Kyoto), Kinki, Japan. Japan. Tetsud\u014dsh\u014d; Official guide to Japan: with preparatory explanations on Japanese customs, language, history, religion, literature, fine art, architecture, music, drama, etc., etc.: a handbook for travelers, Rev. Ed., T\u014dky\u014d: Japanese Government Railways, 1933",
+      "comment": "Mampukuji, Uji (Kyoto), Kinki, Japan. Japan. Tetsudōshō; Official guide to Japan: with preparatory explanations on Japanese customs, language, history, religion, literature, fine art, architecture, music, drama, etc., etc.: a handbook for travelers, Rev. Ed., Tōkyō: Japanese Government Railways, 1933",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -7553,7 +7553,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Manganji",
       "@type": "CorporateName",
-      "comment": "Manganji, Oguni (Kumamoto-ken), Kyushu-chiho, Japan. Nakano, Masaki; Engie to nisee : Kamakura no kaiga k\u014dgei, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
+      "comment": "Manganji, Oguni (Kumamoto-ken), Kyushu-chiho, Japan. Nakano, Masaki; Engie to nisee : Kamakura no kaiga kōgei, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -7587,7 +7587,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Manpukuji",
       "@type": "CorporateName",
-      "comment": "Manpukuji, Masuda (Shimane-ken), Chugoku, Japan. Mizuno, Keizabur\u014d, Toshifumi Konno, and Kakichi Suzuki; Mikky\u014d jiin to butsuz\u014d, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
+      "comment": "Manpukuji, Masuda (Shimane-ken), Chugoku, Japan. Mizuno, Keizaburō, Toshifumi Konno, and Kakichi Suzuki; Mikkyō jiin to butsuzō, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -7604,7 +7604,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Manshuin",
       "@type": "CorporateName",
-      "comment": "Manshuin, Kyoto (Kyoto), Kinki, Japan. Nakano, Masaki, Yutaka Hirata, and Masayuki Sekiguchi; Mandara to raig\u014dzu, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1991",
+      "comment": "Manshuin, Kyoto (Kyoto), Kinki, Japan. Nakano, Masaki, Yutaka Hirata, and Masayuki Sekiguchi; Mandara to raigōzu, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1991",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -7723,7 +7723,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/MatsuoTaishashrine",
       "@type": "CorporateName",
-      "comment": "Matsuo Taisha shrine, Kyoto (Kyoto), Kinki, Japan. Mizuno, Keizabur\u014d, Toshifumi Konno, and Kakichi Suzuki; Mikky\u014d jiin to butsuz\u014d, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
+      "comment": "Matsuo Taisha shrine, Kyoto (Kyoto), Kinki, Japan. Mizuno, Keizaburō, Toshifumi Konno, and Kakichi Suzuki; Mikkyō jiin to butsuzō, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -7740,7 +7740,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/MeguroGajoenMuseumofArt",
       "@type": "CorporateName",
-      "comment": "Meguro Gajoen Museum of Art, Tokyo (Tokyo), Kanto, Japan. Takashina, Shuji and Toru Asano; Modanizumu to dent\u014d, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
+      "comment": "Meguro Gajoen Museum of Art, Tokyo (Tokyo), Kanto, Japan. Takashina, Shuji and Toru Asano; Modanizumu to dentō, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -7791,7 +7791,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/MinamiHokkeji",
       "@type": "CorporateName",
-      "comment": "Minami Hokkeji, Nara (Nara), Kinki, Japan. Mizuno, Keizabur\u014d, Kin'ya Sekiguchi, and Sh\u016bya \u014cnishi; H\u014dry\u016bji kara Yakushiji e : Asuka Nara no kenchiku, ch\u014dkoku, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1990  (406196402X)",
+      "comment": "Minami Hokkeji, Nara (Nara), Kinki, Japan. Mizuno, Keizaburō, Kin'ya Sekiguchi, and Shūya Ōnishi; Hōryūji kara Yakushiji e : Asuka Nara no kenchiku, chōkoku, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1990  (406196402X)",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -7808,7 +7808,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/MishimaTaisha",
       "@type": "CorporateName",
-      "comment": "Mishima Taisha, Shizuoka-ken, Chubu, Japan. Nakano, Masaki; Engie to nisee : Kamakura no kaiga k\u014dgei, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993  (4061964097)",
+      "comment": "Mishima Taisha, Shizuoka-ken, Chubu, Japan. Nakano, Masaki; Engie to nisee : Kamakura no kaiga kōgei, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993  (4061964097)",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -7859,7 +7859,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/MiyagiPrefecturalMuseumofArt",
       "@type": "CorporateName",
-      "comment": "Miyagi Prefectural Museum of Art, Sendai (Miyagi), Tohoku-chiho, Japan. Takashina, Shuji and Toru Asano; Modanizumu to dent\u014d, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
+      "comment": "Miyagi Prefectural Museum of Art, Sendai (Miyagi), Tohoku-chiho, Japan. Takashina, Shuji and Toru Asano; Modanizumu to dentō, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -7876,7 +7876,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Miyakoku",
       "@type": "CorporateName",
-      "comment": "Miyakoku, Nara (Nara), Kinki, Japan. Mizuno, Keizabur\u014d, Toshifumi Konno, and Kakichi Suzuki; Mikky\u014d jiin to butsuz\u014d, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
+      "comment": "Miyakoku, Nara (Nara), Kinki, Japan. Mizuno, Keizaburō, Toshifumi Konno, and Kakichi Suzuki; Mikkyō jiin to butsuzō, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -7910,7 +7910,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/MoriMuseum",
       "@type": "CorporateName",
-      "comment": "Mori Museum, Yamaguchi (Yamaguchi-ken), Chugoku, Japan. Tsuji, Nobuo; Sessh\u016b to Yamatoe By\u014dbu, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
+      "comment": "Mori Museum, Yamaguchi (Yamaguchi-ken), Chugoku, Japan. Tsuji, Nobuo; Sesshū to Yamatoe Byōbu, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -7944,7 +7944,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/MRAHouse",
       "@type": "CorporateName",
-      "comment": "MRA House, Tokyo (Tokyo), Kanto, Japan. Kobayashi, Tadashi, Johei Sasaki and Naomi Okawa; Taiga to \u014ckyo, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
+      "comment": "MRA House, Tokyo (Tokyo), Kanto, Japan. Kobayashi, Tadashi, Johei Sasaki and Naomi Okawa; Taiga to Ōkyo, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -7961,7 +7961,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/MrandMrsCDCarterCollection",
       "@type": "CorporateName",
-      "comment": "Mr. and Mrs. C.D. Carter Collection, United States. Zaigai Nihon no shih\u014d (Japanese Art: Selections from Western Collections) v.4, Tokyo: Mainichi Shinbunsha, 1980",
+      "comment": "Mr. and Mrs. C.D. Carter Collection, United States. Zaigai Nihon no shihō (Japanese Art: Selections from Western Collections) v.4, Tokyo: Mainichi Shinbunsha, 1980",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -8080,7 +8080,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/MunakataMuseum",
       "@type": "CorporateName",
-      "comment": "Munakata Museum, Kamakura (Kanagawa-ken), Kanto, Japan. Takashina, Shuji and Toru Asano; Modanizumu to dent\u014d, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
+      "comment": "Munakata Museum, Kamakura (Kanagawa-ken), Kanto, Japan. Takashina, Shuji and Toru Asano; Modanizumu to dentō, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -8114,7 +8114,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Muroji",
       "@type": "CorporateName",
-      "comment": "Muroji, Muro (Nara), Kinki, Japan. Mizuno, Keizabur\u014d, Toshifumi Konno, and Kakichi Suzuki; Mikky\u014d jiin to butsuz\u014d, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
+      "comment": "Muroji, Muro (Nara), Kinki, Japan. Mizuno, Keizaburō, Toshifumi Konno, and Kakichi Suzuki; Mikkyō jiin to butsuzō, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -8131,7 +8131,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Muryoji",
       "@type": "CorporateName",
-      "comment": "Muryoji, Wakayama, Kinki, Japan. Kobayashi, Tadashi, Johei Sasaki and Naomi Okawa; Taiga to \u014ckyo, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
+      "comment": "Muryoji, Wakayama, Kinki, Japan. Kobayashi, Tadashi, Johei Sasaki and Naomi Okawa; Taiga to Ōkyo, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -8146,9 +8146,9 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/repository/Mus\u00e9edArtetdHistoire",
+      "@id": "http://opaquenamespace.org/ns/repository/MuseedArtetdHistoire",
       "@type": "CorporateName",
-      "comment": "Mus\u00e9e d\u2019Art et d\u2019Histoire, Geneva, Gen\u00e8ve, Switzerland. Falk, Toby, ed.; Treatures of Islam, London: Philip Wilson Publishers, Ltd., 1985  ",
+      "comment": "Musée d'Art et d'Histoire, Geneva, Genève, Switzerland. Falk, Toby, ed.; Treatures of Islam, London: Philip Wilson Publishers, Ltd., 1985  ",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -8156,16 +8156,16 @@
         "@type": "date",
         "@value": "2014-07-10"
       },
-      "label": "Mus\u00e9e d\u2019Art et d\u2019Histoire",
+      "label": "Musée d'Art et d'Histoire",
       "modified": {
         "@type": "date",
         "@value": "2014-07-10"
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/repository/Mus\u00e9edelH\u00f4telSandelin",
+      "@id": "http://opaquenamespace.org/ns/repository/MuseedelHotelSandelin",
       "@type": "CorporateName",
-      "comment": "Mus\u00e9e de l\u2019H\u00f4tel Sandelin, Saint-Omer, Nord-Pas-de-Calais, France. Jones, Colin; Madame de Pompadour: Images of a Mistress, London: National Gallery Company Ltd., 2002",
+      "comment": "Musée de l'Hôtel Sandelin, Saint-Omer, Nord-Pas-de-Calais, France. Jones, Colin; Madame de Pompadour: Images of a Mistress, London: National Gallery Company Ltd., 2002",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -8173,16 +8173,16 @@
         "@type": "date",
         "@value": "2014-07-10"
       },
-      "label": "Mus\u00e9e de l\u2019H\u00f4tel Sandelin",
+      "label": "Musée de l'Hôtel Sandelin",
       "modified": {
         "@type": "date",
         "@value": "2014-07-10"
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/repository/Mus\u00e9edesAnn\u00e9es1930",
+      "@id": "http://opaquenamespace.org/ns/repository/MuseedesAnnees1930",
       "@type": "CorporateName",
-      "comment": "Mus\u00e9e des Ann\u00e9es 1930, Boulogne-Billancourt, \u00cele-de-France, France. Peltre, Christine; Orientalism in Art, First Edition, New York: Abbeville Press, 1998",
+      "comment": "Musée des Années 1930, Boulogne-Billancourt, Île-de-France, France. Peltre, Christine; Orientalism in Art, First Edition, New York: Abbeville Press, 1998",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -8190,7 +8190,7 @@
         "@type": "date",
         "@value": "2014-07-10"
       },
-      "label": "Mus\u00e9e des Ann\u00e9es 1930",
+      "label": "Musée des Années 1930",
       "modified": {
         "@type": "date",
         "@value": "2014-07-10"
@@ -8214,9 +8214,9 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/repository/Mus\u00e9edesBeauxArtsNice",
+      "@id": "http://opaquenamespace.org/ns/repository/MuseedesBeauxArtsNice",
       "@type": "CorporateName",
-      "comment": "Mus\u00e9e des Beaux-Arts, Nice, Provence-Alpes-C\u00f4te d'Azur, France. Name originated in the University of Oregon Visual Resources Collection slide collections",
+      "comment": "Musée des Beaux-Arts, Nice, Provence-Alpes-Côte d'Azur, France. Name originated in the University of Oregon Visual Resources Collection slide collections",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -8224,16 +8224,16 @@
         "@type": "date",
         "@value": "2014-07-10"
       },
-      "label": "Mus\u00e9e des Beaux-Arts",
+      "label": "Musée des Beaux-Arts",
       "modified": {
         "@type": "date",
         "@value": "2014-07-10"
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/repository/Mus\u00e9edesBeauxArtsAuxerre",
+      "@id": "http://opaquenamespace.org/ns/repository/MuseedesBeauxArtsAuxerre",
       "@type": "CorporateName",
-      "comment": "Mus\u00e9e des Beaux-Arts, Auxerre, Burgundy, France. Peltre, Christine; Orientalism in Art, First Edition, New York: Abbeville Press, 1998",
+      "comment": "Musée des Beaux-Arts, Auxerre, Burgundy, France. Peltre, Christine; Orientalism in Art, First Edition, New York: Abbeville Press, 1998",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -8241,16 +8241,16 @@
         "@type": "date",
         "@value": "2014-07-10"
       },
-      "label": "Mus\u00e9e des Beaux-Arts",
+      "label": "Musée des Beaux-Arts",
       "modified": {
         "@type": "date",
         "@value": "2014-07-10"
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/repository/Mus\u00e9edesBeauxArtsetdArch\u00e9ologieRennes",
+      "@id": "http://opaquenamespace.org/ns/repository/MuseedesBeauxArtsetdArcheologieRennes",
       "@type": "CorporateName",
-      "comment": "Mus\u00e9e des Beaux-Arts et d\u2019Arch\u00e9ologie, Rennes, Brittany, France. Cadogan, Jean K.; Domenico Ghirlandaio: Artist and Artisan, New Haven; London: Yale University Press, 2000",
+      "comment": "Musée des Beaux-Arts et d'Archéologie, Rennes, Brittany, France. Cadogan, Jean K.; Domenico Ghirlandaio: Artist and Artisan, New Haven; London: Yale University Press, 2000",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -8258,16 +8258,16 @@
         "@type": "date",
         "@value": "2014-07-10"
       },
-      "label": "Mus\u00e9e des Beaux-Arts et d\u2019Arch\u00e9ologie",
+      "label": "Musée des Beaux-Arts et d'Archéologie",
       "modified": {
         "@type": "date",
         "@value": "2014-07-10"
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/repository/Mus\u00e9edesBeauxArtsetdArch\u00e9ologieBesan\u00e7on",
+      "@id": "http://opaquenamespace.org/ns/repository/MuseedesBeauxArtsetdArcheologieBesancon",
       "@type": "CorporateName",
-      "comment": "Mus\u00e9e des Beaux-Arts et d\u2019Arch\u00e9ologie, Besan\u00e7on, Franche-Comt\u00e9, France. Peltre, Christine; Orientalism in Art, First Edition, New York: Abbeville Press, 1998",
+      "comment": "Musée des Beaux-Arts et d'Archéologie, Besançon, Franche-Comté, France. Peltre, Christine; Orientalism in Art, First Edition, New York: Abbeville Press, 1998",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -8275,16 +8275,16 @@
         "@type": "date",
         "@value": "2014-07-10"
       },
-      "label": "Mus\u00e9e des Beaux-Arts et d\u2019Arch\u00e9ologie",
+      "label": "Musée des Beaux-Arts et d'Archéologie",
       "modified": {
         "@type": "date",
         "@value": "2014-07-10"
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/repository/Mus\u00e9edesBeauxArtsetdArch\u00e9ologieTroyes",
+      "@id": "http://opaquenamespace.org/ns/repository/MuseedesBeauxArtsetdArcheologieTroyes",
       "@type": "CorporateName",
-      "comment": "Mus\u00e9e des Beaux-Arts et d\u2019Arch\u00e9ologie, Troyes, Champagne-Ardenne, France. Peltre, Christine; Orientalism in Art, First Edition, New York: Abbeville Press, 1998",
+      "comment": "Musée des Beaux-Arts et d'Archéologie, Troyes, Champagne-Ardenne, France. Peltre, Christine; Orientalism in Art, First Edition, New York: Abbeville Press, 1998",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -8292,16 +8292,16 @@
         "@type": "date",
         "@value": "2014-07-10"
       },
-      "label": "Mus\u00e9e des Beaux-Arts et d\u2019Arch\u00e9ologie",
+      "label": "Musée des Beaux-Arts et d'Archéologie",
       "modified": {
         "@type": "date",
         "@value": "2014-07-10"
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/repository/Mus\u00e9edesBeauxArtsetdArchologieBesan\u00e7on",
+      "@id": "http://opaquenamespace.org/ns/repository/MuseedesBeauxArtsetdArchologieBesancon",
       "@type": "CorporateName",
-      "comment": "Mus\u00e9e des Beaux-Arts et d'Archologie, Besan\u00e7on, Franche-Comt\u00e9, France. Peltre, Christine; Orientalism in Art, First Edition, New York: Abbeville Press, 1999",
+      "comment": "Musée des Beaux-Arts et d'Archologie, Besançon, Franche-Comté, France. Peltre, Christine; Orientalism in Art, First Edition, New York: Abbeville Press, 1999",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -8309,16 +8309,16 @@
         "@type": "date",
         "@value": "2014-07-10"
       },
-      "label": "Mus\u00e9e des Beaux-Arts et d'Archologie",
+      "label": "Musée des Beaux-Arts et d'Archologie",
       "modified": {
         "@type": "date",
         "@value": "2014-07-10"
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/repository/Mus\u00e9eduMans",
+      "@id": "http://opaquenamespace.org/ns/repository/MuseeduMans",
       "@type": "CorporateName",
-      "comment": "Mus\u00e9e du Mans, Le Mans, Pays de la Loire, France. Peltre, Christine; Orientalism in Art, First Edition, New York: Abbeville Press, 1998",
+      "comment": "Musée du Mans, Le Mans, Pays de la Loire, France. Peltre, Christine; Orientalism in Art, First Edition, New York: Abbeville Press, 1998",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -8326,16 +8326,16 @@
         "@type": "date",
         "@value": "2014-07-10"
       },
-      "label": "Mus\u00e9e du Mans",
+      "label": "Musée du Mans",
       "modified": {
         "@type": "date",
         "@value": "2014-07-10"
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/repository/Mus\u00e9edUnterlinden",
+      "@id": "http://opaquenamespace.org/ns/repository/MuseedUnterlinden",
       "@type": "CorporateName",
-      "comment": "Mus\u00e9e d\u2019Unterlinden, Colmar, Alsace, France. Pierre Bonnard, Ostfildern: Hatje Cantz, 2012",
+      "comment": "Musée d'Unterlinden, Colmar, Alsace, France. Pierre Bonnard, Ostfildern: Hatje Cantz, 2012",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -8343,16 +8343,16 @@
         "@type": "date",
         "@value": "2014-07-10"
       },
-      "label": "Mus\u00e9e d\u2019Unterlinden",
+      "label": "Musée d'Unterlinden",
       "modified": {
         "@type": "date",
         "@value": "2014-07-10"
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/repository/Mus\u00e9eJulesCh\u00e9ret",
+      "@id": "http://opaquenamespace.org/ns/repository/MuseeJulesCheret",
       "@type": "CorporateName",
-      "comment": "Mus\u00e9e Jules-Ch\u00e9ret, Nice, Provence-Alpes-C\u00f4te d'Azur, France. Peltre, Christine; Orientalism in Art, First Edition, New York: Abbeville Press, 1998",
+      "comment": "Musée Jules-Chéret, Nice, Provence-Alpes-Côte d'Azur, France. Peltre, Christine; Orientalism in Art, First Edition, New York: Abbeville Press, 1998",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -8360,7 +8360,7 @@
         "@type": "date",
         "@value": "2014-07-10"
       },
-      "label": "Mus\u00e9e Jules-Ch\u00e9ret",
+      "label": "Musée Jules-Chéret",
       "modified": {
         "@type": "date",
         "@value": "2014-07-10"
@@ -8369,7 +8369,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/MuseesRoyauxdArtetdHistoire",
       "@type": "CorporateName",
-      "comment": "Musees Royaux d'Art et d'Histoire, Brussels, Bruxelles, Belgium. Zaigai Nihon no shih\u014d (Japanese Art: Selections from Western Collections, v.7), Tokyo: Mainichi Shinbunsha, 1980",
+      "comment": "Musees Royaux d'Art et d'Histoire, Brussels, Bruxelles, Belgium. Zaigai Nihon no shihō (Japanese Art: Selections from Western Collections, v.7), Tokyo: Mainichi Shinbunsha, 1980",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -8452,9 +8452,9 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/repository/MuseoArqueol\u00f3gicoProvincial",
+      "@id": "http://opaquenamespace.org/ns/repository/MuseoArqueologicoProvincial",
       "@type": "CorporateName",
-      "comment": "Museo Arqueol\u00f3gico Provincial, Badajoz, Extremadura, Spain. Papadopoulo, Anlexandre; Islam and Muslim Art, New York: Harry N. Abrams, Inc., 1979",
+      "comment": "Museo Arqueológico Provincial, Badajoz, Extremadura, Spain. Papadopoulo, Anlexandre; Islam and Muslim Art, New York: Harry N. Abrams, Inc., 1979",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -8462,7 +8462,7 @@
         "@type": "date",
         "@value": "2014-07-10"
       },
-      "label": "Museo Arqueol\u00f3gico Provincial",
+      "label": "Museo Arqueológico Provincial",
       "modified": {
         "@type": "date",
         "@value": "2014-07-10"
@@ -8522,7 +8522,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/MuseodeiForiImperiali",
       "@type": "CorporateName",
-      "comment": "Museo dei Fori Imperiali, Rome, Lazio, Italy. K\u00e4hler, Heinz; Art of Rome and Her Empire, Revised edition, New York: Greystone Press, 1965",
+      "comment": "Museo dei Fori Imperiali, Rome, Lazio, Italy. Kähler, Heinz; Art of Rome and Her Empire, Revised edition, New York: Greystone Press, 1965",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -8556,7 +8556,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/MuseodiSanVitale",
       "@type": "CorporateName",
-      "comment": "Museo di San Vitale, Ravenna, Emilia-Romagna, Italy. K\u00e4hler, Heinz; Art of Rome and Her Empire, Revised edition, New York: Greystone Press, 1965",
+      "comment": "Museo di San Vitale, Ravenna, Emilia-Romagna, Italy. Kähler, Heinz; Art of Rome and Her Empire, Revised edition, New York: Greystone Press, 1965",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -8624,7 +8624,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/MuseudeArte",
       "@type": "CorporateName",
-      "comment": "Museu de Arte, S\u00e3o Paulo, Sudeste, Brazil. Mazrui, Ali A.; Africans: A Triple Heritage, First Paperback edition, Boston; Toronto: Little, Brown and Company, 1986",
+      "comment": "Museu de Arte, São Paulo, Sudeste, Brazil. Mazrui, Ali A.; Africans: A Triple Heritage, First Paperback edition, Boston; Toronto: Little, Brown and Company, 1986",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -8811,7 +8811,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/MutoCollection",
       "@type": "CorporateName",
-      "comment": "Muto Collection, Hyogo, Kinki, Japan. Nakano, Masaki, Yutaka Hirata, and Midori Sano; \u014cch\u014d emaki to s\u014dshoku ky\u014d, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1990",
+      "comment": "Muto Collection, Hyogo, Kinki, Japan. Nakano, Masaki, Yutaka Hirata, and Midori Sano; Ōchō emaki to sōshoku kyō, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1990",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -8913,7 +8913,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Myoshinji",
       "@type": "CorporateName",
-      "comment": "Myoshinji, Kyoto (Ky\u014dto), Kinki, Japan. Japan. Tetsud\u014dsh\u014d; Official guide to Japan: with preparatory explanations on Japanese customs, language, history, religion, literature, fine art, architecture, music, drama, etc., etc.: a handbook for travelers, Rev. Ed., T\u014dky\u014d: Japanese Government Railways, 1933",
+      "comment": "Myoshinji, Kyoto (Kyōto), Kinki, Japan. Japan. Tetsudōshō; Official guide to Japan: with preparatory explanations on Japanese customs, language, history, religion, literature, fine art, architecture, music, drama, etc., etc.: a handbook for travelers, Rev. Ed., Tōkyō: Japanese Government Railways, 1933",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -8947,7 +8947,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/NaganoPrefectureShinanoMuseum",
       "@type": "CorporateName",
-      "comment": "Nagano Prefecture Shinano Museum, Nagano (Nagano-ken), Chubu, Japan. Takashina, Shuji, Tetsuro Kagesato and Hideo Tanaka; Y\u014dga to Nihonga, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
+      "comment": "Nagano Prefecture Shinano Museum, Nagano (Nagano-ken), Chubu, Japan. Takashina, Shuji, Tetsuro Kagesato and Hideo Tanaka; Yōga to Nihonga, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -9032,7 +9032,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/NagoyaMunicipalMuseumNagoya",
       "@type": "CorporateName",
-      "comment": "Nagoya Municipal Museum, Nagoya (Aichi-ken), Chubu, Japan. Takashina, Shuji and Toru Asano; Modanizumu to dent\u014d, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
+      "comment": "Nagoya Municipal Museum, Nagoya (Aichi-ken), Chubu, Japan. Takashina, Shuji and Toru Asano; Modanizumu to dentō, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -9134,7 +9134,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/NationalMuseumofHistoryandEthnology",
       "@type": "CorporateName",
-      "comment": "National Museum of History and Ethnology, Chiba (Chiba-ken), Kanto, Japan. Kobayashi, Tadashi, Yasushi Murashige and Akio Haino; S\u014dtatsu to K\u014drin, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1990",
+      "comment": "National Museum of History and Ethnology, Chiba (Chiba-ken), Kanto, Japan. Kobayashi, Tadashi, Yasushi Murashige and Akio Haino; Sōtatsu to Kōrin, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1990",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -9151,7 +9151,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Nenseiji",
       "@type": "CorporateName",
-      "comment": "Nensei-ji, Wakayama, Kinki, Japan. Kobayashi, Tadashi, Johei Sasaki and Naomi Okawa; Taiga to \u014ckyo, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
+      "comment": "Nensei-ji, Wakayama, Kinki, Japan. Kobayashi, Tadashi, Johei Sasaki and Naomi Okawa; Taiga to Ōkyo, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -9219,7 +9219,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/NiigataPrefectualMuseumofModernArt",
       "@type": "CorporateName",
-      "comment": "Niigata Prefectual Museum of Modern Art, Nagaoka (Niigata-ken), Chubu, Japan. Takashina, Shuji, Tetsuro Kagesato and Hideo Tanaka; Y\u014dga to Nihonga, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
+      "comment": "Niigata Prefectual Museum of Modern Art, Nagaoka (Niigata-ken), Chubu, Japan. Takashina, Shuji, Tetsuro Kagesato and Hideo Tanaka; Yōga to Nihonga, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -9236,7 +9236,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Ninnaji",
       "@type": "CorporateName",
-      "comment": "Ninnaji, Kyoto (Kyoto), Kinki, Japan. Mizuno, Keizabur\u014d, Toshifumi Konno, and Kakichi Suzuki; Mikky\u014d jiin to butsuz\u014d, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
+      "comment": "Ninnaji, Kyoto (Kyoto), Kinki, Japan. Mizuno, Keizaburō, Toshifumi Konno, and Kakichi Suzuki; Mikkyō jiin to butsuzō, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -9253,7 +9253,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/NishiHonganji",
       "@type": "CorporateName",
-      "comment": "Nishi-Honganji, Kyoto, (Kyoto), Kinki. Japan. Tetsud\u014dsh\u014d; Official guide to Japan: with preparatory explanations on Japanese customs, language, history, religion, literature, fine art, architecture, music, drama, etc., etc.: a handbook for travelers, Rev. Ed., T\u014dky\u014d: Japanese Government Railways, 1933",
+      "comment": "Nishi-Honganji, Kyoto, (Kyoto), Kinki. Japan. Tetsudōshō; Official guide to Japan: with preparatory explanations on Japanese customs, language, history, religion, literature, fine art, architecture, music, drama, etc., etc.: a handbook for travelers, Rev. Ed., Tōkyō: Japanese Government Railways, 1933",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -9270,7 +9270,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Nisonin",
       "@type": "CorporateName",
-      "comment": "Nisonin, Kyoto (Kyoto), Kinki, Japan. Nakano, Masaki; Engie to nisee : Kamakura no kaiga k\u014dgei, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
+      "comment": "Nisonin, Kyoto (Kyoto), Kinki, Japan. Nakano, Masaki; Engie to nisee : Kamakura no kaiga kōgei, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -9287,7 +9287,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Nissekiji",
       "@type": "CorporateName",
-      "comment": "Nissekiji, Oiwa (Osaka), Kinki, Japan. Toda, Teisuke and Ry\u016bsuke Asami; Zensh\u016b jiin to teien : Nanbokuch\u014d, Muromachi no kenchiku ch\u014dkoku k\u014dgei, Nihon Bijutsu Zenshu",
+      "comment": "Nissekiji, Oiwa (Osaka), Kinki, Japan. Toda, Teisuke and Ryūsuke Asami; Zenshū jiin to teien : Nanbokuchō, Muromachi no kenchiku chōkoku kōgei, Nihon Bijutsu Zenshu",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -9304,7 +9304,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/NiuShrine",
       "@type": "CorporateName",
-      "comment": "Niu Shrine, Nara (Nara), Kinki, Japan. Toda, Teisuke and Ry\u016bsuke Asami; Zensh\u016b jiin to teien : Nanbokuch\u014d, Muromachi no kenchiku ch\u014dkoku k\u014dgei, Nihon Bijutsu Zenshu , Tokyo: Kodansha, 1993",
+      "comment": "Niu Shrine, Nara (Nara), Kinki, Japan. Toda, Teisuke and Ryūsuke Asami; Zenshū jiin to teien : Nanbokuchō, Muromachi no kenchiku chōkoku kōgei, Nihon Bijutsu Zenshu , Tokyo: Kodansha, 1993",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -9321,7 +9321,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/NomaHokokai",
       "@type": "CorporateName",
-      "comment": "Noma Hokokai, Tokyo (Tokyo), Kanto, Japan. Takashina, Shuji, Tetsuro Kagesato and Hideo Tanaka; Y\u014dga to Nihonga, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
+      "comment": "Noma Hokokai, Tokyo (Tokyo), Kanto, Japan. Takashina, Shuji, Tetsuro Kagesato and Hideo Tanaka; Yōga to Nihonga, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -9338,7 +9338,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Nomurafamily",
       "@type": "CorporateName",
-      "comment": "Nomura family, Kobe (Hyogo), Kinki, Japan. Yamane, Y\u016bz\u014d; F\u016bzokuga to Ukiyoe shi (Genshoku Nihon no Bijutsu, v.24), 1971",
+      "comment": "Nomura family, Kobe (Hyogo), Kinki, Japan. Yamane, Yūzō; Fūzokuga to Ukiyoe shi (Genshoku Nihon no Bijutsu, v.24), 1971",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -9355,7 +9355,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Nyoirinji",
       "@type": "CorporateName",
-      "comment": "Nyoirinji, Hyogo, Kinki, Japan. Mizuno, Keizabur\u014d, Yoshiaki Kud\u014d, and Hisao Miyake; Unkei to Kaikei : Kamakura no kenchiku, ch\u014dkoku, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1991",
+      "comment": "Nyoirinji, Hyogo, Kinki, Japan. Mizuno, Keizaburō, Yoshiaki Kudō, and Hisao Miyake; Unkei to Kaikei : Kamakura no kenchiku, chōkoku, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1991",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -9372,7 +9372,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/OchanomizuUniversity",
       "@type": "CorporateName",
-      "comment": "Ochanomizu University, Tokyo (Tokyo), Kanto, Japan. Takashina, Shuji, Tetsuro Kagesato and Hideo Tanaka; Y\u014dga to Nihonga, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
+      "comment": "Ochanomizu University, Tokyo (Tokyo), Kanto, Japan. Takashina, Shuji, Tetsuro Kagesato and Hideo Tanaka; Yōga to Nihonga, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -9406,7 +9406,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Ochiin",
       "@type": "CorporateName",
-      "comment": "Ochiin, Wakayama, Kinki, Japan. Nakano, Masaki, Yutaka Hirata, and Masayuki Sekiguchi; Mandara to raig\u014dzu, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1991",
+      "comment": "Ochiin, Wakayama, Kinki, Japan. Nakano, Masaki, Yutaka Hirata, and Masayuki Sekiguchi; Mandara to raigōzu, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1991",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -9474,7 +9474,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/OharaArtMuseum",
       "@type": "CorporateName",
-      "comment": "Ohara Art Museum, Kurashiki (Okoyama-ken), Chugoku, Japan. Takashina, Shuji, Tetsuro Kagesato and Hideo Tanaka; Y\u014dga to Nihonga, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
+      "comment": "Ohara Art Museum, Kurashiki (Okoyama-ken), Chugoku, Japan. Takashina, Shuji, Tetsuro Kagesato and Hideo Tanaka; Yōga to Nihonga, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -9525,7 +9525,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/OkawaMuseumofArt",
       "@type": "CorporateName",
-      "comment": "Okawa Museum of Art, Kiryu (Gumma-ken), Kanto, Japan. Takashina, Shuji and Toru Asano; Modanizumu to dent\u014d, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
+      "comment": "Okawa Museum of Art, Kiryu (Gumma-ken), Kanto, Japan. Takashina, Shuji and Toru Asano; Modanizumu to dentō, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -9559,7 +9559,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Okunoin",
       "@type": "CorporateName",
-      "comment": "Okunoin, Nara (Nara), Kinki, Japan. Nakano, Masaki; Engie to nisee : Kamakura no kaiga k\u014dgei, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993  (4061964097)",
+      "comment": "Okunoin, Nara (Nara), Kinki, Japan. Nakano, Masaki; Engie to nisee : Kamakura no kaiga kōgei, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993  (4061964097)",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -9712,7 +9712,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/PhilippiMuseum",
       "@type": "CorporateName",
-      "comment": "Philippi Museum, Kav\u00e1la, Macedonia, Greece. Papathanassopoulos, George A.; Neolithic Culture in Greece, Athens: Nicholas P. Goulandris Foundation, 1996",
+      "comment": "Philippi Museum, Kavála, Macedonia, Greece. Papathanassopoulos, George A.; Neolithic Culture in Greece, Athens: Nicholas P. Goulandris Foundation, 1996",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -9763,7 +9763,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/PiazzadiSpagna",
       "@type": "CorporateName",
-      "comment": "Piazza di Spagna, Rome, Lazio, Italy. Rossi, Guido Alberto and Franco Lef\u00e8vre; Rome From the Air, New York: Rizzoli International Publications, Inc., 1989",
+      "comment": "Piazza di Spagna, Rome, Lazio, Italy. Rossi, Guido Alberto and Franco Lefèvre; Rome From the Air, New York: Rizzoli International Publications, Inc., 1989",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -9795,9 +9795,9 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/repository/Pinacoth\u00e8queNationale",
+      "@id": "http://opaquenamespace.org/ns/repository/PinacothequeNationale",
       "@type": "CorporateName",
-      "comment": "Pinacoth\u00e8que Nationale, Athens, Perif\u00e9reia Protevo\u00fasis, Greece. Peltre, Christine; Orientalism in Art, First Edition, New York: Abbeville Press, 1998",
+      "comment": "Pinacothèque Nationale, Athens, Periféreia Protevoúsis, Greece. Peltre, Christine; Orientalism in Art, First Edition, New York: Abbeville Press, 1998",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -9805,7 +9805,7 @@
         "@type": "date",
         "@value": "2014-07-10"
       },
-      "label": "Pinacoth\u00e8que Nationale",
+      "label": "Pinacothèque Nationale",
       "modified": {
         "@type": "date",
         "@value": "2014-07-10"
@@ -9848,7 +9848,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/PrinceAgaKhanCollection",
       "@type": "CorporateName",
-      "comment": "Prince Aga Khan Collection, Geneva, Gen\u00e8ve, Switzerland. Lentz, Thomas W. and Glenn D. Lowrey; Timur and the Princely Vision: Persian Art and Culture in the Fifteenth Century, Washington, DC: Smithsonian Institution Press, 1989",
+      "comment": "Prince Aga Khan Collection, Geneva, Genève, Switzerland. Lentz, Thomas W. and Glenn D. Lowrey; Timur and the Princely Vision: Persian Art and Culture in the Fifteenth Century, Washington, DC: Smithsonian Institution Press, 1989",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -10052,7 +10052,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/PrivateCollectionBrusselsBruxellesBelgium",
       "@type": "CorporateName",
-      "comment": "Private Collection, Brussels, Bruxelles, Belgium. Loze, Pierre and Fran\u00e7ois Loze; Belgium Art Nouveau: from Victor Horta to Antoine Pompe, Ghent: Eiffel Editions, 1991",
+      "comment": "Private Collection, Brussels, Bruxelles, Belgium. Loze, Pierre and François Loze; Belgium Art Nouveau: from Victor Horta to Antoine Pompe, Ghent: Eiffel Editions, 1991",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -10256,7 +10256,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/PrivateCollectionFrance",
       "@type": "CorporateName",
-      "comment": "Private Collection, France. Angliviel de La Beaumelle, Agn\u00e8s; Yves Tanguy: Retrospective, 1925-1955, Paris: Le Musee, 1982  (2858501491)",
+      "comment": "Private Collection, France. Angliviel de La Beaumelle, Agnès; Yves Tanguy: Retrospective, 1925-1955, Paris: Le Musee, 1982  (2858501491)",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -10305,9 +10305,9 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/repository/PrivateCollectionGenevaGen\u00e8veSwitzerland",
+      "@id": "http://opaquenamespace.org/ns/repository/PrivateCollectionGenevaGeneveSwitzerland",
       "@type": "CorporateName",
-      "comment": "Private Collection, Geneva, Gen\u00e8ve, Switzerland. Angliviel de La Beaumelle, Agn\u00e8s; Yves Tanguy: Retrospective, 1925-1955, Paris: Le Musee, 1982  (2858501491)",
+      "comment": "Private Collection, Geneva, Genève, Switzerland. Angliviel de La Beaumelle, Agnès; Yves Tanguy: Retrospective, 1925-1955, Paris: Le Musee, 1982  (2858501491)",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -10315,7 +10315,7 @@
         "@type": "date",
         "@value": "2014-07-10"
       },
-      "label": "Private Collection, Geneva, Gen\u00e8ve, Switzerland",
+      "label": "Private Collection, Geneva, Genève, Switzerland",
       "modified": {
         "@type": "date",
         "@value": "2014-07-10"
@@ -10324,7 +10324,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/PrivateCollectionGermany",
       "@type": "CorporateName",
-      "comment": "Private Collection, Germany. Angliviel de La Beaumelle, Agn\u00e8s; Yves Tanguy: Retrospective, 1925-1955, Paris: Le Musee, 1982  (2858501491)",
+      "comment": "Private Collection, Germany. Angliviel de La Beaumelle, Agnès; Yves Tanguy: Retrospective, 1925-1955, Paris: Le Musee, 1982  (2858501491)",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -10781,9 +10781,9 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/repository/PrivateCollectionPragueSt\u0159edo\u010desk\u00fdCzechRepublic",
+      "@id": "http://opaquenamespace.org/ns/repository/PrivateCollectionPragueStredocskyCzechRepublic",
       "@type": "CorporateName",
-      "comment": "Private Collection, Prague, St\u0159edo\u010desk\u00fd, Czech Republic. Rak, Jiri, Radim Vondracek and Clauda Terenzi; Biedermeier: Art and Culture in Central Europe, 1815-1848, Milan, New York: Skira Editore, Rizzoli International, 2001",
+      "comment": "Private Collection, Prague, Středočskŷ, Czech Republic. Rak, Jiri, Radim Vondracek and Clauda Terenzi; Biedermeier: Art and Culture in Central Europe, 1815-1848, Milan, New York: Skira Editore, Rizzoli International, 2001",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -10791,7 +10791,7 @@
         "@type": "date",
         "@value": "2014-07-10"
       },
-      "label": "Private Collection, Prague, St\u0159edo\u010desk\u00fd, Czech Republic",
+      "label": "Private Collection, Prague, Středočskŷ, Czech Republic",
       "modified": {
         "@type": "date",
         "@value": "2014-07-10"
@@ -10900,9 +10900,9 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/repository/PrivateCollectionStuttgartBadenWrttembergGermany",
+      "@id": "http://opaquenamespace.org/ns/repository/PrivateCollectionStuttgartBadenWurttembergGermany",
       "@type": "CorporateName",
-      "comment": "Private Collection, Stuttgart, Baden-Wrttemberg, Germany. Herzogenrath, Wulf and Stefan Kraus; Bauhaus Utopien: Arbeiten auf Papier, Stuttgart: Cantz, 1988",
+      "comment": "Private Collection, Stuttgart, Baden-Wurttemberg, Germany. Herzogenrath, Wulf and Stefan Kraus; Bauhaus Utopien: Arbeiten auf Papier, Stuttgart: Cantz, 1988",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -10910,7 +10910,7 @@
         "@type": "date",
         "@value": "2014-07-10"
       },
-      "label": "Private Collection, Stuttgart, Baden-Wrttemberg, Germany",
+      "label": "Private Collection, Stuttgart, Baden-Württemberg, Germany",
       "modified": {
         "@type": "date",
         "@value": "2014-07-10"
@@ -10934,9 +10934,9 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/repository/PrivateCollectionTokyoT\u014dky\u014dKantoJapan",
+      "@id": "http://opaquenamespace.org/ns/repository/PrivateCollectionTokyoTokyoKantoJapan",
       "@type": "CorporateName",
-      "comment": "Private Collection, Tokyo (T\u014dky\u014d), Kanto, Japan. Barnhart, Richard M; Painters of the great Ming: the Imperial Court and the Zhe School, Dallas: Dallas Museum of Art, 1993",
+      "comment": "Private Collection, Tokyo (Tōkyō), Kanto, Japan. Barnhart, Richard M; Painters of the great Ming: the Imperial Court and the Zhe School, Dallas: Dallas Museum of Art, 1993",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -10944,7 +10944,7 @@
         "@type": "date",
         "@value": "2014-07-10"
       },
-      "label": "Private Collection, Tokyo (T\u014dky\u014d), Kanto, Japan",
+      "label": "Private Collection, Tokyo (Tōkyō), Kanto, Japan",
       "modified": {
         "@type": "date",
         "@value": "2014-07-10"
@@ -11259,7 +11259,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Rojoji",
       "@type": "CorporateName",
-      "comment": "Rojoji, Nara (Nara), Kinki, Japan. Nakano, Masaki, Yutaka Hirata, and Masayuki Sekiguchi; Mandara to raig\u014dzu, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1991",
+      "comment": "Rojoji, Nara (Nara), Kinki, Japan. Nakano, Masaki, Yutaka Hirata, and Masayuki Sekiguchi; Mandara to raigōzu, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1991",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -11276,7 +11276,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Rokuharamitsuji",
       "@type": "CorporateName",
-      "comment": "Rokuharamitsuji, Kyoto, (Kyoto), Kinki. Japan. Tetsud\u014dsh\u014d; Official guide to Japan: with preparatory explanations on Japanese customs, language, history, religion, literature, fine art, architecture, music, drama, etc., etc.: a handbook for travelers, Rev. Ed., T\u014dky\u014d: Japanese Government Railways, 1933",
+      "comment": "Rokuharamitsuji, Kyoto, (Kyoto), Kinki. Japan. Tetsudōshō; Official guide to Japan: with preparatory explanations on Japanese customs, language, history, religion, literature, fine art, architecture, music, drama, etc., etc.: a handbook for travelers, Rev. Ed., Tōkyō: Japanese Government Railways, 1933",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -11344,7 +11344,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Ruriji",
       "@type": "CorporateName",
-      "comment": "Ruriji, Hyogo, Kinki, Japan. Nakano, Masaki, Yutaka Hirata, and Masayuki Sekiguchi; Mandara to raig\u014dzu, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1991",
+      "comment": "Ruriji, Hyogo, Kinki, Japan. Nakano, Masaki, Yutaka Hirata, and Masayuki Sekiguchi; Mandara to raigōzu, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1991",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -11395,7 +11395,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Ryozenji",
       "@type": "CorporateName",
-      "comment": "Ryozenji, Nara (Nara), Kinki, Japan. Mizuno, Keizabur\u014d, Toshifumi Konno, and Kakichi Suzuki; Mikky\u014d jiin to butsuz\u014d, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
+      "comment": "Ryozenji, Nara (Nara), Kinki, Japan. Mizuno, Keizaburō, Toshifumi Konno, and Kakichi Suzuki; Mikkyō jiin to butsuzō, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -11412,7 +11412,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Ryuseikaku",
       "@type": "CorporateName",
-      "comment": "Ryuseikaku, Tokyo (Tokyo), Kanto, Japan. Takashina, Shuji and Toru Asano; Modanizumu to dent\u014d, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
+      "comment": "Ryuseikaku, Tokyo (Tokyo), Kanto, Japan. Takashina, Shuji and Toru Asano; Modanizumu to dentō, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -11446,7 +11446,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Saidaiji",
       "@type": "CorporateName",
-      "comment": "Saidaiji, Nara (Nara), Kinki, Japan. Mizuno, Keizabur\u014d, Yoshiaki Kud\u014d, and Hisao Miyake; Unkei to Kaikei : Kamakura no kenchiku, ch\u014dkoku, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1991",
+      "comment": "Saidaiji, Nara (Nara), Kinki, Japan. Mizuno, Keizaburō, Yoshiaki Kudō, and Hisao Miyake; Unkei to Kaikei : Kamakura no kenchiku, chōkoku, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1991",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -11463,7 +11463,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Saifukuji",
       "@type": "CorporateName",
-      "comment": "Saifuku-ji, Osaka (Osaka), Kinki, Japan. Kobayashi, Tadashi, Johei Sasaki and Naomi Okawa; Taiga to \u014ckyo, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
+      "comment": "Saifuku-ji, Osaka (Osaka), Kinki, Japan. Kobayashi, Tadashi, Johei Sasaki and Naomi Okawa; Taiga to Ōkyo, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -11497,7 +11497,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Sainenji",
       "@type": "CorporateName",
-      "comment": "Sainen-ji, Aichi-ken, Chubu, Japan. Tsuji, Nobuo; Sessh\u016b to Yamatoe By\u014dbu, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
+      "comment": "Sainen-ji, Aichi-ken, Chubu, Japan. Tsuji, Nobuo; Sesshū to Yamatoe Byōbu, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -11548,7 +11548,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Saizenin",
       "@type": "CorporateName",
-      "comment": "Saizenin, Wakayama (Wakayama), Kinki, Japan. Nakano, Masaki, Yutaka Hirata, and Masayuki Sekiguchi; Mandara to raig\u014dzu, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1991",
+      "comment": "Saizenin, Wakayama (Wakayama), Kinki, Japan. Nakano, Masaki, Yutaka Hirata, and Masayuki Sekiguchi; Mandara to raigōzu, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1991",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -11565,7 +11565,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Sakaifamily",
       "@type": "CorporateName",
-      "comment": "Sakai family, Tokyo (Tokyo), Kanto, Japan. Yamane, Y\u016bz\u014d; F\u016bzokuga to Ukiyoe shi (Genshoku Nihon no Bijutsu, v.24), 1971",
+      "comment": "Sakai family, Tokyo (Tokyo), Kanto, Japan. Yamane, Yūzō; Fūzokuga to Ukiyoe shi (Genshoku Nihon no Bijutsu, v.24), 1971",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -11599,7 +11599,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Sanbutsuji",
       "@type": "CorporateName",
-      "comment": "Sanbutsuji, Tottori (Tottori-ken), Chugoku, Japan. Toda, Teisuke and Ry\u016bsuke Asami; Zensh\u016b jiin to teien : Nanbokuch\u014d, Muromachi no kenchiku ch\u014dkoku k\u014dgei, Nihon Bijutsu Zenshu",
+      "comment": "Sanbutsuji, Tottori (Tottori-ken), Chugoku, Japan. Toda, Teisuke and Ryūsuke Asami; Zenshū jiin to teien : Nanbokuchō, Muromachi no kenchiku chōkoku kōgei, Nihon Bijutsu Zenshu",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -11684,7 +11684,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/SansoCollection",
       "@type": "CorporateName",
-      "comment": "Sanso Collection, United States. Zaigai Nihon no shih\u014d (Japanese Art: Selections from Western Collections) v.3, Tokyo: Mainichi Shinbunsha, 1979",
+      "comment": "Sanso Collection, United States. Zaigai Nihon no shihō (Japanese Art: Selections from Western Collections) v.3, Tokyo: Mainichi Shinbunsha, 1979",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -11837,7 +11837,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Sanzenji",
       "@type": "CorporateName",
-      "comment": "Sanzenji, Kyoto (Kyoto), Kinki, Japan. Toda, Teisuke and Ry\u016bsuke Asami; Zensh\u016b jiin to teien : Nanbokuch\u014d, Muromachi no kenchiku ch\u014dkoku k\u014dgei, Nihon Bijutsu Zenshu",
+      "comment": "Sanzenji, Kyoto (Kyoto), Kinki, Japan. Toda, Teisuke and Ryūsuke Asami; Zenshū jiin to teien : Nanbokuchō, Muromachi no kenchiku chōkoku kōgei, Nihon Bijutsu Zenshu",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -11888,7 +11888,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Seiryoji",
       "@type": "CorporateName",
-      "comment": "Seiryoji, Kyoto (Kyoto), Kinki, Japan. Mizuno, Keizabur\u014d, Toshifumi Konno, and Kakichi Suzuki; Mikky\u014d jiin to butsuz\u014d, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
+      "comment": "Seiryoji, Kyoto (Kyoto), Kinki, Japan. Mizuno, Keizaburō, Toshifumi Konno, and Kakichi Suzuki; Mikkyō jiin to butsuzō, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -11922,7 +11922,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/SenokuHakukokan",
       "@type": "CorporateName",
-      "comment": "Sen'oku Hakukokan, Kyoto (Kyoto), Kinki, Japan. Kobayashi, Tadashi, Johei Sasaki and Naomi Okawa; Taiga to \u014ckyo, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
+      "comment": "Sen'oku Hakukokan, Kyoto (Kyoto), Kinki, Japan. Kobayashi, Tadashi, Johei Sasaki and Naomi Okawa; Taiga to Ōkyo, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -12007,7 +12007,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/ShimadaArtMuseum",
       "@type": "CorporateName",
-      "comment": "Shimada Art Museum, Kumamoto (Kumamoto-ken), Kyushu-chiho, Japan. Kobayashi, Tadashi, Johei Sasaki and Naomi Okawa; Taiga to \u014ckyo, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
+      "comment": "Shimada Art Museum, Kumamoto (Kumamoto-ken), Kyushu-chiho, Japan. Kobayashi, Tadashi, Johei Sasaki and Naomi Okawa; Taiga to Ōkyo, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -12024,7 +12024,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/ShimanePrefecturalMuseum",
       "@type": "CorporateName",
-      "comment": "Shimane Prefectural Museum, Shimane-ken, Chugoku, Japan. Takashina, Shuji, Tetsuro Kagesato and Hideo Tanaka; Y\u014dga to Nihonga, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
+      "comment": "Shimane Prefectural Museum, Shimane-ken, Chugoku, Japan. Takashina, Shuji, Tetsuro Kagesato and Hideo Tanaka; Yōga to Nihonga, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -12041,7 +12041,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Shinenkan",
       "@type": "CorporateName",
-      "comment": "Shinenkan, United States. Zaigai Nihon no shih\u014d (Japanese Art: Selections from Western Collections) v.4, Tokyo: Mainichi Shinbunsha, 1980",
+      "comment": "Shinenkan, United States. Zaigai Nihon no shihō (Japanese Art: Selections from Western Collections) v.4, Tokyo: Mainichi Shinbunsha, 1980",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -12092,7 +12092,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Shinrensha",
       "@type": "CorporateName",
-      "comment": "Shinrensha, Ishikawa-ken, Chubu, Japan. Nakano, Masaki, Yutaka Hirata, and Masayuki Sekiguchi; Mandara to raig\u014dzu, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1991",
+      "comment": "Shinrensha, Ishikawa-ken, Chubu, Japan. Nakano, Masaki, Yutaka Hirata, and Masayuki Sekiguchi; Mandara to raigōzu, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1991",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -12143,7 +12143,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Shishikutsuji",
       "@type": "CorporateName",
-      "comment": "Shishikutsuji, Katano (Osaka), Kinki, Japan. Mizuno, Keizabur\u014d, Toshifumi Konno, and Kakichi Suzuki; Mikky\u014d jiin to butsuz\u014d, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
+      "comment": "Shishikutsuji, Katano (Osaka), Kinki, Japan. Mizuno, Keizaburō, Toshifumi Konno, and Kakichi Suzuki; Mikkyō jiin to butsuzō, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -12160,7 +12160,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Shofukuji",
       "@type": "CorporateName",
-      "comment": "Shofukuji, Tokyo (Tokyo), Kanto, Japan. Toda, Teisuke and Ry\u016bsuke Asami; Zensh\u016b jiin to teien : Nanbokuch\u014d, Muromachi no kenchiku ch\u014dkoku k\u014dgei, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
+      "comment": "Shofukuji, Tokyo (Tokyo), Kanto, Japan. Toda, Teisuke and Ryūsuke Asami; Zenshū jiin to teien : Nanbokuchō, Muromachi no kenchiku chōkoku kōgei, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -12177,7 +12177,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Shogenji",
       "@type": "CorporateName",
-      "comment": "Shogenji, Aichi-ken, Chubu, Japan. Mizuno, Keizabur\u014d, Kin'ya Sekiguchi, and Sh\u016bya \u014cnishi; H\u014dry\u016bji kara Yakushiji e : Asuka Nara no kenchiku, ch\u014dkoku, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1990",
+      "comment": "Shogenji, Aichi-ken, Chubu, Japan. Mizuno, Keizaburō, Kin'ya Sekiguchi, and Shūya Ōnishi; Hōryūji kara Yakushiji e : Asuka Nara no kenchiku, chōkoku, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1990",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -12211,7 +12211,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Shojiji",
       "@type": "CorporateName",
-      "comment": "Shojiji, Kyoto (Kyoto), Kinki, Japan. Mizuno, Keizabur\u014d, Toshifumi Konno, and Kakichi Suzuki; Mikky\u014d jiin to butsuz\u014d, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
+      "comment": "Shojiji, Kyoto (Kyoto), Kinki, Japan. Mizuno, Keizaburō, Toshifumi Konno, and Kakichi Suzuki; Mikkyō jiin to butsuzō, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -12228,7 +12228,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Shojoji",
       "@type": "CorporateName",
-      "comment": "Shojoji, Fukushima (Fukushima), Tohoku-chiho, Japan. Mizuno, Keizabur\u014d, Toshifumi Konno, and Kakichi Suzuki; Mikky\u014d jiin to butsuz\u014d, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
+      "comment": "Shojoji, Fukushima (Fukushima), Tohoku-chiho, Japan. Mizuno, Keizaburō, Toshifumi Konno, and Kakichi Suzuki; Mikkyō jiin to butsuzō, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -12296,7 +12296,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Sokokuji",
       "@type": "CorporateName",
-      "comment": "Sokokuji, Kyoto (Ky\u014dto), Kinki, Japan. Japan. Tetsud\u014dsh\u014d; Official guide to Japan: with preparatory explanations on Japanese customs, language, history, religion, literature, fine art, architecture, music, drama, etc., etc.: a handbook for travelers, Rev. Ed., T\u014dky\u014d: Japanese Government Railways, 1933",
+      "comment": "Sokokuji, Kyoto (Kyōto), Kinki, Japan. Japan. Tetsudōshō; Official guide to Japan: with preparatory explanations on Japanese customs, language, history, religion, literature, fine art, architecture, music, drama, etc., etc.: a handbook for travelers, Rev. Ed., Tōkyō: Japanese Government Railways, 1933",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -12330,7 +12330,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/SprengelMuseumHannover",
       "@type": "CorporateName",
-      "comment": "Sprengel Museum Hannover, Hannover, Lower Saxony, Germany. Prelinger, Elizabeth; K\u00e4the Kollwitz, New Haven: Yale University Press, 1992",
+      "comment": "Sprengel Museum Hannover, Hannover, Lower Saxony, Germany. Prelinger, Elizabeth; Käthe Kollwitz, New Haven: Yale University Press, 1992",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -12396,9 +12396,9 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/repository/StewartMuseumattheFort\u00celeSainteHel\u00e8ne",
+      "@id": "http://opaquenamespace.org/ns/repository/StewartMuseumattheFortIleSainteHelene",
       "@type": "CorporateName",
-      "comment": "Stewart Museum at the Fort \u00cele Sainte-Hel\u00e8ne, Montreal, Quebec, Canada. Jones, Colin; Madame de Pompadour: Images of a Mistress, London: National Gallery Company Ltd., 2002",
+      "comment": "Stewart Museum at the Fort Île Sainte-Helène, Montreal, Quebec, Canada. Jones, Colin; Madame de Pompadour: Images of a Mistress, London: National Gallery Company Ltd., 2002",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -12406,7 +12406,7 @@
         "@type": "date",
         "@value": "2014-07-10"
       },
-      "label": "Stewart Museum at the Fort \u00cele Sainte-Hel\u00e8ne",
+      "label": "Stewart Museum at the Fort Île Sainte-Helène",
       "modified": {
         "@type": "date",
         "@value": "2014-07-10"
@@ -12432,7 +12432,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/SuihuMeitokukai",
       "@type": "CorporateName",
-      "comment": "Suihu Meitokukai, Ibaraki-ken, Kanto, Japan. Takashina, Shuji, Tetsuro Kagesato and Hideo Tanaka; Y\u014dga to Nihonga, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
+      "comment": "Suihu Meitokukai, Ibaraki-ken, Kanto, Japan. Takashina, Shuji, Tetsuro Kagesato and Hideo Tanaka; Yōga to Nihonga, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -12534,7 +12534,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Tachibanadera",
       "@type": "CorporateName",
-      "comment": "Tachibanadera, Asuka (Nara), Kinki, Japan. Mizuno, Keizabur\u014d, Toshifumi Konno, and Kakichi Suzuki; Mikky\u014d jiin to butsuz\u014d, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
+      "comment": "Tachibanadera, Asuka (Nara), Kinki, Japan. Mizuno, Keizaburō, Toshifumi Konno, and Kakichi Suzuki; Mikkyō jiin to butsuzō, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -12585,7 +12585,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/TakahashiFamily",
       "@type": "CorporateName",
-      "comment": "Takahashi Family, Tokyo (Tokyo), Kanto, Japan. Yamane, Y\u016bz\u014d; F\u016bzokuga to Ukiyoe shi (Genshoku Nihon no Bijutsu, v.24), 1971",
+      "comment": "Takahashi Family, Tokyo (Tokyo), Kanto, Japan. Yamane, Yūzō; Fūzokuga to Ukiyoe shi (Genshoku Nihon no Bijutsu, v.24), 1971",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -12602,7 +12602,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/TakanoJinja",
       "@type": "CorporateName",
-      "comment": "Takano Jinja, Tsuyama (Okayama-ken), Chugoku, Japan. Toda, Teisuke and Ry\u016bsuke Asami; Zensh\u016b jiin to teien : Nanbokuch\u014d, Muromachi no kenchiku ch\u014dkoku k\u014dgei, Nihon Bijutsu Zenshu",
+      "comment": "Takano Jinja, Tsuyama (Okayama-ken), Chugoku, Japan. Toda, Teisuke and Ryūsuke Asami; Zenshū jiin to teien : Nanbokuchō, Muromachi no kenchiku chōkoku kōgei, Nihon Bijutsu Zenshu",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -12619,7 +12619,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/TakashimayaHistoricalMuseum",
       "@type": "CorporateName",
-      "comment": "Takashimaya Historical Museum, Osaka (Osaka), Kinki, Japan. Takashina, Shuji, Tetsuro Kagesato and Hideo Tanaka; Y\u014dga to Nihonga, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
+      "comment": "Takashimaya Historical Museum, Osaka (Osaka), Kinki, Japan. Takashina, Shuji, Tetsuro Kagesato and Hideo Tanaka; Yōga to Nihonga, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -12636,7 +12636,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/TakehisaYumejiIkahoMemorialHall",
       "@type": "CorporateName",
-      "comment": "Takehisa Yumeji Ikaho Memorial Hall, Kitatajima (Saitama-ken), Kanto, Japan. Takashina, Shuji, Tetsuro Kagesato and Hideo Tanaka; Y\u014dga to Nihonga, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
+      "comment": "Takehisa Yumeji Ikaho Memorial Hall, Kitatajima (Saitama-ken), Kanto, Japan. Takashina, Shuji, Tetsuro Kagesato and Hideo Tanaka; Yōga to Nihonga, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -12653,7 +12653,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/TamukeyamaShrine",
       "@type": "CorporateName",
-      "comment": "Tamukeyama Shrine, Nara (Nara), Kinki, Japan. Toda, Teisuke and Ry\u016bsuke Asami; Zensh\u016b jiin to teien : Nanbokuch\u014d, Muromachi no kenchiku ch\u014dkoku k\u014dgei, Nihon Bijutsu Zenshu",
+      "comment": "Tamukeyama Shrine, Nara (Nara), Kinki, Japan. Toda, Teisuke and Ryūsuke Asami; Zenshū jiin to teien : Nanbokuchō, Muromachi no kenchiku chōkoku kōgei, Nihon Bijutsu Zenshu",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -12670,7 +12670,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Tanagawafamily",
       "@type": "CorporateName",
-      "comment": "Tanagawa family, Tokyo (Tokyo), Kanto, Japan. Yamane, Y\u016bz\u014d; F\u016bzokuga to Ukiyoe shi (Genshoku Nihon no Bijutsu, v.24), 1971 ",
+      "comment": "Tanagawa family, Tokyo (Tokyo), Kanto, Japan. Yamane, Yūzō; Fūzokuga to Ukiyoe shi (Genshoku Nihon no Bijutsu, v.24), 1971 ",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -12721,7 +12721,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/TenkawaBenzaitensha",
       "@type": "CorporateName",
-      "comment": "Tenkawa Benzaitensha, Nara, Kinki, Japan. Toda, Teisuke and Ry\u016bsuke Asami; Zensh\u016b jiin to teien : Nanbokuch\u014d, Muromachi no kenchiku ch\u014dkoku k\u014dgei, Nihon Bijutsu Zenshu , Tokyo: Kodansha, 1993",
+      "comment": "Tenkawa Benzaitensha, Nara, Kinki, Japan. Toda, Teisuke and Ryūsuke Asami; Zenshū jiin to teien : Nanbokuchō, Muromachi no kenchiku chōkoku kōgei, Nihon Bijutsu Zenshu , Tokyo: Kodansha, 1993",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -12738,7 +12738,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/TenriUniversityLibrary",
       "@type": "CorporateName",
-      "comment": "Tenri University Library, Nara (Nara), Kinki, Japan. Tsuji, Nobuo; Sessh\u016b to Yamatoe By\u014dbu, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
+      "comment": "Tenri University Library, Nara (Nara), Kinki, Japan. Tsuji, Nobuo; Sesshū to Yamatoe Byōbu, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -12789,7 +12789,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/TheHouseofRepresentatives",
       "@type": "CorporateName",
-      "comment": "The House of Representatives, Tokyo (Tokyo), Kanto, Japan. Takashina, Shuji and Toru Asano; Modanizumu to dent\u014d, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
+      "comment": "The House of Representatives, Tokyo (Tokyo), Kanto, Japan. Takashina, Shuji and Toru Asano; Modanizumu to dentō, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -12823,7 +12823,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Tofukuji",
       "@type": "CorporateName",
-      "comment": "Tofukuji, Kyoto (Kyoto), Kinki, Japan. Nakano, Masaki, Yutaka Hirata, and Midori Sano; \u014cch\u014d emaki to s\u014dshoku ky\u014d, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1990",
+      "comment": "Tofukuji, Kyoto (Kyoto), Kinki, Japan. Nakano, Masaki, Yutaka Hirata, and Midori Sano; Ōchō emaki to sōshoku kyō, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1990",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -12874,7 +12874,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/TokugawaReimeikaiFoundation",
       "@type": "CorporateName",
-      "comment": "Tokugawa Reimeikai Foundation, Tokyo (Tokyo), Kanto, Japan. Nakano, Masaki, Yutaka Hirata, and Midori Sano; \u014cch\u014d emaki to s\u014dshoku ky\u014d, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1990",
+      "comment": "Tokugawa Reimeikai Foundation, Tokyo (Tokyo), Kanto, Japan. Nakano, Masaki, Yutaka Hirata, and Midori Sano; Ōchō emaki to sōshoku kyō, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1990",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -12891,7 +12891,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Tokuhonji",
       "@type": "CorporateName",
-      "comment": "Tokuhon-ji, Tokyo (Tokyo), Kanto, Japan. Kobayashi, Tadashi, Johei Sasaki and Naomi Okawa; Taiga to \u014ckyo, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
+      "comment": "Tokuhon-ji, Tokyo (Tokyo), Kanto, Japan. Kobayashi, Tadashi, Johei Sasaki and Naomi Okawa; Taiga to Ōkyo, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1993",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -12925,7 +12925,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/TokyoMetropolitanMuseumofArt",
       "@type": "CorporateName",
-      "comment": "Tokyo Metropolitan Museum of Art, Tokyo (Tokyo), Kanto, Japan. Takashina, Shuji, Tetsuro Kagesato and Hideo Tanaka; Y\u014dga to Nihonga, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
+      "comment": "Tokyo Metropolitan Museum of Art, Tokyo (Tokyo), Kanto, Japan. Takashina, Shuji, Tetsuro Kagesato and Hideo Tanaka; Yōga to Nihonga, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -12942,7 +12942,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/TokyoNationalResearchInstituteofCulturalProperties",
       "@type": "CorporateName",
-      "comment": "Tokyo National Research Institute of Cultural Properties, Tokyo (Tokyo), Kanto, Japan. Takashina, Shuji, Tetsuro Kagesato and Hideo Tanaka; Y\u014dga to Nihonga, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
+      "comment": "Tokyo National Research Institute of Cultural Properties, Tokyo (Tokyo), Kanto, Japan. Takashina, Shuji, Tetsuro Kagesato and Hideo Tanaka; Yōga to Nihonga, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -13010,7 +13010,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/TsuruiMuseumofArt",
       "@type": "CorporateName",
-      "comment": "Tsurui Museum of Art, Niigata (Niigata-ken), Kanto, Japan. Takashina, Shuji, Tetsuro Kagesato and Hideo Tanaka; Y\u014dga to Nihonga, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
+      "comment": "Tsurui Museum of Art, Niigata (Niigata-ken), Kanto, Japan. Takashina, Shuji, Tetsuro Kagesato and Hideo Tanaka; Yōga to Nihonga, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -13129,7 +13129,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/UniversityofFineArtsandMusic",
       "@type": "CorporateName",
-      "comment": "University of Fine Arts and Music, Tokyo (Tokyo), Kanto, Japan. Nakano, Masaki; Sh\u014ds\u014din to j\u014ddai kaiga : Asuka Nara no kaiga k\u014dgei, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
+      "comment": "University of Fine Arts and Music, Tokyo (Tokyo), Kanto, Japan. Nakano, Masaki; Shōsōin to jōdai kaiga : Asuka Nara no kaiga kōgei, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -13163,7 +13163,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Unpenji",
       "@type": "CorporateName",
-      "comment": "Unpenji, Tokushima (Tokushima), Shikoku-chiho, Japan. Nakano, Masaki, Yutaka Hirata, and Masayuki Sekiguchi; Mandara to raig\u014dzu, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1991",
+      "comment": "Unpenji, Tokushima (Tokushima), Shikoku-chiho, Japan. Nakano, Masaki, Yutaka Hirata, and Masayuki Sekiguchi; Mandara to raigōzu, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1991",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -13248,7 +13248,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/WildensteinCollection",
       "@type": "CorporateName",
-      "comment": "Wildenstein Collection, New York, New York, United States. B\u00e9guin, Sylvie; \u00c9cole de Fontainebleau, Paris: \u00c9ditions d'Art Gonthier-Seghers, 1960",
+      "comment": "Wildenstein Collection, New York, New York, United States. Béguin, Sylvie; École de Fontainebleau, Paris: Éditions d'Art Gonthier-Seghers, 1960",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -13282,7 +13282,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/WittelsbacherAusgleichfonds",
       "@type": "CorporateName",
-      "comment": "Wittelsbacher Ausgleichfonds, Munich, Bavaria, Germany. Zaigai Nihon no shih\u014d (Japanese Art: Selections from Western Collections) v.4, Tokyo: Mainichi Shinbunsha, 1980",
+      "comment": "Wittelsbacher Ausgleichfonds, Munich, Bavaria, Germany. Zaigai Nihon no shihō (Japanese Art: Selections from Western Collections) v.4, Tokyo: Mainichi Shinbunsha, 1980",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -13384,7 +13384,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Yamamotofamily",
       "@type": "CorporateName",
-      "comment": "Yamamoto family, Kobe (Hyogo), Kinki, Japan. Yamane, Y\u016bz\u014d; F\u016bzokuga to Ukiyoe shi (Genshoku Nihon no Bijutsu, v.24), 1971",
+      "comment": "Yamamoto family, Kobe (Hyogo), Kinki, Japan. Yamane, Yūzō; Fūzokuga to Ukiyoe shi (Genshoku Nihon no Bijutsu, v.24), 1971",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -13418,7 +13418,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/YamataneMuseumofArt",
       "@type": "CorporateName",
-      "comment": "Yamatane Museum of Art, Tokyo (Tokyo), Kanto, Japan. Takashina, Shuji, Tetsuro Kagesato and Hideo Tanaka; Y\u014dga to Nihonga, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
+      "comment": "Yamatane Museum of Art, Tokyo (Tokyo), Kanto, Japan. Takashina, Shuji, Tetsuro Kagesato and Hideo Tanaka; Yōga to Nihonga, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -13435,7 +13435,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/YasakaShrine",
       "@type": "CorporateName",
-      "comment": "Yasaka Shrine, Kyoto (Kyoto), Kinki, Japan. \u014cishi, Hidenori; Directory of the Sectarian Shinto Federation and the principal Shinto shrines of Japan, T\u014dky\u014d: Kokusai Sh\u016bky\u014d Kenky\u016bjo, 1957",
+      "comment": "Yasaka Shrine, Kyoto (Kyoto), Kinki, Japan. Ōishi, Hidenori; Directory of the Sectarian Shinto Federation and the principal Shinto shrines of Japan, Tōkyō: Kokusai Shūkyō Kenkyūjo, 1957",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -13469,7 +13469,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/YoshinoMikumaraShrine",
       "@type": "CorporateName",
-      "comment": "Yoshino Mikumara Shrine, Nara (Nara), Kinki, Japan. Mizuno, Keizabur\u014d, Yoshiaki Kud\u014d, and Hisao Miyake; Unkei to Kaikei : Kamakura no kenchiku, ch\u014dkoku, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1991",
+      "comment": "Yoshino Mikumara Shrine, Nara (Nara), Kinki, Japan. Mizuno, Keizaburō, Yoshiaki Kudō, and Hisao Miyake; Unkei to Kaikei : Kamakura no kenchiku, chōkoku, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1991",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -13520,7 +13520,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Yunenji",
       "@type": "CorporateName",
-      "comment": "Yunenji, Nara (Nara), Kinki, Japan. Mizuno, Keizabur\u014d, Toshifumi Konno, and Kakichi Suzuki; Mikky\u014d jiin to butsuz\u014d, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
+      "comment": "Yunenji, Nara (Nara), Kinki, Japan. Mizuno, Keizaburō, Toshifumi Konno, and Kakichi Suzuki; Mikkyō jiin to butsuzō, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -13537,7 +13537,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/YushiHachimankoJuhakkain",
       "@type": "CorporateName",
-      "comment": "Yushi Hachimanko Juhakkain, Wakayama, Kinki, Japan. Nakano, Masaki, Yutaka Hirata, and Masayuki Sekiguchi; Mandara to raig\u014dzu, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1991",
+      "comment": "Yushi Hachimanko Juhakkain, Wakayama, Kinki, Japan. Nakano, Masaki, Yutaka Hirata, and Masayuki Sekiguchi; Mandara to raigōzu, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1991",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -13554,7 +13554,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Zaigaji",
       "@type": "CorporateName",
-      "comment": "Zaigaji, Toyokawa (Aichi-ken), Chubu, Japan. Toda, Teisuke and Ry\u016bsuke Asami; Zensh\u016b jiin to teien : Nanbokuch\u014d, Muromachi no kenchiku ch\u014dkoku k\u014dgei, Nihon Bijutsu Zenshu",
+      "comment": "Zaigaji, Toyokawa (Aichi-ken), Chubu, Japan. Toda, Teisuke and Ryūsuke Asami; Zenshū jiin to teien : Nanbokuchō, Muromachi no kenchiku chōkoku kōgei, Nihon Bijutsu Zenshu",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -13571,7 +13571,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Zenrinji",
       "@type": "CorporateName",
-      "comment": "Zenrinji, Kyoto (Kyoto), Kinki, Japan. Nakano, Masaki, Yutaka Hirata, and Masayuki Sekiguchi; Mandara to raig\u014dzu, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1991",
+      "comment": "Zenrinji, Kyoto (Kyoto), Kinki, Japan. Nakano, Masaki, Yutaka Hirata, and Masayuki Sekiguchi; Mandara to raigōzu, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1991",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -13639,7 +13639,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/repository/Zuirinji",
       "@type": "CorporateName",
-      "comment": "Zuirinji, Shizuoka (Shizuoka-ken), Chubu, Japan. Mizuno, Keizabur\u014d, Yoshiaki Kud\u014d, and Hisao Miyake; Unkei to Kaikei : Kamakura no kenchiku, ch\u014dkoku, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1991",
+      "comment": "Zuirinji, Shizuoka (Shizuoka-ken), Chubu, Japan. Mizuno, Keizaburō, Yoshiaki Kudō, and Hisao Miyake; Unkei to Kaikei : Kamakura no kenchiku, chōkoku, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1991",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -13956,6 +13956,25 @@
       "modified": {
         "@type": "date",
         "@value": "2015-02-02"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/repository/ArkansasStateUniversityArchivesandSpecialCollections",
+      "@type": "CorporateName",
+      "additionalName": "Arkansas State University. Archives and Special Collections",
+      "comment": "From: Weisse, Julie. Corazon de Dixie.",
+      "date": "1997-",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-06-04"
+      },
+      "label": "Arkansas State University. Archives & Special Collections",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-06-04"
       }
     },
     {

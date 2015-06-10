@@ -83604,7 +83604,58 @@
         "@type": "date",
         "@value": "2014-10-08"
       }
-	
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/subject/ChicanoCulturalCenter",
+        "@type": "Topic",
+        "comment": "",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-06-02"
+        },
+        "label": "Chicano Cultural Center",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-06-02"
+        }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/subject/CanodelCastilloA",
+      "@type": "PersonalName",
+      "comment": "From: Weisse, Julie. Corazon de Dixie. Mexican Consul, Arkansas",
+      "date": "active ca. 1951",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-06-03"
+      },
+      "label": "Cano del Castillo, A.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-06-03"
+      }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/subject/WhitneyYoungLearningCenter",
+        "@type": "Topic",
+		"comment": "",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-06-02"
+        },
+        "label": "Whitney Young Learning Center",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-06-02"
+        }
     }
   ]
 }
