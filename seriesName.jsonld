@@ -1065,6 +1065,246 @@
       }
     },
     {
+      "@id": "http://opaquenamespace.org/ns/seriesName/RojasDonMisaeltestimony",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-06-12"
+      },
+      "label": "Rojas, Don Misael, testimony",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-06-12"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/seriesName/BroadyJamieTestimony",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-06-12"
+      },
+      "label": "Broady, Jamie, Testimony",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-06-12"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/seriesName/MendozaJanettestimony",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-06-12"
+      },
+      "label": "Mendoza, Janet, testimony",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-06-12"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/seriesName/MirandaKatzAndresArieltestimony",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-06-12"
+      },
+      "label": "Miranda-Katz, Andres Ariel, testimony",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-06-12"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/seriesName/TorreyJilltestimony",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-06-12"
+      },
+      "label": "Torrey, Jill, testimony",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-06-12"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/seriesName/VallejoLeotestimony",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-06-12"
+      },
+      "label": "Vallejo, Leo, testimony",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-06-12"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/seriesName/LaraJaviertestimony",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-06-12"
+      },
+      "label": "Lara, Javier, testimony",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-06-12"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/seriesName/MercadoJeffreytestimony",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-06-12"
+      },
+      "label": "Mercado, Jeffrey, testimony",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-06-12"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/seriesName/SanchezGabrieltestimony",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-06-12"
+      },
+      "label": "Sanchez, Gabriel, testimony",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-06-12"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/seriesName/SotoLidianatestimony",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-06-12"
+      },
+      "label": "Soto, Lidiana, testimony",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-06-12"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/seriesName/GarciaGerardoHerreratestimony",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-06-12"
+      },
+      "label": "Garcia, Gerardo Herrera, testimony",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-06-12"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/seriesName/CamarenaRosatestimony",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-06-12"
+      },
+      "label": "Camarena, Rosa, testimony, testimony",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-06-12"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/seriesName/GutierrezBlancatestimony",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-06-12"
+      },
+      "label": "Gutierrez, Blanca, testimony",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-06-12"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/seriesName/MoralesDagobertotestimony",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-06-12"
+      },
+      "label": "Morales, Dagoberto, testimony",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-06-12"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/seriesName/IzzaPortertestimony",
+      "@type": "Topic",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-06-12"
+      },
+      "label": "Izza Porter, testimony",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-06-12"
+      }
+    },
+    {
       "@id": "http://opaquenamespace.org/ns/seriesName/WomeninColor",
       "@type": "Topic",
       "definedBy": {
