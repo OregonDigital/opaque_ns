@@ -27759,6 +27759,42 @@
         "@type": "date",
         "@value": "2015-05-28"
       }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/localCollectionName/pub_010-13c",
+      "@type": "Concept",
+      "comment": "Collection in Special Collections & Archives Research Center, Oregon State University Libraries.",
+      "date": "active 2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-06-15"
+      },
+      "label": "Orange Owl, 1920-1928 (PUB 10-13c)",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-06-15"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/localCollectionName/pub_488",
+      "@type": "Concept",
+      "comment": "Collection in Special Collections & Archives Research Center, Oregon State University Libraries.",
+      "date": "active 2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-06-15"
+      },
+      "label": "Illustrated Booklets (PUB 488)",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-06-15"
+      }
     }
   ]
 }
