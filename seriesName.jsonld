@@ -1065,6 +1065,326 @@
       }
     },
     {
+        "@id": "http://opaquenamespace.org/ns/seriesName/FranciscoLopeztestimony",
+        "@type": "Topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-06-22"
+        },
+        "label": "Francisco López, testimony",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-06-22"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/seriesName/EdgarOrtegatestimony",
+        "@type": "Topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-06-22"
+        },
+        "label": "Edgar Ortega, testimony",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-06-22"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/seriesName/AlfredoGarciastestimony",
+        "@type": "Topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-06-22"
+        },
+        "label": "Alfredo Garcias, testimony",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-06-22"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/seriesName/EmilianaAguilartestimony",
+        "@type": "Topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-06-22"
+        },
+        "label": "Emiliana Aguilar, testimony",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-06-22"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/seriesName/JavierMagallarestestimony",
+        "@type": "Topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-06-22"
+        },
+        "label": "Javier Magallares, testimony",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-06-22"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/seriesName/AlaiReyesSantestestimony",
+        "@type": "Topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-06-22"
+        },
+        "label": "Alai Reyes-Santes, testimony",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-06-22"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/seriesName/RosaJuliaMatiasRuiztestimony",
+        "@type": "Topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-06-22"
+        },
+        "label": "Rosa Julia Matías Ruiz, testimony",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-06-22"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/seriesName/JoseContrerastestimony",
+        "@type": "Topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-06-22"
+        },
+        "label": "Jose Contreras, testimony",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-06-22"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/seriesName/KarenRamirezGutierreztestimony",
+        "@type": "Topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-06-22"
+        },
+        "label": "Karen Ramirez Gutierrez, testimony",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-06-22"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/seriesName/JorgeMarroquintestimony",
+        "@type": "Topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-06-22"
+        },
+        "label": "Jorge Marroquin, testimony",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-06-22"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/seriesName/CarlosEnriqueMarqueztestimony",
+        "@type": "Topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-06-22"
+        },
+        "label": "Carlos Enrique Marquez, testimony",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-06-22"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/seriesName/MarthaGuembestestimony",
+        "@type": "Topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-06-22"
+        },
+        "label": "Martha Guembes, testimony",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-06-22"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/seriesName/JesusArneyLeonMonsalveNeyotestimony",
+        "@type": "Topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-06-22"
+        },
+        "label": "Jesus Arney Leon Monsalve (Neyo), testimony",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-06-22"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/seriesName/PedroLanderostestimony",
+        "@type": "Topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-06-22"
+        },
+        "label": "Pedro Landeros, testimony",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-06-22"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/seriesName/GustavoPresidentetestimony",
+        "@type": "Topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-06-22"
+        },
+        "label": "Gustavo Presidente, testimony",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-06-22"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/seriesName/CarmenXiomaraUrbinaCariastestimony",
+        "@type": "Topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-06-22"
+        },
+        "label": "Carmen Xiomara Urbina Carias, testimony",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-06-22"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/seriesName/JoseVelazqueztestimony",
+        "@type": "Topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-06-22"
+        },
+        "label": "Jose Velazquez, testimony",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-06-22"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/seriesName/MirnaMatiastestimony",
+        "@type": "Topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-06-22"
+        },
+        "label": "Mirna Matías, testimony",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-06-22"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/seriesName/RichardVelazqueztestimony",
+        "@type": "Topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-06-22"
+        },
+        "label": "Richard Velazquez, testimony",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-06-22"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/seriesName/JudyLanderostestimony",
+        "@type": "Topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-06-22"
+        },
+        "label": "Judy Landeros, testimony",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-06-22"
+        }
+    },
+    {
       "@id": "http://opaquenamespace.org/ns/seriesName/WomeninColor",
       "@type": "Topic",
       "definedBy": {
