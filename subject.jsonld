@@ -83641,6 +83641,57 @@
       }
     },
     {
+      "@id": "http://opaquenamespace.org/ns/subject/ChaisesLongues",
+      "@type": "Topic",
+      "comment": "From Art & Architecture Images",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-06-23"
+      },
+      "label": "Chaises Longues",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-06-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/subject/Creationmyths",
+      "@type": "Topic",
+      "comment": "From Art & Architecture Images",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-06-23"
+      },
+      "label": "Creation myths",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-06-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/subject/Modernization",
+      "@type": "Topic",
+      "comment": "From Art & Architecture Images",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-06-23"
+      },
+      "label": "Modernization",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-06-23"
+      }
+    },
+    {
         "@id": "http://opaquenamespace.org/ns/subject/WhitneyYoungLearningCenter",
         "@type": "Topic",
 		"comment": "",
