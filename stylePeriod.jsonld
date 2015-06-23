@@ -2910,6 +2910,550 @@
       }
     },
     {
+      "@id": "http://opaquenamespace.org/ns/stylePeriod/BarbotineStyle",
+      "@type": "Concept",
+      "comment": "Substitute for a British Museum Term, for Art & Architecture Images",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-06-23"
+      },
+      "label": "Barbotine Style",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-06-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/stylePeriod/BroneerTypeXXI",
+      "@type": "Concept",
+      "comment": "Substitute for a British Museum Term, for Art & Architecture Images",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-06-23"
+      },
+      "label": "Broneer Type XXI",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-06-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/stylePeriod/EarlyMinoanIIA",
+      "@type": "Concept",
+      "comment": "Substitute for a British Museum Term, for Art & Architecture Images",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-06-23"
+      },
+      "label": "Early Minoan IIA",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-06-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/stylePeriod/EarlyMinoanIIB",
+      "@type": "Concept",
+      "comment": "Substitute for a British Museum Term, for Art & Architecture Images",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-06-23"
+      },
+      "label": "Early Minoan IIB",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-06-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/stylePeriod/IceAge",
+      "@type": "Concept",
+      "comment": "Substitute for a British Museum Term, for Art & Architecture Images",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-06-23"
+      },
+      "label": "Ice Age",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-06-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/stylePeriod/Italiot",
+      "@type": "Concept",
+      "comment": "Substitute for a British Museum Term, for Art & Architecture Images",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-06-23"
+      },
+      "label": "Italiot",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-06-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/stylePeriod/ItaloGeometric",
+      "@type": "Concept",
+      "comment": "Substitute for a British Museum Term, for Art & Architecture Images",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-06-23"
+      },
+      "label": "Italo-Geometric",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-06-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/stylePeriod/Kalachuri",
+      "@type": "Concept",
+      "comment": "Substitute for a British Museum Term, for Art & Architecture Images",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-06-23"
+      },
+      "label": "Kalachuri",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-06-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/stylePeriod/Kyowa",
+      "@type": "Concept",
+      "comment": "Substitute for a British Museum Term, for Art & Architecture Images",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-06-23"
+      },
+      "label": "Kyowa",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-06-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/stylePeriod/LateGeometricIIA",
+      "@type": "Concept",
+      "comment": "Substitute for a British Museum Term, for Art & Architecture Images",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-06-23"
+      },
+      "label": "Late Geometric IIA",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-06-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/stylePeriod/LateGeometricIIb",
+      "@type": "Concept",
+      "comment": "Substitute for a British Museum Term, for Art & Architecture Images",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-06-23"
+      },
+      "label": "Late Geometric IIb",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-06-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/stylePeriod/LateHelladicI",
+      "@type": "Concept",
+      "comment": "Substitute for a British Museum Term, for Art & Architecture Images",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-06-23"
+      },
+      "label": "Late Helladic I",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-06-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/stylePeriod/LateHelladicII",
+      "@type": "Concept",
+      "comment": "Substitute for a British Museum Term, for Art & Architecture Images",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-06-23"
+      },
+      "label": "Late Helladic II",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-06-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/stylePeriod/LateHelladicIIA",
+      "@type": "Concept",
+      "comment": "Substitute for a British Museum Term, for Art & Architecture Images",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-06-23"
+      },
+      "label": "Late Helladic IIA",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-06-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/stylePeriod/LateHelladicIII",
+      "@type": "Concept",
+      "comment": "Substitute for a British Museum Term, for Art & Architecture Images",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-06-23"
+      },
+      "label": "Late Helladic III",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-06-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/stylePeriod/LateHelladicIIIA",
+      "@type": "Concept",
+      "comment": "Substitute for a British Museum Term, for Art & Architecture Images",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-06-23"
+      },
+      "label": "Late Helladic IIIA",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-06-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/stylePeriod/LateHelladicIIIB",
+      "@type": "Concept",
+      "comment": "Substitute for a British Museum Term, for Art & Architecture Images",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-06-23"
+      },
+      "label": "Late Helladic IIIB",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-06-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/stylePeriod/LateHelladicIIIC",
+      "@type": "Concept",
+      "comment": "Substitute for a British Museum Term, for Art & Architecture Images",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-06-23"
+      },
+      "label": "Late Helladic IIIC",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-06-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/stylePeriod/LateMinoanIB",
+      "@type": "Concept",
+      "comment": "Substitute for a British Museum Term, for Art & Architecture Images",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-06-23"
+      },
+      "label": "Late Minoan IB",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-06-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/stylePeriod/LateMinoanI",
+      "@type": "Concept",
+      "comment": "Substitute for a British Museum Term, for Art & Architecture Images",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-06-23"
+      },
+      "label": "Late Minoan I",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-06-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/stylePeriod/LateMinoanIA",
+      "@type": "Concept",
+      "comment": "Substitute for a British Museum Term, for Art & Architecture Images",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-06-23"
+      },
+      "label": "Late Minoan IA",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-06-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/stylePeriod/LateMinoanII",
+      "@type": "Concept",
+      "comment": "Substitute for a British Museum Term, for Art & Architecture Images",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-06-23"
+      },
+      "label": "Late Minoan II",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-06-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/stylePeriod/LateMinoanIII",
+      "@type": "Concept",
+      "comment": "Substitute for a British Museum Term, for Art & Architecture Images",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-06-23"
+      },
+      "label": "Late Minoan III",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-06-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/stylePeriod/LateMinoanIIIA",
+      "@type": "Concept",
+      "comment": "Substitute for a British Museum Term, for Art & Architecture Images",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-06-23"
+      },
+      "label": "Late Minoan IIIA",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-06-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/stylePeriod/LateMinoanIIIA2",
+      "@type": "Concept",
+      "comment": "Substitute for a British Museum Term, for Art & Architecture Images",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-06-23"
+      },
+      "label": "Late Minoan IIIA2",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-06-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/stylePeriod/LateMinoanIIIB",
+      "@type": "Concept",
+      "comment": "Substitute for a British Museum Term, for Art & Architecture Images",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-06-23"
+      },
+      "label": "Late Minoan IIIB",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-06-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/stylePeriod/LateUruk",
+      "@type": "Concept",
+      "comment": "Substitute for a British Museum Term, for Art & Architecture Images",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-06-23"
+      },
+      "label": "Late Uruk",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-06-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/stylePeriod/MiddleMinoanIB",
+      "@type": "Concept",
+      "comment": "Substitute for a British Museum Term, for Art & Architecture Images",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-06-23"
+      },
+      "label": "Middle Minoan IB",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-06-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/stylePeriod/MiddleMinoanII",
+      "@type": "Concept",
+      "comment": "Substitute for a British Museum Term, for Art & Architecture Images",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-06-23"
+      },
+      "label": "Middle Minoan II",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-06-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/stylePeriod/MiddleMinoanIIA",
+      "@type": "Concept",
+      "comment": "Substitute for a British Museum Term, for Art & Architecture Images",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-06-23"
+      },
+      "label": "Middle Minoan IIA",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-06-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/stylePeriod/MiddleMinoanIII",
+      "@type": "Concept",
+      "comment": "Substitute for a British Museum Term, for Art & Architecture Images",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-06-23"
+      },
+      "label": "Middle Minoan III",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-06-23"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/stylePeriod/AshtarkhanidJanid",
+      "@type": "Concept",
+      "comment": "Substitute for a British Museum Term, for Art & Architecture Images",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-06-23"
+      },
+      "label": "Ashtarkhanid (Janid)",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-06-23"
+      }
+    },
+    {
       "@id": "http://opaquenamespace.org/ns/stylePeriod/PacificNorthwest",
       "@type": "Concept",
       "comment": "Post-modernist style, especially in architecture, of the Pacific Northwest of the United States. For modernist art and architecture in the Pacific Northwest, use Northwest Regional.",
