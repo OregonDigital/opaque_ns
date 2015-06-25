@@ -62282,6 +62282,70 @@
             "@type": "date",
             "@value": "2015-06-09"
         }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/GiffordBenL",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-06-24"
+        },
+        "label": "Gifford, Ben L.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-06-24"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/GiffordWanda",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-06-24"
+        },
+        "label": "Gifford, Wanda",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-06-24"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/AgerCecilV",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-06-24"
+        },
+        "label": "Ager, Cecil V.",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-06-24"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/people/TinningNels",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-06-24"
+        },
+        "label": "Tinning, Nels",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-06-24"
+        }
     }
   ]
 }
