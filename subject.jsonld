@@ -83692,6 +83692,114 @@
       }
     },
     {
+      "@id": "http://opaquenamespace.org/ns/subject/BestelmeyerGermanJohannGeorg",
+      "@type": "PersonalName",
+      "comment": "From Art & Architecture Images. ULAN http://vocab.getty.edu/ulan/500066005",
+      "date": "1874-1942",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-06-26"
+      },
+      "label": "Bestelmeyer, German Johann Georg",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-06-26"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/subject/MontreuilPierrede",
+      "@type": "PersonalName",
+      "comment": "From Art & Architecture Images. ULAN http://vocab.getty.edu/ulan/500033849",
+      "date": "died 1267",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-06-26"
+      },
+      "label": "Montreuil, Pierre de",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-06-26"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/subject/LeBretonGilles",
+      "@type": "PersonalName",
+      "comment": "From Art & Architecture Images. ULAN http://vocab.getty.edu/ulan/500089255",
+      "date": "born ca. 1500, died ca. 1552",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-06-26"
+      },
+      "label": "Le Breton, Gilles",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-06-26"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/subject/CassavettiZambaccoMarie",
+      "@type": "PersonalName",
+      "comment": "From Art & Architecture Images. ULAN http://vocab.getty.edu/ulan/500113077",
+      "date": "1843-1914",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-06-26"
+      },
+      "label": "Cassavetti-Zambacco, Marie",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-06-26"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/subject/Medicifamily",
+      "@type": "CorporateName",
+      "comment": "From Art & Architecture Images. ULAN http://vocab.getty.edu/ulan/500114961",
+      "date": "15th-18th centuries",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-06-26"
+      },
+      "label": "Medici family",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-06-26"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/subject/PachecoMaximo",
+      "@type": "PersonalName",
+      "comment": "From Art & Architecture Images. ULAN http://vocab.getty.edu/ulan/500160835",
+      "date": "born 1907",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-06-26"
+      },
+      "label": "Pacheco, Maximo",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-06-26"
+      }
+    },
+    {
         "@id": "http://opaquenamespace.org/ns/subject/WhitneyYoungLearningCenter",
         "@type": "Topic",
 		"comment": "",
