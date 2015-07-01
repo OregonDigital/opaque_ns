@@ -20,7 +20,8 @@
     "modified": "http://purl.org/dc/terms/modified",
     "publisher": "http://purl.org/dc/terms/publisher",
     "range": "http://www.w3.org/2000/01/rdf-schema#range",
-    "title": "http://purl.org/dc/terms/title"
+    "title": "http://purl.org/dc/terms/title",
+    "sameAs": "http://www.w3.org/2002/07/owl#sameAs"
   },
   "@graph": [
     {
@@ -83694,7 +83695,8 @@
     {
       "@id": "http://opaquenamespace.org/ns/subject/BestelmeyerGermanJohannGeorg",
       "@type": "PersonalName",
-      "comment": "From Art & Architecture Images. ULAN http://vocab.getty.edu/ulan/500066005",
+      "sameAs": "http://vocab.getty.edu/ulan/500066005",
+      "comment": "From Art & Architecture Images.",
       "date": "1874-1942",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -83712,7 +83714,8 @@
     {
       "@id": "http://opaquenamespace.org/ns/subject/MontreuilPierrede",
       "@type": "PersonalName",
-      "comment": "From Art & Architecture Images. ULAN http://vocab.getty.edu/ulan/500033849",
+      "sameAs": "http://vocab.getty.edu/ulan/500033849",
+      "comment": "From Art & Architecture Images.",
       "date": "died 1267",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -83730,7 +83733,8 @@
     {
       "@id": "http://opaquenamespace.org/ns/subject/LeBretonGilles",
       "@type": "PersonalName",
-      "comment": "From Art & Architecture Images. ULAN http://vocab.getty.edu/ulan/500089255",
+      "sameAs": "http://vocab.getty.edu/ulan/500089255",
+      "comment": "From Art & Architecture Images.",
       "date": "born ca. 1500, died ca. 1552",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -83748,7 +83752,8 @@
     {
       "@id": "http://opaquenamespace.org/ns/subject/CassavettiZambaccoMarie",
       "@type": "PersonalName",
-      "comment": "From Art & Architecture Images. ULAN http://vocab.getty.edu/ulan/500113077",
+      "sameAs": "http://vocab.getty.edu/ulan/500113077",
+      "comment": "From Art & Architecture Images.",
       "date": "1843-1914",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -83766,7 +83771,8 @@
     {
       "@id": "http://opaquenamespace.org/ns/subject/Medicifamily",
       "@type": "CorporateName",
-      "comment": "From Art & Architecture Images. ULAN http://vocab.getty.edu/ulan/500114961",
+      "sameAs": "http://vocab.getty.edu/ulan/500114961",
+      "comment": "From Art & Architecture Images.",
       "date": "15th-18th centuries",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -83784,7 +83790,8 @@
     {
       "@id": "http://opaquenamespace.org/ns/subject/PachecoMaximo",
       "@type": "PersonalName",
-      "comment": "From Art & Architecture Images. ULAN http://vocab.getty.edu/ulan/500160835",
+      "sameAs": "http://vocab.getty.edu/ulan/500160835",
+      "comment": "From Art & Architecture Images.",
       "date": "born 1907",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
