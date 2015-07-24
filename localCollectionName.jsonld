@@ -27795,6 +27795,60 @@
         "@type": "date",
         "@value": "2015-06-15"
       }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/localCollectionName/rg_250",
+      "@type": "Concept",
+      "comment": "Collection in Special Collections & Archives Research Center, Oregon State University Libraries.",
+      "date": "active 2013-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-07-24"
+      },
+      "label": "Difference, Power, and Discrimination Program Records (RG 250)",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-07-24"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/localCollectionName/mss_oes",
+      "@type": "Concept",
+      "comment": "Collection in Special Collections & Archives Research Center, Oregon State University Libraries.",
+      "date": "active 2013-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-07-24"
+      },
+      "label": "Oregon Entomological Society Records (MSS OES)",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-07-24"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/localCollectionName/mss_dorman",
+      "@type": "Concept",
+      "comment": "Collection in Special Collections & Archives Research Center, Oregon State University Libraries.",
+      "date": "active 2013-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-07-24"
+      },
+      "label": "Howard D. Dorman Journal for the Northrup Creek Range Experiment, 1937-1938 (MSS Dorman) ",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-07-24"
+      }
     }
   ]
 }
