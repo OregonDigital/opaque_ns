@@ -83807,6 +83807,162 @@
       }
     },
     {
+      "@id": "http://opaquenamespace.org/ns/subject/JudsonLH",
+      "@type": "PersonalName",
+      "comment": "Possibly Judson, Lewis H. From the Joel Palmer papers.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-04"
+      },
+      "label": "Judson, L. H.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-04"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/subject/WrightBenjamin",
+      "@type": "PersonalName",
+      "comment": "From the Joel Palmer papers.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-04"
+      },
+      "label": "Wright, Benjamin",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-04"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/subject/CulverSamuelH",
+      "@type": "PersonalName",
+      "comment": "From the Joel Palmer papers.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-04"
+      },
+      "label": "Culver, Samuel H.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-04"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/subject/ParrishJL",
+      "@type": "PersonalName",
+      "comment": "Possibly Reverend J. L. Parrish. From the Joel Palmer papers.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-04"
+      },
+      "label": "Parrish, J. L.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-04"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/subject/GearyEdwardR",
+      "@type": "PersonalName",
+      "comment": "From the Joel Palmer papers.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-04"
+      },
+      "label": "Geary, Edward R.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-04"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/subject/CassavettiZambaccoMarie",
+      "@type": "PersonalName",
+      "comment": "From Art and Architecture Images.",
+      "date": "1843-1914",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-04"
+      },
+      "label": "Cassavetti-Zambacco, Marie",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-04"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/subject/DrewEP",
+      "@type": "PersonalName",
+      "comment": "From the Joel Palmer papers.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-04"
+      },
+      "label": "Drew, E. P.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-04"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/subject/ThurmanJohnHHowdy",
+      "@type": "PersonalName",
+      "comment": "From the Corazon de Dixie collection.",
+      "date": "ca. 1926-",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-04"
+      },
+      "label": "Thurman, John H. 'Howdy'",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-04"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/subject/ThurmanMaryAnn",
+      "@type": "PersonalName",
+      "comment": "From the Corazon de Dixie collection.",
+      "date": "ca. 1929-",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-04"
+      },
+      "label": "Thurman, Mary Ann",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-04"
+      }
+    },
+    {
         "@id": "http://opaquenamespace.org/ns/subject/WhitneyYoungLearningCenter",
         "@type": "Topic",
 		"comment": "",
