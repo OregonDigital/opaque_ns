@@ -62332,6 +62332,23 @@
         }
     },
     {
+      "@id": "http://opaquenamespace.org/ns/people/MulkeyFelicia",
+      "@type": "PersonalName",
+      "comment": "Former head coach, Acrobatics and Tumbling, University of Oregon, 2009-2014.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-04"
+      },
+      "label": "Mulkey, Felicia",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-04"
+      }
+    },
+    {
         "@id": "http://opaquenamespace.org/ns/people/TinningNels",
         "@type": "PersonalName",
         "definedBy": {
