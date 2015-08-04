@@ -13978,6 +13978,40 @@
       }
     },
     {
+      "@id": "http://opaquenamespace.org/ns/repository/ArchivesoftheCatholicDioceseofJacksonMississippi",
+      "@type": "CorporateName",
+      "comment": "From: Weisse, Julie. Corazon de Dixie.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-04"
+      },
+      "label": "Archives of the Catholic Diocese of Jackson, Mississippi",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-04"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/repository/PapersofHowdyandMaryAnnThurman",
+      "@type": "CorporateName",
+      "comment": "From: Weisse, Julie. Corazon de Dixie.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-04"
+      },
+      "label": "Papers of Howdy and Mary Ann Thurman",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-04"
+      }
+    },
+    {
       "@id": "http://opaquenamespace.org/ns/repository/Zuishinintemple",
       "@type": "CorporateName",
       "comment": "Zuishinin temple, Kyoto (Kyoto), Kinki, Japan. Kobayashi, Tadashi and Hiroyuki Kano; Kano-ha to fuzokuga, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992",
