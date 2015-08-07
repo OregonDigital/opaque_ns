@@ -83963,6 +83963,346 @@
       }
     },
     {
+      "@id": "http://opaquenamespace.org/ns/subject/CookAG",
+      "@type": "PersonalName",
+      "comment": "From the Joel Palmer collection, University of Oregon Special Collections and University Archives, PH206.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-07"
+      },
+      "label": "Cook, A. G.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-07"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/subject/CareyWesley",
+      "@type": "PersonalName",
+      "comment": "From the Joel Palmer collection, University of Oregon Special Collections and University Archives, PH206.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-07"
+      },
+      "label": "Carey, Wesley",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-07"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/subject/NissGabe",
+      "@type": "PersonalName",
+      "comment": "From the Joel Palmer collection, University of Oregon Special Collections and University Archives, PH206.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-07"
+      },
+      "label": "Niss, Gabe",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-07"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/subject/WelchHoratioH",
+      "@type": "PersonalName",
+      "comment": "From the Joel Palmer collection, University of Oregon Special Collections and University Archives, PH206.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-07"
+      },
+      "label": "Welch, Horatio H.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-07"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/subject/Borley",
+      "@type": "PersonalName",
+      "comment": "From the Joel Palmer collection, University of Oregon Special Collections and University Archives, PH206.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-07"
+      },
+      "label": "Borley",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-07"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/subject/CareyGeorge",
+      "@type": "PersonalName",
+      "comment": "From the Joel Palmer collection, University of Oregon Special Collections and University Archives, PH206.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-07"
+      },
+      "label": "Carey, George",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-07"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/subject/KoundsMattie",
+      "@type": "PersonalName",
+      "comment": "From the Joel Palmer collection, University of Oregon Special Collections and University Archives, PH206.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-07"
+      },
+      "label": "Kounds, Mattie",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-07"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/subject/GriffinYam",
+      "@type": "PersonalName",
+      "comment": "From the Joel Palmer collection, University of Oregon Special Collections and University Archives, PH206.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-07"
+      },
+      "label": "Griffin, Yam",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-07"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/subject/MannJoseph",
+      "@type": "PersonalName",
+      "comment": "From the Joel Palmer collection, University of Oregon Special Collections and University Archives, PH206.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-07"
+      },
+      "label": "Mann, Joseph",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-07"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/subject/PearsonFrank",
+      "@type": "PersonalName",
+      "comment": "From the Joel Palmer collection, University of Oregon Special Collections and University Archives, PH206.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-07"
+      },
+      "label": "Pearson, Frank",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-07"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/subject/SmithAndrew",
+      "@type": "PersonalName",
+      "comment": "From the Joel Palmer collection, University of Oregon Special Collections and University Archives, PH206.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-07"
+      },
+      "label": "Smith, Andrew",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-07"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/subject/Waler",
+      "@type": "PersonalName",
+      "comment": "Reverend Waler. From the Joel Palmer collection, University of Oregon Special Collections and University Archives, PH206.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-07"
+      },
+      "label": "Waler",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-07"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/subject/BoiseFrankie",
+      "@type": "PersonalName",
+      "comment": "From the Joel Palmer collection, University of Oregon Special Collections and University Archives, PH206.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-07"
+      },
+      "label": "Boise, Frankie",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-07"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/subject/PhillipsGeorge",
+      "@type": "PersonalName",
+      "comment": "From the Joel Palmer collection, University of Oregon Special Collections and University Archives, PH206.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-07"
+      },
+      "label": "Phillips, George",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-07"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/subject/GeerRalf",
+      "@type": "PersonalName",
+      "comment": "From the Joel Palmer collection, University of Oregon Special Collections and University Archives, PH206.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-07"
+      },
+      "label": "Geer, Ralf",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-07"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/subject/LirseBill",
+      "@type": "PersonalName",
+      "comment": "From the Joel Palmer collection, University of Oregon Special Collections and University Archives, PH206.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-07"
+      },
+      "label": "Lirse, Bill",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-07"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/subject/Hewitt",
+      "@type": "PersonalName",
+      "comment": "From the Joel Palmer collection, University of Oregon Special Collections and University Archives, PH206.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-07"
+      },
+      "label": "Hewitt",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-07"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/subject/JacobsCyrus",
+      "@type": "PersonalName",
+      "comment": "From the Joel Palmer collection, University of Oregon Special Collections and University Archives, PH206.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-07"
+      },
+      "label": "Jacobs, Cyrus",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-07"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/subject/Meade",
+      "@type": "PersonalName",
+      "comment": "From the Joel Palmer collection, University of Oregon Special Collections and University Archives, PH206.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-07"
+      },
+      "label": "Meade",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-07"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/subject/RobinsonNoahPJr",
+      "@type": "PersonalName",
+      "comment": "From the Joel Palmer collection, University of Oregon Special Collections and University Archives, PH206.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-07"
+      },
+      "label": "Robinson, Noah P., Jr.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-07"
+      }
+    },
+    {
         "@id": "http://opaquenamespace.org/ns/subject/WhitneyYoungLearningCenter",
         "@type": "Topic",
 		"comment": "",
