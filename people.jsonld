@@ -62332,6 +62332,822 @@
       }
     },
     {
+      "@id": "http://opaquenamespace.org/ns/people/GillSumeet",
+      "@type": "PersonalName",
+      "comment": "UO Volleyball, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      },
+      "label": "Gill, Sumeet",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/LaPierreRoniE",
+      "@type": "PersonalName",
+      "comment": "UO Volleyball, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      },
+      "label": "LaPierre, Roni E.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/McLarenHaleyN",
+      "@type": "PersonalName",
+      "comment": "UO Volleyball, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      },
+      "label": "McLaren, Haley N.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/PageLaurenY",
+      "@type": "PersonalName",
+      "comment": "UO Volleyball, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      },
+      "label": "Page, Lauren Y.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/RaskieAugustL",
+      "@type": "PersonalName",
+      "comment": "UO Volleyball, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      },
+      "label": "Raskie, August L.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/VanderWeideLindseyM",
+      "@type": "PersonalName",
+      "comment": "UO Volleyball, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      },
+      "label": "Vander Weide, Lindsey M.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/ParsonsBrianneJ",
+      "@type": "PersonalName",
+      "comment": "UO Women's Soccer, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      },
+      "label": "Parsons, Brianne J.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/BrunerBayley",
+      "@type": "PersonalName",
+      "comment": "UO Women's Soccer, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      },
+      "label": "Bruner, Bayley",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/ChambersSofiaE",
+      "@type": "PersonalName",
+      "comment": "UO Women's Soccer, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      },
+      "label": "Chambers, Sofia E.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/CostaMiaN",
+      "@type": "PersonalName",
+      "comment": "UO Women's Soccer, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      },
+      "label": "Costa, Mia N.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/EverettMarissaV",
+      "@type": "PersonalName",
+      "comment": "UO Women's Soccer, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      },
+      "label": "Everett, Marissa V.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/FawcettKyraJ",
+      "@type": "PersonalName",
+      "comment": "UO Women's Soccer, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      },
+      "label": "Fawcett, Kyra J.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/KurodaTaylorA",
+      "@type": "PersonalName",
+      "comment": "UO Women's Soccer, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      },
+      "label": "Kuroda, Taylor A.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/MarkhamMalikaR",
+      "@type": "PersonalName",
+      "comment": "UO Women's Soccer, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      },
+      "label": "Markham, Malika R.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/SponaugleGraceA",
+      "@type": "PersonalName",
+      "comment": "UO Women's Soccer, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      },
+      "label": "Sponaugle, Grace A.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/WilsonHannahC",
+      "@type": "PersonalName",
+      "comment": "UO Women's Soccer, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      },
+      "label": "Wilson, Hannah C.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/AielloBradyE",
+      "@type": "PersonalName",
+      "comment": "UO Football, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      },
+      "label": "Aiello, Brady E.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/AmadiUgoC",
+      "@type": "PersonalName",
+      "comment": "UO Football, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      },
+      "label": "Amadi, Ugo C.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/BakerGaryJ",
+      "@type": "PersonalName",
+      "comment": "UO Football, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      },
+      "label": "Baker, Gary J.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/BostickParisN",
+      "@type": "PersonalName",
+      "comment": "UO Football, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      },
+      "label": "Bostick, Paris N.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/BreelandJacobWJake",
+      "@type": "PersonalName",
+      "comment": "UO Football, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      },
+      "label": "Breeland, Jacob W. 'Jake'",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/BrennerDouglasJDoug",
+      "@type": "PersonalName",
+      "comment": "UO Football, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      },
+      "label": "Brenner, Douglas J. 'Doug'",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/CarlbergDraytonLDray",
+      "@type": "PersonalName",
+      "comment": "UO Football, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      },
+      "label": "Carlberg, Drayton L. 'Dray'",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/CumberlanderGusL",
+      "@type": "PersonalName",
+      "comment": "UO Football, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      },
+      "label": "Cumberlander, Gus L.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/DanielsReggieL",
+      "@type": "PersonalName",
+      "comment": "UO Football, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      },
+      "label": "Daniels, Reggie L.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/DaviesTannerT",
+      "@type": "PersonalName",
+      "comment": "UO Football, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      },
+      "label": "Davies, Tanner T.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/GriffinTaj",
+      "@type": "PersonalName",
+      "comment": "UO Football, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      },
+      "label": "Griffin, Taj",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/HansonJakeS",
+      "@type": "PersonalName",
+      "comment": "UO Football, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      },
+      "label": "Hanson, Jake S.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/HegartyMatthewVMatt",
+      "@type": "PersonalName",
+      "comment": "UO Football, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      },
+      "label": "Hegarty, Matthew V. 'Matt'",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/JonesJJ",
+      "@type": "PersonalName",
+      "comment": "UO Football, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      },
+      "label": "Jones, J. J.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/JonsenTravisZ",
+      "@type": "PersonalName",
+      "comment": "UO Football, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      },
+      "label": "Jonsen, Travis Z.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/KaaiKoaK",
+      "@type": "PersonalName",
+      "comment": "UO Football, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      },
+      "label": "Ka'ai, Koa K.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/KaneDylanJ",
+      "@type": "PersonalName",
+      "comment": "UO Football, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      },
+      "label": "Kane, Dylan J.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/KaumatuleCantonBourke",
+      "@type": "PersonalName",
+      "comment": "UO Football, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      },
+      "label": "Kaumatule, Canton Bourke",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/LeiatoFotuT",
+      "@type": "PersonalName",
+      "comment": "UO Football, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      },
+      "label": "Leiato, Fotu T.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/LemieuxShaneA",
+      "@type": "PersonalName",
+      "comment": "UO Football, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      },
+      "label": "Lemieux, Shane A.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/LovetteMalikA",
+      "@type": "PersonalName",
+      "comment": "UO Football, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      },
+      "label": "Lovette, Malik A.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/MadayChayceJ",
+      "@type": "PersonalName",
+      "comment": "UO Football, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      },
+      "label": "Maday, Chayce J.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/ManuRexK",
+      "@type": "PersonalName",
+      "comment": "UO Football, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      },
+      "label": "Manu, Rex K.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/McDowellDeQuanM",
+      "@type": "PersonalName",
+      "comment": "UO Football, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      },
+      "label": "McDowell, De'Quan M.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/MerrittKirkJ",
+      "@type": "PersonalName",
+      "comment": "UO Football, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      },
+      "label": "Merritt, Kirk J.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/OfodileAlexJ",
+      "@type": "PersonalName",
+      "comment": "UO Football, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      },
+      "label": "Ofodile, Alex J.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/OkunZachW",
+      "@type": "PersonalName",
+      "comment": "UO Football, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      },
+      "label": "Okun, Zach W.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/ReidTyler",
+      "@type": "PersonalName",
+      "comment": "UO Football, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      },
+      "label": "Reid, Tyler",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/StewartJihreeD",
+      "@type": "PersonalName",
+      "comment": "UO Football, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      },
+      "label": "Stewart, Jihree D.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/ThrockmortonCalvinS",
+      "@type": "PersonalName",
+      "comment": "UO Football, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      },
+      "label": "Throckmorton, Calvin S.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/AndersonTanner",
+      "@type": "PersonalName",
+      "comment": "UO Cross Country, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      },
+      "label": "Anderson, Tanner",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/MatonMatthew",
+      "@type": "PersonalName",
+      "comment": "UO Cross Country, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      },
+      "label": "Maton, Matthew",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-12"
+      }
+    },
+    {
         "@id": "http://opaquenamespace.org/ns/people/TinningNels",
         "@type": "PersonalName",
         "definedBy": {
