@@ -999,7 +999,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/seriesName/USOfficeofIndianAffairsOregonSuperintendencyJoelPalmer",
       "@type": "Topic",
-      "comment": "Ax057, Joel Palmer papers, Spcial Collections and University Archives, University of Oregon.",
+      "comment": "Ax057, Joel Palmer papers, Special Collections and University Archives, University of Oregon.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -1016,7 +1016,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/seriesName/VolumesJoelPalmer",
       "@type": "Topic",
-      "comment": "Ax057, Joel Palmer papers, Spcial Collections and University Archives, University of Oregon.",
+      "comment": "Ax057, Joel Palmer papers, Special Collections and University Archives, University of Oregon.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -1033,7 +1033,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/seriesName/ChronologicalFilesJoelPalmer",
       "@type": "Topic",
-      "comment": "Ax057, Joel Palmer papers, Spcial Collections and University Archives, University of Oregon.",
+      "comment": "Ax057, Joel Palmer papers, Special Collections and University Archives, University of Oregon.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -1050,7 +1050,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/seriesName/LettersJoelPalmer",
       "@type": "Topic",
-      "comment": "Ax057, Joel Palmer papers, Spcial Collections and University Archives, University of Oregon.",
+      "comment": "Ax057, Joel Palmer papers, Special Collections and University Archives, University of Oregon.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -1383,6 +1383,108 @@
             "@type": "date",
             "@value": "2015-06-22"
         }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/seriesName/OHSmss114LettersJoelPalmer",
+      "@type": "Topic",
+      "comment": "Mss 114, Joel Palmer papers, Oregon HIstorical Society.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-19"
+      },
+      "label": "Mss 114, Letters",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-19"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/seriesName/OHSmss114JoelPalmer",
+      "@type": "Topic",
+      "comment": "Mss 114, Joel Palmer papers, Oregon HIstorical Society.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-19"
+      },
+      "label": "Mss 114",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-19"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/seriesName/OHSmss1141JoelPalmer",
+      "@type": "Topic",
+      "comment": "Mss 114, Joel Palmer papers, Oregon HIstorical Society.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-19"
+      },
+      "label": "Mss 114-1",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-19"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/seriesName/OHSmss1142JoelPalmer",
+      "@type": "Topic",
+      "comment": "Mss 114, Joel Palmer papers, Oregon HIstorical Society.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-19"
+      },
+      "label": "Mss 114-2",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-19"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/seriesName/OHSmss1143JoelPalmer",
+      "@type": "Topic",
+      "comment": "Mss 114, Joel Palmer papers, Oregon HIstorical Society.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-19"
+      },
+      "label": "Mss 114-3",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-19"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/seriesName/OHSmss1144JoelPalmer",
+      "@type": "Topic",
+      "comment": "Mss 114, Joel Palmer papers, Oregon HIstorical Society.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-19"
+      },
+      "label": "Mss 114-4",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-19"
+      }
     },
     {
       "@id": "http://opaquenamespace.org/ns/seriesName/WomeninColor",
