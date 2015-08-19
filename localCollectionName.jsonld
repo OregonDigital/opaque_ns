@@ -27833,6 +27833,24 @@
       }
     },
     {
+      "@id": "http://opaquenamespace.org/ns/localCollectionName/JSMAMurrayWarnerCollectionofOrientalArt",
+      "@type": "Concept",
+      "comment": "Jordan Schnitzer Museum of Art",
+      "date": "gifted 1921",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-19"
+      },
+      "label": "Murray Warner Collection of Oriental Art",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-19"
+      }
+    },
+    {
       "@id": "http://opaquenamespace.org/ns/localCollectionName/mss_dorman",
       "@type": "Concept",
       "comment": "Collection in Special Collections & Archives Research Center, Oregon State University Libraries.",
