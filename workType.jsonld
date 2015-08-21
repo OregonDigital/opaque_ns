@@ -697,7 +697,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/workType/Altai/balbal",
       "@type": "Concept",
-      "alternateName": "balbals",
+      "alternateName": "Balbals",
       "comment": "Small vertically standing stones in th eMongolian Altai of varying size set into the ground and of tenat considerable dept has sociated with burials and Turkicen closures",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -706,7 +706,7 @@
         "@type": "date",
         "@value": "2014-07-23"
       },
-      "label": "balbal",
+      "label": "Balbal",
       "modified": {
         "@type": "date",
         "@value": "2014-07-23"
@@ -715,7 +715,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/workType/Altai/boulderkhirigsuur",
       "@type": "Concept",
-      "alternateName": "boulder khirigsuurs",
+      "alternateName": "Boulder khirigsuurs",
       "comment": "A boulder khirigsuur is an elaborate Bronze Ageritual or funerary structure in the Mongolian Altai which includes a centralboulder, inplace of a mound, and a round or square surrounding frame. Usually the area between boulder and frame is left open and within it may be rays (radiae) aligned with the cardinal directions or their subdivisions. Small circularal tars are usually found outside the frame on the north, west, and south sides, rarely on the east side.Some khirigsuur have entrances on the east side; many are accompanied by mounds of unknown function.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -724,7 +724,7 @@
         "@type": "date",
         "@value": "2014-07-23"
       },
-      "label": "boulder khirigsuur",
+      "label": "Boulder khirigsuur",
       "modified": {
         "@type": "date",
         "@value": "2014-07-23"
@@ -733,7 +733,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/workType/Altai/circularaltars",
       "@type": "Concept",
-      "alternateName": "circular altar",
+      "alternateName": "Circular altar",
       "comment": "A round structure used for ritual offerings in the Mongolian Altai",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -742,7 +742,7 @@
         "@type": "date",
         "@value": "2014-07-23"
       },
-      "label": "circular altars",
+      "label": "Circular altars",
       "modified": {
         "@type": "date",
         "@value": "2014-07-23"
@@ -751,7 +751,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/workType/Altai/collaredmounds",
       "@type": "Concept",
-      "alternateName": "collared mound",
+      "alternateName": "Collared mound",
       "comment": "Piles of rough mountain stones or smooth river stones, or a combination of the two types, in the Mongolian Altai and ringed with a contrastingly colored stone or with vertical stones of a tooth-like appearance tilted toward the center of the structure. Most mounds are probably funerary in function; that is, they were raised at the time of an individual\u2019s death and to mark that person\u2019s burial. Whether, however, the body was actually placed under the mound or in a burial chamber sunk into the ground, varies according to period and culture",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -760,7 +760,7 @@
         "@type": "date",
         "@value": "2014-07-23"
       },
-      "label": "collared mounds",
+      "label": "Collared mounds",
       "modified": {
         "@type": "date",
         "@value": "2014-07-23"
@@ -769,7 +769,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/workType/Altai/deerstones",
       "@type": "Concept",
-      "alternateName": "deer stone",
+      "alternateName": "Deer stone",
       "comment": "Vertically standing stones in the Mongolian Altai of varying size set into the ground and often at considerable depth with carved decoraton depicting, among many possible elements, stylized and elongated deer on the wide sides of the stone. The function of the stones remains unclear, but they can, on rare occassions, appear within a row of balbal associated with early nomadic burials. Their high narrow faces are almost always oriented to the east.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -778,7 +778,7 @@
         "@type": "date",
         "@value": "2014-07-23"
       },
-      "label": "deer stones",
+      "label": "Deer stones",
       "modified": {
         "@type": "date",
         "@value": "2014-07-23"
@@ -787,7 +787,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/workType/Altai/doublemounds",
       "@type": "Concept",
-      "alternateName": "double mound",
+      "alternateName": "Double mound",
       "comment": "Paired square piles of rough mountain stones or smooth river stones or a combination of the two types in the Mongolian Altai. Most mounds are probably funerary in function; thatis, they were raised at the time of an individual\u2019s death and to mark that person\u2019s burial. Whether, however, the body was actually placed under the mound or in a burial chamber sunk into the ground, varies according to period and culture",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -796,7 +796,7 @@
         "@type": "date",
         "@value": "2014-07-23"
       },
-      "label": "double mounds",
+      "label": "Double mounds",
       "modified": {
         "@type": "date",
         "@value": "2014-07-23"
@@ -805,7 +805,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/workType/Altai/dwellings",
       "@type": "Concept",
-      "alternateName": "dwelling",
+      "alternateName": "Dwelling",
       "comment": "Ancient dwellings in the Altai Mountains of Mongolia take the form of rectangular or rounded patterns laid on the surface of the earth. Their walls are frequently doubled or expressed by lines of small vertical stones; their interiors are broken up as if with rooms and one or two hearths. There is always an entrance on the west and another on the east, the latter often marked by a large, impressive stone. Dwellings are always oriented from east to west. They may occur individually or, more frequently, in considerable numbers. They resemble most closely the pecked imagery of dwellings found in Bronze Age petroglyphs. On the basis of this resemblance, we may conclude that they were funerary in function but not burials, and that they may be assigned to the Bronze Age. Lines of stones are almost always found in association with dwellings. Single or multiple strands of these lines extend from the groups of dwellings down to nearby rivers or up to adjacent ridges. Their function is uncertain, but they must refer to some aspect of the journey of the dead after funerary ceremonies.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -814,7 +814,7 @@
         "@type": "date",
         "@value": "2014-07-23"
       },
-      "label": "dwellings",
+      "label": "Dwellings",
       "modified": {
         "@type": "date",
         "@value": "2014-07-23"
@@ -823,7 +823,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/workType/Altai/enclosures",
       "@type": "Concept",
-      "alternateName": "enclosure",
+      "alternateName": "Enclosure",
       "comment": "A square or rectangular stone structure on the surface of the ground in the Mongolian Altai",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -832,7 +832,7 @@
         "@type": "date",
         "@value": "2014-07-23"
       },
-      "label": "enclosures",
+      "label": "Enclosures",
       "modified": {
         "@type": "date",
         "@value": "2014-07-23"
@@ -841,7 +841,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/workType/Altai/extendedlinearfeatures",
       "@type": "Concept",
-      "alternateName": "lines",
+      "alternateName": "Lines",
       "comment": "Straight lines of stones that extend beyond the frame of a khirigsuur in the Mongolian Altai",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -850,7 +850,7 @@
         "@type": "date",
         "@value": "2014-07-23"
       },
-      "label": "extended linear features",
+      "label": "Extended linear features",
       "modified": {
         "@type": "date",
         "@value": "2014-07-23"
@@ -859,7 +859,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/workType/Altai/falsedeerstones",
       "@type": "Concept",
-      "alternateName": "false deer stone",
+      "alternateName": "False deer stone",
       "comment": "Uncarved or barely carved vertically standing stones in the Mongolian Altai of varying size set in to the ground and often at considerable depth. Their function, like true deer stones, remains unclear. Their high narrow faces are almost always oriented to the east.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -868,7 +868,7 @@
         "@type": "date",
         "@value": "2014-07-23"
       },
-      "label": "false deer stones",
+      "label": "False deer stones",
       "modified": {
         "@type": "date",
         "@value": "2014-07-23"
@@ -877,7 +877,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/workType/Altai/falseimagestones",
       "@type": "Concept",
-      "alternateName": "false image stone",
+      "alternateName": "False image stone",
       "comment": "Simple uncarved or barely carved vertical stones in the Mongolian Altai placed in the same way as true image stones in Turkic Memroials, referring to specific deceased individuals",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -886,7 +886,7 @@
         "@type": "date",
         "@value": "2014-07-23"
       },
-      "label": "false image stones",
+      "label": "False image stones",
       "modified": {
         "@type": "date",
         "@value": "2014-07-23"
@@ -895,7 +895,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/workType/Altai/fourcorneredmounds",
       "@type": "Concept",
-      "alternateName": "four-cornered mound",
+      "alternateName": "Four-cornered mound",
       "comment": "Bronze Age square piles of rough mountain stones or smooth river stones or a combination of the twot ypes in the Mongolian Altai. Most mounds are probably funerary in function; that is, they were raised at the time of an individual\u2019s death and to mark that person\u2019s burial. Whether, however, the body was actually placed under the mound or in a burial chamber sunk into the ground, varies according to period and culture",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -904,7 +904,7 @@
         "@type": "date",
         "@value": "2014-07-23"
       },
-      "label": "four-cornered mounds",
+      "label": "Four-cornered mounds",
       "modified": {
         "@type": "date",
         "@value": "2014-07-23"
@@ -913,7 +913,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/workType/Altai/frames",
       "@type": "Concept",
-      "alternateName": "frame",
+      "alternateName": "Frame",
       "comment": "Stones set in rows of varying shapes encircling a khirigsuur or other monument in the Mongolian Altai",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -922,7 +922,7 @@
         "@type": "date",
         "@value": "2014-07-23"
       },
-      "label": "frames",
+      "label": "Frames",
       "modified": {
         "@type": "date",
         "@value": "2014-07-23"
@@ -931,7 +931,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/workType/Altai/imagestonesBronzeAge",
       "@type": "Concept",
-      "alternateName": "image stone, Bronze Age",
+      "alternateName": "Image stone, Bronze Age",
       "comment": "Bronze Age carved vertical stones placed in Turkic Memorials and referring to specific deceased individuals in the Mongolian Altai",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -940,7 +940,7 @@
         "@type": "date",
         "@value": "2014-07-23"
       },
-      "label": "image stones, Bronze Age",
+      "label": "Image stones, Bronze Age",
       "modified": {
         "@type": "date",
         "@value": "2014-07-23"
@@ -949,7 +949,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/workType/Altai/inscriptions",
       "@type": "Concept",
-      "alternateName": "inscription",
+      "alternateName": "Inscription",
       "comment": "Inscriptions from Bayan Olgiy, in the Mongolian Altai, occur on rock outcroppings, usually together with pecked or engraved imagery. Inscriptions include two primary types: those from the Turkic period and others from the Mongol period. There are a few inscriptions executed in classical Mongolian script and others written in modern Kazakhor Mongolian.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -958,7 +958,7 @@
         "@type": "date",
         "@value": "2014-07-23"
       },
-      "label": "inscriptions",
+      "label": "Inscriptions",
       "modified": {
         "@type": "date",
         "@value": "2014-07-23"
@@ -967,7 +967,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/workType/Altai/keyholemounds",
       "@type": "Concept",
-      "alternateName": "key-hole mound",
+      "alternateName": "Key-hole mound",
       "comment": "Pile of rough mountain stones or smooth river stones, or a combination of the two types, in the shape of a keyhole in the Mongolian Altai. Most mounds are probably funerary in function; that they were raised at the time of an individual\u2019s death and to mark that person\u2019s burial. Whether, however, the body was actually placed under the mound or in  a burial chamber sunk into the ground, varies according to period and culture",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -976,7 +976,7 @@
         "@type": "date",
         "@value": "2014-07-23"
       },
-      "label": "key-hole mounds",
+      "label": "Key-hole mounds",
       "modified": {
         "@type": "date",
         "@value": "2014-07-23"
@@ -985,7 +985,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/workType/Altai/khirigsuur",
       "@type": "Concept",
-      "alternateName": "khirigsuurs",
+      "alternateName": "Khirigsuurs",
       "comment": "Elaborate Bronze Age ritual or funerary structures in the Mongolian Altai including a central mound and a round or square surrounding frame. Usually the area between mound and frame is left open and within it may be rays (radiae) aligned wit the cardinal directions or their subdivisions. Small circular altars are usually found outside the frame on the north, west, and south sides, rarely on the east side. Some khirigsuur have entrances on the east side; many are accompanied by mounds of unknown function.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -994,7 +994,7 @@
         "@type": "date",
         "@value": "2014-07-23"
       },
-      "label": "khirigsuur",
+      "label": "Khirigsuur",
       "modified": {
         "@type": "date",
         "@value": "2014-07-23"
@@ -1003,7 +1003,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/workType/Altai/largecircles",
       "@type": "Concept",
-      "alternateName": "large circle",
+      "alternateName": "Large circle",
       "comment": "Larg estone circles that appear on terraces of ridges, alone or in pairs in the Mongolian Altai. Their function is uncertain",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -1012,7 +1012,7 @@
         "@type": "date",
         "@value": "2014-07-23"
       },
-      "label": "large circles",
+      "label": "Large circles",
       "modified": {
         "@type": "date",
         "@value": "2014-07-23"
@@ -1021,7 +1021,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/workType/Altai/massivestandingstones",
       "@type": "Concept",
-      "alternateName": "massive standing stone",
+      "alternateName": "Massive standing stone",
       "comment": "MassivestonesstandingverticallyofvaryingsizesetintothegroundandoftenatconsiderabledepthintheMongolianAltai",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -1030,7 +1030,7 @@
         "@type": "date",
         "@value": "2014-07-23"
       },
-      "label": "massive standing stones",
+      "label": "Massive standing stones",
       "modified": {
         "@type": "date",
         "@value": "2014-07-23"
@@ -1039,7 +1039,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/workType/Altai/moderngraves",
       "@type": "Concept",
-      "alternateName": "modern grave",
+      "alternateName": "Modern grave",
       "comment": "BurialsintheMongolianAltaiestablishedinthe1000yearspreceedingpresentday",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -1048,7 +1048,7 @@
         "@type": "date",
         "@value": "2014-07-23"
       },
-      "label": "modern graves",
+      "label": "Modern graves",
       "modified": {
         "@type": "date",
         "@value": "2014-07-23"
@@ -1057,7 +1057,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/workType/Altai/moundsunknownuse",
       "@type": "Concept",
-      "alternateName": "mound-unknown use",
+      "alternateName": "Mound-unknown use",
       "comment": "Large piles of rough mountain stones or smooth river stones, or a combination of the two types, of unknown use in the Mongolian Altai",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -1066,7 +1066,7 @@
         "@type": "date",
         "@value": "2014-07-23"
       },
-      "label": "mounds-unknown use",
+      "label": "Mounds-unknown use",
       "modified": {
         "@type": "date",
         "@value": "2014-07-23"
@@ -1075,7 +1075,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/workType/Altai/ovoooboo",
       "@type": "Concept",
-      "alternateName": "ovoos/oboos",
+      "alternateName": "Ovoos/Oboos",
       "comment": "A modern-day altar in the Mongolian Altai, usually of piled stones, found ubiquitously on ridges, passes, and at difficult crossings. An ovoo is raised over a period of many years or generations in honor of the indwelling spirit of the mountain, river, or spring where it appears. In modern times travelers charcteristcally indicate their gratitude for a safe journey by adding a stone or other object to the pile.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -1084,7 +1084,7 @@
         "@type": "date",
         "@value": "2014-07-23"
       },
-      "label": "ovoo/oboo",
+      "label": "Ovoo/Oboo",
       "modified": {
         "@type": "date",
         "@value": "2014-07-23"
@@ -1093,7 +1093,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/workType/Altai/periodoverlays",
       "@type": "Concept",
-      "alternateName": "period overlay",
+      "alternateName": "Period overlay",
       "comment": "Accrued additions to a monument, site or complex in the Mongolian Altai",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -1102,7 +1102,7 @@
         "@type": "date",
         "@value": "2014-07-23"
       },
-      "label": "period overlays",
+      "label": "Period overlays",
       "modified": {
         "@type": "date",
         "@value": "2014-07-23"
@@ -1111,7 +1111,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/workType/Altai/petroglyphs",
       "@type": "Concept",
-      "alternateName": "petroglyph",
+      "alternateName": "Petroglyph",
       "comment": "Within the Mongolian Altai, all open-air petroglyphic imagery surviving from the pre-Modern period is engraved, scratched, gouged or pecked into the surface of bedrock or boulders; for this reason, this imagery is referred to as petroglyphic rather than pictographic. Petroglyphs are represented by single images or by compositions of two or more images up to several hundred motifs.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -1120,7 +1120,7 @@
         "@type": "date",
         "@value": "2014-07-23"
       },
-      "label": "petroglyphs",
+      "label": "Petroglyphs",
       "modified": {
         "@type": "date",
         "@value": "2014-07-23"
@@ -1129,7 +1129,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/workType/Altai/platformkhirigsuur",
       "@type": "Concept",
-      "alternateName": "platform khirigsuurs",
+      "alternateName": "Platform khirigsuurs",
       "comment": "An elaborate Bronze Age ritual or funerary structure in the Mongolian Altai including a central mound that extends to the surrounding wall in a kind of pavement and a round or square surrounding frame. The area between mound and frame may be left open and within it may be rays (radiae) aligned with the cardinal directions or their subdivisions. Small circular altars are usually found outside the frame on the north, west, and south sides, rarely on the east side. Some khirigsuur have entrances on the east side; many are accompanied by mounds of unknown function.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -1138,7 +1138,7 @@
         "@type": "date",
         "@value": "2014-07-23"
       },
-      "label": "platform khirigsuur",
+      "label": "Platform khirigsuur",
       "modified": {
         "@type": "date",
         "@value": "2014-07-23"
@@ -1147,7 +1147,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/workType/Altai/rays",
       "@type": "Concept",
-      "alternateName": "ray",
+      "alternateName": "Ray",
       "comment": "Straight lines of stones located within khirigsuur in the Mongolian Altai",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -1156,7 +1156,7 @@
         "@type": "date",
         "@value": "2014-07-23"
       },
-      "label": "rays",
+      "label": "Rays",
       "modified": {
         "@type": "date",
         "@value": "2014-07-23"
@@ -1165,7 +1165,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/workType/Altai/rectangularmounds",
       "@type": "Concept",
-      "alternateName": "rectangula rmound",
+      "alternateName": "Rectangula rmound",
       "comment": "Rectangular piles of rough mountain stones or smooth rivers tones, or a combination of the two types, in the Mongolian Altai. Most mounds are probably funerary in function; thatis, they were raised at the time of an individual\u2019s death and to mark that person\u2019s burial. Whether, however, the body was actually placed under the mound or in a burial chamber sunk into the ground, varies according to period and culture",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -1174,7 +1174,7 @@
         "@type": "date",
         "@value": "2014-07-23"
       },
-      "label": "rectangular mounds",
+      "label": "Rectangular mounds",
       "modified": {
         "@type": "date",
         "@value": "2014-07-23"
@@ -1183,7 +1183,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/workType/Altai/ritualmounds",
       "@type": "Concept",
-      "alternateName": "ritual mound",
+      "alternateName": "Ritual mound",
       "comment": "Piles of rough mountain stones or smooth river stones, or a combination of the two types, serving a ritual function in the Mongolian Altai. Most mounds are probably funerary in function; thatis, they were raised at the time of an individual\u2019s death and to mark that person\u2019s burial. Whether, however, the body was actually placed under the mound or in a burial chamber sunk into the ground, varies according to period and culture",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -1192,7 +1192,7 @@
         "@type": "date",
         "@value": "2014-07-23"
       },
-      "label": "ritual mounds",
+      "label": "Ritual mounds",
       "modified": {
         "@type": "date",
         "@value": "2014-07-23"
@@ -1201,7 +1201,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/workType/Altai/ritualsites",
       "@type": "Concept",
-      "alternateName": "ritual site",
+      "alternateName": "Ritual site",
       "comment": "A site where rituals were performed in the Mongolian Altai",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -1210,7 +1210,7 @@
         "@type": "date",
         "@value": "2014-07-23"
       },
-      "label": "ritual sites",
+      "label": "Ritual sites",
       "modified": {
         "@type": "date",
         "@value": "2014-07-23"
@@ -1219,7 +1219,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/workType/Altai/roundkhirigsuur",
       "@type": "Concept",
-      "alternateName": "round khirigsuurs",
+      "alternateName": "Round khirigsuurs",
       "comment": "Elaborate Bronze Age ritual or funerary structures in the Mongolian Altai including a central mound and a round surrounding frame. Usually the area between mound and frame is left open and within it may be rays (radiae) aligned with the cardinal directions or their subdivisions. Small circular altars are usually found outside the frame on the north, west, and south sides, rarely on the east side. Some khirigsuur have entrances on the east side; many are accompanied by mounds of unknown function.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -1228,7 +1228,7 @@
         "@type": "date",
         "@value": "2014-07-23"
       },
-      "label": "round khirigsuur",
+      "label": "Round khirigsuur",
       "modified": {
         "@type": "date",
         "@value": "2014-07-23"
@@ -1237,7 +1237,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/workType/Altai/semicircles",
       "@type": "Concept",
-      "alternateName": "semi-circle",
+      "alternateName": "Semi-circle",
       "comment": "Stone semi-circles occur alone or in pairs, but are unusual in the Mongolian Altai. Their function and age are uncertain.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -1246,7 +1246,7 @@
         "@type": "date",
         "@value": "2014-07-23"
       },
-      "label": "semi-circles",
+      "label": "Semi-circles",
       "modified": {
         "@type": "date",
         "@value": "2014-07-23"
@@ -1255,7 +1255,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/workType/Altai/serpentinefeatures",
       "@type": "Concept",
-      "alternateName": "serpentine feature",
+      "alternateName": "Serpentine feature",
       "comment": "Features with forms consisting of a curved line that winds or meanders in multiple directions but does not cross or intersect itself",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -1264,7 +1264,7 @@
         "@type": "date",
         "@value": "2014-07-23"
       },
-      "label": "serpentine features",
+      "label": "Serpentine features",
       "modified": {
         "@type": "date",
         "@value": "2014-07-23"
@@ -1273,7 +1273,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/workType/Altai/smallcircularaltars",
       "@type": "Concept",
-      "alternateName": "small circular altar",
+      "alternateName": "Small circular altar",
       "comment": "A small round structure used for ritual offerings in the Mongolian Altai",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -1282,7 +1282,7 @@
         "@type": "date",
         "@value": "2014-07-23"
       },
-      "label": "small circular altars",
+      "label": "Small circular altars",
       "modified": {
         "@type": "date",
         "@value": "2014-07-23"
@@ -1291,7 +1291,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/workType/Altai/squarekhirigsuur",
       "@type": "Concept",
-      "alternateName": "square khirigsuurs",
+      "alternateName": "Square khirigsuurs",
       "comment": "Elaborate Bronze Age ritual or funerary structures in the Mongolian Altai including a central mound and a square surrounding frame. Usually the area between mound and frame is left open and within it maybe rays (radiae) aligned with the cardinal directions or their subdivisions. Small circular altars are usually found outside the frame on the north, west, and south sides, rarely on the east side.Some khirigsuur have entrances on the east side; many are accompanied by mounds of unknown function.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -1300,7 +1300,7 @@
         "@type": "date",
         "@value": "2014-07-23"
       },
-      "label": "square khirigsuur",
+      "label": "Square khirigsuur",
       "modified": {
         "@type": "date",
         "@value": "2014-07-23"
@@ -1309,7 +1309,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/workType/Altai/tamga",
       "@type": "Concept",
-      "alternateName": "tamgas",
+      "alternateName": "Tamgas",
       "comment": "Tamga are petroglyphs believed to have been clan signs in the Mongolian Altai. They take a variety of forms including one suggestive of a stylized goat, another reminiscent of a hatchet, and another with the shape of eye glasses held vertically.Tamga may appear on rock outcroppings, boulders, or, most frequently, on standing stones. While tamga are associated most closely with the Turkic period, many scholars believe that they go back at least to the Bronze Age.",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -1318,7 +1318,7 @@
         "@type": "date",
         "@value": "2014-07-23"
       },
-      "label": "tamga",
+      "label": "Tamga",
       "modified": {
         "@type": "date",
         "@value": "2014-07-23"
@@ -1363,7 +1363,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/workType/Altai/viewsofcomplexesorgroupings",
       "@type": "Concept",
-      "alternateName": "view of complexes or groupings",
+      "alternateName": "View of complexes or groupings",
       "comment": "Type of photograph showing larger contextual views of monuments in the Mongolian Altai",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -1372,7 +1372,7 @@
         "@type": "date",
         "@value": "2014-07-23"
       },
-      "label": "views of complexes or groupings",
+      "label": "Views of complexes or groupings",
       "modified": {
         "@type": "date",
         "@value": "2014-07-23"
@@ -1832,6 +1832,24 @@
       "modified": {
         "@type": "date",
         "@value": "2015-06-04"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/workType/Altai/standingstones",
+      "@type": "Concept",
+      "alternateName": "standing stone",
+      "comment": "Mongolian Altai Inventory Collection. Esther strongly prefers this to the use of menhirs.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-21"
+      },
+      "label": "Standing stones",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-21"
       }
     },
     {
