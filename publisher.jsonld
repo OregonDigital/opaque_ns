@@ -2036,6 +2036,23 @@
       }
     },
     {
+      "@id": "http://opaquenamespace.org/ns/publisher/ThiebesStierlinMusicCompany",
+      "@type": "CorporateName",
+      "comment": "Historic Sheet Music Collection",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-08-27"
+      },
+      "label": "Thiebes-Stierlin Music Company",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-08-27"
+      }
+    },
+    {
       "@id": "http://opaquenamespace.org/ns/publisher/SportsPublicationsIncEugeneOr",
       "@type": "CorporateName",
       "definedBy": {
