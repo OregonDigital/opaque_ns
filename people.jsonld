@@ -20,7 +20,8 @@
     "modified": "http://purl.org/dc/terms/modified",
     "publisher": "http://purl.org/dc/terms/publisher",
     "range": "http://www.w3.org/2000/01/rdf-schema#range",
-    "title": "http://purl.org/dc/terms/title"
+    "title": "http://purl.org/dc/terms/title",
+    "sameAs": "http://www.w3.org/2002/07/owl#sameAs"
   },
   "@graph": [
     {
@@ -4279,6 +4280,8 @@
     {
       "@id": "http://opaquenamespace.org/ns/people/BillBowerman",
       "@type": "PersonalName",
+      "sameAs": "http://id.loc.gov/authorities/names/n84029406",
+      "date": "1911-1999",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -4286,7 +4289,7 @@
         "@type": "date",
         "@value": "2014-08-25"
       },
-      "label": "Bill Bowerman",
+      "label": "Bowerman, Bill",
       "modified": {
         "@type": "date",
         "@value": "2014-08-25"
@@ -4295,6 +4298,8 @@
     {
       "@id": "http://opaquenamespace.org/ns/people/BillDellinger",
       "@type": "PersonalName",
+      "sameAs": "http://id.loc.gov/authorities/names/n78034797",
+      "date": "1934-",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -4302,7 +4307,7 @@
         "@type": "date",
         "@value": "2014-08-25"
       },
-      "label": "Bill Dellinger",
+      "label": "Dellinger, Bill",
       "modified": {
         "@type": "date",
         "@value": "2014-08-25"
@@ -4311,6 +4316,7 @@
     {
       "@id": "http://opaquenamespace.org/ns/people/BillHayward",
       "@type": "PersonalName",
+      "date": "1868-1947",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
@@ -4318,7 +4324,7 @@
         "@type": "date",
         "@value": "2014-08-25"
       },
-      "label": "Bill Hayward",
+      "label": "Hayward, Bill",
       "modified": {
         "@type": "date",
         "@value": "2014-08-25"
