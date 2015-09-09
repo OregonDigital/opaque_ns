@@ -63154,6 +63154,23 @@
       }
     },
     {
+      "@id": "http://opaquenamespace.org/ns/people/AdamsVernonA",
+      "@type": "PersonalName",
+      "comment": "UO Football, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-09-08"
+      },
+      "label": "Adams, Vernon A.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-09-08"
+      }
+    },
+    {
         "@id": "http://opaquenamespace.org/ns/people/TinningNels",
         "@type": "PersonalName",
         "definedBy": {
