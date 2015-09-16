@@ -15430,7 +15430,7 @@
       "label": "Turkic riders",
       "modified": {
         "@type": "date",
-        "@value": "2015-09-08""
+        "@value": "2015-09-08"
       }
     },
     {
@@ -84351,6 +84351,57 @@
       "modified": {
         "@type": "date",
         "@value": "2015-09-08"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/subject/FryDanaL",
+      "@type": "PersonalName",
+      "comment": "University of Oregon Running Club, 2015-2016",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-09-16"
+      },
+      "label": "Fry, Dana L.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-09-16"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/subject/CaveKevin",
+      "@type": "PersonalName",
+      "comment": "University of Oregon Running Club, 2015-2016",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-09-16"
+      },
+      "label": "Cave, Kevin",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-09-16"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/subject/NewmarkJeffreyA",
+      "@type": "PersonalName",
+      "comment": "University of Oregon Running Club, 2015-2016",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-09-16"
+      },
+      "label": "Newmark, Jeffrey A.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-09-16"
       }
     },
     {
