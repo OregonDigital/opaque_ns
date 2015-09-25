@@ -63154,6 +63154,40 @@
       }
     },
     {
+      "@id": "http://opaquenamespace.org/ns/people/JinnahNutaylaA",
+      "@type": "PersonalName",
+      "comment": "International student, University of Oregon, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-09-25"
+      },
+      "label": "Jinnah, Nutayla A.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-09-25"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/KuskovaOlgaY",
+      "@type": "PersonalName",
+      "comment": "International student, University of Oregon, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-09-25"
+      },
+      "label": "Kuskova, Olga Y.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-09-25"
+      }
+    },
+    {
         "@id": "http://opaquenamespace.org/ns/people/TinningNels",
         "@type": "PersonalName",
         "definedBy": {
