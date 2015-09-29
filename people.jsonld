@@ -63188,6 +63188,23 @@
       }
     },
     {
+      "@id": "http://opaquenamespace.org/ns/people/MariotaMattC",
+      "@type": "PersonalName",
+      "comment": "University of Oregon Football player, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-09-29"
+      },
+      "label": "Mariota, Matt C.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-09-29"
+      }
+    },
+    {
         "@id": "http://opaquenamespace.org/ns/people/TinningNels",
         "@type": "PersonalName",
         "definedBy": {
