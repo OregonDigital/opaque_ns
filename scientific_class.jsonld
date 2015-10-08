@@ -37,6 +37,630 @@
       "title": "class controlled vocabulary"
     },
     {
+        "@id": "http://opaquenamespace.org/ns/class/itis_161061",
+        "@type": "topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        },
+        "label": "Actinopterygii",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/class/itis_914163",
+        "@type": "topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        },
+        "label": "Anthozoa",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/class/itis_159664",
+        "@type": "topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        },
+        "label": "Appendicularia",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/class/itis_82708",
+        "@type": "topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        },
+        "label": "Arachnida",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/class/itis_156862",
+        "@type": "topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        },
+        "label": "Asteroidea",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/class/itis_174371",
+        "@type": "topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        },
+        "label": "Aves",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/class/itis_79118",
+        "@type": "topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        },
+        "label": "Bivalvia",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/class/itis_46862",
+        "@type": "topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        },
+        "label": "Calcarea",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/class/itis_159694",
+        "@type": "topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        },
+        "label": "Cephalaspidomorphi",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/class/itis_82326",
+        "@type": "topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        },
+        "label": "Cephalopoda",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/class/itis_914180",
+        "@type": "topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        },
+        "label": "Chondrichthyes",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/class/itis_158541",
+        "@type": "topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        },
+        "label": "Crinoidea",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/class/itis_83677",
+        "@type": "topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        },
+        "label": "Crustacea",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/class/itis_47528",
+        "@type": "topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        },
+        "label": "Demospongiae",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/class/itis_154409",
+        "@type": "topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        },
+        "label": "Diplopoda",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/class/itis_157821",
+        "@type": "topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        },
+        "label": "Echinoidea",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/class/itis_158617",
+        "@type": "topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        },
+        "label": "Enteropneusta",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/class/itis_69459",
+        "@type": "topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        },
+        "label": "Gastropoda",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/class/itis_659131",
+        "@type": "topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        },
+        "label": "Hexactinellida",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/class/itis_914192",
+        "@type": "topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        },
+        "label": "Hirudinea",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/class/itis_158140",
+        "@type": "topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        },
+        "label": "Holothuroidea",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/class/itis_48739",
+        "@type": "topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        },
+        "label": "Hydrozoa",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/class/itis_99208",
+        "@type": "topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        },
+        "label": "Insecta",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/class/itis_179913",
+        "@type": "topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        },
+        "label": "Mammalia",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/class/itis_78802",
+        "@type": "topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        },
+        "label": "Monoplacophora",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/class/itis_622223",
+        "@type": "topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        },
+        "label": "Myxini",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/class/itis_53951",
+        "@type": "topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        },
+        "label": "Nuda",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/class/itis_68422",
+        "@type": "topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        },
+        "label": "Oligochaeta",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/class/itis_157325",
+        "@type": "topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        },
+        "label": "Ophiuroidea",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/class/itis_914166",
+        "@type": "topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        },
+        "label": "Polychaeta",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/class/itis_78807",
+        "@type": "topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        },
+        "label": "Polyplacophora",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/class/itis_83545",
+        "@type": "topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        },
+        "label": "Pycnogonida",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/class/itis_173747",
+        "@type": "topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        },
+        "label": "Reptilia",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/class/itis_161048",
+        "@type": "topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        },
+        "label": "Sarcopterygii",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/class/itis_51483",
+        "@type": "topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        },
+        "label": "Scyphozoa",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/class/itis_772452",
+        "@type": "topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        },
+        "label": "Sipunculidea",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/class/itis_53858",
+        "@type": "topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        },
+        "label": "Tentaculata",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/class/itis_159632",
+        "@type": "topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        },
+        "label": "Thaliacea",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/class/itis_53964",
+        "@type": "topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        },
+        "label": "Turbellaria",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        }
+    },
+    {
       "@id": "http://opaquenamespace.org/ns/class/Ascidacea",
       "@type": "Topic",
       "definedBy": {
