@@ -37,6 +37,527 @@
       "title": "phylum controlled vocabulary"
     },
     {
+        "@id": "http://opaquenamespace.org/ns/phylum/ubio_230543",
+        "@type": "topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "sameAs": "http://www.ubio.org/authority/metadata.php?lsid=urn:lsid:ubio.org:namebank:230543",
+        "issued": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        },
+        "label": "Actinopoda",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/phylum/itis_64357",
+        "@type": "topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        },
+        "label": "Annelida",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/phylum/itis_82696",
+        "@type": "topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        },
+        "label": "Arthropoda",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/phylum/itis_2286",
+        "@type": "topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        },
+        "label": "Bacillariophyta",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/phylum/itis_156755",
+        "@type": "topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        },
+        "label": "Brachiopoda",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/phylum/itis_158650",
+        "@type": "topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        },
+        "label": "Chaetognatha",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/phylum/itis_846493",
+        "@type": "topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        },
+        "label": "Chlorophyta",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/phylum/itis_158852",
+        "@type": "topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        },
+        "label": "Chordata",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/phylum/itis_46211",
+        "@type": "topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        },
+        "label": "Ciliophora",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/phylum/itis_48738",
+        "@type": "topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        },
+        "label": "Cnidarian",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/phylum/itis_118845",
+        "@type": "topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        },
+        "label": "Ctenophora",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/phylum/ubio_1680883",
+        "@type": "topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "sameAs": "http://www.ubio.org/authority/metadata.php?lsid=urn:lsid:ubio.org:namebank:1680883",
+        "issued": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        },
+        "label": "Dinoflagellata",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/phylum/itis_156857",
+        "@type": "topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        },
+        "label": "Echinodermata",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/phylum/itis_914211",
+        "@type": "topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        },
+        "label": "Echiura",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/phylum/ubio_267347",
+        "@type": "topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "sameAs": "http://www.ubio.org/authority/metadata.php?lsid=urn:lsid:ubio.org:namebank:267347",
+        "issued": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        },
+        "label": "Ectoprocta",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/phylum/ubio_267348",
+        "@type": "topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "sameAs": "http://www.ubio.org/authority/metadata.php?lsid=urn:lsid:ubio.org:namebank:267348",
+        "issued": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        },
+        "label": "Entoprocta",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/phylum/ubio_2560162",
+        "@type": "topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "sameAs": "http://www.ubio.org/authority/metadata.php?lsid=urn:lsid:ubio.org:namebank:2560162",
+        "issued": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        },
+        "label": "Granuloreticulosa",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/phylum/itis_158616",
+        "@type": "topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        },
+        "label": "Hemichordata",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/phylum/itis_69458",
+        "@type": "topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        },
+        "label": "Mollusca",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/phylum/itis_59490",
+        "@type": "topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        },
+        "label": "Nematoda",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/phylum/itis_57411",
+        "@type": "topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        },
+        "label": "Nemertea",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/phylum/itis_660055",
+        "@type": "topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        },
+        "label": "Phaeophyta",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/phylum/itis_155456",
+        "@type": "topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        },
+        "label": "Phoronida",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/phylum/itis_53963",
+        "@type": "topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        },
+        "label": "Platyhelminthes",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/phylum/itis_46861",
+        "@type": "topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        },
+        "label": "Porifera",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/phylum/ubio_596835",
+        "@type": "topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "sameAs": "http://www.ubio.org/authority/metadata.php?lsid=urn:lsid:ubio.org:namebank:596835",
+        "issued": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        },
+        "label": "Priapula",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/phylum/ubio_7202393",
+        "@type": "topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "sameAs": "http://www.ubio.org/authority/metadata.php?lsid=urn:lsid:ubio.org:namebank:7202393",
+        "issued": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        },
+        "label": "Prymnesiophyta or Haptophyte",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/phylum/ubio_485214",
+        "@type": "topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "sameAs": "http://www.ubio.org/authority/metadata.php?lsid=urn:lsid:ubio.org:namebank:485214",
+        "issued": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        },
+        "label": "Pteridophyta",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/phylum/itis_58239",
+        "@type": "topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        },
+        "label": "Rotifera",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/phylum/itis_154520",
+        "@type": "topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        },
+        "label": "Sipuncula",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/phylum/ubio_5952239",
+        "@type": "topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "sameAs": "http://www.ubio.org/authority/metadata.php?lsid=urn:lsid:ubio.org:namebank:5952239",
+        "issued": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        },
+        "label": "Spermatophyta",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        }
+    },
+    {
+        "@id": "http://opaquenamespace.org/ns/phylum/itis_155166",
+        "@type": "topic",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        },
+        "label": "Tardigrada",
+        "modified": {
+            "@type": "date",
+            "@value": "2015-07-05"
+        }
+    },
+    {
       "@id": "http://opaquenamespace.org/ns/phylum/Rhodophyte",
       "@type": "Topic",
       "definedBy": {
