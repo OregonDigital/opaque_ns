@@ -63205,6 +63205,142 @@
       }
     },
     {
+      "@id": "http://opaquenamespace.org/ns/people/GreenBenC",
+      "@type": "PersonalName",
+      "comment": "University of Oregon Men's Hockey team, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-10-13"
+      },
+      "label": "Green, Ben C.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-10-13"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/FossZacharyW",
+      "@type": "PersonalName",
+      "comment": "University of Oregon Men's Hockey team, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-10-13"
+      },
+      "label": "Foss, Zachary W.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-10-13"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/LandersHarrisonD",
+      "@type": "PersonalName",
+      "comment": "University of Oregon Men's Hockey team, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-10-13"
+      },
+      "label": "Landers, Harrison D.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-10-13"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/TolerDarrenJ",
+      "@type": "PersonalName",
+      "comment": "University of Oregon Men's Hockey team, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-10-13"
+      },
+      "label": "Toler, Darren J.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-10-13"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/AshworthCooper",
+      "@type": "PersonalName",
+      "comment": "University of Oregon Men's Hockey team, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-10-13"
+      },
+      "label": "Ashworth, Cooper",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-10-13"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/MattoxChrisS",
+      "@type": "PersonalName",
+      "comment": "University of Oregon Men's Hockey team, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-10-13"
+      },
+      "label": "Mattox, Chris S.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-10-13"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/HoweryJacksonD",
+      "@type": "PersonalName",
+      "comment": "University of Oregon Men's Hockey team, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-10-13"
+      },
+      "label": "Howery, Jackson D.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-10-13"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/StarrSethR",
+      "@type": "PersonalName",
+      "comment": "University of Oregon Men's Hockey team, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-10-13"
+      },
+      "label": "Starr, Seth R.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-10-13"
+      }
+    },
+    {
         "@id": "http://opaquenamespace.org/ns/people/TinningNels",
         "@type": "PersonalName",
         "definedBy": {
