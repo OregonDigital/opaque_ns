@@ -1853,6 +1853,108 @@
       }
     },
     {
+	"@id": "http://opaquenamespace.org/ns/workType/Gatefoldfoldbook",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	},
+	"label": "Gatefold fold book",
+	"comment": "Artist's Book Collection.",
+	"modified": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	}
+	},
+			{
+	"@id": "http://opaquenamespace.org/ns/workType/FanPalmleafbook",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	},
+	"label": "Fan Palm leaf book",
+	"comment": "Artist's Book Collection.",
+	"modified": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	}
+	},
+			{
+	"@id": "http://opaquenamespace.org/ns/workType/Palmleafbook",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	},
+	"label": "Palm leaf book",
+	"comment": "Artist's Book Collection.",
+	"modified": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	}
+	},
+			{
+	"@id": "http://opaquenamespace.org/ns/workType/AlteredBooks",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	},
+	"label": "Altered Books",
+	"comment": "Artist's Book Collection.",
+	"modified": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	}
+	},
+			{
+	"@id": "http://opaquenamespace.org/ns/workType/Pocketscontainingcards",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	},
+	"label": "Pockets containing cards",
+	"comment": "Artist's Book Collection.",
+	"modified": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	}
+	},
+			{
+	"@id": "http://opaquenamespace.org/ns/workType/Accodianfoldbook",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	},
+	"label": "Accodian fold book",
+	"comment": "Artist's Book Collection.",
+	"modified": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	}
+	},
+    {
       "@id": "http://opaquenamespace.org/ns/workType/intentionalCommunities",
       "@type": "Concept",
       "comment": "Planned residential communities designed from the start to have a high degree of social cohesion and teamwork. The members of an intentional community typically hold a common social, political, religious, or spiritual vision and often follow an alternative lifestyle.",
