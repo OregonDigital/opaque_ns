@@ -2053,6 +2053,482 @@
       }
     },
     {
+	"@id": "http://opaquenamespace.org/ns/publisher/Abrams",
+	"@type": "CorporateName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	},
+	"label": "Abrams",
+	"comment": "Book Arts Publisher: Woof",
+	"modified": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	}
+	},
+			{
+	"@id": "http://opaquenamespace.org/ns/publisher/PrattTerri",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	},
+	"label": "Pratt, Terri",
+	"comment": "Book Artist: Rock-a-bye baby",
+	"modified": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	}
+	},	
+			{
+	"@id": "http://opaquenamespace.org/ns/publisher/RayViolet",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	},
+	"label": "Ray, Violet",
+	"comment": "Book Artist: Advertising the contradictions",
+	"modified": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	}
+	},
+			{
+	"@id": "http://opaquenamespace.org/ns/publisher/VersoICAPublications",
+	"@type": "CorporateName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	},
+	"label": "Verso ICA Publications",
+	"comment": "Artist's Book Collection.",
+	"modified": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	}
+	},
+				{
+	"@id": "http://opaquenamespace.org/ns/publisher/Griffelkunst",
+	"@type": "CorporateName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	},
+	"label": "Griffelkunst",
+	"comment": "Artist's Book Collection.",
+	"modified": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	}
+	},		
+				{
+	"@id": "http://opaquenamespace.org/ns/publisher/selfpublished",
+	"@type": "CorporateName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	},
+	"label": "Self Published",
+	"comment": "Artist's Book Collection.",
+	"modified": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	}
+	},		
+				{
+	"@id": "http://opaquenamespace.org/ns/publisher/PocketBooks",
+	"@type": "CorporateName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	},
+	"label": "Pocket Books",
+	"comment": "Artist's Book Collection.",
+	"modified": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	}
+	},		
+				{
+	"@id": "http://opaquenamespace.org/ns/publisher/Kunstverein",
+	"@type": "CorporateName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	},
+	"label": "Kunstverein",
+	"comment": "Artist's Book Collection.",
+	"modified": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	}
+	},		
+				{
+	"@id": "http://opaquenamespace.org/ns/publisher/CabinetBooks",
+	"@type": "CorporateName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	},
+	"label": "Cabinet Books",
+	"comment": "Artist's Book Collection.",
+	"modified": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	}
+	},		
+				{
+	"@id": "http://opaquenamespace.org/ns/publisher/CreativeTimeincooperationwithSOSIntl",
+	"@type": "CorporateName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	},
+	"label": "Creative Time in cooperation with SOS Intl",
+	"comment": "Artist's Book Collection.",
+	"modified": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	}
+	},		
+				{
+	"@id": "http://opaquenamespace.org/ns/publisher/DistributionintheUSDAP",
+	"@type": "CorporateName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	},
+	"label": "Distribution in the USDAP",
+	"comment": "Artist's Book Collection.",
+	"modified": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	}
+	},		
+				{
+	"@id": "http://opaquenamespace.org/ns/publisher/DistributorSubterraneanCo",
+	"@type": "CorporateName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	},
+	"label": "Distributor Subterranean Co",
+	"comment": "Artist's Book Collection.",
+	"modified": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	}
+	},		
+				{
+	"@id": "http://opaquenamespace.org/ns/publisher/SailorBoyPress",
+	"@type": "CorporateName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	},
+	"label": "Sailor Boy Press",
+	"comment": "Artist's Book Collection.",
+	"modified": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	}
+	},		
+				{
+	"@id": "http://opaquenamespace.org/ns/publisher/MorinJeff",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	},
+	"label": "Morin, Jeff",
+	"comment": "Artist's Book Collection.",
+	"modified": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	}
+	},		
+				{
+	"@id": "http://opaquenamespace.org/ns/publisher/ICA",
+	"@type": "CorporateName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	},
+	"label": "ICA",
+	"comment": "Artist's Book Collection.",
+	"modified": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	}
+	},		
+				{
+	"@id": "http://opaquenamespace.org/ns/publisher/IndependentCuratorsInc",
+	"@type": "CorporateName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	},
+	"label": "Independent Curators Inc",
+	"comment": "Artist's Book Collection.",
+	"modified": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	}
+	},		
+				{
+	"@id": "http://opaquenamespace.org/ns/publisher/BianchiniPaul",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	},
+	"label": "Bianchini, Paul",
+	"comment": "Artist's Book Collection.",
+	"modified": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	}
+	},		
+				{
+	"@id": "http://opaquenamespace.org/ns/publisher/LBlackImp",
+	"@type": "CorporateName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	},
+	"label": "L Black Imp",
+	"comment": "Artist's Book Collection.",
+	"modified": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	}
+	},		
+				{
+	"@id": "http://opaquenamespace.org/ns/publisher/LittleMore",
+	"@type": "CorporateName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	},
+	"label": "Little More",
+	"comment": "Artist's Book Collection.",
+	"modified": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	}
+	},		
+				{
+	"@id": "http://opaquenamespace.org/ns/publisher/OutsideEuropeDAPDistributedArtPublishersInc",
+	"@type": "CorporateName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	},
+	"label": "Outside Europe DAP (Distributed Art Publishers) Inc",
+	"comment": "Artist's Book Collection.",
+	"modified": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	}
+	},		
+				{
+	"@id": "http://opaquenamespace.org/ns/publisher/PublicIlluminationMagazine",
+	"@type": "CorporateName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	},
+	"label": "Public Illumination Magazine",
+	"comment": "Artist's Book Collection.",
+	"modified": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	}
+	},		
+				{
+	"@id": "http://opaquenamespace.org/ns/publisher/PublicIlluminationsEditions",
+	"@type": "CorporateName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	},
+	"label": "Public Illuminations Editions",
+	"comment": "Artist's Book Collection.",
+	"modified": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	}
+	},		
+				{
+	"@id": "http://opaquenamespace.org/ns/publisher/RobertKertell",
+	"@type": "CorporateName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	},
+	"label": "Robert, Kertell",
+	"comment": "Artist's Book Collection.",
+	"modified": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	}
+	},		
+				{
+	"@id": "http://opaquenamespace.org/ns/publisher/TankDrivePress",
+	"@type": "CorporateName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	},
+	"label": "Tank Drive Press",
+	"comment": "Artist's Book Collection.",
+	"modified": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	}
+	},		
+				{
+	"@id": "http://opaquenamespace.org/ns/publisher/PrattTerri",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	},
+	"label": "Pratt, Terri",
+	"comment": "Artist's Book Collection.",
+	"modified": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	}
+	},		
+				{
+	"@id": "http://opaquenamespace.org/ns/publisher/USdistributionFulfillmentServices",
+	"@type": "CorporateName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	},
+	"label": "US distribution Fulfillment Services",
+	"comment": "Artist's Book Collection.",
+	"modified": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	}
+	},		
+				{
+	"@id": "http://opaquenamespace.org/ns/publisher/RayViolet",
+	"@type": "PersonalName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	},
+	"label": "Ray, Violet",
+	"comment": "Artist's Book Collection.",
+	"modified": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	}
+	},		
+				{
+	"@id": "http://opaquenamespace.org/ns/publisher/MultiplesInc",
+	"@type": "CorporateName",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	},
+	"label": "Multiples Inc",
+	"comment": "Artist's Book Collection.",
+	"modified": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	}
+	},		
+    {
       "@id": "http://opaquenamespace.org/ns/publisher/SportsPublicationsIncEugeneOr",
       "@type": "CorporateName",
       "definedBy": {
