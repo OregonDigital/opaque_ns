@@ -412,6 +412,278 @@
       }
     },
     {
+	"@id": "http://opaquenamespace.org/ns/technique/stitchedbinding",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	},
+	"label": "Stitched Binding",
+	"comment": "Artist's Book Collection.",
+	"modified": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	}
+	},
+		{
+	"@id": "http://opaquenamespace.org/ns/technique/codex",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	},
+	"label": "Codex",
+	"comment": "Artist's Book Collection.",
+	"modified": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	}
+	},
+		{
+	"@id": "http://opaquenamespace.org/ns/technique/pamphletstitch",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	},
+	"label": "Pamphlet Stitch",
+	"comment": "Artist's Book Collection.",
+	"modified": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	}
+	},
+		{
+	"@id": "http://opaquenamespace.org/ns/technique/digitalprinting",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	},
+	"label": "Digital Printing",
+	"comment": "Artist's Book Collection.",
+	"modified": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	}
+	},
+		{
+	"@id": "http://opaquenamespace.org/ns/technique/folderbook",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	},
+	"label": "Folder Book",
+	"comment": "Artist's Book Collection.",
+	"modified": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	}
+	},
+		{
+	"@id": "http://opaquenamespace.org/ns/technique/foldedbook",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	},
+	"label": "Folded Book",
+	"comment": "Artist's Book Collection.",
+	"modified": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	}
+	},
+		{
+	"@id": "http://opaquenamespace.org/ns/technique/stabbindingJapanesestitchedbinding",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	},
+	"label": "Stabbinding Japanese stitched binding",
+	"comment": "Artist's Book Collection.",
+	"modified": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	}
+	},
+		{
+	"@id": "http://opaquenamespace.org/ns/technique/exposedbinding",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	},
+	"label": "Exposed binding",
+	"comment": "Artist's Book Collection.",
+	"modified": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	}
+	},
+		{
+	"@id": "http://opaquenamespace.org/ns/technique/pianohinge",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	},
+	"label": "Piano hinge",
+	"comment": "Artist's Book Collection.",
+	"modified": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	}
+	},
+		{
+	"@id": "http://opaquenamespace.org/ns/technique/japanesestabbinding",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	},
+	"label": "Japanese stab binding",
+	"comment": "Artist's Book Collection.",
+	"modified": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	}
+	},
+		{
+	"@id": "http://opaquenamespace.org/ns/technique/fourholebinding",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	},
+	"label": "Four hole binding",
+	"comment": "Artist's Book Collection.",
+	"modified": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	}
+	},
+		{
+	"@id": "http://opaquenamespace.org/ns/technique/inkpainting",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	},
+	"label": "Ink painting",
+	"comment": "Artist's Book Collection.",
+	"modified": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	}
+	},
+		{
+	"@id": "http://opaquenamespace.org/ns/technique/grommetbinding",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	},
+	"label": "Grommet binding",
+	"comment": "Artist's Book Collection.",
+	"modified": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	}
+	},
+		{
+	"@id": "http://opaquenamespace.org/ns/technique/plasticclip",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	},
+	"label": "Plastic clip",
+	"comment": "Artist's Book Collection.",
+	"modified": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	}
+	},
+		{
+	"@id": "http://opaquenamespace.org/ns/technique/3Ddrawing",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	},
+	"label": "3D drawing",
+	"comment": "Artist's Book Collection.",
+	"modified": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	}
+	},
+		{
+	"@id": "http://opaquenamespace.org/ns/technique/pockets",
+	"@type": "Concept",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	},
+	"label": "Pockets",
+	"comment": "Artist's Book Collection.",
+	"modified": {
+	"@value": "2015-10-23",
+	"@type": "date"
+	}
+	},
+    {
       "@id": "http://opaquenamespace.org/ns/technique/scratching",
       "@type": "Concept",
       "comment": "Drawing process using irregular shallow incised lines",
