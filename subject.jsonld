@@ -21699,7 +21699,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/subject/KemidAshford",
+      "@id": "http://opaquenamespace.org/ns/subject/KennedyAshford",
       "@type": "PersonalName",
       "comment": "African-American janitor, Union Church, Berea, Kentucky",
       "definedBy": {
@@ -21709,7 +21709,7 @@
         "@type": "date",
         "@value": "2014-05-15"
       },
-      "label": "Kemid, Ashford",
+      "label": "Kennedy, Ashford",
       "modified": {
         "@type": "date",
         "@value": "2014-05-15"
