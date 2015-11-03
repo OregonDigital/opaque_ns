@@ -55951,23 +55951,6 @@
         }
     },
     {
-        "@id": "http://opaquenamespace.org/ns/people/DonnellyTerranJ",
-        "@type": "PersonalName",
-        "comment": "University of Oregon Men's Ice Hockey 2014-2015",
-        "definedBy": {
-            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-        },
-        "issued": {
-            "@type": "date",
-            "@value": "2014-11-04"
-        },
-        "label": "Donnelly, Terran J.",
-        "modified": {
-            "@type": "date",
-            "@value": "2014-11-04"
-        }
-    },
-    {
         "@id": "http://opaquenamespace.org/ns/people/HooverJosephM",
         "@type": "PersonalName",
         "comment": "University of Oregon Men's Ice Hockey 2014-2015",
@@ -56138,23 +56121,6 @@
         }
     },
     {
-        "@id": "http://opaquenamespace.org/ns/people/LukeMichaelD",
-        "@type": "PersonalName",
-        "comment": "University of Oregon Men's Ice Hockey 2014-2015",
-        "definedBy": {
-            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-        },
-        "issued": {
-            "@type": "date",
-            "@value": "2014-11-04"
-        },
-        "label": "Luke, Michael D.",
-        "modified": {
-            "@type": "date",
-            "@value": "2014-11-04"
-        }
-    },
-    {
         "@id": "http://opaquenamespace.org/ns/people/BurgessBrockE",
         "@type": "PersonalName",
         "comment": "University of Oregon Men's Ice Hockey 2014-2015",
@@ -56251,23 +56217,6 @@
             "@value": "2014-11-04"
         },
         "label": "McBride, Connor F.",
-        "modified": {
-            "@type": "date",
-            "@value": "2014-11-04"
-        }
-    },
-    {
-        "@id": "http://opaquenamespace.org/ns/people/SciabarraNicholasJ",
-        "@type": "PersonalName",
-        "comment": "University of Oregon Men's Ice Hockey 2014-2015",
-        "definedBy": {
-            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-        },
-        "issued": {
-            "@type": "date",
-            "@value": "2014-11-04"
-        },
-        "label": "Sciabarra, Nicholas J.",
         "modified": {
             "@type": "date",
             "@value": "2014-11-04"
