@@ -63291,6 +63291,227 @@
       }
     },
     {
+      "@id": "http://opaquenamespace.org/ns/people/BoucherChristopherChrisJ",
+      "@type": "PersonalName",
+      "comment": "University of Oregon Basketball player, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-11-09"
+      },
+      "label": "Boucher, Christopher 'Chris' J.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-11-09"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/DorseyTyler",
+      "@type": "PersonalName",
+      "comment": "University of Oregon Basketball player, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-11-09"
+      },
+      "label": "Dorsey, Tyler",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-11-09"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/EnnisDylan",
+      "@type": "PersonalName",
+      "comment": "University of Oregon Basketball player, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-11-09"
+      },
+      "label": "Ennis, Dylan",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-11-09"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/ManuelTrevorJ",
+      "@type": "PersonalName",
+      "comment": "University of Oregon Basketball player, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-11-09"
+      },
+      "label": "Manuel, Trevor J.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-11-09"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/RichmondPhillipPhilM",
+      "@type": "PersonalName",
+      "comment": "University of Oregon Basketball player, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-11-09"
+      },
+      "label": "Richmond, Phillip 'Phil' M.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-11-09"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/SmallKendallD",
+      "@type": "PersonalName",
+      "comment": "University of Oregon Basketball player, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-11-09"
+      },
+      "label": "Small, Kendall D.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-11-09"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/BrennerElizabethLizA",
+      "@type": "PersonalName",
+      "comment": "University of Oregon Basketball player, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-11-09"
+      },
+      "label": "Brenner, Elizabeth 'Liz' A.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-11-09"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/CazorlaMaite",
+      "@type": "PersonalName",
+      "comment": "University of Oregon Basketball player, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-11-09"
+      },
+      "label": "Cazorla, Maite",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-11-09"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/CooperKat",
+      "@type": "PersonalName",
+      "comment": "University of Oregon Basketball player, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-11-09"
+      },
+      "label": "Cooper, Kat",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-11-09"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/GildonOtionaOtiL",
+      "@type": "PersonalName",
+      "comment": "University of Oregon Basketball player, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-11-09"
+      },
+      "label": "Gildon, Otiona 'Oti' L.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-11-09"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/MooreMarShayA",
+      "@type": "PersonalName",
+      "comment": "University of Oregon Basketball player, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-11-09"
+      },
+      "label": "Moore, Mar'Shay A.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-11-09"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/TrinderMeganA",
+      "@type": "PersonalName",
+      "comment": "University of Oregon Basketball player, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-11-09"
+      },
+      "label": "Trinder, Megan A.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-11-09"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/YearwoodLaurenM",
+      "@type": "PersonalName",
+      "comment": "University of Oregon Basketball player, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-11-09"
+      },
+      "label": "Yearwood, Lauren M.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-11-09"
+      }
+    },
+    {
         "@id": "http://opaquenamespace.org/ns/people/TinningNels",
         "@type": "PersonalName",
         "definedBy": {
