@@ -26843,22 +26843,6 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/subject/BrennerElizabethA",
-      "@type": "PersonalName",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@type": "date",
-        "@value": "2014-08-01"
-      },
-      "label": "Brenner, Elizabeth A. ",
-      "modified": {
-        "@type": "date",
-        "@value": "2014-08-01"
-      }
-    },
-    {
       "@id": "http://opaquenamespace.org/ns/subject/BrethauerMonteL",
       "@type": "PersonalName",
       "definedBy": {
@@ -26869,22 +26853,6 @@
         "@value": "2014-08-01"
       },
       "label": "Brethauer, Monte L. ",
-      "modified": {
-        "@type": "date",
-        "@value": "2014-08-01"
-      }
-    },
-    {
-      "@id": "http://opaquenamespace.org/ns/subject/BrewerChristopherD",
-      "@type": "PersonalName",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@type": "date",
-        "@value": "2014-08-01"
-      },
-      "label": "Brewer, Christopher D. ",
       "modified": {
         "@type": "date",
         "@value": "2014-08-01"
@@ -29653,22 +29621,6 @@
         "@value": "2014-08-01"
       },
       "label": "Cherry, Anthony E. ",
-      "modified": {
-        "@type": "date",
-        "@value": "2014-08-01"
-      }
-    },
-    {
-      "@id": "http://opaquenamespace.org/ns/subject/CheserekEdwardK",
-      "@type": "PersonalName",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@type": "date",
-        "@value": "2014-08-01"
-      },
-      "label": "Cheserek, Edward K. ",
       "modified": {
         "@type": "date",
         "@value": "2014-08-01"
@@ -34331,22 +34283,6 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/subject/ElkaimJeramy",
-      "@type": "PersonalName",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@type": "date",
-        "@value": "2014-08-01"
-      },
-      "label": "Elkaim, Jeramy ",
-      "modified": {
-        "@type": "date",
-        "@value": "2014-08-01"
-      }
-    },
-    {
       "@id": "http://opaquenamespace.org/ns/subject/EllRoy",
       "@type": "PersonalName",
       "definedBy": {
@@ -34869,22 +34805,6 @@
         "@value": "2014-08-01"
       },
       "label": "Evans, Don",
-      "modified": {
-        "@type": "date",
-        "@value": "2014-08-01"
-      }
-    },
-    {
-      "@id": "http://opaquenamespace.org/ns/subject/EvansSkylarA",
-      "@type": "PersonalName",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@type": "date",
-        "@value": "2014-08-01"
-      },
-      "label": "Evans, Skylar A. ",
       "modified": {
         "@type": "date",
         "@value": "2014-08-01"
@@ -38181,22 +38101,6 @@
         "@value": "2014-08-01"
       },
       "label": "Grabb, Connie ",
-      "modified": {
-        "@type": "date",
-        "@value": "2014-08-01"
-      }
-    },
-    {
-      "@id": "http://opaquenamespace.org/ns/subject/GrabillMollyJ",
-      "@type": "PersonalName",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@type": "date",
-        "@value": "2014-08-01"
-      },
-      "label": "Grabill, Molly J. ",
       "modified": {
         "@type": "date",
         "@value": "2014-08-01"
@@ -43835,22 +43739,6 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/subject/JablonskiMatthewE",
-      "@type": "PersonalName",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@type": "date",
-        "@value": "2014-08-01"
-      },
-      "label": "Jablonski, Matthew E. ",
-      "modified": {
-        "@type": "date",
-        "@value": "2014-08-01"
-      }
-    },
-    {
       "@id": "http://opaquenamespace.org/ns/subject/JacksonAlanD",
       "@type": "PersonalName",
       "definedBy": {
@@ -44277,22 +44165,6 @@
         "@value": "2014-08-01"
       },
       "label": "Jaraczeski, Jeff ",
-      "modified": {
-        "@type": "date",
-        "@value": "2014-08-01"
-      }
-    },
-    {
-      "@id": "http://opaquenamespace.org/ns/subject/JenkinsEricA",
-      "@type": "PersonalName",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@type": "date",
-        "@value": "2014-08-01"
-      },
-      "label": "Jenkins, Eric A. ",
       "modified": {
         "@type": "date",
         "@value": "2014-08-01"
@@ -48363,22 +48235,6 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/subject/LeonardiAbbeyR",
-      "@type": "PersonalName",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@type": "date",
-        "@value": "2014-08-01"
-      },
-      "label": "Leonardi, Abbey R. ",
-      "modified": {
-        "@type": "date",
-        "@value": "2014-08-01"
-      }
-    },
-    {
       "@id": "http://opaquenamespace.org/ns/subject/LeshVicki",
       "@type": "PersonalName",
       "definedBy": {
@@ -51051,22 +50907,6 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/subject/MatonAshleyN",
-      "@type": "PersonalName",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@type": "date",
-        "@value": "2014-08-01"
-      },
-      "label": "Maton, Ashley N. ",
-      "modified": {
-        "@type": "date",
-        "@value": "2014-08-01"
-      }
-    },
-    {
       "@id": "http://opaquenamespace.org/ns/subject/MatsonRandy",
       "@type": "PersonalName",
       "definedBy": {
@@ -52613,22 +52453,6 @@
         "@value": "2014-08-01"
       },
       "label": "Meinert, James D. ",
-      "modified": {
-        "@type": "date",
-        "@value": "2014-08-01"
-      }
-    },
-    {
-      "@id": "http://opaquenamespace.org/ns/subject/MelanconMatthewR",
-      "@type": "PersonalName",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@type": "date",
-        "@value": "2014-08-01"
-      },
-      "label": "Melancon, Matthew R. ",
       "modified": {
         "@type": "date",
         "@value": "2014-08-01"
@@ -54971,22 +54795,6 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/subject/MulverhillChristoperW",
-      "@type": "PersonalName",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@type": "date",
-        "@value": "2014-08-01"
-      },
-      "label": "Mulverhill, ChristoperW. ",
-      "modified": {
-        "@type": "date",
-        "@value": "2014-08-01"
-      }
-    },
-    {
       "@id": "http://opaquenamespace.org/ns/subject/MundfromJoshua",
       "@type": "PersonalName",
       "definedBy": {
@@ -55557,22 +55365,6 @@
         "@value": "2014-08-01"
       },
       "label": "Neubert, Pascale M. ",
-      "modified": {
-        "@type": "date",
-        "@value": "2014-08-01"
-      }
-    },
-    {
-      "@id": "http://opaquenamespace.org/ns/subject/NeumanTravisC",
-      "@type": "PersonalName",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@type": "date",
-        "@value": "2014-08-01"
-      },
-      "label": "Neuman, Travis C. ",
       "modified": {
         "@type": "date",
         "@value": "2014-08-01"
@@ -57739,22 +57531,6 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/subject/PepiotTanguyN",
-      "@type": "PersonalName",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@type": "date",
-        "@value": "2014-08-01"
-      },
-      "label": "Pepiot, Tanguy N. ",
-      "modified": {
-        "@type": "date",
-        "@value": "2014-08-01"
-      }
-    },
-    {
       "@id": "http://opaquenamespace.org/ns/subject/PerkinsCloanNorris",
       "@type": "PersonalName",
       "definedBy": {
@@ -58229,22 +58005,6 @@
         "@value": "2014-08-01"
       },
       "label": "Pickens, Don ",
-      "modified": {
-        "@type": "date",
-        "@value": "2014-08-01"
-      }
-    },
-    {
-      "@id": "http://opaquenamespace.org/ns/subject/PickeringRyanB",
-      "@type": "PersonalName",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@type": "date",
-        "@value": "2014-08-01"
-      },
-      "label": "Pickering, Ryan B. ",
       "modified": {
         "@type": "date",
         "@value": "2014-08-01"
@@ -70139,22 +69899,6 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/subject/WarnerSerenaM",
-      "@type": "PersonalName",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@type": "date",
-        "@value": "2014-08-01"
-      },
-      "label": "Warner, Serena M. ",
-      "modified": {
-        "@type": "date",
-        "@value": "2014-08-01"
-      }
-    },
-    {
       "@id": "http://opaquenamespace.org/ns/subject/WarnerWilliamJ",
       "@type": "PersonalName",
       "definedBy": {
@@ -70394,22 +70138,7 @@
         "@value": "2014-08-01"
       }
     },
-    {
-      "@id": "http://opaquenamespace.org/ns/subject/WatsonCole",
-      "@type": "PersonalName",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@type": "date",
-        "@value": "2014-08-01"
-      },
-      "label": "Watson, Cole ",
-      "modified": {
-        "@type": "date",
-        "@value": "2014-08-01"
-      }
-    },
+
     {
       "@id": "http://opaquenamespace.org/ns/subject/WattsHomerJ",
       "@type": "PersonalName",
@@ -72245,22 +71974,6 @@
         "@value": "2014-08-01"
       },
       "label": "Wingart, Pete ",
-      "modified": {
-        "@type": "date",
-        "@value": "2014-08-01"
-      }
-    },
-    {
-      "@id": "http://opaquenamespace.org/ns/subject/WinnDanielF",
-      "@type": "PersonalName",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@type": "date",
-        "@value": "2014-08-01"
-      },
-      "label": "Winn, Daniel F. ",
       "modified": {
         "@type": "date",
         "@value": "2014-08-01"
