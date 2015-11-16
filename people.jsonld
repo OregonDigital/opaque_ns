@@ -6036,7 +6036,7 @@
         "@type": "date",
         "@value": "2014-08-25"
       },
-      "label": "Brenner, Elizabeth A.",
+      "label": "Brenner, Elizabeth 'Liz' A.",
       "modified": {
         "@type": "date",
         "@value": "2014-08-25"
@@ -18677,22 +18677,6 @@
         "@value": "2014-08-25"
       },
       "label": "Grayson, David L.",
-      "modified": {
-        "@type": "date",
-        "@value": "2014-08-25"
-      }
-    },
-    {
-      "@id": "http://opaquenamespace.org/ns/people/GreatwoodSteve",
-      "@type": "PersonalName",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@type": "date",
-        "@value": "2014-08-25"
-      },
-      "label": "Greatwood, Steve",
       "modified": {
         "@type": "date",
         "@value": "2014-08-25"
@@ -62628,23 +62612,6 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/people/BrennerDouglasJDoug",
-      "@type": "PersonalName",
-      "comment": "UO Football, 2015-2016.",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@type": "date",
-        "@value": "2015-08-12"
-      },
-      "label": "Brenner, Douglas J. 'Doug'",
-      "modified": {
-        "@type": "date",
-        "@value": "2015-08-12"
-      }
-    },
-    {
       "@id": "http://opaquenamespace.org/ns/people/CarlbergDraytonLDray",
       "@type": "PersonalName",
       "comment": "UO Football, 2015-2016.",
@@ -63387,23 +63354,6 @@
         "@value": "2015-11-09"
       },
       "label": "Small, Kendall D.",
-      "modified": {
-        "@type": "date",
-        "@value": "2015-11-09"
-      }
-    },
-    {
-      "@id": "http://opaquenamespace.org/ns/people/BrennerElizabethLizA",
-      "@type": "PersonalName",
-      "comment": "University of Oregon Basketball player, 2015-2016.",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@type": "date",
-        "@value": "2015-11-09"
-      },
-      "label": "Brenner, Elizabeth 'Liz' A.",
       "modified": {
         "@type": "date",
         "@value": "2015-11-09"
