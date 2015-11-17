@@ -50047,23 +50047,6 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/people/CashAllisonAlliN",
-      "@type": "PersonalName",
-      "comment": "Women's Cross Country, RFr. 2014-2015.",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@type": "date",
-        "@value": "2014-09-30"
-      },
-      "label": "Cash, Allison 'Alli' N.",
-      "modified": {
-        "@type": "date",
-        "@value": "2014-09-30"
-      }
-    },
-    {
       "@id": "http://opaquenamespace.org/ns/people/CrevoiseratLindsayE",
       "@type": "PersonalName",
       "comment": "Women's Cross Country, Sr. 2014-2015.",
