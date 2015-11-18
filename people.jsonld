@@ -21451,22 +21451,6 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/people/HelfrichMarkA",
-      "@type": "PersonalName",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@type": "date",
-        "@value": "2014-08-25"
-      },
-      "label": "Helfrich, MarkA.",
-      "modified": {
-        "@type": "date",
-        "@value": "2014-08-25"
-      }
-    },
-    {
       "@id": "http://opaquenamespace.org/ns/people/HelfrichMike",
       "@type": "PersonalName",
       "definedBy": {
@@ -50948,23 +50932,6 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/people/HardrickRodney",
-      "@type": "PersonalName",
-      "comment": "Football, RJr. 2014-2015.",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@type": "date",
-        "@value": "2014-09-30"
-      },
-      "label": "Hardrick, Rodney",
-      "modified": {
-        "@type": "date",
-        "@value": "2014-09-30"
-      }
-    },
-    {
       "@id": "http://opaquenamespace.org/ns/people/SolisEric",
       "@type": "PersonalName",
       "comment": "Football, RSr. 2014-2015.",
@@ -51078,23 +51045,6 @@
         "@value": "2014-09-30"
       },
       "label": "Talia, Tui T.",
-      "modified": {
-        "@type": "date",
-        "@value": "2014-09-30"
-      }
-    },
-    {
-      "@id": "http://opaquenamespace.org/ns/people/BalducciAlexandreAlexJ",
-      "@type": "PersonalName",
-      "comment": "Football, Jr. 2014-2015.",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@type": "date",
-        "@value": "2014-09-30"
-      },
-      "label": "Balducci, Alexandre 'Alex' J.",
       "modified": {
         "@type": "date",
         "@value": "2014-09-30"
