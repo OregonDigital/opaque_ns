@@ -27850,6 +27850,24 @@
         "@value": "2015-08-19"
       }
     },
+     {
+      "@id": "http://opaquenamespace.org/ns/localCollectionName/UniversityArchivesphotographs1890s2010s",
+      "@type": "Concept",
+      "comment": "University of Oregon Special Collections and University Archives.",
+      "additionalName": "UA Ref 3",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-11-19"
+      },
+      "label": "University Archives photographs, 1890s-2010s",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-11-19"
+      }
+    },
     {
       "@id": "http://opaquenamespace.org/ns/localCollectionName/mss_dorman",
       "@type": "Concept",
