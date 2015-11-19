@@ -3454,6 +3454,24 @@
       }
     },
     {
+      "@id": "http://opaquenamespace.org/ns/stylePeriod/HsuanHo",
+      "@type": "Concept",
+      "comment": "Chinese period of the Song dynasty. Jordan Schnitzer Museum of Art.",
+      "date": "1119-1125",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-11-19"
+      },
+      "label": "Hsuan Ho",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-11-19"
+      }
+    },
+    {
       "@id": "http://opaquenamespace.org/ns/stylePeriod/PacificNorthwest",
       "@type": "Concept",
       "comment": "Post-modernist style, especially in architecture, of the Pacific Northwest of the United States. For modernist art and architecture in the Pacific Northwest, use Northwest Regional.",
