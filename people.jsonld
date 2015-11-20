@@ -63341,6 +63341,23 @@
         "@value": "2015-10-22"
       }
     },
+     {
+      "@id": "http://opaquenamespace.org/ns/people/SchillMichaelH",
+      "@type": "PersonalName",
+      "comment": "University of Oregon President, 2015-",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+    },
+    "issued": {
+      "@type": "date",
+      "@value": "2015-11-20"
+    },
+     "label": "Schill, Michael H.",
+     "modified": {
+       "@type": "date",
+       "@value": "2015-11-20"
+    }
+    },
     {
         "@id": "http://opaquenamespace.org/ns/people/TinningNels",
         "@type": "PersonalName",
