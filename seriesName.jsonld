@@ -1487,6 +1487,57 @@
       }
     },
     {
+      "@id": "http://opaquenamespace.org/ns/seriesName/SeriesIGlassPlateNegativesLeeMoorhouse",
+      "@type": "Topic",
+      "comment": "PH036, Lee Moorhouse Photographs, 1880-1920, Special Collections and University Archives, University of Oregon.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-11-20"
+      },
+      "label": "Series I:  Glass Plate Negatives",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-11-20"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/seriesName/SeriesIIPrintsLeeMoorhouse",
+      "@type": "Topic",
+      "comment": "PH036, Lee Moorhouse Photographs, 1880-1920, Special Collections and University Archives, University of Oregon.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-11-20"
+      },
+      "label": "Series II:  Prints",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-11-20"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/seriesName/SeriesIIIOtherMaterialsLeeMoorhouse",
+      "@type": "Topic",
+      "comment": "PH036, Lee Moorhouse Photographs, 1880-1920, Special Collections and University Archives, University of Oregon.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-11-20"
+      },
+      "label": "Series III: Other Materials",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-11-20"
+      }
+    },
+    {
       "@id": "http://opaquenamespace.org/ns/seriesName/WomeninColor",
       "@type": "Topic",
       "definedBy": {
