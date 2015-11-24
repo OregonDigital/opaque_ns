@@ -63412,6 +63412,23 @@
       }
     },
     {
+      "@id": "http://opaquenamespace.org/ns/people/http://opaquenamespace.org/ns/people/WheelerSmithStephenieL",
+      "@type": "PersonalName",
+      "comment": "University of Oregon Director of Women's Basketball, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-11-24"
+      },
+      "label": "Wheeler-Smith, Stephenie L.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-11-24"
+      }
+    },
+    {
         "@id": "http://opaquenamespace.org/ns/people/TinningNels",
         "@type": "PersonalName",
         "definedBy": {
