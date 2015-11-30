@@ -63412,7 +63412,7 @@
       }
     },
     {
-      "@id": "http://opaquenamespace.org/ns/people/http://opaquenamespace.org/ns/people/WheelerSmithStephenieL",
+      "@id": "http://opaquenamespace.org/ns/people/WheelerSmithStephenieL",
       "@type": "PersonalName",
       "comment": "University of Oregon Director of Women's Basketball, 2015-2016.",
       "definedBy": {
@@ -63426,6 +63426,23 @@
       "modified": {
         "@type": "date",
         "@value": "2015-11-24"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/people/ReederAnnM",
+      "@type": "PersonalName",
+      "comment": "University of Oregon Associate Director of Stewardship, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-11-30"
+      },
+      "label": "Reeder, Ann M.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-11-30"
       }
     },
     {
