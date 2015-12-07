@@ -63446,6 +63446,23 @@
       }
     },
     {
+      "@id": "http://opaquenamespace.org/ns/people/FingerettRyanB",
+      "@type": "PersonalName",
+      "comment": "University of Oregon Women's Basketball Team Manager, 2015-2016.",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-12-07"
+      },
+      "label": "Fingerett, Ryan B.",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-12-07"
+      }
+    },
+    {
         "@id": "http://opaquenamespace.org/ns/people/TinningNels",
         "@type": "PersonalName",
         "definedBy": {
