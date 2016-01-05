@@ -27880,10 +27880,28 @@
         "@type": "date",
         "@value": "2015-07-24"
       },
-      "label": "Howard D. Dorman Journal for the Northrup Creek Range Experiment, 1937-1938 (MSS Dorman) ",
+      "label": "Howard D. Dorman Journal for the Northrup Creek Range Experiment, 1937-1938 (MSS Dorman)",
       "modified": {
         "@type": "date",
         "@value": "2015-07-24"
+      }
+    },
+    {
+      "@id": "http://opaquenamespace.org/ns/localCollectionName/pub_010-12a",
+      "@type": "Concept",
+      "comment": "Collection in Special Collections & Archives Research Center, Oregon State University Libraries.",
+      "date": "active 2013-2015",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@type": "date",
+        "@value": "2015-07-28"
+      },
+      "label": "Annual Cruise, 1920-1975 (PUB 010-12a)",
+      "modified": {
+        "@type": "date",
+        "@value": "2015-07-28"
       }
     }
   ]
