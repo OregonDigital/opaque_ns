@@ -82350,6 +82350,22 @@
             "@value": "2014-07-09"
         }
     },
+        {
+        "@id": "http://opaquenamespace.org/ns/subject/HarsinArthurJ1910",
+        "@type": "PersonalName",
+        "definedBy": {
+            "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+        },
+        "issued": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        },
+        "label": "Harsin, Arthur J., 1910-",
+        "modified": {
+            "@type": "date",
+            "@value": "2014-07-09"
+        }
+    },
     {
         "@id": "http://opaquenamespace.org/ns/subject/Interiorphotograph",
         "@type": "Topic",
